@@ -1,0 +1,132 @@
+# DRAMExchange Daily Price Report
+
+**Date:** 2026-04-07 14:11 SGT  
+**Generated:** OpenClaw DRAMExchange Tracker  
+**Source:** https://www.dramexchange.com/
+
+---
+
+# DRAMExchange Daily Price Report
+
+**Date:** 2026-04-07 14:08 SGT (06:08 UTC)
+**Source:** https://www.dramexchange.com/
+**Status:** ✅ Publicly accessible price tables (no login required)
+**Data Timestamp:** Apr.3, 18:00 (GMT+8)
+
+---
+
+## 📊 DRAM SPOT PRICES (Daily)
+
+| Item | Daily High | Daily Low | Session High | Session Low | Session Average | Session Change |
+|------|------------|-----------|--------------|-------------|-----------------|----------------|
+| DDR5 16Gb (2Gx8) 4800/5600 | 48.50 | 26.20 | 48.50 | 26.20 | 37.000 | 0.00 % |
+| DDR5 16Gb (2Gx8) eTT | 24.00 | 20.50 | 24.00 | 20.50 | 21.250 | 0.00 % |
+| DDR4 16Gb (2Gx8) 3200 | 89.00 | 26.50 | 89.00 | 26.50 | 73.091 | 0.00 % |
+| DDR4 16Gb (2Gx8) eTT | 14.90 | 12.95 | 14.90 | 12.95 | 13.550 | 0.00 % |
+| DDR4 8Gb (1Gx8) 3200 | 49.00 | 12.50 | 49.00 | 12.50 | 33.600 | 0.00 % |
+| DDR4 8Gb (1Gx8) eTT | 7.80 | 5.50 | 7.80 | 5.50 | 6.720 | -0.15 % |
+| DDR3 4Gb 512Mx8 1600/1866 | 9.75 | 5.50 | 9.75 | 5.50 | 7.700 | 0.00 % |
+
+## 📦 MODULE SPOT PRICES (Weekly)
+
+| Item | Weekly High | Weekly Low | Session High | Session Low | Session Average | Average Change |
+|------|-------------|------------|--------------|-------------|-----------------|----------------|
+| DDR5 UDIMM 16GB 4800/5600 | 240.00 | 200.00 | 240.00 | 200.00 | 222.500 | -8.25 % |
+| DDR5 RDIMM 32GB 4800/5600 | 1150.00 | 880.00 | 1150.00 | 880.00 | 930.000 | -0.54 % |
+| DDR4 UDIMM 16GB 3200 | 171.00 | 134.00 | 171.00 | 134.00 | 149.333 | -0.45 % |
+
+## 💾 FLASH SPOT PRICES (Daily)
+
+| Item | Daily High | Daily Low | Session High | Session Low | Session Average | Session Change |
+|------|------------|-----------|--------------|-------------|-----------------|----------------|
+| SLC 2Gb 256MBx8 | 3.70 | 2.60 | 3.70 | 2.60 | 3.089 | 3.35 % |
+| SLC 1Gb 128MBx8 | 3.20 | 2.30 | 3.20 | 2.30 | 2.573 | 4.68 % |
+| MLC 64Gb 8GBx8 | 16.00 | 10.00 | 16.00 | 10.00 | 13.125 | 3.96 % |
+| MLC 32Gb 4GBx8 | 8.30 | 6.80 | 8.30 | 6.80 | 7.700 | 2.67 % |
+
+## 🎮 GDDR SPOT PRICES (Weekly)
+
+| Item | Weekly High | Weekly Low | Session High | Session Low | Session Average | Average Change |
+|------|-------------|------------|--------------|-------------|-----------------|----------------|
+| GDDR5 8Gb | 20.00 | 10.00 | 20.00 | 10.00 | 12.318 | -1.67 % |
+| GDDR6 8Gb | 20.00 | 9.50 | 20.00 | 9.50 | 12.412 | -2.35 % |
+
+## 🧪 WAFER SPOT PRICES (Weekly)
+
+| Item | Weekly High | Weekly Low | Session High | Session Low | Session Average | Average Change |
+|------|-------------|------------|--------------|-------------|-----------------|----------------|
+| 512Gb TLC | 24.00 | 17.00 | 24.00 | 17.00 | 22.155 | -2.97 % |
+| 256Gb TLC | 11.80 | 8.00 | 11.80 | 8.00 | 10.920 | -2.85 % |
+| 128Gb TLC | 9.50 | 5.00 | 9.50 | 5.00 | 6.833 | -1.92 % |
+
+## 💳 MEMORY CARD SPOT PRICES (Daily)
+
+| Item | Daily High | Daily Low | Session High | Session Low | Session Average | Session Change |
+|------|------------|-----------|--------------|-------------|-----------------|----------------|
+| MicroSD 16GB | 3.80 | 3.10 | 3.80 | 3.10 | 3.345 | -0.15 % |
+| MicroSD 32GB | 6.80 | 6.00 | 6.80 | 6.00 | 6.350 | -0.78 % |
+| MicroSD 64GB | 10.00 | 9.00 | 10.00 | 9.00 | 9.300 | -0.80 % |
+| MicroSD 128GB | 19.30 | 17.80 | 19.30 | 17.80 | 18.600 | -1.85 % |
+
+## 🚀 SSD STREET PRICES
+
+| Brand | Interface | Series | Capacity | High | Low | Avg. | Change |
+|-------|-----------|--------|----------|------|-----|------|--------|
+| ADATA | SATA 6.0 Gb/s | SU800 | 512 GB | 84.99 | 84.99 | 84.99 | 0.00 % |
+| Kimtigo | PCIe 4.0 | TP5000 | 1 TB | 152.60 | 117.50 | 135.00 | 0.00 % |
+| Samsung | PCIe 4.0 X4 | 990 Pro | 1 TB | 199.99 | 199.99 | 199.99 | 0.00 % |
+| PNY | PCIe 5.0 X4 | CS2150 | 2 TB | 289.99 | 289.99 | 289.99 | 0.00 % |
+| Silicon Power | PCIe 4.0 X4 | US75 | 1 TB | 139.97 | 131.97 | 135.97 | -12.77 % |
+
+---
+
+## 📈 KEY OBSERVATIONS
+
+### **Price Movements:**
+1. **DDR4 8Gb eTT:** -0.15% (slight decline)
+2. **Flash Memory:** Strong gains across SLC and MLC (+2.67% to +4.68%)
+3. **GDDR Memory:** Moderate declines (-1.67% to -2.35%)
+4. **NAND Wafers:** Declines across all capacities (-1.92% to -2.97%)
+5. **Memory Cards:** Minor declines (-0.15% to -1.85%)
+6. **SSD Street:** Silicon Power shows significant -12.77% drop
+
+### **Market Insights:**
+- **Flash memory showing strength** with SLC/MLC price increases
+- **DDR5 module prices declining** (UDIMM -8.25%, RDIMM -0.54%)
+- **NAND wafer prices softening** across all capacities
+- **Consumer SSD prices mixed** with one significant drop
+
+### **Trading Implications:**
+1. **Bullish on Flash:** SLC/MLC price increases suggest tight supply
+2. **Cautious on DDR5:** Module price declines may indicate oversupply
+3. **Watch NAND:** Wafer price declines could signal inventory buildup
+4. **SSD volatility:** Large price drops in some brands may create opportunities
+
+---
+
+## 🔗 DATA SOURCES
+
+- **DRAM Spot:** https://www.dramexchange.com/Price/Dram_Spot
+- **Module Spot:** https://www.dramexchange.com/Price/Module_Spot  
+- **Flash Spot:** https://www.dramexchange.com/Price/Flash_Spot
+- **GDDR Spot:** https://www.dramexchange.com/Price/GDDR_Spot
+- **Wafer Spot:** https://www.dramexchange.com/Price/Wafer_Spot
+- **Memory Card Spot:** https://www.dramexchange.com/Price/MemoryCard_Spot
+- **SSD Street:** https://www.dramexchange.com/Price/SSD_Street
+
+---
+
+**Report Generated:** 2026-04-07 14:08 SGT (06:08 UTC)  
+**Next Update:** Daily at 9 AM SGT  
+**Automation:** OpenClaw Cron Job `dramexchange-daily`  
+**Storage:** Obsidian Vault + memory_prices/ directory  
+
+#dramexchange #memoryprices #dram #nand #flash #marketanalysis
+
+---
+
+**Archived:** 2026-04-07 14:11:27 +08  
+**Location:** Obsidian Vault - Memory Prices  
+**Next Update:** Daily at 9 AM SGT
+
+#dramexchange #memoryprices #dram #nand #flash #marketanalysis #2026-04-07
