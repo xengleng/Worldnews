@@ -1,0 +1,1048 @@
+[
+  {
+    "table_type": "dram_spot",
+    "product": "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "DRAMeXchange MI Service",
+      "DRAMeXchange MI Service": "Monthly DataSheetResearch ReportService by Analysts",
+      "Monthly DataSheetResearch ReportService by Analysts": "More Details",
+      "More Details": "Contact Us"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DRAMeXchange MI Service",
+    "prices": {}
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Monthly DataSheetResearch ReportService by Analysts",
+    "prices": {}
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "More Details",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Contact Us"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "SpotMemory CardSSDContractMobile DRAMeMMCDRAM Spot PriceLast Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>Early notice was announced at 10:50 (10 minutes in advance) ,next session will start at 14:20.ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryDDR5 16Gb (2Gx8) 4800/560048.5026.2048.5026.2037.0000.00 %DDR5 16Gb (2Gx8) eTT24.0020.5024.0020.5021.2500.00 %DDR4 16Gb (2Gx8) 320089.0026.5089.0026.5073.0910.00 %DDR4 16Gb (2Gx8) eTT14.9012.9514.9012.9513.5500.00 %DDR4 8Gb (1Gx8) 320049.0012.5049.0012.5033.6000.00 %DDR4 8Gb (1Gx8) eTT7.805.507.805.506.720-0.15 %DDR34Gb 512Mx8 1600/18669.755.509.755.507.7000.00 %Module Spot PriceLast Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryDDR5 UDIMM 16GB 4800/5600240.00200.00240.00200.00222.500-8.25 %DDR5 RDIMM 32GB 4800/56001150.00880.001150.00880.00930.000-0.54 %DDR4 UDIMM 16GB 3200171.00134.00171.00134.00149.333-0.45 %Flash Spot PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistorySLC 2Gb 256MBx83.702.603.702.603.0893.35 %SLC 1Gb 128MBx83.202.303.202.302.5734.68 %MLC 64Gb 8GBx816.0010.0016.0010.0013.1253.96 %MLC 32Gb 4GBx88.306.808.306.807.7002.67 %GDDR Spot PriceLast Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryGDDR5  8Gb20.0010.0020.0010.0012.318-1.67 %GDDR6  8Gb20.009.5020.009.5012.412-2.35 %LPDDR Spot PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>LPDDR 3 32GbLPDDR 3 16GbLPDDR 3 8GbLPDDR 4 32GbLPDDR 4 16GbLPDDR 4 8GbWafer Spot PriceLast Update:Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistory512Gb TLC24.0017.0024.0017.0022.155-2.97 %256Gb TLC11.808.0011.808.0010.920-2.85 %128Gb TLC9.505.009.505.006.833-1.92 %eMMC Spot PriceLast Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>eMMC 128GBeMMC 64GBeMMC 32GBeMMC 16GBeMMC 8GBeMMC 4GBMemory Card PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryMicroSD 16GB3.803.103.803.103.345-0.15 %MicroSD 32GB6.806.006.806.006.350-0.78 %MicroSD 64GB10.009.0010.009.009.300-0.80 %MicroSD 128GB19.3017.8019.3017.8018.600-1.85 %Mobile DRAM Contract PriceLPDDR5X 16GBLPDDR5X 12GBLPDDR5X 8GBLPDDR4X 8GBLPDDR4X 4GBeMMC Contract PriceeMMC 16GB MLCeMMC 64GB TLCUFS 256GBeMMC 8GB MLCeMMC 32GB TLCUFS 128GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Spot",
+      "DRAMeXchange MI Service": "Memory Card",
+      "Monthly DataSheetResearch ReportService by Analysts": "SSD",
+      "More Details": "Contract",
+      "Contact Us": "Mobile DRAM",
+      "": "eMMC"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Spot",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Memory Card",
+      "DRAMeXchange MI Service": "SSD",
+      "Monthly DataSheetResearch ReportService by Analysts": "Contract",
+      "More Details": "Mobile DRAM",
+      "Contact Us": "eMMC"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DRAM Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Daily High",
+      "DRAMeXchange MI Service": "Daily Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Session Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR5 16Gb (2Gx8) 4800/5600",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 48.5,
+      "DRAMeXchange MI Service": 26.2,
+      "Monthly DataSheetResearch ReportService by Analysts": 48.5,
+      "More Details": 26.2,
+      "Contact Us": 37.0,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR5 16Gb (2Gx8) eTT",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 24.0,
+      "DRAMeXchange MI Service": 20.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 24.0,
+      "More Details": 20.5,
+      "Contact Us": 21.25,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR4 16Gb (2Gx8) 3200",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 89.0,
+      "DRAMeXchange MI Service": 26.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 89.0,
+      "More Details": 26.5,
+      "Contact Us": 73.091,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR4 16Gb (2Gx8) eTT",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 14.9,
+      "DRAMeXchange MI Service": 12.95,
+      "Monthly DataSheetResearch ReportService by Analysts": 14.9,
+      "More Details": 12.95,
+      "Contact Us": 13.55,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR4 8Gb (1Gx8) 3200",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 49.0,
+      "DRAMeXchange MI Service": 12.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 49.0,
+      "More Details": 12.5,
+      "Contact Us": 33.6,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR4 8Gb (1Gx8) eTT",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 7.8,
+      "DRAMeXchange MI Service": 5.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 7.8,
+      "More Details": 5.5,
+      "Contact Us": 6.72,
+      "": -0.15
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR34Gb 512Mx8 1600/1866",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 9.75,
+      "DRAMeXchange MI Service": 5.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 9.75,
+      "More Details": 5.5,
+      "Contact Us": 7.7,
+      "": 0.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Module Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Weekly High",
+      "DRAMeXchange MI Service": "Weekly Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Average Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR5 UDIMM 16GB 4800/5600",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 240.0,
+      "DRAMeXchange MI Service": 200.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 240.0,
+      "More Details": 200.0,
+      "Contact Us": 222.5,
+      "": -8.25
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR5 RDIMM 32GB 4800/5600",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 1150.0,
+      "DRAMeXchange MI Service": 880.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 1150.0,
+      "More Details": 880.0,
+      "Contact Us": 930.0,
+      "": -0.54
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DDR4 UDIMM 16GB 3200",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 171.0,
+      "DRAMeXchange MI Service": 134.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 171.0,
+      "More Details": 134.0,
+      "Contact Us": 149.333,
+      "": -0.45
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Flash Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Daily High",
+      "DRAMeXchange MI Service": "Daily Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Session Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "SLC 2Gb 256MBx8",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 3.7,
+      "DRAMeXchange MI Service": 2.6,
+      "Monthly DataSheetResearch ReportService by Analysts": 3.7,
+      "More Details": 2.6,
+      "Contact Us": 3.089,
+      "": 3.35
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "SLC 1Gb 128MBx8",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 3.2,
+      "DRAMeXchange MI Service": 2.3,
+      "Monthly DataSheetResearch ReportService by Analysts": 3.2,
+      "More Details": 2.3,
+      "Contact Us": 2.573,
+      "": 4.68
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MLC 64Gb 8GBx8",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 16.0,
+      "DRAMeXchange MI Service": 10.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 16.0,
+      "More Details": 10.0,
+      "Contact Us": 13.125,
+      "": 3.96
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MLC 32Gb 4GBx8",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 8.3,
+      "DRAMeXchange MI Service": 6.8,
+      "Monthly DataSheetResearch ReportService by Analysts": 8.3,
+      "More Details": 6.8,
+      "Contact Us": 7.7,
+      "": 2.67
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "GDDR Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Weekly High",
+      "DRAMeXchange MI Service": "Weekly Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Average Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "GDDR5  8Gb",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 20.0,
+      "DRAMeXchange MI Service": 10.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 20.0,
+      "More Details": 10.0,
+      "Contact Us": 12.318,
+      "": -1.67
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "GDDR6  8Gb",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 20.0,
+      "DRAMeXchange MI Service": 9.5,
+      "Monthly DataSheetResearch ReportService by Analysts": 20.0,
+      "More Details": 9.5,
+      "Contact Us": 12.412,
+      "": -2.35
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "LPDDR Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "LPDDR 3 32Gb",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "LPDDR 3 16Gb",
+      "DRAMeXchange MI Service": "LPDDR 3 8Gb"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "LPDDR 4 32Gb",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "LPDDR 4 16Gb",
+      "DRAMeXchange MI Service": "LPDDR 4 8Gb"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Wafer Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update:Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Weekly High",
+      "DRAMeXchange MI Service": "Weekly Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Average Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "512Gb TLC",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 24.0,
+      "DRAMeXchange MI Service": 17.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 24.0,
+      "More Details": 17.0,
+      "Contact Us": 22.155,
+      "": -2.97
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "256Gb TLC",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 11.8,
+      "DRAMeXchange MI Service": 8.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 11.8,
+      "More Details": 8.0,
+      "Contact Us": 10.92,
+      "": -2.85
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "128Gb TLC",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 9.5,
+      "DRAMeXchange MI Service": 5.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 9.5,
+      "More Details": 5.0,
+      "Contact Us": 6.833,
+      "": -1.92
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC Spot Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC 128GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "eMMC 64GB",
+      "DRAMeXchange MI Service": "eMMC 32GB"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC 16GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "eMMC 8GB",
+      "DRAMeXchange MI Service": "eMMC 4GB"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Memory Card Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Item",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Daily High",
+      "DRAMeXchange MI Service": "Daily Low",
+      "Monthly DataSheetResearch ReportService by Analysts": "Session High",
+      "More Details": "Session Low",
+      "Contact Us": "Session Average",
+      "": "Session Change"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MicroSD 16GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 3.8,
+      "DRAMeXchange MI Service": 3.1,
+      "Monthly DataSheetResearch ReportService by Analysts": 3.8,
+      "More Details": 3.1,
+      "Contact Us": 3.345,
+      "": -0.15
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MicroSD 32GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 6.8,
+      "DRAMeXchange MI Service": 6.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 6.8,
+      "More Details": 6.0,
+      "Contact Us": 6.35,
+      "": -0.78
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MicroSD 64GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 10.0,
+      "DRAMeXchange MI Service": 9.0,
+      "Monthly DataSheetResearch ReportService by Analysts": 10.0,
+      "More Details": 9.0,
+      "Contact Us": 9.3,
+      "": -0.8
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "MicroSD 128GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": 19.3,
+      "DRAMeXchange MI Service": 17.8,
+      "Monthly DataSheetResearch ReportService by Analysts": 19.3,
+      "More Details": 17.8,
+      "Contact Us": 18.6,
+      "": -1.85
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Mobile DRAM Contract Price",
+    "prices": {}
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "LPDDR5X 16GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "LPDDR5X 12GB",
+      "DRAMeXchange MI Service": "LPDDR5X 8GB"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "LPDDR4X 8GB",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "LPDDR4X 4GB",
+      "DRAMeXchange MI Service": ""
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC Contract Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": ""
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC 16GB MLC",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "eMMC 64GB TLC",
+      "DRAMeXchange MI Service": "UFS 256GB"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "eMMC 8GB MLC",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "eMMC 32GB TLC",
+      "DRAMeXchange MI Service": "UFS 128GB"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC",
+    "prices": {}
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "PC-Client OEM SSD Contract Priceloading.....SSD Street PriceLastUpdate:Mar.27 2026 10:30,  (GMT+8)To offer data on end prices for the SSD market that are more precise, TrendForce will be updating the search method and display content starting from January 2026.BrandInterfaceSeriesCapacityHighLowAvg.ChangeADATASATA 6.0 Gb/sSU800512 GB84.9984.9984.990.00 %KimtigoPCIe 4.0TP50001 TB152.60117.50135.000.00 %SamsungPCIe 4.0 X4990 Pro1 TB199.99199.99199.990.00 %PNYPCIe 5.0 X4CS21502 TB289.99289.99289.990.00 %Silicon PowerPCIe 4.0 X4US751 TB139.97131.97135.97-12.77 %DRAM Contract Price(Loading....)",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "",
+      "DRAMeXchange MI Service": "PC-Client OEM SSD Contract Price",
+      "Monthly DataSheetResearch ReportService by Analysts": "",
+      "More Details": "loading.....",
+      "Contact Us": "SSD Street Price",
+      "": "LastUpdate:Mar.27 2026 10:30,  (GMT+8)"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "PC-Client OEM SSD Contract Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": ""
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "loading.....",
+    "prices": {}
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "SSD Street Price",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "LastUpdate:Mar.27 2026 10:30,  (GMT+8)"
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Brand",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "Interface",
+      "DRAMeXchange MI Service": "Series",
+      "Monthly DataSheetResearch ReportService by Analysts": "Capacity",
+      "More Details": "High",
+      "Contact Us": "Low",
+      "": "Avg."
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "ADATA",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "SATA 6.0 Gb/s",
+      "DRAMeXchange MI Service": "SU800",
+      "Monthly DataSheetResearch ReportService by Analysts": "512 GB",
+      "More Details": 84.99,
+      "Contact Us": 84.99,
+      "": 84.99
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Kimtigo",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "PCIe 4.0",
+      "DRAMeXchange MI Service": "TP5000",
+      "Monthly DataSheetResearch ReportService by Analysts": "1 TB",
+      "More Details": 152.6,
+      "Contact Us": 117.5,
+      "": 135.0
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Samsung",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "PCIe 4.0 X4",
+      "DRAMeXchange MI Service": "990 Pro",
+      "Monthly DataSheetResearch ReportService by Analysts": "1 TB",
+      "More Details": 199.99,
+      "Contact Us": 199.99,
+      "": 199.99
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "PNY",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "PCIe 5.0 X4",
+      "DRAMeXchange MI Service": "CS2150",
+      "Monthly DataSheetResearch ReportService by Analysts": "2 TB",
+      "More Details": 289.99,
+      "Contact Us": 289.99,
+      "": 289.99
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "Silicon Power",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": "PCIe 4.0 X4",
+      "DRAMeXchange MI Service": "US75",
+      "Monthly DataSheetResearch ReportService by Analysts": "1 TB",
+      "More Details": 139.97,
+      "Contact Us": 131.97,
+      "": 135.97
+    }
+  },
+  {
+    "table_type": "dram_spot",
+    "product": "DRAM Contract Price(Loading....)",
+    "prices": {
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DRAMeXchange MI Service",
+    "prices": {}
+  },
+  {
+    "table_type": "unknown",
+    "product": "Monthly DataSheetResearch ReportService by Analysts",
+    "prices": {}
+  },
+  {
+    "table_type": "unknown",
+    "product": "More Details",
+    "prices": {
+      "DRAMeXchange MI Service": "Contact Us"
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "Monthly DataSheetResearch ReportService by Analysts",
+    "prices": {}
+  },
+  {
+    "table_type": "unknown",
+    "product": "More Details",
+    "prices": {}
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR5 16Gb (2Gx8) 4800/5600",
+    "prices": {
+      "Daily High": 48.5,
+      "Daily Low": 26.2,
+      "Session High": 48.5,
+      "Session Low": 26.2,
+      "Session Average": 37.0,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR5 16Gb (2Gx8) eTT",
+    "prices": {
+      "Daily High": 24.0,
+      "Daily Low": 20.5,
+      "Session High": 24.0,
+      "Session Low": 20.5,
+      "Session Average": 21.25,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR4 16Gb (2Gx8) 3200",
+    "prices": {
+      "Daily High": 89.0,
+      "Daily Low": 26.5,
+      "Session High": 89.0,
+      "Session Low": 26.5,
+      "Session Average": 73.091,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR4 16Gb (2Gx8) eTT",
+    "prices": {
+      "Daily High": 14.9,
+      "Daily Low": 12.95,
+      "Session High": 14.9,
+      "Session Low": 12.95,
+      "Session Average": 13.55,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR4 8Gb (1Gx8) 3200",
+    "prices": {
+      "Daily High": 49.0,
+      "Daily Low": 12.5,
+      "Session High": 49.0,
+      "Session Low": 12.5,
+      "Session Average": 33.6,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR4 8Gb (1Gx8) eTT",
+    "prices": {
+      "Daily High": 7.8,
+      "Daily Low": 5.5,
+      "Session High": 7.8,
+      "Session Low": 5.5,
+      "Session Average": 6.72,
+      "Session Change": -0.15,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR34Gb 512Mx8 1600/1866",
+    "prices": {
+      "Daily High": 9.75,
+      "Daily Low": 5.5,
+      "Session High": 9.75,
+      "Session Low": 5.5,
+      "Session Average": 7.7,
+      "Session Change": 0.0,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR5 UDIMM 16GB 4800/5600",
+    "prices": {
+      "Weekly High": 240.0,
+      "Weekly Low": 200.0,
+      "Session High": 240.0,
+      "Session Low": 200.0,
+      "Session Average": 222.5,
+      "Average Change": -8.25,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR5 RDIMM 32GB 4800/5600",
+    "prices": {
+      "Weekly High": 1150.0,
+      "Weekly Low": 880.0,
+      "Session High": 1150.0,
+      "Session Low": 880.0,
+      "Session Average": 930.0,
+      "Average Change": -0.54,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "DDR4 UDIMM 16GB 3200",
+    "prices": {
+      "Weekly High": 171.0,
+      "Weekly Low": 134.0,
+      "Session High": 171.0,
+      "Session Low": 134.0,
+      "Session Average": 149.333,
+      "Average Change": -0.45,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "SLC 2Gb 256MBx8",
+    "prices": {
+      "Daily High": 3.7,
+      "Daily Low": 2.6,
+      "Session High": 3.7,
+      "Session Low": 2.6,
+      "Session Average": 3.089,
+      "Session Change": 3.35,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "SLC 1Gb 128MBx8",
+    "prices": {
+      "Daily High": 3.2,
+      "Daily Low": 2.3,
+      "Session High": 3.2,
+      "Session Low": 2.3,
+      "Session Average": 2.573,
+      "Session Change": 4.68,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MLC 64Gb 8GBx8",
+    "prices": {
+      "Daily High": 16.0,
+      "Daily Low": 10.0,
+      "Session High": 16.0,
+      "Session Low": 10.0,
+      "Session Average": 13.125,
+      "Session Change": 3.96,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MLC 32Gb 4GBx8",
+    "prices": {
+      "Daily High": 8.3,
+      "Daily Low": 6.8,
+      "Session High": 8.3,
+      "Session Low": 6.8,
+      "Session Average": 7.7,
+      "Session Change": 2.67,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "GDDR5  8Gb",
+    "prices": {
+      "Weekly High": 20.0,
+      "Weekly Low": 10.0,
+      "Session High": 20.0,
+      "Session Low": 10.0,
+      "Session Average": 12.318,
+      "Average Change": -1.67,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "GDDR6  8Gb",
+    "prices": {
+      "Weekly High": 20.0,
+      "Weekly Low": 9.5,
+      "Session High": 20.0,
+      "Session Low": 9.5,
+      "Session Average": 12.412,
+      "Average Change": -2.35,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "512Gb TLC",
+    "prices": {
+      "Weekly High": 24.0,
+      "Weekly Low": 17.0,
+      "Session High": 24.0,
+      "Session Low": 17.0,
+      "Session Average": 22.155,
+      "Average Change": -2.97,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "256Gb TLC",
+    "prices": {
+      "Weekly High": 11.8,
+      "Weekly Low": 8.0,
+      "Session High": 11.8,
+      "Session Low": 8.0,
+      "Session Average": 10.92,
+      "Average Change": -2.85,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "128Gb TLC",
+    "prices": {
+      "Weekly High": 9.5,
+      "Weekly Low": 5.0,
+      "Session High": 9.5,
+      "Session Low": 5.0,
+      "Session Average": 6.833,
+      "Average Change": -1.92,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MicroSD 16GB",
+    "prices": {
+      "Daily High": 3.8,
+      "Daily Low": 3.1,
+      "Session High": 3.8,
+      "Session Low": 3.1,
+      "Session Average": 3.345,
+      "Session Change": -0.15,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MicroSD 32GB",
+    "prices": {
+      "Daily High": 6.8,
+      "Daily Low": 6.0,
+      "Session High": 6.8,
+      "Session Low": 6.0,
+      "Session Average": 6.35,
+      "Session Change": -0.78,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MicroSD 64GB",
+    "prices": {
+      "Daily High": 10.0,
+      "Daily Low": 9.0,
+      "Session High": 10.0,
+      "Session Low": 9.0,
+      "Session Average": 9.3,
+      "Session Change": -0.8,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "MicroSD 128GB",
+    "prices": {
+      "Daily High": 19.3,
+      "Daily Low": 17.8,
+      "Session High": 19.3,
+      "Session Low": 17.8,
+      "Session Average": 18.6,
+      "Session Change": -1.85,
+      "History": ""
+    }
+  },
+  {
+    "table_type": "flash_spot",
+    "product": "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC",
+    "prices": {}
+  },
+  {
+    "table_type": "unknown",
+    "product": "ADATA",
+    "prices": {
+      "Interface": "SATA 6.0 Gb/s",
+      "Series": "SU800",
+      "Capacity": "512 GB",
+      "High": 84.99,
+      "Low": 84.99,
+      "Avg.": 84.99,
+      "Change": 0.0
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "Kimtigo",
+    "prices": {
+      "Interface": "PCIe 4.0",
+      "Series": "TP5000",
+      "Capacity": "1 TB",
+      "High": 152.6,
+      "Low": 117.5,
+      "Avg.": 135.0,
+      "Change": 0.0
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "Samsung",
+    "prices": {
+      "Interface": "PCIe 4.0 X4",
+      "Series": "990 Pro",
+      "Capacity": "1 TB",
+      "High": 199.99,
+      "Low": 199.99,
+      "Avg.": 199.99,
+      "Change": 0.0
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "PNY",
+    "prices": {
+      "Interface": "PCIe 5.0 X4",
+      "Series": "CS2150",
+      "Capacity": "2 TB",
+      "High": 289.99,
+      "Low": 289.99,
+      "Avg.": 289.99,
+      "Change": 0.0
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "Silicon Power",
+    "prices": {
+      "Interface": "PCIe 4.0 X4",
+      "Series": "US75",
+      "Capacity": "1 TB",
+      "High": 139.97,
+      "Low": 131.97,
+      "Avg.": 135.97,
+      "Change": -12.77
+    }
+  },
+  {
+    "table_type": "unknown",
+    "product": "\u00a9 2026 DRAMeXchange, a Business Division ofTrendForce Corp.All rights reserved.",
+    "prices": {}
+  }
+]

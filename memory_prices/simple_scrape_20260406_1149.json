@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-04-06T11:49:49.414024",
+  "results": [
+    {
+      "success": true,
+      "url": "https://www.dramexchange.com/",
+      "name": "DRAMExchange",
+      "title": "DRAMeXchange - World leading DRAM and NAND Flash market research firm, with more than a decade of mo",
+      "found_keywords": [
+        "dram",
+        "nand",
+        "memory",
+        "price",
+        "ram",
+        "ssd"
+      ],
+      "sample_text": "\n\n\n\nDRAMeXchange - World leading DRAM and NAND Flash market research firm, with more than a decade of most authoritative database\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrendForce:\nSemiconductor Research |\r\n                                Display Research |\r\n                                Optoelectronics Research |\r\n                                Green Energy Research\nCN\nEN\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarket View\nSpecial Report\nExclusive Interview\nEnterprise News\n\n\n\n\nSSD",
+      "status": 200
+    },
+    {
+      "success": true,
+      "url": "https://www.anandtech.com/tag/memory",
+      "name": "AnandTech Memory",
+      "title": "AnandTech Forums: Technology, Hardware, Software, and Deals",
+      "found_keywords": [
+        "nand"
+      ],
+      "sample_text": "\n\n\n\nAnandTech Forums: Technology, Hardware, Software, and Deals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHome\n\n\n\n\nFeatured\n\n\n\n\nForums\n\n\n\nTrending\nSearch forums\n\n\n\n\n\n\nWhat's new\n\n\n\nFeatured content\nNew posts\nLatest activity\n\n\n\n\n\n\n\n\n\n\nLog in\n\n\nRegister\n\n\n\n\n\nWhat's new\n\n\n\nSearch\n\n\n\nSearch\n\n\n\n\nSearch titles only\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\nNote\n\n\n\n\nBy:\n\n\n\n\n\nSearch\nAdvanced search\u2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending\n\n\n\n\nSearch forums\n\n\n\n\n\n\n\n\n\n\n\t\t\t\tMenu\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t\t\tLo",
+      "status": 200
+    },
+    {
+      "success": false,
+      "url": "https://www.techspot.com/tag/memory/",
+      "name": "TechSpot",
+      "error": "HTTP 403",
+      "status": 403
+    },
+    {
+      "success": true,
+      "url": "https://www.tomshardware.com/tag/memory",
+      "name": "Tom's Hardware",
+      "title": "Memory News, Analysis and Features | Tom's Hardware",
+      "found_keywords": [
+        "dram",
+        "memory",
+        "ram",
+        "ssd"
+      ],
+      "sample_text": "\n\n\n\n\n\nMemory News, Analysis and Features | Tom's Hardware\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkip to main content\n\n\n\n\n\n\n\n\nOpen menu\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom's Hardware\n\n\n\n\n\nUS Edition\n\n\n\n\n\n\n\n\n\n\nUK\n\n\n\n\n\n\n\nUS\n\n\n\n\n\n\n\nAustralia\n\n\n\n\n\n\n\nCanada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRSS\n\n\n\n\nSubscribe\n\n\n\n\n\n\nSign in\n\n\n\n\n\n\nView Profile\n\nSign out\n\n\n\n\n\n\n\n\n\n\nSearch\n\n\n\n\n\nSearch Tom's Hardware\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBest Picks\n\n\n\n\nCPU Buying Advice\n",
+      "status": 200
+    },
+    {
+      "success": true,
+      "url": "https://news.google.com/search?q=memory+price+dram",
+      "name": "Google News Memory",
+      "title": "Google News - Search",
+      "found_keywords": [
+        "dram",
+        "nand",
+        "memory",
+        "price",
+        "ram"
+      ],
+      "sample_text": "Google News - SearchNewsGoogle NewsAdvanced searchHelp HelpPrivacyTermsAbout GoogleGet the Android appGet the iOS appSend feedbackSettings SettingsLanguage & regionEnglish (Singapore)Sign inHomeFor youFollowingSingaporeWorldLocalBusinessTechnologyEntertainmentSportsScienceHealthMore NewsGoogle NewsSourceabilityMoreMemory price increase timeline QoQ in 20265 days agodigitimesMoreDDR4 16Gb spot price falls after 2,200% surge as memory market polarizes16 hours agoTrendForceMoreAI Server Demand to D",
+      "status": 200
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "successful": 4,
+    "failed": 1
+  }
+}

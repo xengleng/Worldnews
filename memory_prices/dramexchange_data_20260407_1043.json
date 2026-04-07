@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-04-07T10:43:02.407759",
+  "results": [
+    {
+      "success": true,
+      "name": "DRAM Spot Prices",
+      "url": "https://www.dramexchange.com/Price/Dram_Spot",
+      "category": "dram_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:42.999318",
+      "response_size": 39826
+    },
+    {
+      "success": true,
+      "name": "Module Spot Prices",
+      "url": "https://www.dramexchange.com/Price/Module_Spot",
+      "category": "module_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:45.495211",
+      "response_size": 39828
+    },
+    {
+      "success": true,
+      "name": "Flash Spot Prices",
+      "url": "https://www.dramexchange.com/Price/Flash_Spot",
+      "category": "flash_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:47.970124",
+      "response_size": 39827
+    },
+    {
+      "success": true,
+      "name": "GDDR Spot Prices",
+      "url": "https://www.dramexchange.com/Price/GDDR_Spot",
+      "category": "gddr_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:50.488471",
+      "response_size": 39826
+    },
+    {
+      "success": true,
+      "name": "Wafer Spot Prices",
+      "url": "https://www.dramexchange.com/Price/Wafer_Spot",
+      "category": "wafer_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:52.958520",
+      "response_size": 39827
+    },
+    {
+      "success": true,
+      "name": "Memory Card Spot Prices",
+      "url": "https://www.dramexchange.com/Price/MemoryCard_Spot",
+      "category": "memorycard_spot",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:55.446237",
+      "response_size": 39832
+    },
+    {
+      "success": true,
+      "name": "National Contract DRAM Details",
+      "url": "https://www.dramexchange.com/Price/NationalContractDramDetail",
+      "category": "contract_dram",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:42:57.940530",
+      "response_size": 39843
+    },
+    {
+      "success": true,
+      "name": "National Contract Flash Details",
+      "url": "https://www.dramexchange.com/Price/NationalContractFlashDetail",
+      "category": "contract_flash",
+      "title": "DRAMeXchange - Login",
+      "price_count": 3,
+      "prices": [
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        },
+        {
+          "price": 4.0,
+          "unit": "USD",
+          "source": "regex"
+        }
+      ],
+      "products_found": 0,
+      "products": [],
+      "scraped_at": "2026-04-07T10:43:00.406895",
+      "response_size": 39844
+    }
+  ],
+  "metadata": {
+    "total_urls": 8,
+    "successful": 8,
+    "total_prices": 24
+  }
+}

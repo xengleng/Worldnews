@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-06T11:43:07.726974",
+  "scraping_success": false,
+  "prices": [
+    {
+      "category": "dram_spot",
+      "item": "DDR5 16Gb (2Gx8) 4800/5600",
+      "session_avg": 37.0,
+      "change_percent": 0.0,
+      "data_source": "FALLBACK_SAMPLE",
+      "scraping_status": "failed",
+      "note": "Real scraping needed - site may require JS/auth",
+      "timestamp": "2026-04-06T11:43:07.726924",
+      "fetch_time": "2026-04-06T11:43:07.726924",
+      "is_real_data": false,
+      "scraping_attempted": true,
+      "scraping_success": false
+    },
+    {
+      "category": "dram_spot",
+      "item": "DDR4 16Gb (2Gx8) 3200",
+      "session_avg": 73.091,
+      "change_percent": -0.31,
+      "data_source": "FALLBACK_SAMPLE",
+      "scraping_status": "failed",
+      "note": "Real scraping needed - site may require JS/auth",
+      "timestamp": "2026-04-06T11:43:07.726924",
+      "fetch_time": "2026-04-06T11:43:07.726924",
+      "is_real_data": false,
+      "scraping_attempted": true,
+      "scraping_success": false
+    },
+    {
+      "category": "flash_spot",
+      "item": "SLC 2Gb 256MBx8",
+      "session_avg": 2.989,
+      "change_percent": 9.37,
+      "data_source": "FALLBACK_SAMPLE",
+      "scraping_status": "failed",
+      "note": "Real scraping needed - site may require JS/auth",
+      "timestamp": "2026-04-06T11:43:07.726924",
+      "fetch_time": "2026-04-06T11:43:07.726924",
+      "is_real_data": false,
+      "scraping_attempted": true,
+      "scraping_success": false
+    }
+  ],
+  "metadata": {
+    "source": "Fallback sample",
+    "has_real_data": false,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "scraping_libraries": false
+  }
+}

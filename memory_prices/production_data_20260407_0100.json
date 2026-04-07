@@ -1,0 +1,136 @@
+{
+  "timestamp": "2026-04-07T01:00:24.050766",
+  "ecommerce": [
+    {
+      "success": true,
+      "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Memory/zgbs/pc/172500",
+      "name": "Amazon Memory Best Sellers",
+      "prices_found": 55,
+      "unique_prices": [
+        10.0,
+        22.99,
+        23.99,
+        24.99,
+        40.99,
+        43.98,
+        60.99,
+        64.99,
+        74.99,
+        103.99
+      ],
+      "headlines": [
+        "Amazon Best Sellers: Best Computer Memory",
+        "Keyboard shortcuts",
+        "Amazon Best Sellers",
+        "Best Sellers in Computer Memory"
+      ],
+      "memory_mentions": [
+        "Amazon Best Sellers: Best Computer Memory"
+      ],
+      "scraped_at": "2026-04-07T01:00:08.145289",
+      "note": "Amazon best sellers - shows current popular memory"
+    },
+    {
+      "success": true,
+      "url": "https://www.newegg.com/p/pl?N=100007952",
+      "name": "Newegg Memory",
+      "prices_found": 56,
+      "unique_prices": [
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        8.0,
+        10.0,
+        25.0,
+        37.04,
+        50.0,
+        75.0
+      ],
+      "headlines": [
+        "Server Memory | Newegg.com",
+        "Server Memory"
+      ],
+      "memory_mentions": [
+        "Server Memory | Newegg.com"
+      ],
+      "scraped_at": "2026-04-07T01:00:11.111034",
+      "note": "Newegg memory category"
+    }
+  ],
+  "news": [
+    {
+      "success": true,
+      "url": "https://news.google.com/search?q=memory+prices+dram+nand+2026",
+      "name": "Google News Memory",
+      "prices_found": 0,
+      "unique_prices": [],
+      "headlines": [
+        "Google News - Search",
+        "memory prices dram nand 2026"
+      ],
+      "memory_mentions": [],
+      "scraped_at": "2026-04-07T01:00:13.880717",
+      "note": "Latest news about memory prices"
+    },
+    {
+      "success": true,
+      "url": "https://www.tomshardware.com/tag/memory",
+      "name": "Tom's Hardware Memory",
+      "prices_found": 5,
+      "unique_prices": [
+        4.0,
+        7.0,
+        25.0,
+        39.0
+      ],
+      "headlines": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Latest about memory",
+        "Memory will consume 30% of hyperscaler data center spending this year, a 4X increase over 2023",
+        "RAM Price Index 2026: Daily lowest price on DDR5 and DDR4 memory of all capacities",
+        "Micron predicts that cars will need 300GB of RAM"
+      ],
+      "memory_mentions": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Trending\ud83d\udd25TH Premium DealBig Spring SaleIntel Xeon 600RAM Combo DealsDLSS 5Bartlett LakeRAM Shortage",
+        "Memory will consume 30% of hyperscaler data center spending this year, a 4X increase over 2023",
+        "SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026.",
+        "RAM Price Index 2026: Daily lowest price on DDR5 and DDR4 memory of all capacities"
+      ],
+      "scraped_at": "2026-04-07T01:00:17.266382",
+      "note": "Tech news with memory coverage"
+    },
+    {
+      "success": true,
+      "url": "https://www.anandtech.com/tag/memory",
+      "name": "AnandTech Memory",
+      "prices_found": 1,
+      "unique_prices": [
+        11.7
+      ],
+      "headlines": [
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "Hardware and Technology",
+        "CPUs and Overclocking",
+        "Motherboards"
+      ],
+      "memory_mentions": [
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "For DDR3, DDR4, SO-DIMMS, Hard Disks, SSDs, Flash memory, USB drives, and any other sort of memory and storage technology.",
+        "Question\u00a0SSD endurance... Has it turned out to be a non-issue or not?",
+        "A forum dedicated to the dark art of computer programming."
+      ],
+      "scraped_at": "2026-04-07T01:00:22.049539",
+      "note": "In-depth memory analysis"
+    }
+  ],
+  "metadata": {
+    "total_sites": 5,
+    "successful_sites": 5,
+    "has_real_data": true,
+    "no_hallucinations": true
+  }
+}

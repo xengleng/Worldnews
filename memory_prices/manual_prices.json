@@ -1,0 +1,20 @@
+{
+  "last_updated": null,
+  "prices": [],
+  "source_notes": "Enter prices from sources you have access to. Examples: Industry reports, news articles, financial data services you subscribe to.",
+  "instructions": [
+    "1. Add price objects to the 'prices' array",
+    "2. Include: category, item, price, date, source",
+    "3. Update 'last_updated' timestamp",
+    "4. System will track trends from this data"
+  ],
+  "example_entry": {
+    "category": "dram_spot",
+    "item": "DDR5 16Gb (2Gx8) 4800/5600",
+    "price": 37.50,
+    "currency": "USD",
+    "date": "2026-04-06",
+    "source": "Industry report you accessed",
+    "notes": "Optional additional context"
+  }
+}

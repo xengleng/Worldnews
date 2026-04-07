@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-04-07T10:52:35.097948",
+  "results": [
+    {
+      "success": true,
+      "name": "Amazon Memory Best Sellers",
+      "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Memory/zgbs/pc/172500",
+      "category": "retail_prices",
+      "prices_found": 30,
+      "unique_prices": [
+        22.99,
+        23.99,
+        24.99,
+        39.99,
+        40.99,
+        43.98,
+        60.99,
+        64.99,
+        74.99,
+        105.99
+      ],
+      "memory_mentions": [
+        "Amazon Best Sellers: Best Computer Memory"
+      ],
+      "headlines": [
+        "Amazon Best Sellers: Best Computer Memory",
+        "Keyboard shortcuts",
+        "Amazon Best Sellers"
+      ],
+      "scraped_at": "2026-04-07T10:52:21.230803",
+      "response_size": 438399
+    },
+    {
+      "success": true,
+      "name": "Newegg Memory",
+      "url": "https://www.newegg.com/p/pl?N=100007952",
+      "category": "retail_prices",
+      "prices_found": 68,
+      "unique_prices": [
+        18.99,
+        25.0,
+        34.88,
+        35.91,
+        39.99,
+        47.91,
+        50.0,
+        54.99,
+        59.48,
+        59.99
+      ],
+      "memory_mentions": [
+        "Server Memory | Newegg.com"
+      ],
+      "headlines": [
+        "Server Memory | Newegg.com",
+        "Server Memory"
+      ],
+      "scraped_at": "2026-04-07T10:52:24.126220",
+      "response_size": 689512
+    },
+    {
+      "success": true,
+      "name": "Tom's Hardware Memory",
+      "url": "https://www.tomshardware.com/tag/memory",
+      "category": "market_news",
+      "prices_found": 2,
+      "unique_prices": [
+        25.0,
+        39.0
+      ],
+      "memory_mentions": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Trending\ud83d\udd25TH Premium DealBig Spring SaleIntel Xeon 600RAM Combo DealsDLSS 5Bartlett LakeRAM Shortage",
+        "Memory will consume 30% of hyperscaler data center spending this year, a 4X increase over 2023",
+        "SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026.",
+        "RAM Price Index 2026: Daily lowest price on DDR5 and DDR4 memory of all capacities"
+      ],
+      "headlines": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Latest about memory",
+        "Memory will consume 30% of hyperscaler data center spending this year, a 4X increase over 2023"
+      ],
+      "scraped_at": "2026-04-07T10:52:27.423980",
+      "response_size": 1283418
+    },
+    {
+      "success": true,
+      "name": "Google News Memory Search",
+      "url": "https://news.google.com/search?q=memory+prices+dram+nand+2026",
+      "category": "news_aggregator",
+      "prices_found": 0,
+      "unique_prices": [],
+      "memory_mentions": [],
+      "headlines": [
+        "Google News - Search",
+        "memory prices dram nand 2026"
+      ],
+      "scraped_at": "2026-04-07T10:52:30.287337",
+      "response_size": 2544768
+    },
+    {
+      "success": false,
+      "name": "Micron Investor News",
+      "url": "https://investors.micron.com/news-releases",
+      "category": "manufacturer",
+      "error": "HTTP 404",
+      "scraped_at": "2026-04-07T10:52:33.097007"
+    }
+  ],
+  "metadata": {
+    "total_sources": 5,
+    "successful": 4,
+    "total_prices": 22,
+    "note": "Public sources only - no login required"
+  }
+}

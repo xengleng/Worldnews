@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-04-07T11:04:56.585126",
+  "charts": [
+    {
+      "success": true,
+      "name": "DRAM Spot Price Chart",
+      "url": "https://chart.dramexchange.com/getimage.php?type=dx&item=dram&id=47&class=spot&size=s",
+      "category": "dram_spot",
+      "filename": "20260407_1104_dram_spot.png",
+      "filepath": "/home/yeoel/.openclaw/workspace/memory_prices/dramexchange_charts/20260407_1104_dram_spot.png",
+      "size_bytes": 6808
+    },
+    {
+      "success": true,
+      "name": "Flash Spot Price Chart",
+      "url": "https://chart.dramexchange.com/getimage.php?type=dx&item=flash&id=48&class=spot&size=s",
+      "category": "flash_spot",
+      "filename": "20260407_1104_flash_spot.png",
+      "filepath": "/home/yeoel/.openclaw/workspace/memory_prices/dramexchange_charts/20260407_1104_flash_spot.png",
+      "size_bytes": 9802
+    }
+  ],
+  "retail": [
+    {
+      "success": true,
+      "name": "Amazon Memory Best Sellers",
+      "url": "https://www.amazon.com/Best-Sellers-Computers-Accessories-Memory/zgbs/pc/172500",
+      "prices_found": 30,
+      "unique_prices": [
+        22.99,
+        23.99,
+        24.99,
+        39.99,
+        40.99,
+        43.98,
+        60.99,
+        64.99,
+        74.99,
+        105.99
+      ],
+      "sample_prices": [
+        349.99,
+        219.99,
+        366.05,
+        278.52,
+        129.19
+      ]
+    },
+    {
+      "success": true,
+      "name": "Newegg Memory",
+      "url": "https://www.newegg.com/p/pl?N=100007952",
+      "prices_found": 65,
+      "unique_prices": [
+        18.99,
+        25.0,
+        34.88,
+        35.91,
+        39.99,
+        47.91,
+        50.0,
+        54.99,
+        59.48,
+        59.99
+      ],
+      "sample_prices": [
+        25.0,
+        25.0,
+        50.0,
+        50.0,
+        75.0
+      ]
+    }
+  ],
+  "news": [
+    {
+      "success": true,
+      "name": "Tom's Hardware Memory",
+      "url": "https://www.tomshardware.com/tag/memory",
+      "mentions_found": 19,
+      "sample_mentions": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Trending\ud83d\udd25TH Premium DealBig Spring SaleIntel Xeon 600RAM Combo DealsDLSS 5Bartlett LakeRAM Shortage",
+        "Memory will consume 30% of hyperscaler data center spending this year, a 4X increase over 2023"
+      ]
+    },
+    {
+      "success": true,
+      "name": "Google News Memory Search",
+      "url": "https://news.google.com/search?q=memory+prices+dram+nand+2026",
+      "mentions_found": 0,
+      "sample_mentions": []
+    }
+  ],
+  "metadata": {
+    "total_sources": 6,
+    "successful_sources": 6,
+    "total_prices": 95
+  }
+}

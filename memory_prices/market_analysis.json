@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "created": "2026-04-06T11:24:35.694530",
+    "last_updated": "2026-04-06T11:25:56.515394",
+    "sources": [
+      "TechCrunch Semiconductors",
+      "Reuters Technology",
+      "Bloomberg Technology",
+      "CNBC Technology"
+    ]
+  },
+  "analysis_history": {
+    "2026-04-06T11:24:35.696487": {
+      "timestamp": "2026-04-06T11:24:35.696487",
+      "price_analysis": [
+        {
+          "item": "DDR5 16Gb (2Gx8) 4800/5600",
+          "category": "dram_spot",
+          "current_price": 37.0,
+          "change_percent": 0.0,
+          "analysis": "Price stable with minimal change (+0.00%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "DDR5 16Gb (2Gx8) eTT",
+          "category": "dram_spot",
+          "current_price": 21.25,
+          "change_percent": -0.24,
+          "analysis": "Price stable with minimal change (-0.24%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "DDR4 16Gb (2Gx8) 3200",
+          "category": "dram_spot",
+          "current_price": 73.091,
+          "change_percent": -0.31,
+          "analysis": "Price stable with minimal change (-0.31%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "SLC 2Gb 256MBx8",
+          "category": "flash_spot",
+          "current_price": 2.989,
+          "change_percent": 9.37,
+          "analysis": "Price increase of +9.37% likely driven by:",
+          "supporting_news": [
+            {
+              "title": "Samsung announces production cuts amid memory oversupply",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative",
+              "affected_categories": [
+                "dram_spot",
+                "flash_spot"
+              ],
+              "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "date": "2026-04-05"
+            }
+          ],
+          "key_factors": [
+            {
+              "factor": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative"
+            }
+          ],
+          "outlook": "positive"
+        },
+        {
+          "item": "SLC 1Gb 128MBx8",
+          "category": "flash_spot",
+          "current_price": 2.458,
+          "change_percent": 8.52,
+          "analysis": "Price increase of +8.52% likely driven by:",
+          "supporting_news": [
+            {
+              "title": "Samsung announces production cuts amid memory oversupply",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative",
+              "affected_categories": [
+                "dram_spot",
+                "flash_spot"
+              ],
+              "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "date": "2026-04-05"
+            }
+          ],
+          "key_factors": [
+            {
+              "factor": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative"
+            }
+          ],
+          "outlook": "positive"
+        }
+      ],
+      "market_news": [
+        {
+          "title": "Samsung announces production cuts amid memory oversupply",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+          "impact": "negative",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot"
+          ],
+          "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+          "date": "2026-04-05"
+        },
+        {
+          "title": "AI server demand drives DDR5 memory prices higher",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/04/ai-server-demand-ddr5-memory-prices/",
+          "impact": "positive",
+          "affected_categories": [
+            "dram_spot"
+          ],
+          "summary": "Increased AI server deployments creating strong demand for high-speed DDR5 memory, supporting prices.",
+          "date": "2026-04-04"
+        },
+        {
+          "title": "Micron reports better-than-expected earnings, guides for recovery",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/04/03/micron-earnings-q2-2026.html",
+          "impact": "positive",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot"
+          ],
+          "summary": "Micron's positive earnings guidance suggests memory market bottoming out, potential for price stabilization.",
+          "date": "2026-04-03"
+        },
+        {
+          "title": "China restricts rare earth exports affecting chip manufacturing",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-02/china-rare-earth-export-restrictions-chip-manufacturing",
+          "impact": "negative",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot",
+            "module_spot"
+          ],
+          "summary": "Export restrictions on rare earth materials could increase production costs for memory chips.",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "Automotive chip shortage easing, reducing pressure on memory supply",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/automotive-chip-shortage-easing-supply-chain-2026-04-01/",
+          "impact": "mixed",
+          "affected_categories": [
+            "flash_spot"
+          ],
+          "summary": "Easing automotive chip shortage could free up NAND flash capacity for other applications.",
+          "date": "2026-04-01"
+        }
+      ],
+      "summary": {
+        "total_items_analyzed": 5,
+        "items_with_news": 2,
+        "positive_outlook": 2,
+        "negative_outlook": 0
+      }
+    },
+    "2026-04-06T11:25:56.515394": {
+      "timestamp": "2026-04-06T11:25:56.515394",
+      "price_analysis": [
+        {
+          "item": "DDR5 16Gb (2Gx8) 4800/5600",
+          "category": "dram_spot",
+          "current_price": 37.0,
+          "change_percent": 0.0,
+          "analysis": "Price stable with minimal change (+0.00%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "DDR5 16Gb (2Gx8) eTT",
+          "category": "dram_spot",
+          "current_price": 21.25,
+          "change_percent": -0.24,
+          "analysis": "Price stable with minimal change (-0.24%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "DDR4 16Gb (2Gx8) 3200",
+          "category": "dram_spot",
+          "current_price": 73.091,
+          "change_percent": -0.31,
+          "analysis": "Price stable with minimal change (-0.31%). Market in equilibrium or awaiting catalyst.",
+          "supporting_news": [],
+          "key_factors": [],
+          "outlook": "stable"
+        },
+        {
+          "item": "SLC 2Gb 256MBx8",
+          "category": "flash_spot",
+          "current_price": 2.989,
+          "change_percent": 9.37,
+          "analysis": "Price increase of +9.37% likely driven by:",
+          "supporting_news": [
+            {
+              "title": "Samsung announces production cuts amid memory oversupply",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative",
+              "affected_categories": [
+                "dram_spot",
+                "flash_spot"
+              ],
+              "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "date": "2026-04-05"
+            }
+          ],
+          "key_factors": [
+            {
+              "factor": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative"
+            }
+          ],
+          "outlook": "positive"
+        },
+        {
+          "item": "SLC 1Gb 128MBx8",
+          "category": "flash_spot",
+          "current_price": 2.458,
+          "change_percent": 8.52,
+          "analysis": "Price increase of +8.52% likely driven by:",
+          "supporting_news": [
+            {
+              "title": "Samsung announces production cuts amid memory oversupply",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative",
+              "affected_categories": [
+                "dram_spot",
+                "flash_spot"
+              ],
+              "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "date": "2026-04-05"
+            }
+          ],
+          "key_factors": [
+            {
+              "factor": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+              "source": "Reuters",
+              "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+              "impact": "negative"
+            }
+          ],
+          "outlook": "positive"
+        }
+      ],
+      "market_news": [
+        {
+          "title": "Samsung announces production cuts amid memory oversupply",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/samsung-electronics-cut-memory-chip-production-oversupply-2026-04-05/",
+          "impact": "negative",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot"
+          ],
+          "summary": "Samsung reducing memory chip production to address inventory glut, likely putting downward pressure on prices.",
+          "date": "2026-04-05"
+        },
+        {
+          "title": "AI server demand drives DDR5 memory prices higher",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/04/ai-server-demand-ddr5-memory-prices/",
+          "impact": "positive",
+          "affected_categories": [
+            "dram_spot"
+          ],
+          "summary": "Increased AI server deployments creating strong demand for high-speed DDR5 memory, supporting prices.",
+          "date": "2026-04-04"
+        },
+        {
+          "title": "Micron reports better-than-expected earnings, guides for recovery",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/04/03/micron-earnings-q2-2026.html",
+          "impact": "positive",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot"
+          ],
+          "summary": "Micron's positive earnings guidance suggests memory market bottoming out, potential for price stabilization.",
+          "date": "2026-04-03"
+        },
+        {
+          "title": "China restricts rare earth exports affecting chip manufacturing",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-02/china-rare-earth-export-restrictions-chip-manufacturing",
+          "impact": "negative",
+          "affected_categories": [
+            "dram_spot",
+            "flash_spot",
+            "module_spot"
+          ],
+          "summary": "Export restrictions on rare earth materials could increase production costs for memory chips.",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "Automotive chip shortage easing, reducing pressure on memory supply",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/automotive-chip-shortage-easing-supply-chain-2026-04-01/",
+          "impact": "mixed",
+          "affected_categories": [
+            "flash_spot"
+          ],
+          "summary": "Easing automotive chip shortage could free up NAND flash capacity for other applications.",
+          "date": "2026-04-01"
+        }
+      ],
+      "summary": {
+        "total_items_analyzed": 5,
+        "items_with_news": 2,
+        "positive_outlook": 2,
+        "negative_outlook": 0
+      }
+    }
+  }
+}

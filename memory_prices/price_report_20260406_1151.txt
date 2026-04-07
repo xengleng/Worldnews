@@ -1,0 +1,94 @@
+💰 **REAL PRICE EXTRACTION REPORT**
+Time: 2026-04-06 11:51:12 SGT
+
+## 🔍 **ACTUALLY SCRAPED WEBSITES**
+
+✅ **DRAMExchange Home**
+• URL: https://www.dramexchange.com/
+• Prices found: 324
+• Note: Market research site - may have price mentions
+• Relevant headlines:
+  - SSD Street Price
+  - Worldwide DRAM output
+  - DRAM Spot Price
+• Sample prices:
+  - $3.00 USD
+  - $18.00 USD
+  - $8.00 USD
+
+✅ **Google News Memory Prices**
+• URL: https://news.google.com/search?q=memory+price+2026+dram+nand
+• Prices found: 179
+• Note: News articles about memory prices
+• Relevant headlines:
+  - Memory price increase timeline QoQ in 2026
+  - DDR4 16Gb spot price falls after 2,200% surge as memory market polarizes
+  - AI Server Demand to Drive Memory Contract Price Increases in 2Q26 as CSPs Secure Supply via Long-Ter
+• Sample prices:
+  - $1.35 USD
+  - $4.00 USD
+  - $16.00 USD
+
+✅ **Tom's Hardware Memory News**
+• URL: https://www.tomshardware.com/tag/memory
+• Prices found: 84
+• Note: Tech news with price discussions
+• Relevant headlines:
+  - DRAM
+  - DRAM
+  - From$7/mth
+• Sample prices:
+  - $7.00 USD
+  - $39.00 USD
+  - $25.00 USD
+
+## 📊 **PRICE ANALYSIS**
+
+**Summary:**
+• Total price mentions: 30
+• Unique prices: 20
+• Price range: $1.35 - $200.00
+• Average price: $22.71
+
+**Price distribution:**
+• Under 10: 16 prices
+• 10 50: 10 prices
+• 50 100: 3 prices
+• 100 500: 1 prices
+
+**Most common prices:**
+• $1.35
+• $2.00
+• $3.00
+• $4.00
+• $5.00
+
+## 🎯 **NEXT STEPS FOR BETTER PRICE DATA**
+
+1. **Scrape e-commerce for retail prices:**
+   - Amazon: RAM, SSD listings
+   - Newegg: Component prices
+   - Microcenter: Retail memory prices
+
+2. **Monitor deal sites:**
+   - Slickdeals: Memory/SSD deals
+   - TechBargains: Price drops
+
+3. **Use price tracking tools:**
+   - Keepa (Amazon price history)
+   - CamelCamelCamel
+
+4. **Check manufacturer sites:**
+   - Micron, Samsung investor relations
+   - Quarterly reports with ASP data
+
+## 🔗 **ACTUALLY VISITED URLS**
+
+• https://www.dramexchange.com/
+• https://news.google.com/search?q=memory+price+2026+dram+nand
+• https://www.tomshardware.com/tag/memory
+
+---
+Generated: Price Extraction Scraper v1.0
+Websites scraped: 3
+Successful: 3

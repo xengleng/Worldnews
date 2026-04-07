@@ -1,0 +1,132 @@
+{
+  "timestamp": "2026-04-06T11:49:11.139409",
+  "scrape_results": [
+    {
+      "success": true,
+      "url": "https://www.dramexchange.com/",
+      "name": "DRAMExchange Home",
+      "content_preview": "DRAMeXchange - World leading DRAM and NAND Flash market research firm, with more than a decade of most authoritative database\nTrendForce:\nSemiconductor Research |\nDisplay Research |\nOptoelectronics Research |\nGreen Energy Research\nCN\nEN\nMarket View\nSpecial Report\nExclusive Interview\nEnterprise News\nSSD Performance\nSSD Market View\nSSD Street Price\nDaily Express\nDXI\nWorldwide DRAM output\nDRAM Spot Price\nNAND Flash Spot Price\nDRAM Contract Price\nNAND Flash Contract Price\nWafer Spot Price\nNAND Flash...",
+      "price_mentions": [
+        "DRAMeXchange - World leading DRAM and NAND Flash market research firm, with more than a decade of most authoritative database",
+        "SSD Performance",
+        "SSD Market View",
+        "SSD Street Price",
+        "Worldwide DRAM output",
+        "DRAM Spot Price",
+        "NAND Flash Spot Price",
+        "DRAM Contract Price",
+        "NAND Flash Contract Price",
+        "Wafer Spot Price"
+      ],
+      "price_mention_count": 60,
+      "scraped_at": "2026-04-06T11:48:51.259042"
+    },
+    {
+      "success": true,
+      "url": "https://www.anandtech.com/tag/memory",
+      "name": "AnandTech Memory",
+      "content_preview": "AnandTech Forums: Technology, Hardware, Software, and Deals\nHome\nFeatured\nForums\nTrending\nSearch forums\nWhat's new\nFeatured content\nNew posts\nLatest activity\nLog in\nRegister\nWhat's new\nSearch\nSearch\nSearch titles only\nNote\nBy:\nSearch\nAdvanced search\u2026\nTrending\nSearch forums\nMenu\nLog in\nRegister\nInstall the app\nInstall\nWe\u2019re currently investigating an issue related to the forum theme and styling that is impacting page layout and visual formatting. The problem has been identified, and we are active...",
+      "price_mentions": [
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "Memory and Storage",
+        "For DDR3, DDR4, SO-DIMMS, Hard Disks, SSDs, Flash memory, USB drives, and any other sort of memory and storage technology.",
+        "Question\u00a0SSD endurance... Has it turned out to be a non-issue or not?",
+        "Question\u00a0Apple launches the MacBook Neo at $599",
+        "Question\u00a0Google Chrome versions in Program Files",
+        "Programming",
+        "A forum dedicated to the dark art of computer programming.",
+        "Post the hottest prices, deals, contests and freebies that you find on the net. Please post deals you've found, not items you are seeking. No coupon codes, no dealers, no SPAM (IE: multi-level marketing, pay-to-surf, or referral links). Please read the forum rules for details."
+      ],
+      "price_mention_count": 11,
+      "scraped_at": "2026-04-06T11:48:55.539479"
+    },
+    {
+      "success": false,
+      "url": "https://www.techspot.com/tag/memory/",
+      "name": "TechSpot Memory",
+      "error": "403 Client Error: Forbidden for url: https://www.techspot.com/tag/memory/",
+      "scraped_at": "2026-04-06T11:48:57.843250"
+    },
+    {
+      "success": true,
+      "url": "https://www.tomshardware.com/tag/memory",
+      "name": "Tom's Hardware Memory",
+      "content_preview": "Memory News, Analysis and Features | Tom's Hardware\nSkip to main content\nOpen menu\nTom's Hardware\nUS Edition\nUK\nUS\nAustralia\nCanada\nRSS\nSubscribe\nSign in\nView Profile\nSign out\nSearch\nSearch Tom's Hardware\nBest Picks\nCPU Buying Advice\nCPU Best Picks\nCPU Reviews\nGPU Buying Advice\nGPU Best Picks\nGPU Reviews\nLaptop Buying Advice\nLaptop Best Picks\nLaptop Reviews\nMore Buying Advice\nKeyboard Best Picks\nGaming Monitor Best Picks\nGaming Headset Best Picks\n3D Printer Best Picks\nWebcam Best Picks\nMice Best...",
+      "price_mentions": [
+        "Memory News, Analysis and Features | Tom's Hardware",
+        "Memory Tech",
+        "Memory",
+        "RAM",
+        "DRAM",
+        "SSDs",
+        "Programming",
+        "Memory Tech",
+        "Memory",
+        "RAM"
+      ],
+      "price_mention_count": 40,
+      "scraped_at": "2026-04-06T11:49:01.203481"
+    },
+    {
+      "success": true,
+      "url": "https://news.google.com/search?q=memory+prices+dram+nand",
+      "name": "Google News Search - Memory Prices",
+      "content_preview": "Google News - SearchNewsGoogle NewsAdvanced searchHelp HelpPrivacyTermsAbout GoogleGet the Android appGet the iOS appSend feedbackSettings SettingsLanguage & regionEnglish (Singapore)Sign inHomeFor youFollowingSingaporeWorldLocalBusinessTechnologyEntertainmentSportsScienceHealthMore NewsGoogle NewsSourceabilityMoreMemory price increase timeline QoQ in 20265 days agodigitimesMoreDDR4 16Gb spot price falls after 2,200% surge as memory market polarizes16 hours agoTrendForceMoreAI Server Demand to D...",
+      "price_mentions": [
+        "Google News - SearchNewsGoogle NewsAdvanced searchHelp HelpPrivacyTermsAbout GoogleGet the Android appGet the iOS appSend feedbackSettings SettingsLanguage & regionEnglish (Singapore)Sign inHomeFor youFollowingSingaporeWorldLocalBusinessTechnologyEntertainmentSportsScienceHealthMore NewsGoogle NewsSourceabilityMoreMemory price increase timeline QoQ in 20265 days agodigitimesMoreDDR4 16Gb spot price falls after 2,200% surge as memory market polarizes16 hours agoTrendForceMoreAI Server Demand to Drive Memory Contract Price Increases in 2Q26 as CSPs Secure Supply via Long-Term Agreements6 days agothelec.netMoreSamsung, SK Hynix Seen Posting Record Q1 Profits as Memory Prices Surge3 days agoTom's HardwareMoreDRAM prices predicted to jump 63% in Q2, NAND up to 75% \u2014 follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight5 days agochosun.comMoreDRAM Price Halt After 11 Months; NAND Surges 40%6 days agotheregister.comMoreDRAM prices expected to double in Q1 as AI ambitions push memory fabs to their limit2 FebBy Tobias MannCounterpoint Technology Market ResearchMoreMemory Prices Surge Up to 90% From Q4 20254 FebBy Jeongku ChoiBusinesskoreaMoreDRAM Prices Skyrocket Amid Ongoing Memory Shortage13 MardigitimesMoreInnodisk: AI memory demand outpaces supply; NAND, DRAM price keeps climbing6 days agoTrendForceMore[Insights] Memory Spot Price Update: DRAM Spot Momentum Constrained as March Contracts Hold, DDR4 Weakest25 MarSourceabilityMoreSamsung increases DRAM prices after Micron3 Oct 2025digitimesMoreChina memory firms secure two-year wafer deals, tightening DRAM and NAND supply outlook5 days agoTrendForceMoreMemory Price Outlook for 1Q26 Sharply Upgraded; QoQ Increases of All Product Categories to Hit Record Highs2 FebdigitimesMoreDRAM prices surge 180% as HBM competition shifts to profitability16 MarTrendForceMoreMemory Makers Prioritize Server Applications, Driving Across-the-Board Price Increases in 1Q265 JandigitimesMoreMemory prices soar as AI demand tightens DRAM and NAND supply, spot buying slows near year-end30 JanTrendForceMore[Insights] Memory Spot Price Update: DRAM Spots Pause Amid Samsung\u2019s March DDR4 Freeze18 MarTrendForceMore2Q26 Memory Price Forecast26 MardigitimesMoreChina's memory makers abandon low-price strategy: DRAM, NAND near Korean levels4 FebdigitimesMoreChina's NDRC warns memory price surge spreading across electronics supply chain13 Martheregister.comMoreTurboQuant is a big deal, but it won\u2019t end the memory crunch4 days agoBy Tobias MannTweakTownMoreDRAM prices to increase by up to 63% in Q2, NAND Flash by up to 75%, new report says4 days agoBy Kosta AndreadisdigitimesMoreRAMmageddon? AI-driven memory shortage sends DRAM prices 'parabolic'16 FebBy Levi LidigitimesMoreAI compression won't ease memory crunch, NAND shortage set to persist30 MarEvertiqMoreDRAM and NAND Flash prices to surge in Q1 20265 JanBy Dennis DahlgrenCounterpoint Technology Market ResearchMoreGlobal DRAM and HBM Market Share: Quarterly28 MarSourceabilityMorePrices for DDR5 surge 307% since September12 DecdigitimesMoreDRAM and NAND costs hit 90% of smartphone prices, squeezing low-end profits27 MarBusinesskoreaMoreDRAM, NAND Price Surge Sets New Records Amid Ongoing Supply Strains27 FebSourceabilityMoreThe memory market tightens under AI demand26 Sept 2025Astute GroupMoreDRAM and NAND prices jump as Samsung, SK Hynix and Micron tighten supply4 MardigitimesMoreMemory prices surged in 4Q25, defying seasonal trends as AI drives demand17 Sept 2025TrendForceMore[News] Memory Makers Reportedly Halt Quotes on Select DRAM, NAND Products as China Faces \u201cDaily Pricing\u201d27 OctTechzine GlobalMoreMemory pricing expected to double this quarter beyond record high2 FebBy Erik Van KlinkenInternational Data CorporationMoreGlobal Memory Shortage Crisis: Market Analysis and the Potential Impact on the Smartphone and PC Markets in 202618 DecdigitimesMoreApple reportedly locks in NAND through 2026 ahead of DRAM price spike7 JanTrendForceMore[News] Samsung Reportedly Plans Q4 Memory Price Hikes: DRAM Up 30%, NAND Up 10%22 Sept 2025digitimesMoreMemory chip prices surge as suppliers hold back inventory; DRAM and NAND expected to rise post-China holiday1 Oct 2025TrendForceMore[News] Samsung Readies New Price Hikes: Consumer DRAM, SSD Reportedly Doubled, NAND Set for 50%+ Rise26 JanCounterpoint Technology Market ResearchMore600% Memory Price Surge Threatens Telcos\u2019 Broadband Router, Set-Top Box Supply11 FebBy Jeongku ChoiTrendForceMore[News] Samsung, SK hynix Reportedly Lift Memory Prices Up to 30%; Long-Term Supply Deals in Play23 OcteeNews EuropeMoreMemory price surge lifts Samsung, SK hynix and Micron ...7 JanBy Brian Tristam WilliamsdigitimesMoreWeekly news roundup: Micron halts NAND and DRAM quotes; Nvidia shifts quantum strategy, memory prices soar on AI demand22 Sept 2025The Straits TimesMoreTech firms from Dell to HP warn of memory chip squeeze from AI27 NovdigitimesMoreDRAM and NAND spike 100%+: triggering 2025's toughest pricing crisis for electronics makers28 NovTrendForceMore[Insights] Memory Spot Price Update: DRAM Surges as Sellers Hold Back Inventory, Mainstream DDR4 Up 10%14 JanCounterpoint Technology Market ResearchMoreMemory Price Surge Triggers Shifts in Smartphone BOM Structure9 MardigitimesMoreExclusive: Micron halts NAND and DRAM quotes after SanDisk price hike, sharper increases looming15 Sept 2025digitimesMoreMemory makers Team Group and Apacer post record profits as AI-driven demand lifts DRAM and NAND prices26 FebdigitimesMoreSK Hynix signals seller's market as memory prices set to climb all year25 FebdigitimesMoreInsight: Memory shortage tightens grip on smartphone market as prices near tipping point2 MarBy Jingyue HsiaodigitimesMoreMemory inflation hits IT market20 NovTrendForceMore[News] Samsung, SK Reportedly Hike Server DRAM Prices 60-70% \u2013 Google, Microsoft in the Queue6 JanTrendForceMoreRising Memory Prices Weigh on Consumer Markets; 2026 Smartphone and Notebook Outlook Revised Downward17 NovdigitimesMoreHistoric memory shortages across DRAM, NAND, SSD, HDD, says Adata chairman14 OctTrendForceMore[Insights] Memory Spot Price Update: Kingston Leads DRAM Surge as DDR4, DDR5 and Modules Hold Strong24 DecYahoo FinanceMoreMemory prices may not fall until 2027, new research warns15 MarBy Varun MirchandaniTrendForceMore[News] Winbond Expects DRAM Prices to Jump Nearly 4\u00d7 by June 2026; Capacity Booked Through 202711 FebdigitimesMoreSamsung DRAM prices reportedly double in 1Q26, jumping from 70% to 100% increase in a month5 MarForbesMoreDigital Storage And Memory Projections For 2026, Part 22 JanTrendForceMore[Insights] Memory Spot Price Update: DRAM Spots Top Contracts, Sentiment Cautious Ahead of Q2 Negotiations4 MarEE Times AsiaMoreTrendForce Upgrades Memory Price Outlook for 1Q 20265 FebTrendForceMore[Insights] Memory Spot Price Update: DRAM Stalls Ahead of Late-Feb Contract Price Settlements4 FebTrendForceMoreRising Memory and CPU Prices Could Push Mainstream Notebook Prices Up by Nearly 40%10 MarTrendForceMore[Insights] Memory Spot Price Update: DDR5 Prices Up 307% Since September as Module Costs Poised to Surge19 NovBloomberg.comMoreMemory Chip Squeeze Wreaks Havoc in Markets, With More to Come10 FebBy Winnie HsudigitimesMoreSamsung reportedly converts NAND lines to DRAM to meet surging AI memory demand24 NovTrendForceMore[Insights] Memory Spot Price Update: DRAM Chip Spot Prices Surpass Modules, Signaling Imminent Surge12 NovBusinesskoreaMoreDRAM, NAND Prices Reach Record Highs30 JanAstute GroupMoreAI Boom Triggers Global Memory Shortage as DRAM and NAND Prices Surge6 OctTrendForceMoreAI Architecture Evolution Set to Drive Memory Market Revenue to a New Peak in 2027, with Annual Growth Exceeding 50%22 JanZ2DataMoreWill the Memory Chip Shortage Trigger Production Shutdowns in 2026?18 MarTrendForceMore[Insights] Memory Spot Price Update: NAND Prices Adjusted Daily as Sellers Renege on Deals3 DecdigitimesMoreMemory spot prices surged as Samsung's RDIMM limitedly ease supply in late 4Q253 DecEE Times AsiaMoreHBM, DRAM, and NAND: How AI is Reshaping the Memory Market26 JanBusinesskoreaMoreMemory Prices Surge 10% in Just One Week, Set to Soar Higher in New Year19 JandigitimesMoreAI storage chip crunch in 2026: DRAM, NAND prices surge up to 70%8 JanXDAMoreDRAM prices are spiking, but I don't trust the industry's reasons why25 NovBy Adam ConwaydigitimesMoreDRAM prices to surge up to 70% in 2Q26; Nvidia GTC 2026 ignites AI memory rally3 Marigor\u00b4sLABMoreSignificant increase in memory prices makes smartphones more expensive, DRAM and NAND account for a large share of costs14 JanBy Karsten Rabeneck and Karsten Rabeneck-ketmeTrendForceMore[News] DRAM Quotes Reportedly Shift to Monthly as Samsung Largely Halts Contracts3 NovTrendForceMore[Insights] Memory Spot Price Update: DDR4/DDR5 Hit Highs, Buyers Hesitant; DDR3 Sees Uptick28 JandigitimesMoreMemory module makers expect supply shortage and price surge to extend into 202610 NovdigitimesMoreNOR flash contract prices surge, forecast for double-digit quarterly growth in 202612 JanAstute GroupMoreNAND and DRAM prices surge up to 20% amid AI demand and tight supply15 OctCineDMoreGlobal Memory Shortage 2026: What Filmmakers Need To Know About Rising NAND, DRAM, and SSD Prices26 NovBy Nino LeitnerAstute GroupMoreAI Memory Boom Tightens NAND and DRAM Supply, Forcing Capacity Reallocation Across Semiconductor Production9 MardigitimesMoreSamsung to hike DRAM prices up to 30% in 4Q25 as shortage bites22 Sept 2025TrendForceMore[News] NAND Flash Prices Likely to Jump Double Digits in Q1, as Makers Reportedly Hike in Turns20 NovBusinesskoreaMoreDRAM Prices Expected to Surge 95% while Land Flash up 60%3 FebKED GlobalMoreAI boom ushers in memory supercycle; Samsung raises chip prices22 Sept 2025digitimesMoreMemory shortage hits 70% order fulfillment; server DRAM prices surge 50%28 Oct\ub9e4\uc77c\uacbd\uc81cMoreDRAM Prices Flat for the First Time in 11 Months as Rally Stalls6 days ago\ub9e4\uc77c\uacbd\uc81cMoreAs SK Hynix is expected to record an \"earnings surprise\" that far exceeds market expectations in the..4 days agoTrendForceMore[News] DDR4 Reportedly Leads Legacy Memory Rally with Q1 Prices Up to 50%; DDR3 in Tight Supply19 JandigitimesMoreDRAM and NAND shortages intensify, forcing major manufacturers to ration shipments25 NovTrendForceMore[Insights] Memory Spot Price Update: DDR4 Rally Builds on 16Gb Strength; DDR5, DDR3 See Mild Pullbacks10 DecMSNMoreDRAM prices predicted to jump 63% in Q2, NAND up to 75%4 days agoTrendForceMore[Insights] Memory Spot Price Update: DRAM Mainstream Quotes Rise by 5.4% Amid Seller Reluctance1 Oct 2025There are no items to show.memory prices dram nandSearch resultsSaveSave this searchSearchClear searchClose searchGoogle appsMain menu"
+      ],
+      "price_mention_count": 1,
+      "scraped_at": "2026-04-06T11:49:03.950911",
+      "note": "News aggregator for memory price articles"
+    },
+    {
+      "success": true,
+      "url": "https://www.reddit.com/r/hardware/search/?q=memory%20price&restrict_sr=1",
+      "name": "Reddit r/hardware - Memory",
+      "content_preview": "Reddit - Please wait for verification",
+      "price_mentions": [],
+      "price_mention_count": 0,
+      "scraped_at": "2026-04-06T11:49:04.997741",
+      "note": "Community discussions about memory prices"
+    },
+    {
+      "success": true,
+      "url": "https://www.techpowerup.com/",
+      "name": "TechPowerUp News",
+      "content_preview": "TechPowerUp\nHome\nReviews\nForums\nDownloads\nCase Mod Gallery\nDatabases\nDatabases\u2026\nBack\nVGA Bios Collection\nGPU Database\nCPU Database\nSSD Database\nReview Database\nUpcoming Hardware\nOur Software\nOur Software\u2026\nBack\nGPU-Z\nRealTemp\nNVCleanstall\nTPUCapture\nMemTest64\nMore\nMore\u2026\nBack\nArticles\nOld Stuff\nComputer Trivia\nTPU Live\nRAM Latency Calculator\nContact Us\nLatest Reviews\nASRock RX 9070 XT Taichi White\nGamdias ATLAS M4\nAMD FSR 5 Scarlet Cortex Preview\nMCHOSE A7 V2 Ultra\nCrimson Desert Performance Analy...",
+      "price_mentions": [
+        "SSD Database",
+        "RAM Latency Calculator",
+        "darkFlash Explore DE360",
+        "darkFlash DY460",
+        "Memory",
+        "DLSS x6 Frame Generation Launched",
+        "Sapphire introduced two new China-specific graphics cards, the Radeon RX 9070 GRE Pulse Pro, and the Radeon RX 9060 XT Pulse S. The two feature a price-performance ratio that's highly optimized for the Chinese market, banking on the success of China-specific products from previous generations. The RX 9070 GRE Pulse Pro features a board design that's similar to that of the RX 9070 series Pure brand from the company, but colored black overall. The card appears high-end when installed, with a meaty triple-slot cooling solution, and a board length of 32 cm. It uses a pair of 8-pin PCIe power inputs. Sapphire has given this card a Game clock of 2920 MHz boost, and 2340 MHz Game clock. Display outputs include two each of HDMI 2.1b and DisplayPort 2.1a.",
+        "Carved out from the 4 nm \"Navi 48\" silicon, the RX 9070 GRE has 48 RDNA 4 compute units, for 3,072 stream processors. It gets 12 GB of 20 Gbps GDDR6 memory across a 192-bit wide memory bus. The RX 9070 GRE is hence positioned between the global RX 9070 and RX 9060 XT 16 GB. Next up, is the Sapphire Radeon RX 9060 XT 8 GB Pulse S. This is a compacted version of the global RX 9060 XT 8 GB Pulse. While the global card has a 24 cm board length with 12.4 cm height, the China-specific Pulse S card is just 20 cm in length, with 12.2 cm height. Both cards are 2 slots thick.",
+        "Happy Easter to those of you that celebrate and for whatever reason, Wednesday this coming week is crammed full of new releases. We kick off the week with a Finnish hardcore post-apocalyptic survival game, which is unlikely to be everyone's cup of coffee. Monday kicks off with what might end up becoming a lawsuit with Nintendo, followed by a dark fantasy dungeon crawler and by Wednesday we take a hard left with an action adventure game that also includes racing. Thursday we veer right with a tree city builder and the week ends with trying to end humanity. We got a few more games that didn't quite make the list, of which most are early access games.",
+        "NVIDIA's Neural Texture Compression Cuts VRAM Use From 6.5 GB to 970 MB"
+      ],
+      "price_mention_count": 36,
+      "scraped_at": "2026-04-06T11:49:10.134292",
+      "note": "Tech news site with memory coverage"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "price": 599.0,
+      "currency": "USD",
+      "source": "AnandTech Memory",
+      "url": "https://www.anandtech.com/tag/memory",
+      "matched_pattern": "\\$(\\d+\\.?\\d*)",
+      "scraped_at": "2026-04-06T11:48:55.539479"
+    }
+  ],
+  "metadata": {
+    "has_basic_scraping": true,
+    "has_selenium": false,
+    "websites_attempted": 7,
+    "successful_scrapes": 6,
+    "price_points_found": 1
+  }
+}

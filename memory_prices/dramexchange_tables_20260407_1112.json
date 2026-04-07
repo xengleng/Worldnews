@@ -1,0 +1,1319 @@
+[
+  {
+    "index": 1,
+    "type": "dram_spot",
+    "headers": [
+      "Market ViewEnterprise NewsMI updateDRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact UsDatasheetDXIApr.3, 18:00 (GMT+8)what's DXI?",
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us",
+      "DRAMeXchange MI Service",
+      "Monthly DataSheetResearch ReportService by Analysts",
+      "More Details",
+      "Contact Us",
+      ""
+    ],
+    "data": [
+      [
+        "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us",
+        "DRAMeXchange MI Service",
+        "Monthly DataSheetResearch ReportService by Analysts",
+        "More Details",
+        "Contact Us"
+      ],
+      [
+        "DRAMeXchange MI Service"
+      ],
+      [
+        "Monthly DataSheetResearch ReportService by Analysts"
+      ],
+      [
+        "More Details",
+        "Contact Us"
+      ],
+      [
+        "SpotMemory CardSSDContractMobile DRAMeMMCDRAM Spot PriceLast Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>Early notice was announced at 10:50 (10 minutes in advance) ,next session will start at 14:20.ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryDDR5 16Gb (2Gx8) 4800/560048.5026.2048.5026.2037.0000.00 %DDR5 16Gb (2Gx8) eTT24.0020.5024.0020.5021.2500.00 %DDR4 16Gb (2Gx8) 320089.0026.5089.0026.5073.0910.00 %DDR4 16Gb (2Gx8) eTT14.9012.9514.9012.9513.5500.00 %DDR4 8Gb (1Gx8) 320049.0012.5049.0012.5033.6000.00 %DDR4 8Gb (1Gx8) eTT7.805.507.805.506.720-0.15 %DDR34Gb 512Mx8 1600/18669.755.509.755.507.7000.00 %Module Spot PriceLast Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryDDR5 UDIMM 16GB 4800/5600240.00200.00240.00200.00222.500-8.25 %DDR5 RDIMM 32GB 4800/56001150.00880.001150.00880.00930.000-0.54 %DDR4 UDIMM 16GB 3200171.00134.00171.00134.00149.333-0.45 %Flash Spot PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistorySLC 2Gb 256MBx83.702.603.702.603.0893.35 %SLC 1Gb 128MBx83.202.303.202.302.5734.68 %MLC 64Gb 8GBx816.0010.0016.0010.0013.1253.96 %MLC 32Gb 4GBx88.306.808.306.807.7002.67 %GDDR Spot PriceLast Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryGDDR5  8Gb20.0010.0020.0010.0012.318-1.67 %GDDR6  8Gb20.009.5020.009.5012.412-2.35 %LPDDR Spot PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>LPDDR 3 32GbLPDDR 3 16GbLPDDR 3 8GbLPDDR 4 32GbLPDDR 4 16GbLPDDR 4 8GbWafer Spot PriceLast Update:Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistory512Gb TLC24.0017.0024.0017.0022.155-2.97 %256Gb TLC11.808.0011.808.0010.920-2.85 %128Gb TLC9.505.009.505.006.833-1.92 %eMMC Spot PriceLast Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>eMMC 128GBeMMC 64GBeMMC 32GBeMMC 16GBeMMC 8GBeMMC 4GBMemory Card PriceLast Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryMicroSD 16GB3.803.103.803.103.345-0.15 %MicroSD 32GB6.806.006.806.006.350-0.78 %MicroSD 64GB10.009.0010.009.009.300-0.80 %MicroSD 128GB19.3017.8019.3017.8018.600-1.85 %Mobile DRAM Contract PriceLPDDR5X 16GBLPDDR5X 12GBLPDDR5X 8GBLPDDR4X 8GBLPDDR4X 4GBeMMC Contract PriceeMMC 16GB MLCeMMC 64GB TLCUFS 256GBeMMC 8GB MLCeMMC 32GB TLCUFS 128GB",
+        "Spot",
+        "Memory Card",
+        "SSD",
+        "Contract",
+        "Mobile DRAM",
+        "eMMC",
+        "DRAM Spot Price",
+        "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>",
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History",
+        "DDR5 16Gb (2Gx8) 4800/5600",
+        "48.50",
+        "26.20",
+        "48.50",
+        "26.20",
+        "37.000",
+        "0.00 %",
+        "",
+        "DDR5 16Gb (2Gx8) eTT",
+        "24.00",
+        "20.50",
+        "24.00",
+        "20.50",
+        "21.250",
+        "0.00 %",
+        "",
+        "DDR4 16Gb (2Gx8) 3200",
+        "89.00",
+        "26.50",
+        "89.00",
+        "26.50",
+        "73.091",
+        "0.00 %",
+        "",
+        "DDR4 16Gb (2Gx8) eTT",
+        "14.90",
+        "12.95",
+        "14.90",
+        "12.95",
+        "13.550",
+        "0.00 %",
+        "",
+        "DDR4 8Gb (1Gx8) 3200",
+        "49.00",
+        "12.50",
+        "49.00",
+        "12.50",
+        "33.600",
+        "0.00 %",
+        "",
+        "DDR4 8Gb (1Gx8) eTT",
+        "7.80",
+        "5.50",
+        "7.80",
+        "5.50",
+        "6.720",
+        "-0.15 %",
+        "",
+        "DDR34Gb 512Mx8 1600/1866",
+        "9.75",
+        "5.50",
+        "9.75",
+        "5.50",
+        "7.700",
+        "0.00 %",
+        "",
+        "Module Spot Price",
+        "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>",
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History",
+        "DDR5 UDIMM 16GB 4800/5600",
+        "240.00",
+        "200.00",
+        "240.00",
+        "200.00",
+        "222.500",
+        "-8.25 %",
+        "",
+        "DDR5 RDIMM 32GB 4800/5600",
+        "1150.00",
+        "880.00",
+        "1150.00",
+        "880.00",
+        "930.000",
+        "-0.54 %",
+        "",
+        "DDR4 UDIMM 16GB 3200",
+        "171.00",
+        "134.00",
+        "171.00",
+        "134.00",
+        "149.333",
+        "-0.45 %",
+        "",
+        "Flash Spot Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>",
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History",
+        "SLC 2Gb 256MBx8",
+        "3.70",
+        "2.60",
+        "3.70",
+        "2.60",
+        "3.089",
+        "3.35 %",
+        "",
+        "SLC 1Gb 128MBx8",
+        "3.20",
+        "2.30",
+        "3.20",
+        "2.30",
+        "2.573",
+        "4.68 %",
+        "",
+        "MLC 64Gb 8GBx8",
+        "16.00",
+        "10.00",
+        "16.00",
+        "10.00",
+        "13.125",
+        "3.96 %",
+        "",
+        "MLC 32Gb 4GBx8",
+        "8.30",
+        "6.80",
+        "8.30",
+        "6.80",
+        "7.700",
+        "2.67 %",
+        "",
+        "GDDR Spot Price",
+        "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>",
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History",
+        "GDDR5  8Gb",
+        "20.00",
+        "10.00",
+        "20.00",
+        "10.00",
+        "12.318",
+        "-1.67 %",
+        "",
+        "GDDR6  8Gb",
+        "20.00",
+        "9.50",
+        "20.00",
+        "9.50",
+        "12.412",
+        "-2.35 %",
+        "",
+        "LPDDR Spot Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>",
+        "LPDDR 3 32Gb",
+        "LPDDR 3 16Gb",
+        "LPDDR 3 8Gb",
+        "LPDDR 4 32Gb",
+        "LPDDR 4 16Gb",
+        "LPDDR 4 8Gb",
+        "Wafer Spot Price",
+        "Last Update:Mar.30 2026    14:40 (GMT+8)<Price Notice>",
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History",
+        "512Gb TLC",
+        "24.00",
+        "17.00",
+        "24.00",
+        "17.00",
+        "22.155",
+        "-2.97 %",
+        "",
+        "256Gb TLC",
+        "11.80",
+        "8.00",
+        "11.80",
+        "8.00",
+        "10.920",
+        "-2.85 %",
+        "",
+        "128Gb TLC",
+        "9.50",
+        "5.00",
+        "9.50",
+        "5.00",
+        "6.833",
+        "-1.92 %",
+        "",
+        "eMMC Spot Price",
+        "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>",
+        "eMMC 128GB",
+        "eMMC 64GB",
+        "eMMC 32GB",
+        "eMMC 16GB",
+        "eMMC 8GB",
+        "eMMC 4GB",
+        "Memory Card Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>",
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History",
+        "MicroSD 16GB",
+        "3.80",
+        "3.10",
+        "3.80",
+        "3.10",
+        "3.345",
+        "-0.15 %",
+        "",
+        "MicroSD 32GB",
+        "6.80",
+        "6.00",
+        "6.80",
+        "6.00",
+        "6.350",
+        "-0.78 %",
+        "",
+        "MicroSD 64GB",
+        "10.00",
+        "9.00",
+        "10.00",
+        "9.00",
+        "9.300",
+        "-0.80 %",
+        "",
+        "MicroSD 128GB",
+        "19.30",
+        "17.80",
+        "19.30",
+        "17.80",
+        "18.600",
+        "-1.85 %",
+        "",
+        "Mobile DRAM Contract Price",
+        "LPDDR5X 16GB",
+        "LPDDR5X 12GB",
+        "LPDDR5X 8GB",
+        "LPDDR4X 8GB",
+        "LPDDR4X 4GB",
+        "",
+        "",
+        "eMMC Contract Price",
+        "",
+        "eMMC 16GB MLC",
+        "eMMC 64GB TLC",
+        "UFS 256GB",
+        "eMMC 8GB MLC",
+        "eMMC 32GB TLC",
+        "UFS 128GB",
+        "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC",
+        "",
+        "",
+        "",
+        "",
+        "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC"
+      ],
+      [
+        "Spot",
+        "Memory Card",
+        "SSD",
+        "Contract",
+        "Mobile DRAM",
+        "eMMC"
+      ],
+      [
+        "DRAM Spot Price",
+        "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History"
+      ],
+      [
+        "DDR5 16Gb (2Gx8) 4800/5600",
+        "48.50",
+        "26.20",
+        "48.50",
+        "26.20",
+        "37.000",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR5 16Gb (2Gx8) eTT",
+        "24.00",
+        "20.50",
+        "24.00",
+        "20.50",
+        "21.250",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 16Gb (2Gx8) 3200",
+        "89.00",
+        "26.50",
+        "89.00",
+        "26.50",
+        "73.091",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 16Gb (2Gx8) eTT",
+        "14.90",
+        "12.95",
+        "14.90",
+        "12.95",
+        "13.550",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 8Gb (1Gx8) 3200",
+        "49.00",
+        "12.50",
+        "49.00",
+        "12.50",
+        "33.600",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 8Gb (1Gx8) eTT",
+        "7.80",
+        "5.50",
+        "7.80",
+        "5.50",
+        "6.720",
+        "-0.15 %",
+        ""
+      ],
+      [
+        "DDR34Gb 512Mx8 1600/1866",
+        "9.75",
+        "5.50",
+        "9.75",
+        "5.50",
+        "7.700",
+        "0.00 %",
+        ""
+      ],
+      [
+        "Module Spot Price",
+        "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History"
+      ],
+      [
+        "DDR5 UDIMM 16GB 4800/5600",
+        "240.00",
+        "200.00",
+        "240.00",
+        "200.00",
+        "222.500",
+        "-8.25 %",
+        ""
+      ],
+      [
+        "DDR5 RDIMM 32GB 4800/5600",
+        "1150.00",
+        "880.00",
+        "1150.00",
+        "880.00",
+        "930.000",
+        "-0.54 %",
+        ""
+      ],
+      [
+        "DDR4 UDIMM 16GB 3200",
+        "171.00",
+        "134.00",
+        "171.00",
+        "134.00",
+        "149.333",
+        "-0.45 %",
+        ""
+      ],
+      [
+        "Flash Spot Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History"
+      ],
+      [
+        "SLC 2Gb 256MBx8",
+        "3.70",
+        "2.60",
+        "3.70",
+        "2.60",
+        "3.089",
+        "3.35 %",
+        ""
+      ],
+      [
+        "SLC 1Gb 128MBx8",
+        "3.20",
+        "2.30",
+        "3.20",
+        "2.30",
+        "2.573",
+        "4.68 %",
+        ""
+      ],
+      [
+        "MLC 64Gb 8GBx8",
+        "16.00",
+        "10.00",
+        "16.00",
+        "10.00",
+        "13.125",
+        "3.96 %",
+        ""
+      ],
+      [
+        "MLC 32Gb 4GBx8",
+        "8.30",
+        "6.80",
+        "8.30",
+        "6.80",
+        "7.700",
+        "2.67 %",
+        ""
+      ],
+      [
+        "GDDR Spot Price",
+        "Last Update:Apr.6 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History"
+      ],
+      [
+        "GDDR5  8Gb",
+        "20.00",
+        "10.00",
+        "20.00",
+        "10.00",
+        "12.318",
+        "-1.67 %",
+        ""
+      ],
+      [
+        "GDDR6  8Gb",
+        "20.00",
+        "9.50",
+        "20.00",
+        "9.50",
+        "12.412",
+        "-2.35 %",
+        ""
+      ],
+      [
+        "LPDDR Spot Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "LPDDR 3 32Gb",
+        "LPDDR 3 16Gb",
+        "LPDDR 3 8Gb"
+      ],
+      [
+        "LPDDR 4 32Gb",
+        "LPDDR 4 16Gb",
+        "LPDDR 4 8Gb"
+      ],
+      [
+        "Wafer Spot Price",
+        "Last Update:Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Weekly High",
+        "Weekly Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Average Change",
+        "History"
+      ],
+      [
+        "512Gb TLC",
+        "24.00",
+        "17.00",
+        "24.00",
+        "17.00",
+        "22.155",
+        "-2.97 %",
+        ""
+      ],
+      [
+        "256Gb TLC",
+        "11.80",
+        "8.00",
+        "11.80",
+        "8.00",
+        "10.920",
+        "-2.85 %",
+        ""
+      ],
+      [
+        "128Gb TLC",
+        "9.50",
+        "5.00",
+        "9.50",
+        "5.00",
+        "6.833",
+        "-1.92 %",
+        ""
+      ],
+      [
+        "eMMC Spot Price",
+        "Last Update: Apr.7 2026    11:00 (GMT+8)<Price Notice>"
+      ],
+      [
+        "eMMC 128GB",
+        "eMMC 64GB",
+        "eMMC 32GB"
+      ],
+      [
+        "eMMC 16GB",
+        "eMMC 8GB",
+        "eMMC 4GB"
+      ],
+      [
+        "Memory Card Price",
+        "Last Update: Mar.30 2026    14:40 (GMT+8)<Price Notice>"
+      ],
+      [
+        "Item",
+        "Daily High",
+        "Daily Low",
+        "Session High",
+        "Session Low",
+        "Session Average",
+        "Session Change",
+        "History"
+      ],
+      [
+        "MicroSD 16GB",
+        "3.80",
+        "3.10",
+        "3.80",
+        "3.10",
+        "3.345",
+        "-0.15 %",
+        ""
+      ],
+      [
+        "MicroSD 32GB",
+        "6.80",
+        "6.00",
+        "6.80",
+        "6.00",
+        "6.350",
+        "-0.78 %",
+        ""
+      ],
+      [
+        "MicroSD 64GB",
+        "10.00",
+        "9.00",
+        "10.00",
+        "9.00",
+        "9.300",
+        "-0.80 %",
+        ""
+      ],
+      [
+        "MicroSD 128GB",
+        "19.30",
+        "17.80",
+        "19.30",
+        "17.80",
+        "18.600",
+        "-1.85 %",
+        ""
+      ],
+      [
+        "Mobile DRAM Contract Price"
+      ],
+      [
+        "LPDDR5X 16GB",
+        "LPDDR5X 12GB",
+        "LPDDR5X 8GB"
+      ],
+      [
+        "LPDDR4X 8GB",
+        "LPDDR4X 4GB",
+        ""
+      ],
+      [
+        "eMMC Contract Price",
+        ""
+      ],
+      [
+        "eMMC 16GB MLC",
+        "eMMC 64GB TLC",
+        "UFS 256GB"
+      ],
+      [
+        "eMMC 8GB MLC",
+        "eMMC 32GB TLC",
+        "UFS 128GB"
+      ],
+      [
+        "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC"
+      ],
+      [
+        "PC-Client OEM SSD Contract Priceloading.....SSD Street PriceLastUpdate:Mar.27 2026 10:30,  (GMT+8)To offer data on end prices for the SSD market that are more precise, TrendForce will be updating the search method and display content starting from January 2026.BrandInterfaceSeriesCapacityHighLowAvg.ChangeADATASATA 6.0 Gb/sSU800512 GB84.9984.9984.990.00 %KimtigoPCIe 4.0TP50001 TB152.60117.50135.000.00 %SamsungPCIe 4.0 X4990 Pro1 TB199.99199.99199.990.00 %PNYPCIe 5.0 X4CS21502 TB289.99289.99289.990.00 %Silicon PowerPCIe 4.0 X4US751 TB139.97131.97135.97-12.77 %DRAM Contract Price(Loading....)",
+        "",
+        "PC-Client OEM SSD Contract Price",
+        "",
+        "loading.....",
+        "SSD Street Price",
+        "LastUpdate:Mar.27 2026 10:30,  (GMT+8)",
+        "Brand",
+        "Interface",
+        "Series",
+        "Capacity",
+        "High",
+        "Low",
+        "Avg.",
+        "Change",
+        "ADATA",
+        "SATA 6.0 Gb/s",
+        "SU800",
+        "512 GB",
+        "84.99",
+        "84.99",
+        "84.99",
+        "0.00 %",
+        "Kimtigo",
+        "PCIe 4.0",
+        "TP5000",
+        "1 TB",
+        "152.60",
+        "117.50",
+        "135.00",
+        "0.00 %",
+        "Samsung",
+        "PCIe 4.0 X4",
+        "990 Pro",
+        "1 TB",
+        "199.99",
+        "199.99",
+        "199.99",
+        "0.00 %",
+        "PNY",
+        "PCIe 5.0 X4",
+        "CS2150",
+        "2 TB",
+        "289.99",
+        "289.99",
+        "289.99",
+        "0.00 %",
+        "Silicon Power",
+        "PCIe 4.0 X4",
+        "US75",
+        "1 TB",
+        "139.97",
+        "131.97",
+        "135.97",
+        "-12.77 %",
+        "",
+        "DRAM Contract Price(Loading....)",
+        ""
+      ],
+      [
+        "PC-Client OEM SSD Contract Price",
+        ""
+      ],
+      [
+        "loading....."
+      ],
+      [
+        "SSD Street Price",
+        "LastUpdate:Mar.27 2026 10:30,  (GMT+8)"
+      ],
+      [
+        "Brand",
+        "Interface",
+        "Series",
+        "Capacity",
+        "High",
+        "Low",
+        "Avg.",
+        "Change"
+      ],
+      [
+        "ADATA",
+        "SATA 6.0 Gb/s",
+        "SU800",
+        "512 GB",
+        "84.99",
+        "84.99",
+        "84.99",
+        "0.00 %"
+      ],
+      [
+        "Kimtigo",
+        "PCIe 4.0",
+        "TP5000",
+        "1 TB",
+        "152.60",
+        "117.50",
+        "135.00",
+        "0.00 %"
+      ],
+      [
+        "Samsung",
+        "PCIe 4.0 X4",
+        "990 Pro",
+        "1 TB",
+        "199.99",
+        "199.99",
+        "199.99",
+        "0.00 %"
+      ],
+      [
+        "PNY",
+        "PCIe 5.0 X4",
+        "CS2150",
+        "2 TB",
+        "289.99",
+        "289.99",
+        "289.99",
+        "0.00 %"
+      ],
+      [
+        "Silicon Power",
+        "PCIe 4.0 X4",
+        "US75",
+        "1 TB",
+        "139.97",
+        "131.97",
+        "135.97",
+        "-12.77 %"
+      ],
+      [
+        "DRAM Contract Price(Loading....)",
+        ""
+      ]
+    ],
+    "row_count": 65,
+    "preview": "Market ViewEnterprise NewsMI updateDRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact UsDatasheetDXIApr.3, 18:00 (GMT+8)what's DXI?SpotMemory CardSSDContract"
+  },
+  {
+    "index": 2,
+    "type": "unknown",
+    "headers": [
+      "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us",
+      "DRAMeXchange MI Service",
+      "Monthly DataSheetResearch ReportService by Analysts",
+      "More Details",
+      "Contact Us"
+    ],
+    "data": [
+      [
+        "DRAMeXchange MI Service"
+      ],
+      [
+        "Monthly DataSheetResearch ReportService by Analysts"
+      ],
+      [
+        "More Details",
+        "Contact Us"
+      ]
+    ],
+    "row_count": 3,
+    "preview": "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us"
+  },
+  {
+    "index": 3,
+    "type": "unknown",
+    "headers": [
+      "DRAMeXchange MI Service"
+    ],
+    "data": [
+      [
+        "Monthly DataSheetResearch ReportService by Analysts"
+      ],
+      [
+        "More Details",
+        "Contact Us"
+      ]
+    ],
+    "row_count": 2,
+    "preview": "DRAMeXchange MI ServiceMonthly DataSheetResearch ReportService by AnalystsMore DetailsContact Us"
+  },
+  {
+    "index": 7,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Daily High",
+      "Daily Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Session Change",
+      "History"
+    ],
+    "data": [
+      [
+        "DDR5 16Gb (2Gx8) 4800/5600",
+        "48.50",
+        "26.20",
+        "48.50",
+        "26.20",
+        "37.000",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR5 16Gb (2Gx8) eTT",
+        "24.00",
+        "20.50",
+        "24.00",
+        "20.50",
+        "21.250",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 16Gb (2Gx8) 3200",
+        "89.00",
+        "26.50",
+        "89.00",
+        "26.50",
+        "73.091",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 16Gb (2Gx8) eTT",
+        "14.90",
+        "12.95",
+        "14.90",
+        "12.95",
+        "13.550",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 8Gb (1Gx8) 3200",
+        "49.00",
+        "12.50",
+        "49.00",
+        "12.50",
+        "33.600",
+        "0.00 %",
+        ""
+      ],
+      [
+        "DDR4 8Gb (1Gx8) eTT",
+        "7.80",
+        "5.50",
+        "7.80",
+        "5.50",
+        "6.720",
+        "-0.15 %",
+        ""
+      ],
+      [
+        "DDR34Gb 512Mx8 1600/1866",
+        "9.75",
+        "5.50",
+        "9.75",
+        "5.50",
+        "7.700",
+        "0.00 %",
+        ""
+      ]
+    ],
+    "row_count": 7,
+    "preview": "ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryDDR5 16Gb (2Gx8) 4800/560048.5026.2048.5026.2037.0000.00 %DDR5 16Gb (2Gx8) eTT24.0020.5024.0020.5021.2500.00 %DDR4 16G"
+  },
+  {
+    "index": 9,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Weekly High",
+      "Weekly Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Average Change",
+      "History"
+    ],
+    "data": [
+      [
+        "DDR5 UDIMM 16GB 4800/5600",
+        "240.00",
+        "200.00",
+        "240.00",
+        "200.00",
+        "222.500",
+        "-8.25 %",
+        ""
+      ],
+      [
+        "DDR5 RDIMM 32GB 4800/5600",
+        "1150.00",
+        "880.00",
+        "1150.00",
+        "880.00",
+        "930.000",
+        "-0.54 %",
+        ""
+      ],
+      [
+        "DDR4 UDIMM 16GB 3200",
+        "171.00",
+        "134.00",
+        "171.00",
+        "134.00",
+        "149.333",
+        "-0.45 %",
+        ""
+      ]
+    ],
+    "row_count": 3,
+    "preview": "ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryDDR5 UDIMM 16GB 4800/5600240.00200.00240.00200.00222.500-8.25 %DDR5 RDIMM 32GB 4800/56001150.00880.001150.00880.0093"
+  },
+  {
+    "index": 11,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Daily High",
+      "Daily Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Session Change",
+      "History"
+    ],
+    "data": [
+      [
+        "SLC 2Gb 256MBx8",
+        "3.70",
+        "2.60",
+        "3.70",
+        "2.60",
+        "3.089",
+        "3.35 %",
+        ""
+      ],
+      [
+        "SLC 1Gb 128MBx8",
+        "3.20",
+        "2.30",
+        "3.20",
+        "2.30",
+        "2.573",
+        "4.68 %",
+        ""
+      ],
+      [
+        "MLC 64Gb 8GBx8",
+        "16.00",
+        "10.00",
+        "16.00",
+        "10.00",
+        "13.125",
+        "3.96 %",
+        ""
+      ],
+      [
+        "MLC 32Gb 4GBx8",
+        "8.30",
+        "6.80",
+        "8.30",
+        "6.80",
+        "7.700",
+        "2.67 %",
+        ""
+      ]
+    ],
+    "row_count": 4,
+    "preview": "ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistorySLC 2Gb 256MBx83.702.603.702.603.0893.35 %SLC 1Gb 128MBx83.202.303.202.302.5734.68 %MLC 64Gb 8GBx816.0010.0016.0010.00"
+  },
+  {
+    "index": 13,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Weekly High",
+      "Weekly Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Average Change",
+      "History"
+    ],
+    "data": [
+      [
+        "GDDR5  8Gb",
+        "20.00",
+        "10.00",
+        "20.00",
+        "10.00",
+        "12.318",
+        "-1.67 %",
+        ""
+      ],
+      [
+        "GDDR6  8Gb",
+        "20.00",
+        "9.50",
+        "20.00",
+        "9.50",
+        "12.412",
+        "-2.35 %",
+        ""
+      ]
+    ],
+    "row_count": 2,
+    "preview": "ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistoryGDDR5  8Gb20.0010.0020.0010.0012.318-1.67 %GDDR6  8Gb20.009.5020.009.5012.412-2.35 %"
+  },
+  {
+    "index": 17,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Weekly High",
+      "Weekly Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Average Change",
+      "History"
+    ],
+    "data": [
+      [
+        "512Gb TLC",
+        "24.00",
+        "17.00",
+        "24.00",
+        "17.00",
+        "22.155",
+        "-2.97 %",
+        ""
+      ],
+      [
+        "256Gb TLC",
+        "11.80",
+        "8.00",
+        "11.80",
+        "8.00",
+        "10.920",
+        "-2.85 %",
+        ""
+      ],
+      [
+        "128Gb TLC",
+        "9.50",
+        "5.00",
+        "9.50",
+        "5.00",
+        "6.833",
+        "-1.92 %",
+        ""
+      ]
+    ],
+    "row_count": 3,
+    "preview": "ItemWeekly HighWeekly LowSession HighSession LowSession AverageAverage ChangeHistory512Gb TLC24.0017.0024.0017.0022.155-2.97 %256Gb TLC11.808.0011.808.0010.920-2.85 %128Gb TLC9.505.009.505.006.833-1.9"
+  },
+  {
+    "index": 21,
+    "type": "unknown",
+    "headers": [
+      "Item",
+      "Daily High",
+      "Daily Low",
+      "Session High",
+      "Session Low",
+      "Session Average",
+      "Session Change",
+      "History"
+    ],
+    "data": [
+      [
+        "MicroSD 16GB",
+        "3.80",
+        "3.10",
+        "3.80",
+        "3.10",
+        "3.345",
+        "-0.15 %",
+        ""
+      ],
+      [
+        "MicroSD 32GB",
+        "6.80",
+        "6.00",
+        "6.80",
+        "6.00",
+        "6.350",
+        "-0.78 %",
+        ""
+      ],
+      [
+        "MicroSD 64GB",
+        "10.00",
+        "9.00",
+        "10.00",
+        "9.00",
+        "9.300",
+        "-0.80 %",
+        ""
+      ],
+      [
+        "MicroSD 128GB",
+        "19.30",
+        "17.80",
+        "19.30",
+        "17.80",
+        "18.600",
+        "-1.85 %",
+        ""
+      ]
+    ],
+    "row_count": 4,
+    "preview": "ItemDaily HighDaily LowSession HighSession LowSession AverageSession ChangeHistoryMicroSD 16GB3.803.103.803.103.345-0.15 %MicroSD 32GB6.806.006.806.006.350-0.78 %MicroSD 64GB10.009.0010.009.009.300-0."
+  },
+  {
+    "index": 28,
+    "type": "flash_spot",
+    "headers": [
+      ""
+    ],
+    "data": [
+      [
+        "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC"
+      ]
+    ],
+    "row_count": 1,
+    "preview": "Chip of the day[Flash Spot] 32Gb 4Gx8 MLC"
+  },
+  {
+    "index": 33,
+    "type": "unknown",
+    "headers": [
+      "Brand",
+      "Interface",
+      "Series",
+      "Capacity",
+      "High",
+      "Low",
+      "Avg.",
+      "Change"
+    ],
+    "data": [
+      [
+        "ADATA",
+        "SATA 6.0 Gb/s",
+        "SU800",
+        "512 GB",
+        "84.99",
+        "84.99",
+        "84.99",
+        "0.00 %"
+      ],
+      [
+        "Kimtigo",
+        "PCIe 4.0",
+        "TP5000",
+        "1 TB",
+        "152.60",
+        "117.50",
+        "135.00",
+        "0.00 %"
+      ],
+      [
+        "Samsung",
+        "PCIe 4.0 X4",
+        "990 Pro",
+        "1 TB",
+        "199.99",
+        "199.99",
+        "199.99",
+        "0.00 %"
+      ],
+      [
+        "PNY",
+        "PCIe 5.0 X4",
+        "CS2150",
+        "2 TB",
+        "289.99",
+        "289.99",
+        "289.99",
+        "0.00 %"
+      ],
+      [
+        "Silicon Power",
+        "PCIe 4.0 X4",
+        "US75",
+        "1 TB",
+        "139.97",
+        "131.97",
+        "135.97",
+        "-12.77 %"
+      ]
+    ],
+    "row_count": 5,
+    "preview": "BrandInterfaceSeriesCapacityHighLowAvg.ChangeADATASATA 6.0 Gb/sSU800512 GB84.9984.9984.990.00 %KimtigoPCIe 4.0TP50001 TB152.60117.50135.000.00 %SamsungPCIe 4.0 X4990 Pro1 TB199.99199.99199.990.00 %PNY"
+  },
+  {
+    "index": 42,
+    "type": "unknown",
+    "headers": [
+      "About DRAMeXchange|Advertise with us|Contact|FAQs|Privacy policy|Terms of use|Sitemap|Career|Mobile view"
+    ],
+    "data": [
+      [
+        "\u00a9 2026 DRAMeXchange, a Business Division ofTrendForce Corp.All rights reserved."
+      ]
+    ],
+    "row_count": 1,
+    "preview": "About DRAMeXchange|Advertise with us|Contact|FAQs|Privacy policy|Terms of use|Sitemap|Career|Mobile view\u00a9 2026 DRAMeXchange, a Business Division ofTrendForce Corp.All rights reserved."
+  }
+]

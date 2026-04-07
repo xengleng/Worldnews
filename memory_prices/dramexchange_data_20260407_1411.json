@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "source": "https://www.dramexchange.com/",
+    "timestamp": "2026-04-07T06:08:55Z",
+    "extracted_at": "2026-04-07T06:11:27Z",
+    "timezone": "Asia/Singapore",
+    "data_timestamp": "Apr.3, 18:00 (GMT+8)",
+    "access_type": "public_homepage",
+    "login_required": false
+  },
+  "dram_spot_daily": [
+    {
+      "item": "DDR5 16Gb (2Gx8) 4800/5600",
+      "daily_high": 48.50,
+      "daily_low": 26.20,
+      "session_high": 48.50,
+      "session_low": 26.20,
+      "session_average": 37.000,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR5 16Gb (2Gx8) eTT",
+      "daily_high": 24.00,
+      "daily_low": 20.50,
+      "session_high": 24.00,
+      "session_low": 20.50,
+      "session_average": 21.250,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR4 16Gb (2Gx8) 3200",
+      "daily_high": 89.00,
+      "daily_low": 26.50,
+      "session_high": 89.00,
+      "session_low": 26.50,
+      "session_average": 73.091,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR4 16Gb (2Gx8) eTT",
+      "daily_high": 14.90,
+      "daily_low": 12.95,
+      "session_high": 14.90,
+      "session_low": 12.95,
+      "session_average": 13.550,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR4 8Gb (1Gx8) 3200",
+      "daily_high": 49.00,
+      "daily_low": 12.50,
+      "session_high": 49.00,
+      "session_low": 12.50,
+      "session_average": 33.600,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR4 8Gb (1Gx8) eTT",
+      "daily_high": 7.80,
+      "daily_low": 5.50,
+      "session_high": 7.80,
+      "session_low": 5.50,
+      "session_average": 6.720,
+      "session_change": -0.15,
+      "change_percent": -0.15,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    },
+    {
+      "item": "DDR3 4Gb 512Mx8 1600/1866",
+      "daily_high": 9.75,
+      "daily_low": 5.50,
+      "session_high": 9.75,
+      "session_low": 5.50,
+      "session_average": 7.700,
+      "session_change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/Dram_Spot"
+    }
+  ],
+  "module_spot_weekly": [
+    {
+      "item": "DDR5 UDIMM 16GB 4800/5600",
+      "weekly_high": 240.00,
+      "weekly_low": 200.00,
+      "session_high": 240.00,
+      "session_low": 200.00,
+      "session_average": 222.500,
+      "average_change": -8.25,
+      "change_percent": -8.25,
+      "url": "https://www.dramexchange.com/Price/Module_Spot"
+    },
+    {
+      "item": "DDR5 RDIMM 32GB 4800/5600",
+      "weekly_high": 1150.00,
+      "weekly_low": 880.00,
+      "session_high": 1150.00,
+      "session_low": 880.00,
+      "session_average": 930.000,
+      "average_change": -0.54,
+      "change_percent": -0.54,
+      "url": "https://www.dramexchange.com/Price/Module_Spot"
+    },
+    {
+      "item": "DDR4 UDIMM 16GB 3200",
+      "weekly_high": 171.00,
+      "weekly_low": 134.00,
+      "session_high": 171.00,
+      "session_low": 134.00,
+      "session_average": 149.333,
+      "average_change": -0.45,
+      "change_percent": -0.45,
+      "url": "https://www.dramexchange.com/Price/Module_Spot"
+    }
+  ],
+  "flash_spot_daily": [
+    {
+      "item": "SLC 2Gb 256MBx8",
+      "daily_high": 3.70,
+      "daily_low": 2.60,
+      "session_high": 3.70,
+      "session_low": 2.60,
+      "session_average": 3.089,
+      "session_change": 3.35,
+      "change_percent": 3.35,
+      "url": "https://www.dramexchange.com/Price/Flash_Spot"
+    },
+    {
+      "item": "SLC 1Gb 128MBx8",
+      "daily_high": 3.20,
+      "daily_low": 2.30,
+      "session_high": 3.20,
+      "session_low": 2.30,
+      "session_average": 2.573,
+      "session_change": 4.68,
+      "change_percent": 4.68,
+      "url": "https://www.dramexchange.com/Price/Flash_Spot"
+    },
+    {
+      "item": "MLC 64Gb 8GBx8",
+      "daily_high": 16.00,
+      "daily_low": 10.00,
+      "session_high": 16.00,
+      "session_low": 10.00,
+      "session_average": 13.125,
+      "session_change": 3.96,
+      "change_percent": 3.96,
+      "url": "https://www.dramexchange.com/Price/Flash_Spot"
+    },
+    {
+      "item": "MLC 32Gb 4GBx8",
+      "daily_high": 8.30,
+      "daily_low": 6.80,
+      "session_high": 8.30,
+      "session_low": 6.80,
+      "session_average": 7.700,
+      "session_change": 2.67,
+      "change_percent": 2.67,
+      "url": "https://www.dramexchange.com/Price/Flash_Spot"
+    }
+  ],
+  "gddr_spot_weekly": [
+    {
+      "item": "GDDR5 8Gb",
+      "weekly_high": 20.00,
+      "weekly_low": 10.00,
+      "session_high": 20.00,
+      "session_low": 10.00,
+      "session_average": 12.318,
+      "average_change": -1.67,
+      "change_percent": -1.67,
+      "url": "https://www.dramexchange.com/Price/GDDR_Spot"
+    },
+    {
+      "item": "GDDR6 8Gb",
+      "weekly_high": 20.00,
+      "weekly_low": 9.50,
+      "session_high": 20.00,
+      "session_low": 9.50,
+      "session_average": 12.412,
+      "average_change": -2.35,
+      "change_percent": -2.35,
+      "url": "https://www.dramexchange.com/Price/GDDR_Spot"
+    }
+  ],
+  "wafer_spot_weekly": [
+    {
+      "item": "512Gb TLC",
+      "weekly_high": 24.00,
+      "weekly_low": 17.00,
+      "session_high": 24.00,
+      "session_low": 17.00,
+      "session_average": 22.155,
+      "average_change": -2.97,
+      "change_percent": -2.97,
+      "url": "https://www.dramexchange.com/Price/Wafer_Spot"
+    },
+    {
+      "item": "256Gb TLC",
+      "weekly_high": 11.80,
+      "weekly_low": 8.00,
+      "session_high": 11.80,
+      "session_low": 8.00,
+      "session_average": 10.920,
+      "average_change": -2.85,
+      "change_percent": -2.85,
+      "url": "https://www.dramexchange.com/Price/Wafer_Spot"
+    },
+    {
+      "item": "128Gb TLC",
+      "weekly_high": 9.50,
+      "weekly_low": 5.00,
+      "session_high": 9.50,
+      "session_low": 5.00,
+      "session_average": 6.833,
+      "average_change": -1.92,
+      "change_percent": -1.92,
+      "url": "https://www.dramexchange.com/Price/Wafer_Spot"
+    }
+  ],
+  "memory_card_spot_daily": [
+    {
+      "item": "MicroSD 16GB",
+      "daily_high": 3.80,
+      "daily_low": 3.10,
+      "session_high": 3.80,
+      "session_low": 3.10,
+      "session_average": 3.345,
+      "session_change": -0.15,
+      "change_percent": -0.15,
+      "url": "https://www.dramexchange.com/Price/MemoryCard_Spot"
+    },
+    {
+      "item": "MicroSD 32GB",
+      "daily_high": 6.80,
+      "daily_low": 6.00,
+      "session_high": 6.80,
+      "session_low": 6.00,
+      "session_average": 6.350,
+      "session_change": -0.78,
+      "change_percent": -0.78,
+      "url": "https://www.dramexchange.com/Price/MemoryCard_Spot"
+    },
+    {
+      "item": "MicroSD 64GB",
+      "daily_high": 10.00,
+      "daily_low": 9.00,
+      "session_high": 10.00,
+      "session_low": 9.00,
+      "session_average": 9.300,
+      "session_change": -0.80,
+      "change_percent": -0.80,
+      "url": "https://www.dramexchange.com/Price/MemoryCard_Spot"
+    },
+    {
+      "item": "MicroSD 128GB",
+      "daily_high": 19.30,
+      "daily_low": 17.80,
+      "session_high": 19.30,
+      "session_low": 17.80,
+      "session_average": 18.600,
+      "session_change": -1.85,
+      "change_percent": -1.85,
+      "url": "https://www.dramexchange.com/Price/MemoryCard_Spot"
+    }
+  ],
+  "ssd_street_prices": [
+    {
+      "brand": "ADATA",
+      "interface": "SATA 6.0 Gb/s",
+      "series": "SU800",
+      "capacity": "512 GB",
+      "high": 84.99,
+      "low": 84.99,
+      "average": 84.99,
+      "change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/SSD_Street"
+    },
+    {
+      "brand": "Kimtigo",
+      "interface": "PCIe 4.0",
+      "series": "TP5000",
+      "capacity": "1 TB",
+      "high": 152.60,
+      "low": 117.50,
+      "average": 135.00,
+      "change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/SSD_Street"
+    },
+    {
+      "brand": "Samsung",
+      "interface": "PCIe 4.0 X4",
+      "series": "990 Pro",
+      "capacity": "1 TB",
+      "high": 199.99,
+      "low": 199.99,
+      "average": 199.99,
+      "change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/SSD_Street"
+    },
+    {
+      "brand": "PNY",
+      "interface": "PCIe 5.0 X4",
+      "series": "CS2150",
+      "capacity": "2 TB",
+      "high": 289.99,
+      "low": 289.99,
+      "average": 289.99,
+      "change": 0.00,
+      "change_percent": 0.00,
+      "url": "https://www.dramexchange.com/Price/SSD_Street"
+    },
+    {
+      "brand": "Silicon Power",
+      "interface": "PCIe 4.0 X4",
+      "series": "US75",
+      "capacity": "1 TB",
+      "high": 139.97,
+      "low": 131.97,
+      "average": 135.97,
+      "change": -12.77,
+      "change_percent": -12.77,
+      "url": "https://www.dramexchange.com/Price/SSD_Street"
+    }
+  ],
+  "summary": {
+    "total_categories": 7,
+    "total_items": 28,
+    "price_increases": 4,
+    "price_decreases": 8,
+    "unchanged": 16,
+    "largest_increase": "SLC 1Gb 128MBx8 (+4.68%)",
+    "largest_decrease": "Silicon Power US75 1TB (-12.77%)",
+    "market_sentiment": "mixed",
+    "key_observation": "Flash memory showing strength while DDR5 modules and NAND wafers declining"
+  }
+}

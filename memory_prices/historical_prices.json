@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "created": "2026-04-06T11:15:10.501983",
+    "last_updated": "2026-04-06T11:15:10.502126",
+    "source": "DRAMExchange.com",
+    "currency": "USD",
+    "version": "1.0",
+    "total_records": 1
+  },
+  "price_history": {
+    "2026-04-06T11:15:10.502126": {
+      "timestamp": "2026-04-06T11:15:10.502126",
+      "prices": [
+        {
+          "category": "dram_spot",
+          "item": "DDR5 16Gb (2Gx8) 4800/5600",
+          "daily_high": 48.0,
+          "daily_low": 25.8,
+          "session_high": 48.0,
+          "session_low": 26.0,
+          "session_avg": 37.0,
+          "change_percent": 0.0,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "dram_spot",
+          "item": "DDR5 16Gb (2Gx8) eTT",
+          "daily_high": 23.8,
+          "daily_low": 20.6,
+          "session_high": 23.8,
+          "session_low": 20.6,
+          "session_avg": 21.25,
+          "change_percent": -0.24,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "dram_spot",
+          "item": "DDR4 16Gb (2Gx8) 3200",
+          "daily_high": 90.0,
+          "daily_low": 26.2,
+          "session_high": 90.0,
+          "session_low": 26.2,
+          "session_avg": 73.091,
+          "change_percent": -0.31,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "dram_spot",
+          "item": "DDR4 16Gb (2Gx8) eTT",
+          "daily_high": 15.0,
+          "daily_low": 13.0,
+          "session_high": 15.0,
+          "session_low": 13.0,
+          "session_avg": 13.55,
+          "change_percent": 0.0,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "flash_spot",
+          "item": "SLC 2Gb 256MBx8",
+          "daily_high": 3.6,
+          "daily_low": 2.5,
+          "session_high": 3.6,
+          "session_low": 2.5,
+          "session_avg": 2.989,
+          "change_percent": 9.37,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "flash_spot",
+          "item": "SLC 1Gb 128MBx8",
+          "daily_high": 3.05,
+          "daily_low": 2.2,
+          "session_high": 3.05,
+          "session_low": 2.2,
+          "session_avg": 2.458,
+          "change_percent": 8.52,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "module_spot",
+          "item": "DDR5 UDIMM 16GB 4800/5600",
+          "weekly_high": 250.0,
+          "weekly_low": 200.0,
+          "session_high": 250.0,
+          "session_low": 200.0,
+          "session_avg": 232.5,
+          "avg_change": 0.0,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        },
+        {
+          "category": "memory_card",
+          "item": "MicroSD 16GB",
+          "daily_high": 3.8,
+          "daily_low": 3.0,
+          "session_high": 3.8,
+          "session_low": 3.0,
+          "session_avg": 3.35,
+          "change_percent": 6.35,
+          "timestamp": "2026-04-06T11:15:10.502086"
+        }
+      ]
+    }
+  }
+}

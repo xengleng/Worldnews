@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-04-06T11:34:42.408866",
+  "prices": [
+    {
+      "category": "dram_spot",
+      "item": "DDR5 16Gb (2Gx8) 4800/5600",
+      "session_avg": 37.0,
+      "change_percent": 0.0,
+      "data_source": "SAMPLE_DATA",
+      "disclaimer": "Not real - for framework testing",
+      "timestamp": "2026-04-06T11:34:42.408695",
+      "fetch_time": "2026-04-06T11:34:42.408695",
+      "is_real_data": false
+    },
+    {
+      "category": "dram_spot",
+      "item": "DDR4 16Gb (2Gx8) 3200",
+      "session_avg": 73.091,
+      "change_percent": -0.31,
+      "data_source": "SAMPLE_DATA",
+      "disclaimer": "Not real - for framework testing",
+      "timestamp": "2026-04-06T11:34:42.408695",
+      "fetch_time": "2026-04-06T11:34:42.408695",
+      "is_real_data": false
+    }
+  ],
+  "metadata": {
+    "is_real_data": false,
+    "data_source": "Sample data",
+    "disclaimer": "Real implementation requires API access or manual data entry"
+  }
+}

@@ -1,0 +1,83 @@
+🌐 **REAL WEB SCRAPING REPORT - MEMORY PRICES**
+Time: 2026-04-06 11:49:11 SGT
+
+## 🔍 **ACTUAL WEBSITES SCRAPED**
+
+✅ **Successful:** 6 websites
+• DRAMExchange Home
+  URL: https://www.dramexchange.com/
+  Price mentions: 60
+  Sample: DRAMeXchange - World leading DRAM and NAND Flash market research firm, with more...
+
+• AnandTech Memory
+  URL: https://www.anandtech.com/tag/memory
+  Price mentions: 11
+  Sample: AnandTech Forums: Technology, Hardware, Software, and Deals...
+
+• Tom's Hardware Memory
+  URL: https://www.tomshardware.com/tag/memory
+  Price mentions: 40
+  Sample: Memory News, Analysis and Features | Tom's Hardware...
+
+• Google News Search - Memory Prices
+  URL: https://news.google.com/search?q=memory+prices+dram+nand
+  Price mentions: 1
+  Sample: Google News - SearchNewsGoogle NewsAdvanced searchHelp HelpPrivacyTermsAbout Goo...
+
+• Reddit r/hardware - Memory
+  URL: https://www.reddit.com/r/hardware/search/?q=memory%20price&restrict_sr=1
+  Price mentions: 0
+
+• TechPowerUp News
+  URL: https://www.techpowerup.com/
+  Price mentions: 36
+  Sample: SSD Database...
+
+❌ **Failed:** 1 websites
+• TechSpot Memory: 403 Client Error: Forbidden for url: https://www.techspot.com/tag/memory/
+
+## 💰 **PRICE DATA EXTRACTED**
+
+✅ Found 1 price references
+
+**AnandTech Memory:**
+• $599.00 USD (Pattern: \$(\d+\.?\d*)...)
+
+## 🎯 **NEXT STEPS FOR BETTER SCRAPING**
+
+1. **Scrape e-commerce sites** for retail memory prices:
+   • Amazon: RAM, SSD listings
+   • Newegg: Memory component prices
+   • PCPartPicker: Price tracking
+
+2. **Monitor tech deal sites**:
+   • Slickdeals: Memory/SSD deals
+   • TechBargains: Component prices
+
+3. **Use price tracking APIs**:
+   • Keepa API (Amazon price history)
+   • CamelCamelCamel (price tracking)
+
+4. **Community data sources**:
+   • Reddit r/buildapcsales
+   • Forum price tracking threads
+
+## ⚠️ **SCRAPING REALITIES**
+
+• **Professional price data is paid** - DRAMExchange, TrendForce charge
+• **Retail prices ≠ spot prices** - Different markets
+• **Web scraping has limits** - Sites block, change structure
+• **Ethical considerations** - Respect robots.txt, rate limiting
+
+## 🔗 **ACTUALLY SCRAPED URLS**
+
+• https://www.dramexchange.com/
+• https://www.anandtech.com/tag/memory
+• https://www.tomshardware.com/tag/memory
+• https://news.google.com/search?q=memory+prices+dram+nand
+• https://www.reddit.com/r/hardware/search/?q=memory%20price&restrict_sr=1
+• https://www.techpowerup.com/
+
+---
+Generated: Real Web Scraper v1.0
+Total websites attempted: 7
