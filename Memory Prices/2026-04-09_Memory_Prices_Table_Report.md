@@ -148,10 +148,11 @@
 
 ## 📅 **NEXT UPDATE**
 
-- **Scheduled:** Tomorrow 09:00 SGT
-- **Monitoring:** Real-time price changes
-- **News Coverage:** Latest market developments
-- **Alert Threshold:** >5% daily price movements
+- **Schedule:** Every Monday 09:00 SGT
+- **Next Report:** Monday, April 13, 2026
+- **Monitoring:** Weekly market analysis
+- **News Coverage:** Latest developments within 2 weeks
+- **Alert Threshold:** >10% weekly price movements
 
 ---
 
