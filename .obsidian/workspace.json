@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09a9875de0d84c06",
+        "id": "76efdbdf319336f0",
         "type": "tabs",
         "children": [
           {
-            "id": "6f74d144befd0c58",
+            "id": "2c7e021bae6157b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Prices/2026-04-07_Memory_Prices_Table_Report.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-07_Memory_Prices_Table_Report"
+              "title": "New tab"
             }
           }
         ]
@@ -181,14 +177,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f74d144befd0c58",
+  "active": "03ade024e2a9d4f1",
   "lastOpenFiles": [
+    "2026-04-11.md",
+    "Memory Prices/2026-04-07_Memory_Prices_Table_Report.md",
+    "Daily Market Report/2026-04-11_Daily_Market_Report.md",
+    "Daily Market Report",
+    "World News/2026-04-11_World_Monitor_Brief_-_2026-04-11_0900_SGT.md",
+    "World News/2026-04-10_World_Monitor_Brief_-_2026-04-10_1800_SGT.md",
+    "World News/2026-04-10_World_Monitor_Brief_-_2026-04-10_0900_SGT.md",
+    "World News/2026-04-09_World_Monitor_Brief_-_2026-04-09_1800_SGT.md",
+    "World News/2026-04-09_Memory_Prices_Table_Report_-_20260409_0914_SGT.md",
+    "World News/2026-04-09_World_Monitor_Brief_-_2026-04-09_0901_SGT.md",
+    "World News/2026-04-09_Memory_Prices_Table_Report_-_20260409_0100_SGT.md",
+    "Memory Prices/2026-04-09_Memory_Prices_Table_Report.md",
+    "World News/2026-04-08_World_Monitor_Brief_-_2026-04-08_1801_SGT.md",
+    "World News/2026-04-08_World_Monitor_Brief_-_2026-04-08_0901_SGT.md",
+    "Memory Prices/2026-04-08_Memory_Prices_Table_Report.md",
     "World News/2026-04-06_World_Monitor_Brief_-_2026-04-06_1308_SGT.md",
     "Memory Prices/2026-04-07_DRAMExchange_Daily_Price_Report.md",
     "World News/2026-04-07_Memory_Prices_Info_-_20260407_1714_SGT.md",
     "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_1800_SGT.md",
     "World News/2026-04-07_Memory_Prices_Table_Report_-_20260407_1754_SGT.md",
-    "Memory Prices/2026-04-07_Memory_Prices_Table_Report.md",
     "World News/2026-04-07_Memory_Prices_Table_Report_-_20260407_1741_SGT.md",
     "World News/2026-04-07_Memory_Prices_Info_-_20260407_1719_SGT.md",
     "World News/2026-04-07_Public_Memory_Market_Report_-_20260407_1057_SGT.md",
@@ -196,19 +206,6 @@
     "World News/2026-04-07_Memory_Market_Report_-_20260407_1443_SGT.md",
     "World News/2026-04-07_DRAMExchange_Homepage_Prices_-_20260407_1442_SGT.md",
     "Memory Prices",
-    "World News/2026-04-07_DRAMExchange_Homepage_Prices_-_20260407_1410_SGT.md",
-    "World News/2026-04-07_Memory_Market_Report_-_20260407_1409_SGT.md",
-    "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_1400_SGT.md",
-    "World News/2026-04-07_DRAMExchange_Homepage_Prices_-_20260407_1121_SGT.md",
-    "World News/2026-04-07_DRAMExchange_Simple_Prices_-_20260407_1115_SGT.md",
-    "World News/2026-04-07_DRAMExchange_Prices_-_20260407_1112_SGT.md",
-    "World News/2026-04-07_Memory_Market_Report_-_20260407_1105_SGT.md",
-    "World News/2026-04-07_DRAMExchange_Charts_-_20260407_1102_SGT.md",
-    "World News/2026-04-07_Public_Memory_Market_Report_-_20260407_1052_SGT.md",
-    "World News/2026-04-07_DRAMExchange_Memory_Prices_-_20260407_1043_SGT.md",
-    "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_1000_SGT.md",
-    "World News/2026-04-07_Production_Memory_Price_Scraper_Report_-_2026-04-07_0954_SGT.md",
-    "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_0953_SGT.md",
-    "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_0500_SGT.md"
+    "World News/2026-04-07_DRAMExchange_Homepage_Prices_-_20260407_1410_SGT.md"
   ]
 }
