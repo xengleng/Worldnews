@@ -1,0 +1,156 @@
+{
+  "agent": "climate",
+  "timestamp": "20260413_0757",
+  "run_ts_utc": "2026-04-13T07:57:55.676934Z",
+  "insights": [
+    {
+      "headline": "Cat 5 Super Typhoon Sinlaku — 2nd Strongest Typhoon Ever Recorded This Early in Year",
+      "summary": "Super Typhoon Sinlaku has rapidly intensified to Category 5 with 150mph winds, marking the 2nd-strongest typhoon recorded this early in a calendar year. The storm is bearing down on Guam and the Mariana Islands. Meteorologists warn Sinlaku could impact Hawaii with significant surf. Climate scientists note the unprecedented early-season intensity is consistent with warming ocean temperatures.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["Yale Climate Connections", "CIMSS/SSEC", "American Red Cross", "San Francisco Chronicle", "Severe Weather Europe"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTlyTE91MUhVbl9KaTQ2Sk9NVWhrem1lVXY2aVQwN3hQU1FyNXZRcnplcHhhNXlUbm5IQWtnc2RnSm5tYzAteDFjUFNoLVNkS09GekRQeF80UHFRdUtCZHI5S0l5N19oRko2VEdhdW1PYzhSZlZnZXZGQzVkdFVGREc5SjgzSGNHVmpycDFmOTdOQmFYQ3p4R0JGN0k2OHRrd3hjNEQ0Qzd1MTlXS3BENkUydGQ4TzVnc3c?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqVVU2alRVRTRpLWhBUEZmSXJ5TmRGU1NXZmlBRVprdFN6YzFTNVI1OGVKWVR1N0tOa1BrakNnOXJJYXJlRTZUSTNHZlVyVlh5UWxqUExrM3hQOU9wVHBhM3pueWZHcHFV?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZYRjd6a3BLTURpcU9Fb25Eb3dtc3Z2NDQyMjFYVFZSRjVLM1hGd0RxTU9FSmxjbXJZU0VtSUJ1RmxtckN2OU9jSy1CRjlTY1NIWU9BMzJWZ3J0MUV2ck1ZS3NjR3BnenJaQ3JUVFpsaDltNGN2cDlIcldjZV9yWXFDQkJlci1TRzgwNmp5RXlVSEVoYTF4Q1ZQbHRJUUE2?oc=5"
+      ],
+      "published": "2026-04-13 04:48"
+    },
+    {
+      "headline": "Michigan, Hawaii, Texas, Houston All Under Active Flood Watches/Warnings",
+      "summary": "Simultaneous flood emergencies are active across Michigan (until Apr 19), all Hawaiian Islands (flash flood watch), Houston TX area (4-6 inches potential), and the San Francisco Bay Area (Level 2 storm impacts). The breadth of concurrent flooding events across diverse US geographies underscores the national-scale disruption from extreme precipitation patterns.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["MLive.com", "Manistee News Advocate", "Houston Chronicle", "KHON2", "ABC7 San Francisco"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1FqWG1OUWpOWnM4eEZId0V0bHN4VWQzX0pPQjVLMThWcFctU19EOWx1VlRtMDBiMThyYVpackZHMU54TnJuWHZsZWxZSmJZRE5LYlNocHRjVlZWMjJaYnh5MUdoM0pTMHJ1UndoOHdNQnpzaVFoeXFkUWRMdllfRHQycHlCSEJWeTZEcGVLNFZabkFuYzc0UnFpNVllYTNEQldKMWxGUTlQOU8yVWpycWo3MTluUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXZ0YWNfeW9oejVNdU9jR2djRnQ1ZTU2THhUYm5hTWhNNHJxZVlfUnptU2xOV1VubmhaM01jVVB2Rkl5Y3F3SUtMY285QkNCdE5DdGdpNDUxZVNzR0ZkVGJZM3JWQUNTTmx3LTk3dW9icWwyc1BqZlR2a3RLTnVZUmdOeHVneU1KVDd2Y3JHZlZkdGxET1hkMGdUdGFZNDFC?oc=5"
+      ],
+      "published": "2026-04-13 00:12"
+    },
+    {
+      "headline": "Extreme Weather Scientists Warn of Impending Funding Drought",
+      "summary": "Climate scientists specializing in extreme weather events are warning of an impending funding drought just as the frequency and intensity of extreme weather events is accelerating. The contradiction highlights a critical policy failure: the scientists best positioned to help societies adapt are facing resource constraints precisely when their expertise is most needed.",
+      "category": "climate",
+      "alert_level": "HIGH",
+      "source_names": ["RNZ"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUIyMzRQVWtoSUVvNkxKYnl2YnIyNzVncENmcFlvRzBXU1h4NGR4SjVCZjVhWG44WmtPMWlhR0VDMHJBOWRlR2lSWnI0RVNWWGExejVBMUJ2TllOeDN6d3otTHhNc0wtcjN0ZFY3OVFha3p2Nnk3V0VkMkptdTRrT0pZRGFJMkkzeDhreEdBeVozR2Q1c3RpdUo0Q3lGTWxrTkhScFhR?oc=5"
+      ],
+      "published": "2026-04-12 18:32"
+    },
+    {
+      "headline": "WMO Confirms Energy Imbalances Driving Global Warming and Extreme Weather Acceleration",
+      "summary": "The World Meteorological Organization has confirmed that atmospheric energy imbalances are driving accelerating global warming and extreme weather events. The WMO analysis provides the scientific framework for understanding why simultaneous floods, typhoons, and heat events are becoming the norm rather than exceptions.",
+      "category": "climate",
+      "alert_level": "CRITICAL",
+      "source_names": ["Sustainability Magazine"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVc1UVpVUXBOOVk2Y215YjJHeDY1MGFZNVJUWXJzS2FGYzgtTlpMT3Q3dkdibTI4MERES0lfbjZLS3BJM3Z0SHJJbVlfa21qSzV6c2lfMmxxNV94cWk4WlI0X2dKVmpmMUdKbWEybG5aRE10WkdidG94VnM2eWZfMXhxc3VkWDZEeGxxTW9Yb20?oc=5"
+      ],
+      "published": "2026-04-09 09:45"
+    },
+    {
+      "headline": "Iowa Farmers and Insurers Facing Unprecedented Extreme Weather Cost Pressures",
+      "summary": "Iowa farmers and insurance companies are warning of unsustainable cost pressures from extreme weather at a roundtable. The testimonials from the heartland of American agriculture provide concrete ground-level evidence of climate economic impacts that are becoming unrecoverable without systemic change.",
+      "category": "climate",
+      "alert_level": "HIGH",
+      "source_names": ["Des Moines Register"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT0NuU0gyTVd3TlF4c0Fwb3hJNUstbzJpSlE4QV9ERE10VENHZmkteE9kaHRsMDVpeUgxZ1p1TFJrTXJkdVBBOWUzbkV0bEtlZkFvRWI5UWhwemtXQm5lM0l0bG9OZzh3c0MweF93LTRKdnhyLWFqcy1QTVdDV2E4bmNzUEJGZ2EzMmw5TGFfODM2ZEdjTGpYWURVdllKTDM3NmJJYVd4ZlVHNW85M1p6Z09YWkpQb2J1R2M2NzhwbHprSV9pMWhpR1hiTnV4ckNXNkg2UkQ3SGo0b0EyeG9JUHpneVA2MlZ1?oc=5"
+      ],
+      "published": "2026-04-10 12:06"
+    },
+    {
+      "headline": "Critical Wildfire Risk Expanding Across US — KOTA Territory, Colorado Springs, Pacific Northwest",
+      "summary": "A First Alert Weather Day has been declared for Monday with critical wildfire risk across the KOTA Territory. Evacuation orders were recently lifted near Colorado Springs. Meanwhile, the US Forest Service is cutting research stations even as severe fire season threatens the Pacific Northwest. The juxtaposition of budget cuts and fire risk is generating significant concern among fire scientists.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["KOTA Territory News", "Denver Post", "KUOW"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmRaUTh1aDVMVmpvOHFEQ3czb1Q4aTgwTW4xclQzLUlNM19Mb21QVExoWHhjRzdCZGxXM1h0SHB0Mm4yMmxhOEJ3ejRJYk9hZ09lREYxN3JYU0QwY0ZJWWRmRm9mekFaOGhkbVJGcnpISTVjYWdtdFlXUE54N0RCV2hpS3dyZzBxc3ZWZ1p5U0tLWWhjejVhQ2hyMXlBZ3gz0gG0AUFVX3lxTFB3MTNjWGRrX3pOeVRIN2YzZlRNc1daLWNrSGlCeXZKRFFDWDZNam9ZRmhYQXZSdUh0MzJmXzVjVUVBTjFCNlhJTk4yQ2UyTUJJLXNwQ3RLbVNncjdwNHJpa2RWZkJQQk5hblh4cjI5OUZEYnZlZUppcE92NDg0RUROdUkzcjczaHJRR2RRTkxLanZjWk1yUEkwYzVPMFo3QXNGUk1NZlVJQ1BqeWZlUzlHbzRyTg?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlJVQUNWLU94N0cybGc0clEyZV9WRlV6U0tFYW1kRlBtQ0lLano4ems5Yk15X2syZF9fRldjR0Y4Z29wazlqdlZvaVNBMm9ROHRYVzVpUG04Ylc5TnczU3dyc0pURk42cFctN0lFdndwVm11R0pNeFV4SUd0VWJhMmt3?oc=5"
+      ],
+      "published": "2026-04-13 01:28"
+    },
+    {
+      "headline": "Deloitte Study: Extreme Weather Disrupting Work More Than Previously Thought",
+      "summary": "A new Deloitte study finds extreme weather is disrupting workplace productivity far more than previously estimated. The findings have major implications for labor economics, supply chain resilience, and corporate earnings guidance that have not yet priced in climate disruption as a structural cost.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Inc.com"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3RzRW1SSkxKRjk2SHIwaW40aXNIYmdJeTlrbWE2d3RNbDdETm5BUnhYZ19wSTJ5SXhkRlhsTzVQeW1PYVA0WDV1VFJNQmUyY3lTT2wtMnBGLXItdGZtamRucDV3cTIxX3NuTkVENEZ6VzZzcDk0ZWZUR0hSNmdNbHZLREh3dENyS296OHcteGN0OHRHWVd4bENJVW8wY0RKWWprTlJ2VGRDTTlI?oc=5"
+      ],
+      "published": "2026-04-10 22:35"
+    },
+    {
+      "headline": "Mapped: How Climate Change Drives Extreme Weather Globally — Carbon Brief Analysis",
+      "summary": "A comprehensive Carbon Brief analysis maps the causal relationship between climate change and specific extreme weather events globally. The attribution science is becoming precise enough to connect individual events to anthropogenic warming with high confidence, supporting both policy and legal proceedings.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Carbon Brief"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUQ4aXhCZWxfbGkzdG9GSjRYWVBGNm1JYi1kU1JlclgyY3EtS3JkTFJTUml3WTNQZ2h6ODZjRlh3Y0pRdmhHVW9iUzFRejlvWVIzZXZZc1NhazJQd19veDRQYlVoUXNQNkV1bEQ1VWJxN3ZmaTllU09zZk5sRnU4TG1CVm9leHRPYWZsV2hFQTlHa3VfUTE2bjZydw?oc=5"
+      ],
+      "published": "2026-03-18 07:00"
+    },
+    {
+      "headline": "'Super' El Nino Climate Effectsnow Underway — National Geographic",
+      "summary": "A 'super' El Nino event is currently underway with effects being felt globally. National Geographic examines what a super El Nino means for the planet, including amplified weather extremes, disrupted agricultural patterns, and elevated sea levels. The timing of the super El Nino coinciding with the Iran war creates compound risk scenarios.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["National Geographic"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMl9FVi1URHA0VUZKcVByY1Z2blBjdVIxVEYxNDhFNXZPZUVCSVhCeTFMRnlwZVlYdGJaSmNKSDZBdWpDMVR2Q0NqbmdXYU5DN3VsajBWaVJMUUtmcjN0Vll2TFE3eDRSVWVqLWhRZXVrMVJQUUNjQ1hySldXVUlxWXUyV3F2RVVzN25SNUZ4TFJST0ZmLVlJ?oc=5"
+      ],
+      "published": "2026-04-10 19:10"
+    },
+    {
+      "headline": "2025 Was a Record-Breaking Year for Extreme Weather Worldwide",
+      "summary": "2025 set record after record for extreme weather events globally. The data confirms an accelerating trend that makes 2026's simultaneous Typhoon Sinlaku, US floods, and wildfire risks consistent with a structural shift rather than anomaly. The insurance industry's crisis is a leading indicator of economic impacts now spreading to mainstream finance.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["National Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmRNYVVCWGM2U21uYmZfSVJyV2V4VGw5MHNFMWhOWXJLdHdrSFhCSldQMlREVTR3Nld2ZUNEa002REViNGdMakR4Zy1BZTM3S0lTT0VDclowc21UTjZDaUZ4aGFYMVJGTmpVcjg5blhNbkk4WXVQMG54bFlmYWVBYXQyWTBMT3hrc0p4T040VUVVSVp6OGhPbTBON3hTOFdiRTItMVQyZlZTOWVNcEdB?oc=5"
+      ],
+      "published": "2026-04-10 11:59"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Attribution science now precise enough to support climate litigation and policy",
+      "TV news coverage of extreme weather increasing bipartisan support for climate action"
+    ],
+    "negative": [
+      "Climate scientist funding crisis at exactly the moment expertise is most needed",
+      "Super El Nino + Iran war = compound risk scenarios not modeled in standard forecasts",
+      "US Forest Service cutting research stations during severe fire season — dangerous contradiction",
+      "Insurance industry crisis spreading to mainstream finance and banking",
+      "Workplace disruption from extreme weather not priced into corporate earnings"
+    ],
+    "sources": [
+      "WMO",
+      "Deloitte",
+      "Carbon Brief",
+      "Yale Climate Connections",
+      "CIMSS",
+      "US Forest Service"
+    ]
+  },
+  "patterns": [
+    "Simultaneous flood events across Michigan, Hawaii, Texas, California — multiple climate belts disrupted at once",
+    "Typhoon season starting unprecedentedly early with Cat 5 intensity — ocean temperatures anomalously high",
+    "Climate scientist funding squeeze happening in parallel with record-breaking climate events",
+    "Workplace/climate disruption link now confirmed by major consulting firms — economic modeling needs update",
+    "Wildfire risk expanding into traditionally fire-safe regions (New Jersey, East Coast)"
+  ],
+  "blind_spots": [
+    "Underreported: Compound climate risks from Super El Nino + Iran war (logistics disruption + energy shock)",
+    "Underreported: Global food supply chain stress from simultaneous US floods + Middle East war",
+    "Blind spot: Insurance industry capitulation (withdrawing from high-risk areas) = systemic financial risk",
+    "Underreported: Olive oil prices squeezed by climate — leading indicator of broader agri-market disruption",
+    "Blind spot: Climate migration patterns accelerating from affected regions, straining receiving cities"
+  ]
+}

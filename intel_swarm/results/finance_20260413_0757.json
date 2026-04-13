@@ -1,0 +1,157 @@
+{
+  "agent": "finance",
+  "timestamp": "20260413_0757",
+  "run_ts_utc": "2026-04-13T07:57:55.676908Z",
+  "insights": [
+    {
+      "headline": "Oil Surges Past $100/barrel as US-Iran Hormuz Blockade Begins",
+      "summary": "Oil prices surged past $100/barrel after US-Iran talks collapsed and Washington moved toward a naval blockade of the Strait of Hormuz. Asia markets opened lower in response. The blockade, effective at 14:00 GMT, represents the most significant disruption to global energy markets since the 1973 oil crisis.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC", "Cointelegraph", "Bloomberg"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
+        "https://cointelegraph.com/news/bitcoin-falls-oil-rises-us-to-block-strait-of-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWw2MWNrdGxkUmZRTmk1TWdxYWkyN2Q2T3NjekJBWG9jeTEyQldwTTdEYmdCbVRETzV0SmtNY3R1cy1NSjFoTGQxVjROeWRtNV94T2ZOTEFMVFNzRHFNQnA0VHlweWxrZzVsYXF3clZjQm1MQVBpT252NHdnbUx0TzA4bkZ2UE1ySzg2RFdWVk1tUGZPZG5odVNUckJqMUxzcjA0N3FTcUhqRWJnSlRVR09WTQ?oc=5"
+      ],
+      "published": "2026-04-13 07:38"
+    },
+    {
+      "headline": "Bitcoin Dips to $70.6K as War Escalation Triggers Risk-Off Selloff",
+      "summary": "Bitcoin fell to $70.6K as the Hormuz blockade announcement triggered a broad risk-off move. Traders fled to traditional safe havens while crypto markets sold off. Analysts warn that Iran war fallout will 'dominate' markets through 2026, with rate cut hopes pushed to Q3 at earliest. Commodity traders are being debanked due to Iran war, driving stablecoin adoption.",
+      "category": "crypto",
+      "alert_level": "CRITICAL",
+      "source_names": ["CoinDesk", "Cointelegraph"],
+      "source_urls": [
+        "https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger",
+        "https://cointelegraph.com/news/bitcoin-falls-oil-rises-us-to-block-strait-of-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "https://cointelegraph.com/news/btc-fragile-iran-fallout-dominate-markets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins"
+      ],
+      "published": "2026-04-13 01:48"
+    },
+    {
+      "headline": "US March Inflation Surges 0.9% — War-Driver Energy Costs Push Prices to 2-Year High",
+      "summary": "March CPI rose 0.9%, the highest in two years, with the Iran war identified as the primary driver of energy price increases. The Fed's inflation problems preceded the war but are now severely exacerbated. Multiple sources confirm energy costs are the dominant inflation driver, with consumer prices broadly affected.",
+      "category": "economic",
+      "alert_level": "CRITICAL",
+      "source_names": ["CBS News", "NBC News", "NYT", "Business Insider"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEhTX080Q1U3akxBT1VZbHZQME1PckFQaDlfVXRtTzY2ZUNHX2JBczVkMWFFREN1ZkRjaWFheXY2eFJBMzNxbTRFU0JSclJzU0RiQ0F1T3dPZkduMmpfMG9DeWhCR2FEU3BQdzFrUUszU1VKeGFQbU14TElLQTJZajNQMUlnaGdZV3fSAY8BQVVfeXFMTXpha3lfZEJVNGM3RHFwcm1DV1kzWFJ3TDhTTjRNbkt2RG1KTFZ4ZFp0ZDVwM0xtdjZ5eTV4azVUS0EyeTdxc2NXbjZhRFpCSlZzUDVFX2ZBZ0ZVd0lSMjRtS3Y5MUU1TkNPd0NBTHVzLVdqZUZjZi0wU2ZkanlaTDBVcXdjUVIzY1BDbGM2VjQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2ZVNEJuSjRXWERBY05rT1BYdHpIcnhkMnJ0UGxIM0RpS0dPYzdWOHZEOW84bUVKYWtkRWhoY2xOVlFvMWFQY2V3MlVnQ0pfc0JKa0daR19oUFdLMzAzMDUtdEZ2aU5nc0FZanFlTFVRZ0Y5TjJQeE8wdVNxcUhQOWJvV0FiN2pCVlg4X295UllYNTBsRnpoX1Rn?oc=5"
+      ],
+      "published": "2026-04-10 12:32"
+    },
+    {
+      "headline": "Global Bonds Slide as Iran Talks Failure Fuels Inflation Fears",
+      "summary": "Global bond markets sold off sharply as the failure of US-Iran talks confirmed that inflation would remain elevated for longer. The global bond slide reflects market expectations that central banks will be forced to maintain or raise rates even as growth slows. China simultaneously sees stocks and bonds in rare sync as haven demand surges.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["Bloomberg", "MarketWatch"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldKMmhWelhMdFJiOUVrNzJEREM2MkQ0c1pTVEFXNEYwR0pKbXRGS0JpcmZOcjRPTWJxMG9wdHpTOFBFa28xT1FPWE9qUzg0OEUxT20zVlFkanA5LXNTOGZhT2cyM2hUVC0wcUMzMmZIOGZERnFlWWZZNTFkU0d3cUJITE9lTE5mVFJTUEdjVmZLVGZpakt5QXJWenhlbFpDaFp1Z1JPMndpTThwUlpQdUVlQQ?oc=5"
+      ],
+      "published": "2026-04-13 00:56"
+    },
+    {
+      "headline": "Singapore Stocks Near Record High as War Fuels Haven Demand",
+      "summary": "Singapore equities are approaching record highs as the city-state benefits from safe-haven flows amid the Iran war. Singapore's geographic and financial distance from the conflict zone, combined with its role as a regional financial hub, is attracting capital flight from more exposed markets.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["Bloomberg"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFhkVE91S0tHY1pvTndoWXBzTzI5LWhZNGtuMXlpQ05xa0VEUUpTd0czYi1iRlB2ZjNOVkFBRVppenhTaU95bmNXMEw3T0xQQUxSNmpMTkFyNC1WOVlGNGdGY0paMWtNa3NOcmw2LVRJTnNla1Nyekt1UlNOSldmaHlOaHNQNHVOWXNCQVpwR0tlS0QwNnhlQjV3dzlod2c1dWpDX0h3YlhIenJFdGtv?oc=5"
+      ],
+      "published": "2026-04-12 23:09"
+    },
+    {
+      "headline": "Pistachio Prices Hit 8-Year High as Iran War Disrupts Food Supply Chains",
+      "summary": "Pistachio prices have surged to an eight-year high as the Iran war disrupts one of the world's major pistachio-producing regions. The commodity spike is emblematic of broader food supply chain stress from the conflict, compounding inflation pressures on consumers globally. Agri-commodities broadly are under upward pressure.",
+      "category": "commodities",
+      "alert_level": "CRITICAL",
+      "source_names": ["Bloomberg"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUNDMzJIQ2JVZ1IxN1pCSzN6S0x1UWlaQ2ZqVjl0Z01saHpfWWFBdmZkTHdOaVU2cDMyZWlCOUYwcmptOXU5bHA3MWdJSEltVDlUSUcyUzZ4eGg2SURBa0xZTS11bVJaMWxGNU1aRVBsMFloamQ1S3JmeG5QSzZGNGliSTQzbl9oalZUYW5WcU5YSWQwVGdEYmV0dXVaS0RRbWlnSS1YTDFVa1F4VVd2bUladVA3dw?oc=5"
+      ],
+      "published": "2026-04-13 01:30"
+    },
+    {
+      "headline": "Midwest Soybean Farmers Squeezed by Dual Pressure: Tariffs AND Iran War",
+      "summary": "Midwest soybean farmers face a perfect storm of US tariffs reducing export demand AND the Iran war disrupting global shipping routes and commodity pricing. The dual pressure on American agriculture highlights the compounding economic costs of simultaneous trade and military confrontations.",
+      "category": "trade",
+      "alert_level": "CRITICAL",
+      "source_names": ["ABC News", "National Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDZFSmRUY3ZrMGtLVjhQT0JhZnNqaVlLWDQtdTBLTkUtMC1wbWoyYnExb2FnMXpka21sb2p3YkpMMUd6R2dlb3U0M3RPTUt4MnNOZTJ6OGFqSXFxeUZNUlo5cTRnLTg1bEluR0czOW1ZX2xDQWc1T2JxTEs1cDFRTGVsa25FWDdQVGp6MUN0NWlHcUJiS1hKMnEyLVZzX0tjQkNLclRMSEFCMUHSAbABQVVfeXFMUGhSZTc1eEVrTWlRUk9TN1kyRXRpQ0lrT2cxR2ZMRW53VjFHTTcxSVBwakd0S0RlWDRjVk9jcC1KZGFtR0lUY3MwcmVsYlVselh5dUMxcS16b3Z6UTlVU2I2OEc5M1YzYURPNHBQcGs5M0Qzb1M2UlU0ejE2aVZOekJtcUthTTBNZ0d1dVBlY1h0aHJzRHUxS0tpellDT2kyMkZKeUtXZ0Y1b3p1c19KVzU?oc=5"
+      ],
+      "published": "2026-04-13 02:51"
+    },
+    {
+      "headline": "BOJ Rate Hike Options Narrowed by Iran War; ECB Holds with Caveat",
+      "summary": "Bank of Japan Governor Ueda warned that the protracted Iran war has narrowed Japan's rate hike options, as energy-driven inflation complicates monetary policy. The ECB held rates steady but warned the outlook is 'significantly more uncertain.' Fed officials signal one rate cut at most amid inflation uncertainty from the war.",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "CNBC", "U.S. Bank"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaU81Sy1iZEZ0cjZrM2NvOUZtQnpaSERLUFNERTF6Q0ZJVV85NHAxeVBhaWlhUXRqOFB5N2N0b2VubXZCTUpiRWxWR2g3TktuVVhlRUdfaFpUTlZod1VpaHVST0lrbGtEN3FoOEF0bXVqLVRaUGFMUEpHQU5UQWthT0oxMW1Eekl6SmdzUVBicXJCWE5RbkhVZ0xZNnhGMGR6blFSWTVuWmk?oc=5"
+      ],
+      "published": "2026-04-12 23:47"
+    },
+    {
+      "headline": "Gold-Silver Ratio Spikes to 63.7 as Precious Metals Diverging Under Geopolitical Stress",
+      "summary": "The gold-silver ratio has surged to 63.7, indicating silver is underperforming gold despite both being precious metals. The divergence reflects industrial demand destruction from the war (silver is heavily used in electronics/solar) while gold benefits from pure safe-haven flows. This ratio spike historically precedes significant market stress.",
+      "category": "commodities",
+      "alert_level": "HIGH",
+      "source_names": ["Mint"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQc3VEdWZlejBPMkVpWlJNNFBsNVZNeDV5bk0tVl9xOEw1NjQyZzZQZUhmWkVLTTVUQ3FSSkF4X1h3YjhCYzhuU0R2VnZwNzBBTU1xOEJTbmM0eWF2ZVZ6MFVNaFJUMWZlX0kwUkVCRHBMMHdETHFLNjhpTUhsTVl1NnJva0xsekxubHhEODl2RTJoZWR1N3I0Q0p6ckIxT19rSmtPOWx3alFGZDg1R3JPNFMzd1luR084UW5zcFdxYy0wQkQwVVVRUWhmNUtGVGR2MWRNTTE0UVZnYzNMaG8xXzlwUUcycWJqV01HTGVxSmFWUE5ldno0TEJNM29pNzVJdHZQQ1RQOFBOMFHSAZACQVVfeXFMUEFfbUtZZks2a2NCMlluMzZ2UWNKOE1NYmFOc0FfVmpLLXV0Nkw5QkF3SG9qZEszVkNvOTJSUE13dVdpS3N1cE1Jd3h3UjBFRHVqMWkxZGM5YWhMV2Z5Z2QyMjVzS3BOak1QeV9CRk9KdDc5ZEd3ZlhOanQ4MDBtbF94cC1ueU1TTWJDLThyUGJ3bWktZFBacWNpbWJ3Rlk2X3p6UnZmejhMNlNQd3g2YjlTNmgwZy1rdm5pb1BuQURIMDE2aHEwV0NUNzlYVGVhSGpxalZyeHNoYmg3YzctckVNdTZybU1PMC13cDhQaXI2T0M3YVZrcHdXWWpULWVWSzd6LVJfaHNwTXhxaEVlMUk?oc=5"
+      ],
+      "published": "2026-04-13 07:34"
+    },
+    {
+      "headline": "Wall Street Strategists Wrestle With War's Toll on 2026 Outlook",
+      "summary": "Wall Street strategists are dramatically revising 2026 market outlooks as the Iran war's economic costs become clearer. Earnings season is kicking off with war and AI disruption as the twin concerns. Strategists acknowledge that previous 2026 forecasts are now obsolete given the paradigm shift in energy markets and geopolitical risk premiums.",
+      "category": "markets",
+      "alert_level": "HIGH",
+      "source_names": ["AdvisorHub"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnNoWE5OdUlvQjkwMjBqM09LeURvN1BxWGFkaXNxeHB0WmJiUzU1WGdFSGhmYjVibHYxbTJNYlhZRk9SLXdWUDJadTUwcWdnVThsNHdlc285b2NLV2x3azZqUUYydkNhdm9Cd0FuN25qSURWUWhZNHNvTFVxaTkxTGVjZEg5U1ppczBzX0t6ajVuRmdY?oc=5"
+      ],
+      "published": "2026-04-12 22:34"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Singapore's haven status is attracting capital and supporting equity markets",
+      "Some Latin American oil exporters (Venezuela, Colombia) benefiting from high prices"
+    ],
+    "negative": [
+      "Iran war fallout will dominate markets through 2026, rate cuts pushed to Q3 minimum",
+      "Commodity traders being debanked en masse, pushing them to unregulated stablecoins",
+      "BOJ, ECB, Fed all constrained — no major central bank has room to ease",
+      "Inflation surging to 2-year highs, real wages declining",
+      "BTC recovery fragile — war jitters overwhelming technical buy signals"
+    ],
+    "sources": [
+      "Coin Bureau (Nic Puckrin)",
+      "Jim Cramer / CNBC",
+      "AdvisorHub",
+      "Bloomberg Intelligence"
+    ]
+  },
+  "patterns": [
+    "Oil > $100 triggered by Hormuz blockade — first time since 2022",
+    "Bitcoin showing stronger correlation to risk assets than safe haven during war escalation",
+    "China stocks and bonds rising in tandem (rare) — indicates capital flight dynamics not growth optimism",
+    "Precious metals diverging — gold up, silver lagging due to industrial demand destruction",
+    "Food commodities beginning to show war-premium pricing (pistachios as leading indicator)",
+    "Trade war + shooting war compounding — tariff impact on agriculture amplified by shipping disruption"
+  ],
+  "blind_spots": [
+    "Underreported: Stablecoin demand surge from debanked commodity traders — regulatory gap widening",
+    "Underreported: Private credit markets severely impacted by Hormuz disruption (shipping finance)",
+    "Blind spot: AI going rogue warnings — financial system critical infrastructure vulnerabilities",
+    "Underreported: 2026 earnings season guidance will be catastrophically revised downward across sectors",
+    "Blind spot: Hong Kong's aviation hub status erosion may be permanent if war becomes prolonged"
+  ]
+}

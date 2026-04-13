@@ -1,0 +1,155 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260413_0757",
+  "run_ts_utc": "2026-04-13T07:57:55.676841Z",
+  "insights": [
+    {
+      "headline": "US-Iran Hormuz Blockade Begins — Day 45 of War",
+      "summary": "CENTCOM has begun enforcing a naval blockade of the Strait of Hormuz after US-Iran talks collapsed. Iranian Guards have warned that any military vessels approaching the strait will be treated as a ceasefire violation. The blockade threatens 20-30% of global oil trade and has already pushed crude past $100/barrel.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "Reuters", "BBC News"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
+        "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"
+      ],
+      "published": "2026-04-13 07:30"
+    },
+    {
+      "headline": "Trump Attacks Pope Leo Over Iran War Peace Appeal",
+      "summary": "President Trump called Pope Leo 'terrible for foreign policy' and said he is 'not a fan' of the first US-born pontiff, who has publicly condemned the US-Israeli war on Iran. The war is now day 45 with no end in sight. The Pope's intervention marks the most high-profile diplomatic critique of the Trump administration's war policy.",
+      "category": "politics",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News", "CNN", "Al Jazeera"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+        "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IeEJsMzFWXzVFa2dWUXVHbXJfS21YN2wxMi0tay1tUi1zclZ6MWxHZzZ2RUY1ZWxnTVF0LUVhV1p2Tno4TW1HOXlQc09TLXlSYzYwZXZ0ZFllcEwtWHFsUFFlcE95U1lrYnZRb0tnYnVjZEtmWE1MVU1iOER5Zw?oc=5"
+      ],
+      "published": "2026-04-13 07:40"
+    },
+    {
+      "headline": "World Bank Chief Warns of Looming Global Jobs Crisis Even After War Ends",
+      "summary": "World Bank President Ajay Banga warned that the economic shock of the Iran war will cast a long shadow, with a jobs crisis expected to persist well beyond any ceasefire. The IMF and World Bank spring meetings are underway with the conflict dominating discussions. Growth forecasts for multiple regions have been revised sharply downward.",
+      "category": "economic",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "Channel News Asia"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5",
+        "https://www.channelnewsasia.com/business/world-bank-chief-sounds-alarm-about-looming-jobs-crisis-even-after-war-ends-6053011"
+      ],
+      "published": "2026-04-13 07:07"
+    },
+    {
+      "headline": "Russia-Ukraine: Orthodox Easter Ceasefire Breached Within Hours",
+      "summary": "Moscow and Kyiv accused each other of violating an Orthodox Easter ceasefire within hours of it taking effect, with both sides trading fire and barbed statements. The breakdown complicates any diplomatic path forward and occurs against the backdrop of the parallel US-Iran conflict absorbing Western diplomatic bandwidth.",
+      "category": "europe",
+      "alert_level": "HIGH",
+      "source_names": ["WION"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb05IZTZaYnhwNUpqSmxzUjZlTDR6YXpHcnVBcjkxcjRIdnVEeTNjNkdQU1U4c3RWdUNNZlFaem5GOWRIcHdPNENyY0FuOExnNGFfN2pNU21INVhxVGRVZmZVdDJFbWM3RVZnWTRlQjVfcHlVVkpvbGhjRF9jNmpkVmtzb1BoZzdCZWRSODFXZGVldmxDckNuSy03U2dmekI1MHNNeWY0cjZfdTllRWhPYWRncVFGRDZBeUFBZHRETWFoUlZfTEF30gHMAUFVX3lxTE1QbkZRQmJEQ2hYTmtXRG5KenZIMVkyOWdLV0hjS1RHUUJGSDFLQVRsNEh1bGVEYm5HdlE3VEl1Vjh2WVRBbXoxRk1wNG5rN1YxeFV6VHhJYkNPRkVWWlNjQmFSYTFfc3NmVzZyTGdWRWZNc3R0eV9JcTV1OW5fVXBXUk16dTYxdVhHNEhQQnp0aWxIamhZRWk4MWdkMHBFV1hieGFJajFISWttSV9BS1NPSE1sd01oeFBrZXFlOUY0bTFWdENTWHlpdE5Raw?oc=5"
+      ],
+      "published": "2026-04-13 02:15"
+    },
+    {
+      "headline": "Trump Threatens 50% Tariffs on China Over Alleged Arms Shipment to Iran",
+      "summary": "Trump has threatened to impose 50% tariffs on Chinese goods after intelligence suggested Beijing was preparing a weapons shipment to Tehran. The threat escalates US-China trade tensions at the same time as the Hormuz blockade. BOJ Governor Ueda also warned of the Middle East war's impact on Japan's monetary policy options.",
+      "category": "trade",
+      "alert_level": "HIGH",
+      "source_names": ["CNBC"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html"
+      ],
+      "published": "2026-04-13 07:47"
+    },
+    {
+      "headline": "Viktor Orban's Fidesz Party Loses Power in Historic Upset",
+      "summary": "Hungary's opposition delivered a stunning victory against Viktor Orban's Fidesz party, ending over a decade of dominant rule. The result offers lessons for US Democrats and provides a warning signal for Trump's geopolitical allies in Europe. The outcome could shift Hungary's alignment within EU and NATO structures.",
+      "category": "europe",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy"],
+      "source_urls": [
+        "https://foreignpolicy.com/2026/04/12/why-viktor-orbans-fidesz-party-lost/"
+      ],
+      "published": "2026-04-12 20:24"
+    },
+    {
+      "headline": "Gulf States Strategy in Crisis as Iran War Shatters Economic Model",
+      "summary": "The US-Israel war on Iran has shattered Gulf states' economic model reliant on regional stability and oil revenue predictability. Saudi Arabia, UAE, Qatar, and Kuwait face simultaneous pressures from disrupted shipping, volatile energy markets, and potential spillover. Spain has emerged as a surprising US ally urging de-escalation.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy"],
+      "source_urls": [
+        "https://foreignpolicy.com/2026/04/10/gulf-states-iran-war-united-arab-emirates-saudi-arabia-qatar-strikes-us-israel/"
+      ],
+      "published": "2026-04-10 20:35"
+    },
+    {
+      "headline": "Russia Hacks Routers to Steal Microsoft Office Tokens",
+      "summary": "Hackers linked to Russia's military intelligence units (GRU) are mass-harvesting Microsoft Office authentication tokens through vulnerabilities in older internet routers. The campaign allows state-backed Russian actors to silently compromise government and corporate networks. This is occurring simultaneously with US focus on the Iran front.",
+      "category": "cyber",
+      "alert_level": "HIGH",
+      "source_names": ["Krebs on Security"],
+      "source_urls": [
+        "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/"
+      ],
+      "published": "2026-04-07 17:02"
+    },
+    {
+      "headline": "US-Europe Alliance Reaching Breaking Point Over Iran War",
+      "summary": "The US-Europe alliance is under severe strain as European nations diverge from Washington's Iran war policy. Multiple European leaders have privately and publicly criticized the military campaign, with RUSI analysts warning the transatlantic relationship is at a critical inflection point not seen since the Iraq war.",
+      "category": "diplomacy",
+      "alert_level": "HIGH",
+      "source_names": ["RUSI"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3JfcEJ3VWZqWXZiNndPWDZEdU5zMUI0aW9zT1U2anNGZlUzeEJXRXU1X1hxRjR4QzFFS2RPeElodlE5RXJ2VnFtQk05UVFwbjhkMmxtRnBBWXlhQmg1bThpUHhRR2lSMTdXMTI2Vi1Tb1FJQ2VxeUxUYUczRExKTUM1VmVfVVpIUUdsOEc3RGQxd1B4d2o2SkhhaTVwOFNUYlpEX04ycjVzUQ?oc=5"
+      ],
+      "published": "2026-04-04 07:00"
+    },
+    {
+      "headline": "Canada Forces Grapple with New Arctic Reality as Russian/Chinese Activity Rises",
+      "summary": "Canada's military conducted a two-month winter deployment across 5,200 km of Arctic territory, signaling heightened concern about great power competition in the far north. The mission highlights how the Iran war is reshaping global strategic priorities, with NATO's northern flank receiving renewed attention.",
+      "category": "defense",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss"
+      ],
+      "published": "2026-04-12 23:07"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Fidesz loss in Hungary opens space for pro-EU governance",
+      "Ceasefire negotiations ongoing though currently stalled"
+    ],
+    "negative": [
+      "Hormuz blockade will cause severe global economic disruption",
+      "US-Europe rift over Iran war deepening rapidly",
+      "No viable end-state apparent for US-Iran conflict",
+      "Gulf states' economic model fundamentally broken by prolonged war"
+    ],
+    "sources": [
+      "RUSI",
+      "Crisis Group",
+      "Foreign Policy",
+      "Defense One",
+      "Krebs on Security"
+    ]
+  },
+  "patterns": [
+    "US-China tensions escalating on multiple fronts simultaneously (tariffs, Iran arms, tech)",
+    "Transatlantic alliance fracturing specifically over Middle East policy",
+    "Cyber operations intensifying in parallel with kinetic warfare",
+    "Gulf states being forced to choose between US alliance and economic survival",
+    "Multiple humanitarian crises (Africa fuel shortages, Lebanon collapse) receiving minimal coverage"
+  ],
+  "blind_spots": [
+    "Underreported: African nations' severe fuel stress from Iran war-related oil disruptions",
+    "Underreported: Lebanon's potential state collapse happening in parallel with Iran war",
+    "Underreported: China-Iran military/economic relationship depth and potential for escalation",
+    "Underreported: Domestic US political costs of prolonged war not fully priced in by markets",
+    "Blind spot: Actual US aircraft losses over Iran not publicly quantified despite claims of 'decisive victory'"
+  ]
+}
