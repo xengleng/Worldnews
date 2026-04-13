@@ -11,10 +11,14 @@
             "id": "2c7e021bae6157b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World News/2026-04-13_World_Monitor_Brief_-_2026-04-13_0901_SGT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-13_World_Monitor_Brief_-_2026-04-13_0901_SGT"
             }
           }
         ]
@@ -177,8 +181,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "03ade024e2a9d4f1",
+  "active": "2c7e021bae6157b1",
   "lastOpenFiles": [
+    "World News/2026-04-13_Memory_Prices_Table_Report_-_20260413_0100_SGT.md",
+    "World News/2026-04-13_World_Monitor_Brief_-_2026-04-13_0901_SGT.md",
+    "World News/2026-04-13_World_Monitor_Brief_-_2026-04-13_1801_SGT.md",
+    "Worldnews/Daily Intel/Intel-Report-20260413_0757.md",
+    "World News/2026-04-09_Memory_Prices_Table_Report_-_20260409_0100_SGT.md",
+    "Worldnews/Daily Intel",
+    "Worldnews",
+    "Memory Prices/2026-04-13_Memory_Prices_Table_Report.md",
+    "World News/2026-04-12_World_Monitor_Brief_-_2026-04-12_1800_SGT.md",
+    "World News/2026-04-12_World_Monitor_Brief_-_2026-04-12_0901_SGT.md",
     "2026-04-11.md",
     "Daily Market Report/2026-04-11_Daily_Market_Report.md",
     "World News/2026-04-11_World_Monitor_Brief_-_2026-04-11_1800_SGT.md",
@@ -191,7 +205,6 @@
     "World News/2026-04-09_World_Monitor_Brief_-_2026-04-09_1800_SGT.md",
     "World News/2026-04-09_Memory_Prices_Table_Report_-_20260409_0914_SGT.md",
     "World News/2026-04-09_World_Monitor_Brief_-_2026-04-09_0901_SGT.md",
-    "World News/2026-04-09_Memory_Prices_Table_Report_-_20260409_0100_SGT.md",
     "Memory Prices/2026-04-09_Memory_Prices_Table_Report.md",
     "World News/2026-04-08_World_Monitor_Brief_-_2026-04-08_1801_SGT.md",
     "World News/2026-04-08_World_Monitor_Brief_-_2026-04-08_0901_SGT.md",
@@ -199,13 +212,6 @@
     "World News/2026-04-06_World_Monitor_Brief_-_2026-04-06_1308_SGT.md",
     "Memory Prices/2026-04-07_DRAMExchange_Daily_Price_Report.md",
     "World News/2026-04-07_Memory_Prices_Info_-_20260407_1714_SGT.md",
-    "World News/2026-04-07_World_Monitor_Brief_-_2026-04-07_1800_SGT.md",
-    "World News/2026-04-07_Memory_Prices_Table_Report_-_20260407_1754_SGT.md",
-    "World News/2026-04-07_Memory_Prices_Table_Report_-_20260407_1741_SGT.md",
-    "World News/2026-04-07_Memory_Prices_Info_-_20260407_1719_SGT.md",
-    "World News/2026-04-07_Public_Memory_Market_Report_-_20260407_1057_SGT.md",
-    "World News/test_github_push.md",
-    "World News/2026-04-07_Memory_Market_Report_-_20260407_1443_SGT.md",
     "Memory Prices"
   ]
 }
