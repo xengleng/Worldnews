@@ -1,0 +1,118 @@
+{
+  "report_type": "MASTER_INTELLIGENCE_REPORT",
+  "timestamp": "20260414_0701",
+  "sgt_time": "2026-04-14 03:01 PM SGT",
+  "utc_time": "2026-04-14 07:01 UTC",
+  "executive_summary": "Intelligence summary for 2026-04-14 03:01 PM SGT. Key developments: US Imposes Naval Blockade on Iranian Ports in Strait of Hormuz.",
+  "key_themes": [
+    {
+      "theme": "US Imposes Naval Blockade on Iranian Ports in Strait of Hormuz",
+      "description": "The US military has begun blocking ships from Iranian ports after ceasefire talks failed to yield an agreement. This unilateral blockade risks upending the fragile ceasefire with Tehran and has alread",
+      "supporting_evidence": [
+        "Reuters"
+      ],
+      "confidence": "CRITICAL"
+    },
+    {
+      "theme": "Sudan War Humanitarian Crisis: Three Babies Born Into Conflict Every Minute",
+      "description": "Save the Children warns that three babies are being born into the Sudan war every minute, with children facing conditions 'no child should ever face.' The nearly three-year civil war has devastated th",
+      "supporting_evidence": [
+        "Al Jazeera"
+      ],
+      "confidence": "CRITICAL"
+    },
+    {
+      "theme": "Hungary's Political Shift: Orb\u00e1n Defeat Unblocks EU Ukraine Support",
+      "description": "Viktor Orb\u00e1n's Fidesz party has lost power in Hungary, with opposition leader P\u00e9ter Magyar set to become prime minister. This political shift removes a major obstacle to EU military and financial supp",
+      "supporting_evidence": [
+        "BBC News"
+      ],
+      "confidence": "HIGH"
+    },
+    {
+      "theme": "US-Indonesia Sign Major Defense Partnership Amid Regional Tensions",
+      "description": "The United States and Indonesia have signed a 'major' defense cooperation agreement covering military modernization, training, and operational cooperation. This comes as the US seeks overflight access",
+      "supporting_evidence": [
+        "Al Jazeera"
+      ],
+      "confidence": "HIGH"
+    },
+    {
+      "theme": "Russia-China Coordinate on Middle East War as Lavrov Visits Beijing",
+      "description": "Russian Foreign Minister Sergei Lavrov is visiting China to discuss the Middle East war and its economic fallout. The coordination comes as China faces export challenges due to the Hormuz blockade, wi",
+      "supporting_evidence": [
+        "Channel News Asia"
+      ],
+      "confidence": "HIGH"
+    }
+  ],
+  "alpha_opportunities": [
+    {
+      "angle": "Singapore STI Haven Flows",
+      "rationale": "City-state benefiting from safe-haven capital flight amid Iran war uncertainty",
+      "timeframe": "SHORT",
+      "risk": "LOW"
+    },
+    {
+      "angle": "Climate Insurance Withdrawal",
+      "rationale": "Insurance companies retreating from high-risk zones \u2014 systemic financial risk not yet priced",
+      "timeframe": "MEDIUM",
+      "risk": "HIGH"
+    }
+  ],
+  "cross_domain_patterns": [
+    "Energy and economic crises driving non-aligned nations to pragmatic diplomacy",
+    "Corporate strategic partnerships accelerating in energy-tech convergence",
+    "Great power competition intensifying in Asia-Pacific with multiple defense agreements",
+    "Agricultural sector facing triple pressure from tariffs, war, and costs",
+    "Domestic political pressures influencing foreign policy in Western democracies"
+  ],
+  "blind_spots": [
+    "Minimal discussion of alternative energy adoption acceleration due to conflict",
+    "Sparse reporting on Chinese domestic stimulus measures to counter export slowdown",
+    "Minimal analysis of nuclear proliferation risks beyond established powers",
+    "Scant attention to Latin American perspectives on global conflicts",
+    "Underreporting of climate change impacts on geopolitical stability"
+  ],
+  "reference_index": [],
+  "alerts_summary": {
+    "critical": [
+      "US Imposes Naval Blockade on Iranian Ports in Strait of Hormuz",
+      "Sudan War Humanitarian Crisis: Three Babies Born Into Conflict Every Minute"
+    ],
+    "high": [
+      "Hungary's Political Shift: Orb\u00e1n Defeat Unblocks EU Ukraine Support",
+      "US-Indonesia Sign Major Defense Partnership Amid Regional Tensions",
+      "Russia-China Coordinate on Middle East War as Lavrov Visits Beijing",
+      "World Bank Warns of Looming Global Jobs Crisis Even After Wars End",
+      "Russian Cyber Operations Target Microsoft Office Tokens via Router Exploits",
+      "Iran Carries Out Highest Number of Executions in Decades",
+      "Iran War Ceasefire Hopes Boost Markets, Oil Falls on Diplomatic Signals",
+      "China Export Growth Slows, Imports Surge Amid Iran War Supply Disruptions",
+      "Fed Nominee Warsh Clears Ethics Hurdle Amid Inflation Battle",
+      "Extreme Weather, Rising Sea Levels, Devastating Floods - The Global Climate Crisis | DW Documentary Gap (kINVmFaytE) - Mshale",
+      "Flood threat diminishing into the new work week - Hawaii News Now",
+      "Puerto Rico and US Virgin Islands under flash flood threat as heavy rain targets the islands - FOX Weather",
+      "Flood waters endanger northern Michigan dams in Cheboygan, Mio - The Detroit News",
+      "Crews battling to contain 650-acre wildfire in Daniel Boone National Forest - WVLT",
+      "Colorado governor declares emergency for wildfire burning near Trinidad - The Colorado Sun",
+      "Is the US Forest Service\u2019s reorganization a \u2018dismantling\u2019 or a needed shift? Experts weigh in on wildland fire\u2019s impact - wildfiretoday.com",
+      "UPDATE: U.S. and Georgia Forestry crews continue battling White County wildfire - AccessWDUN",
+      "Governor Polis declares disaster emergency in response to 450-acre wildfire burning near Trinidad - KKTV",
+      "Alabama issues statewide fire alert due to wildfire risks - WVTM"
+    ],
+    "medium": [
+      "Indonesia's Prabowo Visits Russia Seeking Cheap Oil Amid Energy Crisis",
+      "Anti-War Protests Escalate in US with Arrests Over Israel Weapon Sales",
+      "Midwest Farmers Squeezed by Tariffs and Iran War, Creating Agricultural Crisis",
+      "Crypto Markets Show Resilience with Ether Rally, SEC Provides Regulatory Clarity",
+      "Oracle Expands Bloom Energy Deal After $400M Stock Warrant, Leads Software Rally",
+      "Jim Cramer: Low Interest Rates Explain Stock Resilience Despite Iran War Fears",
+      "Iran War Compounds California's Energy Crunch Amid Domestic Production Focus",
+      "Protracted Iran War Narrows BOJ's Rate Hike Options, Affecting Global Policy"
+    ],
+    "low": [
+      "Novo Nordisk Partners with OpenAI for AI Drug Discovery Amid Healthcare Innovation"
+    ]
+  }
+}

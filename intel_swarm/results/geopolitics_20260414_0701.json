@@ -1,0 +1,154 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260414_0701",
+  "run_ts_utc": "2026-04-14T07:02:07.710108Z",
+  "insights": [
+    {
+      "headline": "US Imposes Naval Blockade on Iranian Ports in Strait of Hormuz",
+      "summary": "The US military has begun blocking ships from Iranian ports after ceasefire talks failed to yield an agreement. This unilateral blockade risks upending the fragile ceasefire with Tehran and has already caused shipping costs to increase by over 10% in the past month. The move comes without broad international backing, straining US alliances.",
+      "category": "military_conflict",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "Foreign Policy", "Al Jazeera"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5",
+        "https://foreignpolicy.com/2026/04/13/us-military-blockade-iran-ports-strait-hormuz-trump-pope-leo-nato/",
+        "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"
+      ],
+      "published": "2026-04-12 22:33"
+    },
+    {
+      "headline": "Hungary's Political Shift: Orbán Defeat Unblocks EU Ukraine Support",
+      "summary": "Viktor Orbán's Fidesz party has lost power in Hungary, with opposition leader Péter Magyar set to become prime minister. This political shift removes a major obstacle to EU military and financial support for Ukraine. The new PM has stated he would tell Putin to stop the Ukraine war if called, marking a significant foreign policy change.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News", "Foreign Policy", "Crisis Group"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+        "https://foreignpolicy.com/2026/04/12/why-viktor-orbans-fidesz-party-lost/",
+        "https://www.crisisgroup.org/anb/europe/hungary-ukraine/orbans-defeat-lifts-block-eu-support-ukraine-frictions-remain"
+      ],
+      "published": "2026-04-13 21:28"
+    },
+    {
+      "headline": "US-Indonesia Sign Major Defense Partnership Amid Regional Tensions",
+      "summary": "The United States and Indonesia have signed a 'major' defense cooperation agreement covering military modernization, training, and operational cooperation. This comes as the US seeks overflight access in Indonesia for military planes and represents a significant strategic shift in Southeast Asia amid growing great power competition.",
+      "category": "diplomacy",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera", "Channel News Asia"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
+        "https://www.channelnewsasia.com/world/us-indonesia-defence-partnership-pete-hegseth-6055346"
+      ],
+      "published": "2026-04-14 05:10"
+    },
+    {
+      "headline": "Russia-China Coordinate on Middle East War as Lavrov Visits Beijing",
+      "summary": "Russian Foreign Minister Sergei Lavrov is visiting China to discuss the Middle East war and its economic fallout. The coordination comes as China faces export challenges due to the Hormuz blockade, with March data showing softening exports and surging imports. Both powers are positioning themselves as mediators while advancing regional influence.",
+      "category": "diplomacy",
+      "alert_level": "HIGH",
+      "source_names": ["Channel News Asia", "South China Morning Post"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/world/russia-china-foreign-minister-sergei-lavrov-visit-middle-east-war-iran-ukraine-6055181",
+        "https://www.scmp.com/economy/china-economy/article/3349849/chinas-imports-surge-march-exports-soften-amid-hormuz-blockade?utm_source=rss_feed"
+      ],
+      "published": "2026-04-14 05:24"
+    },
+    {
+      "headline": "World Bank Warns of Looming Global Jobs Crisis Even After Wars End",
+      "summary": "World Bank chief has sounded alarms about a looming global jobs crisis that will persist even after current conflicts end. The warning comes as IMF and World Bank meetings begin, with the economic shock of the Middle East war expected to cast a long shadow over discussions about global economic stability and recovery.",
+      "category": "economics",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5"
+      ],
+      "published": "2026-04-13 07:07"
+    },
+    {
+      "headline": "Sudan War Humanitarian Crisis: Three Babies Born Into Conflict Every Minute",
+      "summary": "Save the Children warns that three babies are being born into the Sudan war every minute, with children facing conditions 'no child should ever face.' The nearly three-year civil war has devastated the country, with risks of long-term partition and regional spillover growing as diplomatic solutions remain elusive.",
+      "category": "humanitarian",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "Crisis Group"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+        "https://www.crisisgroup.org/brf/africa/sudan-egypt-saudi-arabia-united-arab-emirates-united-states/b211-divided-sudan-elusive-peace"
+      ],
+      "published": "2026-04-14 04:52"
+    },
+    {
+      "headline": "Russian Cyber Operations Target Microsoft Office Tokens via Router Exploits",
+      "summary": "Hackers linked to Russia's military intelligence are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users. This spying campaign allows state-backed Russian hackers to quietly siphon authentication tokens, enabling persistent access to corporate and government networks.",
+      "category": "cybersecurity",
+      "alert_level": "HIGH",
+      "source_names": ["Krebs on Security"],
+      "source_urls": [
+        "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/"
+      ],
+      "published": "2026-04-07 17:02"
+    },
+    {
+      "headline": "Indonesia's Prabowo Visits Russia Seeking Cheap Oil Amid Energy Crisis",
+      "summary": "Indonesian President Prabowo Subianto has arrived in Moscow seeking cheap oil as millions of Indonesians risk being pushed into poverty amid a deepening global energy crisis. The trip highlights how non-aligned nations are navigating the geopolitical landscape to secure essential resources while maintaining diplomatic balance.",
+      "category": "energy",
+      "alert_level": "MEDIUM",
+      "source_names": ["South China Morning Post"],
+      "source_urls": [
+        "https://www.scmp.com/week-asia/politics/article/3350002/why-indonesias-prabowo-russia-and-what-he-needs-putin?utm_source=rss_feed"
+      ],
+      "published": "2026-04-14 06:04"
+    },
+    {
+      "headline": "Anti-War Protests Escalate in US with Arrests Over Israel Weapon Sales",
+      "summary": "Police in New York arrested around 100 anti-war protesters during a sit-in demanding an end to US arms sales to Israel. The protests reflect growing domestic opposition to US involvement in Middle East conflicts and come as the Trump administration faces criticism over its Iran war strategy and alliance strains.",
+      "category": "domestic_politics",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss"
+      ],
+      "published": "2026-04-14 02:13"
+    },
+    {
+      "headline": "Iran Carries Out Highest Number of Executions in Decades",
+      "summary": "Iran has carried out its highest number of executions in decades, with organizations warning many more people could be executed in the wake of anti-government protests earlier this year. The executions come amid ongoing war tensions and domestic crackdowns, highlighting human rights concerns alongside geopolitical conflicts.",
+      "category": "human_rights",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
+      ],
+      "published": "2026-04-13 12:53"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Hungary's political shift could strengthen EU unity on Ukraine support",
+      "US-Indonesia defense partnership represents strategic diversification in Asia-Pacific",
+      "China-Russia coordination may provide diplomatic channels for conflict mediation",
+      "Growing domestic anti-war pressure could lead to more restrained US foreign policy"
+    ],
+    "negative": [
+      "US blockade of Iranian ports risks escalating conflict and undermining ceasefire",
+      "World Bank warnings suggest prolonged economic pain even after conflicts end",
+      "Russian cyber operations demonstrate ongoing hybrid warfare threats",
+      "Iran's execution spike indicates deteriorating human rights situation amid war",
+      "Sudan humanitarian crisis shows limited international attention to African conflicts"
+    ],
+    "sources": ["Defense One", "Foreign Policy", "Crisis Group", "Reuters", "BBC News"]
+  },
+  "patterns": [
+    "Great power competition intensifying in Asia-Pacific with multiple defense agreements",
+    "Energy and economic crises driving non-aligned nations to pragmatic diplomacy",
+    "Cyber warfare becoming normalized component of geopolitical conflict",
+    "Domestic political pressures influencing foreign policy in Western democracies",
+    "Humanitarian crises receiving less attention than great power conflicts"
+  ],
+  "blind_spots": [
+    "Limited coverage of African conflicts beyond Sudan (Sahel, DRC, Ethiopia)",
+    "Underreporting of climate change impacts on geopolitical stability",
+    "Scant attention to Latin American perspectives on global conflicts",
+    "Minimal analysis of nuclear proliferation risks beyond established powers",
+    "Insufficient focus on food security impacts of multiple concurrent crises"
+  ]
+}
