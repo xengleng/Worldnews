@@ -217,10 +217,12 @@ def determine_alert_level(title, category):
     if is_trivial(title):
         return 1  # LOW
     
-    # Critical keywords (market-moving events)
-    critical_keywords = ["war", "attack", "killed", "dead", "crash", "bankruptcy", "recession", 
+    # Critical keywords (market-moving events) — must be in context of systemic events
+    # "died" and "dead" alone are too broad (individual incidents not market-moving)
+    critical_keywords = ["war", "attack", "crash", "bankruptcy", "recession",
                         "default", "crisis", "emergency", "evacuation", "blackout", "outage",
-                        "terror", "bombing", "shooting", "fire"]
+                        "terror", "bombing", "shooting", "fire", "mass casualty",
+                        "killed in", "killed by", "died in"]
     
     # High impact keywords
     high_keywords = ["surge", "plunge", "record high", "record low", "sanctions", "embargo",
