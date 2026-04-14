@@ -218,11 +218,11 @@ def determine_alert_level(title, category):
         return 1  # LOW
     
     # Critical keywords (market-moving events) — must be in context of systemic events
-    # "died" and "dead" alone are too broad (individual incidents not market-moving)
+    # Individual deaths/accidents NOT market-moving — suppress with is_trivial()
     critical_keywords = ["war", "attack", "crash", "bankruptcy", "recession",
                         "default", "crisis", "emergency", "evacuation", "blackout", "outage",
                         "terror", "bombing", "shooting", "fire", "mass casualty",
-                        "killed in", "killed by", "died in"]
+                        "killed in", "killed by", "died in", "dies in"]
     
     # High impact keywords
     high_keywords = ["surge", "plunge", "record high", "record low", "sanctions", "embargo",
@@ -233,19 +233,19 @@ def determine_alert_level(title, category):
     medium_keywords = ["earnings", "acquisition", "merger", "resigns", "appoints", "rate cut",
                       "rate hike", "inflation", "GDP", "data", "results", "forecast", "retires"]
     
-    # Check for critical alerts first
+    # Check for critical alerts first (use word boundaries to avoid substring matches)
     for keyword in critical_keywords:
-        if keyword in title_lower:
+        if re.search(r'\b' + re.escape(keyword) + r'\b', title_lower):
             return 4  # CRITICAL
     
     # Check for high alerts
     for keyword in high_keywords:
-        if keyword in title_lower:
+        if re.search(r'\b' + re.escape(keyword) + r'\b', title_lower):
             return 3  # HIGH
     
     # Check for medium alerts
     for keyword in medium_keywords:
-        if keyword in title_lower:
+        if re.search(r'\b' + re.escape(keyword) + r'\b', title_lower):
             return 2  # MEDIUM
     
     # Default to low alert
