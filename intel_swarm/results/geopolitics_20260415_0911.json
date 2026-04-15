@@ -1,0 +1,178 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260415_0911",
+  "run_ts_utc": "2026-04-15T09:12:09.155850Z",
+  "insights": [
+    {
+      "headline": "US-Iran blockade enters Day 47; Iran demands $270bn war compensation ahead of fresh talks",
+      "summary": "The US military blockade of Iranian ports has 'completely' halted economic trade, with over 10,000 armed forces, warships and aircraft involved per US Central Command. Iran is demanding $270bn in compensation for infrastructure damage as Trump signals a second round of negotiations in coming days, creating a high-stakes diplomatic window.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
+        "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom?traffic_source=rss"
+      ],
+      "published": "2026-04-15 05:17 / 06:28"
+    },
+    {
+      "headline": "Trump turns on Italy's Meloni, publicly rebuking a key European ally over Iran",
+      "summary": "Trump publicly said he was 'shocked' by Italian Prime Minister Giorgia Meloni, calling her lacking in 'courage' for not backing the US-Israel war on Iran. The blunt public rebuke of one of his closest European allies marks a new low in transatlantic relations and underscores broad European refusal to join the Iran conflict.",
+      "category": "europe",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss"
+      ],
+      "published": "2026-04-15 07:05"
+    },
+    {
+      "headline": "US allies rearm at record pace: Japan eyes biggest arms opening since WWII; EU/NATO allies recalibrating",
+      "summary": "Rattled by Trump's unpredictable foreign policy, US allies are accelerating military buildups independent of American leadership. Japan is considering its largest expansion of the arms industry since World War Two, while EU and NATO members are collectively grappling with how to respond to a war they refuse to join but cannot escape the economic fallout from.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "Crisis Group"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3c0bjU1V2d3RG5Zc200MFpTQXQxUWkzak1VWHV5emVxUGs0RFZmdVNlbU1FX0Y4UnlrY2Z0NzE1WU1YdjAzN2l4TFh6U1FyRHBQZzMzWWRrMFFYVXZXX1JfY3hRblVfcnhlYnJocklUcmxmR05FYTA2elh0eGxiTjBfUmhHVDYxcy03QjBkNEtTb0lnVllVaTdoVml3eXRuRVhlV0thT2lUZHc0ekE2Y3FSZFJyZ1RYNnFpQzgxOEg?oc=5",
+        "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran"
+      ],
+      "published": "2026-04-15 04:02"
+    },
+    {
+      "headline": "Xi-Lavrov meeting signals deepening China-Russia alignment on Iran war; global great-power bloc forming",
+      "summary": "Chinese President Xi Jinping met Russian Foreign Minister Lavrov in Beijing and described relations with Moscow as 'precious', with both sides discussing the Iran war and broader geopolitical concerns. This signals a consolidating counter-alliance between China and Russia as they exploit US overextension in the Middle East.",
+      "category": "diplomacy",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss"
+      ],
+      "published": "2026-04-15 06:37"
+    },
+    {
+      "headline": "IMF economists warn Iran war could tip world toward recession; global growth outlook cut",
+      "summary": "IMF economists issued a stark warning that the US-Iran conflict could tip the global economy into recession, with the fund simultaneously cutting its global growth outlook. Fertiliser shortages caused by the war are a 'key worry' for developing nations per a UN agency, and Kenya is already experiencing record diesel price rises despite tax cuts, illustrating immediate Global South impact.",
+      "category": "economy",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNN", "Reuters", "BBC News"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDh6dUwwNFNNRnhRS1Fhd1VadXAyRldtTWEwbU9fakdvVlZlakRUb3Z0WVNTbzBCX3hkUlA3VzRacUFFbEhlcXRENGd0LU9ReXBicmdaMTU4eXJhV0FPZDhIbXF4aWlyc0NQNWxhbHQ2a0p1MHllZXFTZUI1VTE1U200Ylc?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEtTakxtZGl1by0tX3JuSk5sLXNNVXJEdVRIXzJHb1BndmJsNy1rWl9YVlhqdU5tT1RnbzdsTjdWS3BqRUJ0dVJZRUVabDJtbjRJOUpGT1EtRHEzMGEtUkdsZXRCbExsTkZ3NWo3WXM4N1l3eWk2V0YyakFnZm5CbVJrYmpndGF6X1dQU3VXWnNyUncySEJJUjZHZEpSUWhhdUZXNkxBb3BHeTE5VFFwSFg0QVJIdGJaeWRJRkdR?oc=5",
+        "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss"
+      ],
+      "published": "2026-04-15 06:18 / 04-14 16:25 / 04-15 09:06"
+    },
+    {
+      "headline": "North Korea boosting nuclear arms capability, IAEA confirms",
+      "summary": "The UN nuclear watchdog (IAEA) confirmed North Korea is actively boosting its ability to produce nuclear weapons. When asked about potential Russian assistance to Pyongyang's nuclear programme, IAEA chief Rafael Grossi said the agency had not observed specific evidence of Russian help — a carefully hedged response suggesting uncertainty rather than denial.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNA"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/east-asia/north-korea-boosting-ability-nuclear-arms-iaea-grossi-6058041"
+      ],
+      "published": "2026-04-15 08:41"
+    },
+    {
+      "headline": "Singapore protests, Indonesia sovereignty row: US war on Iran triggering Asia-Pacific domestic backlash",
+      "summary": "Rare public protests occurred in Singapore with hundreds denouncing the 'US war machine' — an extraordinary event in the city-state. Separately, a leaked plan granting the US military sweeping overflight rights over Indonesia triggered a sovereignty backlash, with analysts noting Jakarta is being accused of 'colluding with the aggressor'. Meanwhile, public sentiment toward China in the US has softened ahead of a Trump-Xi summit in May.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["SCMP"],
+      "source_urls": [
+        "https://www.scmp.com/week-asia/politics/article/3350160/are-us-singapore-relations-under-pressure-public-trust-declines?utm_source=rss_feed",
+        "https://www.scmp.com/week-asia/politics/article/3350143/indonesia-leaked-plan-us-military-overflights-triggers-sovereignty-row?utm_source=rss_feed",
+        "https://www.scmp.com/news/china/diplomacy/article/3350109/trump-will-head-beijing-amid-warming-trend-sentiment-about-china-home?utm_source=rss_feed"
+      ],
+      "published": "2026-04-15 09:00 / 07:11 / 06:00"
+    },
+    {
+      "headline": "Dollar weakens, war premium erodes on Iran talks hopes; India FX squeeze worsens",
+      "summary": "The US dollar neared six-week lows as markets priced in a potential de-escalation from fresh Iran-US talks. Foreign investors are growing more wary of India as foreign exchange curbs hit bond markets and equity earnings risks mount — an early-warning signal of stress in a major emerging market as global conditions tighten.",
+      "category": "economy",
+      "alert_level": "HIGH",
+      "source_names": ["CNA"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/business/dollar-nears-six-week-lows-hopes-iran-talks-erase-war-premium-6057086",
+        "https://www.channelnewsasia.com/business/analysisforeign-investors-grow-more-wary-india-fx-curbs-hit-bonds-earnings-risks-haunt-equities-6057936"
+      ],
+      "published": "2026-04-15 08:10 / 07:13"
+    },
+    {
+      "headline": "Hamas rejects Gaza disarmament; Israel simultaneously fighting on three fronts — Hamas, Hezbollah, Iran",
+      "summary": "Hamas has formally rejected any disarmament plan, saying it will not move forward until Israel fully complies with its existing commitments. Crisis Group analysis describes Israel's approach as 'war is the only answer', noting the country is fighting simultaneously on three fronts — Gaza, Lebanon and Iran — at severe cost to its military, economy and US relations.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News", "Crisis Group"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+        "https://www.crisisgroup.org/opd/middle-east-north-africa/israelpalestine-lebanon-iran-united-states/israel-war-only-answer"
+      ],
+      "published": "2026-04-14 14:01"
+    },
+    {
+      "headline": "Orbán's electoral defeat lifts EU block on Ukraine support; Hungary's Russia-aligned influence wanes",
+      "summary": "Viktor Orbán's electoral defeat removes a key obstacle to EU support for Ukraine and signals limits to Russian hybrid warfare influence in Europe. However, Crisis Group analysts caution that Orbán's loss will not stop Russian influence campaigns — it merely shows they are beatable, implying persistent structural vulnerability across EU democracies.",
+      "category": "europe",
+      "alert_level": "HIGH",
+      "source_names": ["Defense One", "Crisis Group"],
+      "source_urls": [
+        "https://www.defenseone.com/threats/2026/04/orbans-loss-wont-stop-russian-influence-campaigns-it-shows-theyre-beatable/412849/",
+        "https://www.crisisgroup.org/anb/europe/hungary-ukraine/orbans-defeat-lifts-block-eu-support-ukraine-frictions-remain"
+      ],
+      "published": "2026-04-14 22:20"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Trump's Iran blockade is militarily effective: US Central Command reports it has 'completely' halted Iranian economic trade with 10,000+ personnel deployed",
+      "Dollar weakness signals markets view Iran-US talks as credible — war premium eroding suggests possible diplomatic off-ramp",
+      "Orbán's defeat removes a critical EU veto on Ukraine support and demonstrates Russian influence campaigns are not inevitable",
+      "India's nuclear breakthrough at Kalpakkam represents a genuine path to energy independence, reducing fossil fuel vulnerability",
+      "American public sentiment toward China has nearly doubled in positivity ahead of Trump-Xi summit — diplomatic opening exists",
+      "World Bank has pre-positioned up to $100bn in emergency funds for war-affected countries — financial safety net partially in place"
+    ],
+    "negative": [
+      "Foreign Policy analysts: Trump's 'half-baked' dealmaking approach may be a recipe for more war, not peace",
+      "Defense One: The Iran war has weakened the US in the great power game — straining alliances while enabling China and Russia to advance regional influence",
+      "Crisis Group: Israel's multi-front war is exacting an unsustainable toll on its military, economy and US relationship; 'war is the only answer' is a dead end",
+      "IMF economists: Iran war could tip the global economy toward recession; world is 'drifting toward a more adverse scenario'",
+      "Defense One experts: The Pentagon's claim of 'air superiority' over Iran is misleading — the air war is far more complex and costly than acknowledged, with US aircraft being downed and damaged",
+      "Crisis Group: A fragile ceasefire in the Strait of Hormuz is under threat; closure of this vital maritime corridor would catastrophic for global energy markets",
+      "Krebs on Security: Russian state hackers linked to military intelligence are actively mass-harvesting Microsoft authentication tokens — cyber espionage continues at scale during the shooting war",
+      "Civil society in US-allied Asia is fracturing: unprecedented protests in Singapore, sovereignty backlash in Indonesia against US military access"
+    ],
+    "sources": [
+      "Foreign Policy — 'Trump Always Skips the Hard Part' and 'The Price Israel Is Paying for Its Wars'",
+      "Defense One — '4 ways the war in Iran has weakened the US in the great power game'",
+      "Defense One — 'The Pentagon claims we control the sky over Iran. Experts say the air war isn't that simple.'",
+      "Crisis Group — 'For Israel, War Is the Only Answer'",
+      "Crisis Group — EU/NATO members grappling with Iran war",
+      "Crisis Group — Strait of Hormuz fragile ceasefire analysis",
+      "IMF official communications as cited by Reuters and CNN",
+      "Krebs on Security — Microsoft Office token theft by Russian military intelligence"
+    ]
+  },
+  "patterns": [
+    "The US-Iran war is the dominant global destabiliser across all 50 data sources — every other crisis (Sudan, Ukraine, Gaza) is being overshadowed and under-reported by comparison",
+    "Unanimous European refusal to join the Iran war, combined with a visible split between US and European allies (Meloni rebuke, EU recalibration), represents a structural fracture in Western alliance architecture",
+    "China-Russia strategic alignment is deepening in real-time: Xi personally hosting Lavrov to discuss coordination on Iran, signalling a formalising counter-bloc",
+    "The Global South is bearing disproportionate economic costs of the Iran war — fuel price spikes in Kenya, fertiliser shortages threatening developing world food security — with no voice in the conflict",
+    "Asia-Pacific US allies are publicly distancing from Washington over the Iran war: Singapore protests, Indonesia sovereignty backlash; this is an early-indicator of alliance erosion in the Pacific",
+    "Markets are pricing a de-escalation scenario (dollar down, war premium eroding) even as military operations intensify — a dangerous disconnect",
+    "Russia continues hybrid operations (token theft via routers, influence campaigns) even as its conventional focus shifts; these campaigns are now demonstrably beatable (Orbán loss) but not stopped",
+    "Japan's rearmament pivot is the most consequential long-term strategic shift — the largest arms opening since WWII driven by loss of confidence in the US security guarantee",
+    "India's nuclear breakthrough at Kalpakkam — while positive — sits against a backdrop of FX stress and foreign investor retreat driven by global uncertainty from the Iran war"
+  ],
+  "blind_spots": [
+    "Sudan's civil war — entering its fourth year with catastrophic humanitarian impact — is almost entirely absent from recent coverage. Only 2 of 50 items covered Sudan despite the conflict being among the world's worst ongoing wars",
+    "The humanitarian dimension of the Iran war itself (civilian casualties, displaced populations inside Iran) is almost entirely absent from English-language sources — coverage focuses on economics, diplomacy and military posturing",
+    "Lebanon's domestic coping mechanisms — migrants feeding the war-displaced — are covered human-interest style but the systemic collapse of Lebanese state capacity goes underreported",
+    "The Strait of Hormuz 'fragile ceasefire' situation (per Crisis Group) and its implications for global oil supply receive relatively little mainstream coverage compared to the military/diplomatic narrative",
+    "African countries beyond Kenya are not covered for Iran-war economic spillover despite UN warnings of fertiliser shortages — the food security dimension for Sub-Saharan Africa is underreported",
+    "Internal Iranian political dynamics — reformists vs hardliners, public sentiment, underground resistance — are absent from the dataset despite being potentially decisive for war outcomes",
+    "Russia's calculus on Ukraine in the context of its Iran alignment with China is underexplored — does Moscow feel emboldened or exposed by US overextension?",
+    "The intersection of cyber operations (Russia token theft, US/EU capabilities) with kinetic Iran war operations is not covered analytically — a significant intelligence gap",
+    "US domestic political constraints on Trump's Iran policy — congressional opposition, public opinion polls, legal challenges — receive almost no coverage in this international dataset"
+  ]
+}
