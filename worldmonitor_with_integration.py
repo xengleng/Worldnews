@@ -17,26 +17,32 @@ import os
 
 # Selected feeds from WorldMonitor (focus on finance, tech, geopolitics)
 FEEDS = [
-    # Finance
+    # Finance / Markets
     {"name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "category": "finance"},
-    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex", "category": "finance"},
-    {"name": "Reuters Business", "url": "https://www.reuters.com/business/", "category": "finance"},
-    {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines", "category": "finance"},
+    {"name": "Bloomberg Markets", "url": "https://news.google.com/rss/search?q=site:bloomberg.com+markets&hl=en-US&gl=US&ceid=US:en", "category": "finance"},
+    {"name": "Reuters Markets", "url": "https://news.google.com/rss/search?q=site:reuters.com+markets+stocks&hl=en-US&gl=US&ceid=US:en", "category": "finance"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "category": "finance"},
+    {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "category": "finance"},
+    {"name": "SEC", "url": "https://www.sec.gov/news/pressreleases.rss", "category": "finance"},
+    {"name": "Oil & Energy", "url": "https://news.google.com/rss/search?q=(oil+price+OR+OPEC+OR+crude+OR+energy+crisis)&hl=en-US&gl=US&ceid=US:en", "category": "finance"},
+    {"name": "Central Banks", "url": "https://news.google.com/rss/search?q=(central+bank+OR+interest+rate+OR+rate+decision+OR+FOMC)&hl=en-US&gl=US&ceid=US:en", "category": "finance"},
     
-    # Tech
-    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "tech"},
-    {"name": "Hacker News", "url": "https://hnrss.org/frontpage", "category": "tech"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "tech"},
-    
-    # Geopolitics
+    # Geopolitics / World News
     {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "geopolitics"},
-    {"name": "Reuters World", "url": "https://www.reuters.com/world/", "category": "geopolitics"},
     {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "geopolitics"},
+    {"name": "Defense One", "url": "https://www.defenseone.com/rss/all/", "category": "geopolitics"},
+    {"name": "Foreign Policy", "url": "https://foreignpolicy.com/feed/", "category": "geopolitics"},
+    {"name": "Crisis Group", "url": "https://www.crisisgroup.org/rss", "category": "geopolitics"},
+    {"name": "CNA", "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml", "category": "geopolitics"},
+    {"name": "Reuters World", "url": "https://news.google.com/rss/search?q=site:reuters.com+world&hl=en-US&gl=US&ceid=US:en", "category": "geopolitics"},
+    {"name": "RUSI", "url": "https://news.google.com/rss/search?q=site:rusi.org&hl=en-US&gl=US&ceid=US:en", "category": "geopolitics"},
+    {"name": "SCMP", "url": "https://www.scmp.com/rss/91/feed/", "category": "geopolitics"},
+    {"name": "Nikkei Asia", "url": "https://news.google.com/rss/search?q=site:nikkei.com+asia&hl=en-US&gl=US&ceid=US:en", "category": "geopolitics"},
     
-    # Asia/Singapore focus
-    {"name": "CNA", "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml", "category": "asia"},
-    {"name": "Straits Times", "url": "https://www.straitstimes.com/news/rss.xml", "category": "asia"},
-    {"name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "category": "asia"},
+    # Climate / Disasters
+    {"name": "FEMA", "url": "https://www.fema.gov/outbreaks/disasters.rss", "category": "climate"},
+    {"name": "ReliefWeb", "url": "https://reliefweb.int/updates/rss", "category": "climate"},
+    {"name": "Wildfire News", "url": "https://news.google.com/rss/search?q=(wildfire+OR+hurricane+OR+flood+OR+earthquake)&hl=en-US&gl=US&ceid=US:en", "category": "climate"},
 ]
 
 # Bloomberg-style categories with alert levels
