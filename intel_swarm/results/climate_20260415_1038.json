@@ -1,0 +1,127 @@
+{
+  "agent": "climate",
+  "timestamp": "20260415_1038",
+  "run_ts_utc": "2026-04-15T10:40:00Z",
+  "insights": [
+    {
+      "headline": "Michigan flooding: Gov. Whitmer declares energy emergency, 7 dams at risk including Cheboygan",
+      "summary": "Michigan is experiencing severe flooding with multiple dam gate releases triggering flash flood warnings across the state. Governor Whitmer has declared an energy emergency. Six dams are at risk, with officials particularly concerned about the Cheboygan Dam. The Pigeon River is also causing flooding in multiple communities including Clintonville and Marion.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["Detroit News", "Bridge Michigan", "WLUK"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ01HZGQtUWp3SXNGYXFJZVJjNGYwcFhqSWlXNGJQdmZPRkpoUm9BT0kwdzhvUHFnekUweFUtTFpxSEpXcnB0dDBRQXlfaHNOdGtwUG9Nc2JCWkwwMGs0a2xRQmNJc3REWjF0UWJlb2NVbVBXSmdreGZBelByUWpmZElSSjJFMGhkTndVNG0zdmxUZ0d1UURyVXZBdXI1UVIxV2Myc09xcXNwUndOaTRPalNSTGo1R05acTVOOUdPVHlwWkVVaDdobGdB?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEx1cGZzbG02VXJuX1Z3emRVS0tOZWxCT2xmejhBWlRnbTkxNjVLY05FX1A3c3FHMWYtNmtuRGVvcmlxTHlOZ0xQUFhuTkxjWmhJdk93UW01LWgyNDI1VU13YkRoNFFTVm9DYy0wenhKdDVCRnVFNGtlNG1hY2NmeHplLXNRT1lFUmI4b19NM21BV1BsLXhaUjYwc0oya2pVTW5oTDVDS01NWWlu?oc=5"
+      ],
+      "published": "2026-04-15"
+    },
+    {
+      "headline": "Super Typhoon Sinlaku slams Northern Mariana Islands, Guam as Category 4 storm",
+      "summary": "Super Typhoon Sinlaku, a Category 4 storm, has caused widespread damage across the U.S. Northern Mariana Islands and Guam with ferocious winds. The storm is being watched as a potential sign of intensified typhoon activity in the Western Pacific. Experts note that storms near landfall in the Western Pacific may be increasingly powerful due to warming ocean temperatures.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["NPR", "NYT", "Weather Channel", "Yale Climate Connections"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFB2Q29mbkxKMC1yU19jS3BLT0taRTVGYTlnYzQ1VHYzX0lQZWsxYTI5T3ZDODB6N0JMUzMtaGNpWGQtc1pSUGRTMlpIRGc1LWR5REpzNUNnRjcybHVZMERURGJ6VnhkM3dHXzZJUTdRTXhwdw?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnVSd2RLeWJFNFJaNnpKdkhyNGRVa2xMSWJQT2FJa3piRmxvSTZrMTF0M2xldElQWDc2Rk1lemtTcUhWcWZkOTVSaTV0XzhjSFdRSVpvNW9OX3gxYlhqMWJqUTBjYWtZM0JtUEFfT2h3OHAzVmpjeVU0dWdoT2ZKdTNMVmZCVW8?oc=5"
+      ],
+      "published": "2026-04-14/15"
+    },
+    {
+      "headline": "Southeast Michigan flood watch: Severe storms and heavy rain through Thursday",
+      "summary": "A flood watch is in effect for Southeast Michigan with strong storms and heavy rain expected through Thursday. Multiple counties are under flood warnings. The National Weather Service has issued alerts following severe weather Tuesday evening and overnight Wednesday. Officials are warning residents to prepare for flash flooding.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["ClickOnDetroit", "WZZM13"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDd0VEk3dmY2RDNUcWEwSFhiQnpRR3VtSWxxQml4VzVqSnFFUDZiYk5Cb29sb0N6NnJ3NFBMNjZPMmQ1d3Z1YVQ3ZVJ5OF84eFRXVEZtSlpYNFRmUS1BTE1KVzlVQlFWRjRvalBWZDN6VlZLNUd6TndjczFjZC1BUWVZeUFQSUlJUjllUDNUMFZFLWswTVVJbHREcHdBcTlwcEJhNnU1NTJabi1ueFk4VGxtbEhURkYyekhEZGYtM095Q05laU9Ha3ZZS2xQbDA3?oc=5"
+      ],
+      "published": "2026-04-15"
+    },
+    {
+      "headline": "Hurricane Helene recovery continues: Farmers still rebuilding devastated topsoil",
+      "summary": "Six months after Hurricane Helene devastated farmland across the southeastern US, farmers are still fighting to rebuild their topsoil. The agricultural damage from Helene represents one of the most severe soil losses in recent US farming history. Recovery experts warn it could take years for affected farmland to return to productive capacity.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["Grist"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlV5WWd1RmhFN0g5WjQ0alFGWTYzNGVidS1UeTJkWkkxUFBQamRRMkxQSXRVQzJxNVhXMHI3d2Zvc3V4WkNhZ29xZFhLRUE2TlhVVjVfcjlRRlItRE5UMnhjcDdiS0tFd1hiNTlJSVhPRDNDd3VCWnFFRjhKQlk5ZHpXZFJTM1Z3dkwwU2FVbFhTTEEwOWlCSU9PQ0Viemo4WFJfcXFLNmNQa09iRGp5NWJOOUE?oc=5"],
+      "published": "2026-04-15"
+    },
+    {
+      "headline": "Active wildfire season: Florida's Picayune Strand fire at 1,733 acres, 60% contained",
+      "summary": "Firefighters are battling multiple wildfires across the US including a 1,733-acre brush fire at Picayune Strand State Forest in Florida, now 60% contained after a tough fight. Multiple other fires are active including at Cherokee National Forest, Michaux State Forest, and House Mountain. The early and intense fire activity has put focus on prescribed burn programs.",
+      "category": "disasters",
+      "alert_level": "MEDIUM",
+      "source_names": ["WINK News", "Naples Daily News", "Local 3 News", "Christian Science Monitor"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbmIzNnFiM1NOMWtFU0dCQkE2N1p2Nll2a0lkdE5qeGt2R21DYVBDd3p5Njg4STJmT3FkdDBIcVYyRUtTa2ZRc0RLTzlMYkx2WU1qaHJlb0QxRnBzSHd6U3JkWVJJZTQxUGtidzBMMDhUZVhGRXVjTFQ5S2N6N0s2dUpnSGhnV1J5VWhrZ1Y0NmRNdHY3WTk4UnJ1LXE1Z2QzQVpHYmdiMmdidmZzVkNvWW4tTEhiMTQxeklrZV9BdFQxMXFJc0lfRjZGOGNLWENieFNlaXBkN3ZUbXkwZXphVzBSZkZsZmV1MTZjQzFZNnZka1BlMWFNYQ?oc=5"
+      ],
+      "published": "2026-04-15"
+    },
+    {
+      "headline": "El Niño/La Niña watch: Super El Niño possibility raises concerns for 2026-2027",
+      "summary": "Climate scientists are debating whether a 'super El Niño' may be developing, with potentially significant implications for global weather patterns. New Scientist and The Guardian have both published analyses questioning whether the current ocean temperature patterns could trigger an unusually strong El Niño event. A super El Niño would compound the effects of climate change on extreme weather globally.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["New Scientist", "The Guardian"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlpSOXpDS2Y0VHJEMjBtbEFKSTZKN2FiR1ZFOFA1dXU1S2FjUjZvTl9fTTRCQzhhVzhSMWdpUGxVUXY4NnhiLTc5QTEtbGdnYTJ5RG90MWptRU9VWmw2QTBPMGY4NWFlMXJ5Q3ZjYVppV3BnaE1WOE1KTlFUWmlDLUhPb3JkVHZFYkhKVHJESFQ5Q1lBVU5SS1hRTTRtUFdTb2lLNEZB?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE10STVjWEdqREVEeUNmT3Q3U2I5azhab29hbHRuRmNpWVRVc2hiOFFqVDJtVENvZmZiMklpakZqZUtFZVFOMXhxbEZTV19rcTgyd1d0R2xfWTlRVkhjalBkMkJBTEluQ0FhVTRJUGpmel83TmhXYjJ6NQ?oc=5"
+      ],
+      "published": "2026-04-13/14"
+    },
+    {
+      "headline": "Climate change costs US households $900/year on average — and rising",
+      "summary": "New research puts the average annual cost of climate change to US households at $900 and rising. This figure accounts for increased energy costs, weather-related damage, healthcare costs, and other climate-driven expenses. The estimate underscores the economic materiality of climate change to ordinary Americans, even those who don't live in disaster zones.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["WBUR"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXdPbEROeUtTSEZpbE9FdlZGZU5UTmIySzU0YzVZNHBvdHZ1M21Mc3pBY2MwbWQ4QXFWNXF5anRfelNyRFo4MmkyclBicFczcWxONjQyVXdwaWhZNFFZMEk4c1lTVDhTZlltenpiRHBjWVREak9idkg3REFldXBrUDA1b0FvQ3FQbERhN0ZYVHJqSzJ0VlhNWDF4dHJkbWFMWW5Nem1uOGJPOEpwUGJtQzd4cDY3TDZJNW9xbVJtQ2R4QmdYd1ZVSVE5YVgtdzRfRjJLMm5LY0V3MUNaNjdfbjZnblFsSXJPNGhr?oc=5"],
+      "published": "2026-04-07"
+    },
+    {
+      "headline": "AI wildfire prediction model shows real-time accuracy breakthrough",
+      "summary": "Researchers at USC Viterbi have developed an AI model that can accurately predict the spread of wildfires in real time. The system represents a potential breakthrough in firefighting resource allocation and evacuation planning. Early tests show the model significantly outperforms traditional fire spread forecasting methods.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["USC Viterbi School of Engineering"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVNSR3puejg1bUNGd3RubWRuNXhmQ1J1S0w3czJ0b3Uzb2o0Wnk4V2NLM29rczQtN2JWRjRMdTk2ZWZraG5pcmg3eFNMOUpsaWQ2eXpuOVp3cHpiMVpyMjNCRFB6WDY3eUQyWW1RZWZSY1c5SjMzRTdfbE45U044YW4tU054VTdPb2JvUEcySFhSMnEtSkx6MHJjY29JeE5oS3cxYWVZcll5VTRab1pjbjhrWVprUjM5WUtjVkE4WnliOEN3S0E?oc=5"],
+      "published": "2026-04-15"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "AI wildfire prediction models are improving real-time fire spread accuracy, potentially saving lives and resources",
+      "Improved weather forecasts could reduce heat deaths as climate warming accelerates",
+      "Prescribed burn programs being emphasized as early wildfire season intensifies"
+    ],
+    "negative": [
+      "Super Typhoon Sinlaku demonstrates increasing intensity of Pacific storms — potentially linked to warming oceans",
+      "Michigan dam failures show aging US infrastructure is increasingly vulnerable to extreme precipitation events",
+      "Hurricane Helene topsoil damage shows climate impacts on agriculture will be long-lasting and costly",
+      "El Niño possibility could compound extreme weather events through 2026-2027",
+      "Climate change costs already $900/year per US household and rising"
+    ],
+    "sources": [
+      "University of Arizona climate researchers",
+      "World Weather Attribution scientists",
+      "Yale Program on Climate Change Communication",
+      "European Environment Agency",
+      "USC Viterbi AI researchers"
+    ]
+  },
+  "patterns": [
+    "US flooding crisis is simultaneous across multiple regions — Michigan flooding, Wisconsin flooding, and SE Michigan all under active alerts simultaneously",
+    "Pacific typhoon season is arriving with unusual intensity — Sinlaku is a Category 4 storm affecting US territories",
+    "Wildfire season is starting earlier and more intensely than historical averages — multiple states with active large fires simultaneously",
+    "Climate-attribution science is becoming more robust — connection between climate change and specific events is increasingly quantifiable",
+    "Iran war is creating a secondary climate/energy crisis — fertilizer shortages will affect global food production, compounding with extreme weather events"
+  ],
+  "blind_spots": [
+    "The interaction between the Iran war's fertilizer shortage and the ongoing extreme weather season could create a food security crisis that isn't being connected in the news",
+    "Climate costs of $900/year per US household are barely registering in public discourse — this is an economic story as much as an environmental one",
+    "US territory impacts (Guam, Northern Mariana Islands) from Super Typhoon Sinlaku are being undercovered relative to stateside disasters",
+    "The dam infrastructure vulnerability story in Michigan could be a leading indicator — aging US water infrastructure faces billions in deferred maintenance",
+    "AI fire prediction breakthroughs are not getting the policy attention they deserve as a climate adaptation tool"
+  ]
+}
