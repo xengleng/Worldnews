@@ -1,0 +1,4 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "<think>\nThe user is asking me to act as \"Chief Intelligence Synthesizer\" and produce a Master Intelligence Report from 3 domain reports that failed to parse. Looking at the input, I can see that:\n\n1. The Geopolitics Report shows an error - it tried to parse `{news_data}` as actual news data\n2. The F"
+}
