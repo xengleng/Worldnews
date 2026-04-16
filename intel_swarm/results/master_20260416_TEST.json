@@ -1,0 +1,4 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "<think>\nThe user is asking me to produce a MASTER INTELLIGENCE REPORT as a JSON object. However, I notice that all three input reports (Geopolitics, Finance, and Climate) have parsing errors - they're showing placeholders like `{news_data}` instead of actual data.\n\nLooking at the input:\n1. GEOPOLITI"
+}
