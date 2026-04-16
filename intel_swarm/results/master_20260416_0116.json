@@ -1,4 +1,168 @@
 {
-  "error": "Failed to parse JSON",
-  "raw": "ERROR: HTTP Error 401: Unauthorized"
+  "report_id": "intel_20260416_0116",
+  "generated_sgt": "2026-04-16T09:23:00+08:00",
+  "generated_utc": "2026-04-16T01:23:00Z",
+  "sources_crossed": {
+    "geopolitics": "intel_swarm/results/geopolitics_20260416_0116.json",
+    "finance": "intel_swarm/results/finance_20260416_0116.json",
+    "climate": "intel_swarm/results/climate_20260416_0116.json",
+    "bloomberg": "bloomberg_data_20260416_0900.json"
+  },
+  "executive_summary": "The Iran war ceasefire optimism has created a dangerous decoupling between financial markets at record highs and the physical/economic reality of $58B in energy infrastructure damage, slowing US business activity, and a still-active US blockade. Pakistan's mediation push represents the most concrete diplomatic opening but the ceasefire remains fragile with over a dozen US warships maintaining the Hormuz net. Meanwhile, a simultaneous climate emergency is unfolding across the US — record Midwest floods destroying bridges, early wildfire ignitions, and ominous hurricane season pre-warnings — stretching federal emergency response capacity while the Forest Service undergoes contested reorganization. Sudan's deepening catastrophe is being completely eclipsed by Iran coverage despite being the world's largest humanitarian crisis entering its fourth year.",
+  "key_themes": [
+    {
+      "emoji": "🔥",
+      "name": "Iran Ceasefire Fragile — Markets vs Reality",
+      "description": "Trump's declaration that the Iran war is 'close to over' has driven S&P 500 and Nasdaq to record highs. But the US blockade of Iran's ports enters Day 2 with >12 warships in the Gulf of Oman, and Pakistan is actively mediating a new round of US-Iran negotiations — the most concrete diplomatic move in hours. Rystad Energy puts physical damage at $58B; the IEA called it history's most severe oil supply shock. US businesses are already cutting hiring and spending per the Fed Beige Book. The dollar has shed most of its war risk premium, but crypto and equities show concerning decoupling from geopolitical fundamentals.",
+      "confidence": "high",
+      "alert_level": "CRITICAL",
+      "evidence": ["Pakistan mediation active (Al Jazeera)", "US blockade Day 2 with 12+ warships (WashPost)", "$58B energy damage estimate (Rystad)", "Beige Book hiring slowdown (MarketWatch)", "Dollar war premium unwinding (Reuters)"]
+    },
+    {
+      "emoji": "🌍",
+      "name": "US Strategic Overextension — China & Russia Advance",
+      "description": "Defense One's four-pronged assessment details how the Iran war has weakened US standing in great power competition: straining European and Indo-Pacific alliances, enabling China/Russia regional influence gains, diverting Pacific military resources, and undermining US credibility through inconsistent threat signaling. Simultaneously, the Quad alliance is fracturing — India hosted a foreign ministers' meeting without top leaders from the US, Japan, or Australia, exposing diplomatic friction. The US military is simultaneously telling Congress the China threat warrants major capability buildup, suggesting the Iran commitment is directly undermining Pacific deterrence.",
+      "confidence": "high",
+      "alert_level": "HIGH",
+      "evidence": ["Defense One 4-way assessment", "Quad summit strain (SCMP)", "US military China briefing to Congress (SCMP)", "Orbán defeat removes EU block on Ukraine aid — unlocking European realignment"]
+    },
+    {
+      "emoji": "💰",
+      "name": "Market Complacency — The $58B Disconnect",
+      "description": "Bloomberg flagged 'Markets Are Too Blasé on War's Economic Toll' as CRITICAL. S&P 500 has recovered ALL war losses and hit new records. But March inflation surged to a three-year high, the Fed Beige Book shows businesses cutting hiring/spending, the IMF cut global growth forecasts, Singapore tightened monetary policy, and the BOJ's rate hike options are narrowing. Oil majors are earning ~$30M/hour in war windfalls while consumers absorb costs. The silver market faces its sixth consecutive annual deficit — an undercovered structural tightness that could surprise to the upside.",
+      "confidence": "high",
+      "alert_level": "CRITICAL",
+      "evidence": ["Bloomberg CRITICAL alert", "$58B energy damage not priced (Rystad/IEA)", "March inflation 3-year high", "Fed Beige Book slowdown", "Silver 6th straight annual deficit (Bloomberg)"]
+    },
+    {
+      "emoji": "🌊",
+      "name": "Simultaneous US Climate Emergency — Floods, Fire, Hurricane Season",
+      "description": "Record flooding is forcing evacuations across Wisconsin and Michigan with historic crest levels — a bridge destroyed in Michigan, all but two Michigan counties under flood watch. A 400-acre wildfire near Gainesville, FL closed State Road 26. New Mexico's Forest Service is bracing for an unusually early wildfire season. USA Today warns the upcoming hurricane season may operate under 'bar-fight rules' — conditions already so dangerous normal caution doesn't apply. The US Forest Service is simultaneously undergoing a contested reorganization that critics call a 'dismantling' of wildland fire capacity. These simultaneous events across the Midwest, Southeast, and Southwest are compressing the climate disaster calendar.",
+      "confidence": "high",
+      "alert_level": "HIGH",
+      "evidence": ["WBAY/FOX Weather — Wisconsin/Michigan flood emergencies", "Gainesville 400-acre wildfire (Gainesville Sun)", "New Mexico early fire season prep (KOB.com)", "USA Today 'bar-fight rules' hurricane warning", "Wildfire Today — USFS reorganization debate"]
+    },
+    {
+      "emoji": "🚰",
+      "name": "Iran War Spillover — Food, Water, Fertilizer",
+      "description": "A UN agency identified fertilizer shortages caused by the Iran conflict as a primary concern for developing nations — risking food insecurity across Africa and South Asia. The World Bank launched its 'Water Forward' programme to address global water stress being exacerbated by war supply chain disruptions. Kenya is already experiencing fuel price spikes. The Africa trade insurer is seeking $500M to cover Iran war cost increases. Bloomberg's SEC probe into suspicious oil trades made before Trump's Iran pivot raises questions about market manipulation preceding the policy shift.",
+      "confidence": "medium",
+      "alert_level": "HIGH",
+      "evidence": ["UN agency fertilizer warning (Reuters)", "World Bank Water Forward launch", "Africa trade insurer $500M seek (finance blind spot)", "SEC/Bloomberg oil trade probe"]
+    },
+    {
+      "emoji": "🇺🇦",
+      "name": "Ukraine — Orbán Out, EU Unlocked, Opportunity Opens",
+      "description": "Hungary's electoral defeat removes Viktor Orbán as the primary obstacle to EU support for Ukraine — potentially unlocking a significant shift in European policy toward Kyiv. Crisis Group assesses that while EU frictions remain, Orbán's departure changes the calculus for collective EU action. Trump threatened to shred the UK trade deal over Starmer's Iran war opposition, adding diplomatic complexity. The US-Iran war has demonstrably diverted attention and resources from Ukraine — an underappreciated strategic dimension.",
+      "confidence": "medium",
+      "alert_level": "MEDIUM",
+      "evidence": ["Crisis Group — Orbán defeat analysis", "Defense One — resources diverted from Pacific (and by extension, Ukraine)", "Trump-Starmer tension over Iran war (Politico.eu)"]
+    }
+  ],
+  "alpha_opportunities": [
+    {
+      "emoji": "🥈",
+      "angle": "Silver's Structural Deficit — The Undercovered Commodity Play",
+      "rationale": "Bloomberg reports silver is facing its 6th consecutive annual deficit. Markets are fixated on the Iran ceasefire oil narrative. Silver's industrial (solar/EV) and monetary demand fundamentals are structurally tight and largely unpriced. If the ceasefire sends energy prices lower, industrial metals could catch a bid while precious metals remain supported by dollar normalization.",
+      "timeframe": "3-6 months",
+      "risk": "MEDIUM — industrial demand could soften if global growth downgrade materializes faster than expected"
+    },
+    {
+      "emoji": "📉",
+      "angle": "VIX vs Equity Records — A Contrarian Signal",
+      "rationale": "S&P 500 at all-time highs while VIXfear gauge and corporate credit spreads suggest elevated tail risk. The Beige Book confirms real economy softening while equity indices celebrate ceasefire optimism. A genuine 'melt-up' requires confirmed ceasefire + rate cuts; if either fails, the downside is amplified by record positioning.",
+      "timeframe": "2-8 weeks",
+      "risk": "HIGH — momentum markets can stay irrational; ceasefire confirmation could further extend the rally"
+    },
+    {
+      "emoji": "🇺🇸",
+      "angle": "US Senate War Powers — Fourth Rejection Creates Precedent Risk",
+      "rationale": "The Senate has now rejected a War Powers resolution to limit Trump's Iran authority FOUR times. Congress appears unable to check executive war powers. If the ceasefire unravels or expands, this constitutional question becomes a market risk — markets are not pricing any political constraint on continued military action.",
+      "timeframe": "Ongoing — contingent on ceasefire stability",
+      "risk": "HIGH — no congressional check means the executive has unilateral escalation option, a tail risk not priced by markets"
+    },
+    {
+      "emoji": "🌡️",
+      "angle": "El Niño 'Super Event' Probability — Not in Commodity Markets Yet",
+      "rationale": "New Scientist and The Guardian both ran deep dives on the possibility of a 'super El Niño' forming. ENSO dynamics may be shifting under climate change, potentially intensifying future events. Agricultural commodities (coffee, palm oil, sugar, grains) would be severely impacted. Current commodity markets are focused on Iran-related disruptions; the El Niño tail risk is largely unaddressed.",
+      "timeframe": "6-18 months",
+      "risk": "MEDIUM — ENSO forecasts have wide uncertainty bands; could be a nonevent or severe depending on Pacific SST evolution"
+    }
+  ],
+  "alerts": {
+    "CRITICAL": [
+      "Iran ceasefire fragile: Pakistan mediating US-Iran talks, but US blockade of Iran's ports enters Day 2 with 12+ warships maintaining Hormuz net",
+      "Market dislocation: S&P 500/Nasdaq at records while $58B energy infrastructure damaged, March inflation at 3-year high, Beige Book shows hiring/spending slowing — disconnect is CRITICAL",
+      "Bloomberg flags 'Markets Are Too Blasé on War's Economic Toll' as CRITICAL alert requiring immediate attention",
+      "Sudan entering 4th year of civil war — world's largest humanitarian crisis with zero diplomatic momentum, completely eclipsed by Iran coverage",
+      "Record flooding in Wisconsin/Michigan destroying infrastructure, forcing evacuations across multiple communities — all but 2 Michigan counties under flood watch"
+    ],
+    "HIGH": [
+      "US strategic position weakening across four domains per Defense One: alliances strained, China/Russia advancing, Pacific resources diverted, credibility undermined",
+      "Quad alliance fracturing: India hosted foreign ministers meeting without US/Japan/Australia top leaders — Indo-Pacific coalition credibility at stake",
+      "Fertilizer shortages from Iran war threatening food security across Africa and South Asia — cascading humanitarian crisis barely covered",
+      "US Senate War Powers resolution rejected 4th time — Congress unable to check executive war-making, constitutional balance eroding",
+      "Early wildfire season igniting simultaneously across Southeast and Southwest — 400-acre Gainesville fire, New Mexico Forest Service on alert, Florida fires active",
+      "Hurricane season forecast expected to be 'significantly above average' — USA Today warns conditions may already be outside normal parameters ('bar-fitch rules')",
+      "BOJ rate hike options narrowing due to Iran war; Singapore tightening; ECB holding with 'significantly more uncertain' outlook — global central bank squeeze deepening",
+      "SEC probing suspicious oil trades made before Trump pivoted on Iran — potential market manipulation ahead of major policy shift",
+      "US military tells Congress China threat requires major capability buildup — simultaneous Iran commitment creating Pacific deterrence gap"
+    ],
+    "MEDIUM": [
+      "Hungary Orbán defeat unlocks EU Ukraine support — but EU frictions remain, implementation timeline unclear",
+      "Trump threatens to shred UK trade deal over Starmer's Iran war opposition — US-UK diplomatic friction adding to Western alliance stress",
+      "Microsoft April Patch Tuesday: 167 vulnerabilities including SharePoint zero-day and 'BlueHammer' Windows Defender flaw — record patch cycle signals broad attack surface",
+      "Oil majors earning ~$30M/hour in war windfalls while farmers and consumers absorb input cost increases — wealth transfer from consumers to energy sector",
+      "Trump tariffs straining all 50 US states — farmers squeezed by tariffs AND war-driven fertilizer/input costs simultaneously",
+      "El Niño uncertainty: scientists divided on 'super event' probability — but consensus growing ENSO dynamics may be intensifying under climate change",
+      "Amazon sellers boycotting ad platform over shrinking margins — platform economy stress not captured in traditional indices",
+      "Anthropic valued at up to $800B amid public souring on AI — IPO timing questionable given sentiment headwinds",
+      "Dollar shedding Iran war risk premium — normal ceasefire pattern but geopolitical tail risks remain elevated"
+    ],
+    "LOW": [
+      "Mark Mobius, emerging markets pioneer, dies at 89 — passing of a generation's investment framework",
+      "Swedish power plant targeted by pro-Russian group in 2025 — acknowledged government disclosure reveals infrastructure vulnerability timeline",
+      "El Salvador publishes law allowing life sentences for minors as young as 12 — Bukele's state of emergency crime crackdown deepening",
+      "US Forest Service reorganization debate: 'dismantling' vs 'modernization' — happening precisely as simultaneous wildfire/flood emergencies strain agency",
+      "BYD reports fire at Shenzhen garage for test/scrapped cars — EV safety/supply chain story in China with market implications"
+    ]
+  },
+  "cross_domain_patterns": [
+    "Iran War Cascades Across All Domains: Ceasefire optimism drives equities to records → simultaneously central banks tightening to combat war-driven inflation → businesses cutting hiring/spending → emerging markets bearing growth downgrade brunt → fertilizer/food insecurity spreading to Africa/South Asia → US emergency response stretched across simultaneous climate events",
+    "Western Alliance Fracturing in Real-Time: US Senate can't check executive; EU divided on Iran; Quad strained; US-UK diplomatic friction emerging; US military stretched between Middle East and Pacific — all visible simultaneously across geopolitical and finance datasets",
+    "Climate Emergency Calendar Compression: Record Midwest floods, active Florida wildfires, New Mexico early fire season prep, Super Typhoon Sinlaku hitting Guam/Northern Marianas, ominous hurricane season pre-warnings, and contested USFS reorganization — all happening simultaneously, compressing what used to be sequential seasonal threats into concurrent multi-region events",
+    "Markets Pricing Narrative, Not Fundamentals: S&P 500 at records while IMF cuts growth, Beige Book slows, $58B damage not repaired, March inflation 3-year high — suggests markets are pricing Trump ceasefire tweet rather than underlying economics. The SEC probe into pre-pivot oil trades raises the question of who positioned correctly before the policy reversal."
+  ],
+  "blind_spots_identified": [
+    "China's exact diplomatic posture on Iran war: beneficiary per Defense One but specific moves untracked",
+    "Russia's role beyond Ukraine context: material/diplomatic support to Iran? Underreported",
+    "Iranian domestic political dynamics: BBC reports from inside Iran but decision-making calculus thin",
+    "Lebanon-Israel direct talks receive limited coverage despite being potentially most actionable diplomatic track",
+    "Cyber dimension of Iran war: 'CanisterWorm' wipers targeting Iranian systems, full scope opaque",
+    "Africa economic fallout barely tracked beyond Kenya — cascading effects on food security across sub-Saharan Africa underdocumented",
+    "No coverage of longer-term demographic or labor market structural scarring from the war",
+    "Water scarcity and drought: despite being a source category, no substantive drought stories in top results — major blind spot given drought as wildfire/agricultural risk multiplier",
+    "Sea level rise and coastal impacts entirely absent despite being slow-onset high-consequence",
+    "Climate finance and loss-and-damage political economy — 'how we pay for this' dimension missing"
+  ],
+  "telegram_summary": "⚡ CEASEFIRE FRAGILE — Pakistan mediating US-Iran talks as US blockade enters Day 2 with 12+ warships at Hormuz. Markets at records but Bloomberg calls market complacency CRITICAL — $58B energy damage unrepaired, March inflation 3-year high, Beige Book shows businesses cutting hiring. Meanwhile simultaneous US climate crisis: record Wisconsin/Michigan floods destroying bridges, 400-acre Florida wildfire, early wildfire season, ominous hurricane warnings. Sudan — world's largest humanitarian crisis entering Year 4 — completely eclipsed by Iran coverage.",
+  "reference_index": [
+    {"source": "Al Jazeera", "type": "Geopolitics/Middle East", "articles": 3},
+    {"source": "Reuters", "type": "Markets/Economics", "articles": 5},
+    {"source": "Bloomberg", "type": "Markets/Finance", "articles": 4},
+    {"source": "Defense One", "type": "US Strategy/Geopolitics", "articles": 2},
+    {"source": "SCMP", "type": "Indo-Pacific/China", "articles": 2},
+    {"source": "MarketWatch", "type": "Markets/Economics", "articles": 2},
+    {"source": "WBAY/FOX Weather/NBC26", "type": "Climate/Disasters", "articles": 5},
+    {"source": "The Guardian", "type": "Climate/ENSO", "articles": 2},
+    {"source": "New Scientist", "type": "Climate/ENSO", "articles": 1},
+    {"source": "USA Today", "type": "Climate/Hurricanes", "articles": 1},
+    {"source": "Krebs on Security", "type": "Cyber", "articles": 1},
+    {"source": "Crisis Group", "type": "Geopolitics/Europe", "articles": 1},
+    {"source": "Foreign Policy", "type": "Geopolitics/US Strategy", "articles": 1},
+    {"source": "IMF", "type": "Global Economics", "articles": 1},
+    {"source": "IEA", "type": "Energy", "articles": 1},
+    {"source": "Rystad Energy", "type": "Energy Infrastructure", "articles": 1},
+    {"source": "Federal Reserve Beige Book", "type": "US Economics", "articles": 1}
+  ]
 }
