@@ -1,0 +1,150 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-07 18:00 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (4)
+   Market-moving event, immediate attention required
+   • Japan sees weakening economic momentum, early signs of war-induced pain
+     [TECH → AI]
+     Source: CNA
+   • Iran war upends spring housing market. Here's what real estate agents are seeing
+     [POLITICS → GEOPOLITICS]
+     Source: CNBC
+   • ‘All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy
+     [POLITICS → GEOPOLITICS]
+     Source: CNBC
+
+🟠 **HIGH ALERTS** (3)
+   Significant event, consider action
+   • Can surgery used to treat fluid accumulation help with Alzheimer’s? A Singapore trial is exploring this possibility
+     [POLITICS → GENERAL]
+     Source: CNA
+   • USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+   • Iran releases on bail Japan national jailed amid antigovernment protests
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+
+🟢 **LOW ALERTS** (8)
+   Routine update, no immediate action needed
+   • Maguire signs Manchester United contract extension
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Sri Lanka unveils US$320 million subsidy to offset energy costs
+     [ENERGY → GENERAL]
+     Source: CNA
+   • Oil prices rally, stocks edge up after Trump's latest Iran threat
+     [POLITICS → US POLITICS]
+     Source: CNA
+
+📊 **CATEGORIZED NEWS**
+
+**ENERGY** (1)
+   Oil, gas, renewables, utilities, energy policy
+   └─ GENERAL (1)
+      • 🟢 Sri Lanka unveils US$320 million subsidy to offset energy costs
+        Source: CNA
+
+**MARKETS** (2)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ EQUITIES (1)
+      • 🟢 Universal Music stock rises 13% after Pershing Square's $64 billion takeover proposal
+        Source: CNBC
+        Bill Ackman's Pershing Square said Universal Music's stock price has "languished" due to a range of ...
+   └─ GENERAL (1)
+      • 🟢 JD Vance heads to Hungary to support Viktor Orbán ahead of high-stakes election
+        Source: CNBC
+        Viktor Orbán has said the EU is a greater threat to Hungary than Russia. As an election defeat looms...
+
+**POLITICS** (11)
+   Government, elections, legislation, geopolitical events
+   └─ ELECTIONS (1)
+      • 🟢 JD Vance arrives in Hungary to back Orbán's re-election bid
+        Source: BBC World
+        The US vice-president's visit is the latest show of White House support for the Hungarian leader....
+   └─ GENERAL (5)
+      • 🟠 Can surgery used to treat fluid accumulation help with Alzheimer’s? A Singapore trial is exploring this possibility
+        Source: CNA
+        Early results from a small clinical trial at Changi General Hospital suggest the technique could lea...
+      • 🟢 Maguire signs Manchester United contract extension
+        Source: CNA
+   └─ GEOPOLITICS (3)
+      • 🔴 Iran war upends spring housing market. Here's what real estate agents are seeing
+        Source: CNBC
+        Home buyers in the first quarter were more concerned about the economy and mortgage rates than they ...
+      • 🔴 ‘All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy
+        Source: CNBC
+   └─ US POLITICS (2)
+      • 🟢 Oil prices rally, stocks edge up after Trump's latest Iran threat
+        Source: CNA
+      • 🔴 Trump and Hegseth invoke God and religion in Iran war press conference
+        Source: Al Jazeera
+        Trump believes God backs US in Iran war, Hegseth compares airman&#039;s rescue to Jesus&#039; resurr...
+
+**TECH** (1)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (1)
+      • 🔴 Japan sees weakening economic momentum, early signs of war-induced pain
+        Source: CNA
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 4 (26.7%)
+🟠 HIGH: 3 (20.0%)
+🟢 LOW: 8 (53.3%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟠 Can surgery used to treat fluid accumulation help with Alzheimer’s? A Singapore trial is exploring this possibility
+   https://www.channelnewsasia.com/wellness/alzheimers-treatment-lymphatic-bypass-trial-singapore-6040791
+
+2. 🟢 Maguire signs Manchester United contract extension
+   https://www.channelnewsasia.com/sport/maguire-signs-manchester-united-contract-extension-6040946
+
+3. 🟢 Sri Lanka unveils US$320 million subsidy to offset energy costs
+   https://www.channelnewsasia.com/asia/sri-lanka-unveils-us320-million-subsidy-offset-energy-costs-6040926
+
+4. 🔴 Japan sees weakening economic momentum, early signs of war-induced pain
+   https://www.channelnewsasia.com/business/japan-sees-weakening-economic-momentum-early-signs-war-induced-pain-6040921
+
+5. 🟢 Oil prices rally, stocks edge up after Trump's latest Iran threat
+   https://www.channelnewsasia.com/business/oil-prices-rally-stocks-edge-up-after-trumps-latest-iran-threat-6040036
+
+6. 🟢 JD Vance arrives in Hungary to back Orbán's re-election bid
+   https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss
+
+7. 🔴 Iran war upends spring housing market. Here's what real estate agents are seeing
+   https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html
+
+8. 🟠 USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit
+   https://www.aljazeera.com/sports/2026/4/7/usa-striker-patrick-agyemangs-world-cup-in-doubt-after-stretcher-exit?traffic_source=rss
+
+9. 🟢 Los Angeles Stadium workers urge FIFA to bar ICE from World Cup
+   https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss
+
+10. 🟢 ‘Military action is not an effective means to pursue nonproliferation’
+   https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss
+
+11. 🔴 ‘All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy
+   https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html
+
+12. 🔴 Trump and Hegseth invoke God and religion in Iran war press conference
+   https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-and-hegseth-invoke-god-and-religion-in-iran-war-press-conference?traffic_source=rss
+
+13. 🟢 JD Vance heads to Hungary to support Viktor Orbán ahead of high-stakes election
+   https://www.cnbc.com/2026/04/07/jd-vance-visits-hungary-viktor-orban-trump-russia-eu.html
+
+14. 🟢 Universal Music stock rises 13% after Pershing Square's $64 billion takeover proposal
+   https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html
+
+15. 🟠 Iran releases on bail Japan national jailed amid antigovernment protests
+   https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail?traffic_source=rss

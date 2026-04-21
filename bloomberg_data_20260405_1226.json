@@ -1,0 +1,342 @@
+{
+  "timestamp": "2026-04-05T12:26:32.886575",
+  "articles_analyzed": 22,
+  "categorized_articles": [
+    {
+      "title": "US rescues airman whose F-15 was downed in Iran, US officials say",
+      "category": "asia",
+      "source": "CNA",
+      "summary": "",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Brazilian Oscar retires at 34 with cardiac issues",
+      "category": "asia",
+      "source": "CNA",
+      "summary": "",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Afghan mother seeks justice after Pakistani bombing kills hundreds",
+      "category": "asia",
+      "source": "CNA",
+      "summary": "The Mar 16 attack hit a drug treatment centre and&nbsp;killed 411 people, according to Afghan officials.&nbsp;",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "AI that copied musical artist files copyright claim against that artist",
+      "category": "tech",
+      "source": "Hacker News",
+      "summary": "Article URL: https://twitter.com/VladTheInflator/status/2039577001531768906",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Show HN: mailtrim \u2013 find what's actually filling your Gmail inbox",
+      "category": "tech",
+      "source": "Hacker News",
+      "summary": "I always assumed Gmail bloat came from large attachments.                                                                                             ...",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Writing Lisp Is AI Resistant and I'm Sad",
+      "category": "tech",
+      "source": "Hacker News",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+      "category": "geopolitics",
+      "source": "Al Jazeera",
+      "summary": "Tehran says Iraq will face no restrictions in waterway, praising country&#039;s &#039;struggle&#039; against the US.",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war live: Missing airman from downed jet \u2018recovered\u2019, US official says",
+      "category": "geopolitics",
+      "source": "Al Jazeera",
+      "summary": "Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Russian attack on Ukraine market kills five",
+      "category": "geopolitics",
+      "source": "BBC World",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock",
+      "category": "finance",
+      "source": "Yahoo Finance",
+      "summary": "",
+      "link": "",
+      "primary_category": "MARKETS",
+      "subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Microsoft Corporation (MSFT): Billionaire Steve Cohen Trims Position",
+      "category": "finance",
+      "source": "Yahoo Finance",
+      "summary": "\ud83d\udd17 **ALL ARTICLE LINKS:**",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US rescues airman whose F-15 was downed in Iran, US officials say",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.channelnewsasia.com/world/iran-war-f15-rescue-airman-pilot-6037286",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Brazilian Oscar retires at 34 with cardiac issues",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.channelnewsasia.com/sport/brazilian-oscar-retires-34-cardiac-issues-6037266",
+      "link": "",
+      "primary_category": "MARKETS",
+      "subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Afghan mother seeks justice after Pakistani bombing kills hundreds",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.channelnewsasia.com/asia/afghanistan-pakistan-hospital-airstrike-bombing-6037211",
+      "link": "",
+      "primary_category": "MARKETS",
+      "subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "AI that copied musical artist files copyright claim against that artist",
+      "category": "finance",
+      "source": "",
+      "summary": "https://twitter.com/VladTheInflator/status/2039577001531768906",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Show HN: mailtrim \u2013 find what's actually filling your Gmail inbox",
+      "category": "finance",
+      "source": "",
+      "summary": "https://news.ycombinator.com/item?id=47645719",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Writing Lisp Is AI Resistant and I'm Sad",
+      "category": "finance",
+      "source": "",
+      "summary": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war live: Missing airman from downed jet \u2018recovered\u2019, US official says",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Russian attack on Ukraine market kills five",
+      "category": "finance",
+      "source": "",
+      "summary": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "link": "",
+      "primary_category": "POLITICS",
+      "subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock",
+      "category": "finance",
+      "source": "",
+      "summary": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-210515294.html",
+      "link": "",
+      "primary_category": "MARKETS",
+      "subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Microsoft Corporation (MSFT): Billionaire Steve Cohen Trims Position",
+      "category": "finance",
+      "source": "",
+      "summary": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-steve-210303332.html",
+      "link": "",
+      "primary_category": "TECH",
+      "subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 4,
+    "high": 0,
+    "medium": 0,
+    "low": 18
+  }
+}

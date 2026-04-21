@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-05T19:00:24.360734",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Commandos probed deep into Iran to rescue downed airman: US media",
+      "link": "https://www.channelnewsasia.com/world/iran-war-us-rescue-f15-airman-commando-6037521",
+      "published": "Sun, 05 Apr 2026 18:40:00 +0800",
+      "summary": "The airman, a weapon systems officer, was wounded after the ejection but could still walk, reportedly evading capture in the mountains for more than a day.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "e6b6b263ff1519e1b14ea524b9cd7973",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands",
+      "link": "https://www.channelnewsasia.com/singapore/southern-islands-man-missing-body-found-indonesia-6023051",
+      "published": "Sun, 05 Apr 2026 18:04:00 +0800",
+      "summary": "A 49-year-old man has been arrested for rash navigation of a vessel and police investigations are ongoing.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2a4bc43a6117b361d4a0ed62b22432cf",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Pope Leo marks first Easter as pontiff with call for hope amid global conflicts",
+      "link": "https://www.channelnewsasia.com/world/pope-leo-easter-call-hope-global-conflicts-war-6037471",
+      "published": "Sun, 05 Apr 2026 17:58:00 +0800",
+      "summary": "In his Easter homily, Pope Leo singled out those who wage war, abuse the weak and prioritise profits.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "905444028a995392fc316a5a5bf3feb7",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "China executes Frenchman convicted in 2010 for drug trafficking",
+      "link": "https://www.channelnewsasia.com/east-asia/china-execute-frenchman-drug-trafficking-6037466",
+      "published": "Sun, 05 Apr 2026 17:14:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "dffad554357db0c4b21cc73ead1d8435",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Artemis astronauts glimpse Moon's 'Grand Canyon' ahead of historic lunar flyby",
+      "link": "https://www.channelnewsasia.com/world/artemis-astronauts-moon-grand-canyon-lunar-flyby-6037456",
+      "published": "Sun, 05 Apr 2026 16:48:00 +0800",
+      "summary": "The next major milestone is expected overnight, at which point the astronauts will enter the \"lunar sphere of influence\" where the Moon's gravity will have a stronger pull on the spacecraft than Earth...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "7022b1d62a48c05caaa599c9ee312491",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Lamine Yamal\u2019s anger after Barcelona\u2019s La Liga win downplayed by Flick",
+      "link": "https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 10:31:18 +0000",
+      "summary": "Yamal&#039;s unhappiness at the end of the match against Atletico Madrid was over missed scoring opportunities, Flick says.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "526a8ab13acc05d54ddbd6819c5f3f55",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US pilot from downed F-15E plane rescued in Iran: What we know",
+      "link": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 10:10:50 +0000",
+      "summary": "The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hours.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "d4db1a6c58d4907a567531e707ec3f23",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "What we know so far about rescue of US airman in Iran",
+      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 10:07:16 GMT",
+      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "571f6e3b459cadb0fb3c74be2dbd727a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 10:04:23 +0000",
+      "summary": "CCTV footage circulated online shows the moment that an Israeli military dog attacks a worshipper leaving a mosque",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "278ac1fb57cf856b44ac11d437b1743a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Ukraine hits port in Russia\u2019s Primorsk, oil refinery in Nizhny Novgorod",
+      "link": "https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 09:59:40 +0000",
+      "summary": "Fuel leaks at Primorsk, and \u2060NORSI oil refinery catches fire, Russian authorities say.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "cbb5fb93dbdb4342fe582b9d19ad519c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ask HN: Vibe Coding over Easter?",
+      "link": "https://news.ycombinator.com/item?id=47647645",
+      "published": "Sun, 05 Apr 2026 09:29:29 +0000",
+      "summary": "Hello HN!So, as coding has become something we're able to do via Telegram/WhatsApp, I assume many of us are doing it 'remotely' via their phones, while celebrating Easter with the family.How does that...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "2f755ba2b19e9a25424be7be738ae2c7",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Talk like caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "published": "Sun, 05 Apr 2026 08:56:18 +0000",
+      "summary": "Article URL: https://github.com/JuliusBrussee/caveman\nComments URL: https://news.ycombinator.com/item?id=47647455\nPoints: 55\n# Comments: 36",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "3935dc2572ed531c3b24fe2fe9f25709",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Kuwait\u2019s power, water plants damaged as Iran keeps attacking Gulf states",
+      "link": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 08:52:22 +0000",
+      "summary": "Bahrain and the UAE also reported attacks resulting in fires, which were put out quickly.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "010e9f1216f3dcc2f87d1316d3756488",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media",
+      "link": "https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/",
+      "published": "Sun, 05 Apr 2026 07:01:45 +0000",
+      "summary": "Article URL: https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/\nComments URL: https://news.ycombinator.com/item?id=...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "e6ff6a98fc14c6e2faec95743056d9a5",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
+      "link": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
+      "published": "Sun, 05 Apr 2026 06:12:30 +0000",
+      "summary": "Article URL: https://idp-software.com/news/idp-accuracy-reckoning-2026/\nComments URL: https://news.ycombinator.com/item?id=47646566\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "e26edbbbfee64d4b5683084c1bc6903f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 4,
+    "medium": 0,
+    "low": 9
+  },
+  "category_summary": {
+    "MARKETS": 0,
+    "ECONOMY": 0,
+    "TECH": 4,
+    "POLITICS": 11,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260420_2320",
+  "run_ts_utc": "2026-04-20T23:21:04.558998Z",
+  "insights": [
+    {
+      "headline": "US and Iran warn they are ready for war as Pakistan ceasefire talks in limbo",
+      "summary": "The United States and Iran on Monday each warned they were ready for war as the clock ticked on a ceasefire, with uncertainty on talks that US President Donald Trump had announced would resume in Pakistan. The White House said Vice-President J.D. Vance was ready to fly back to the Pakistani capital.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["South China Morning Post"],
+      "source_urls": ["https://www.scmp.com/news/world/middle-east/article/3350796/us-and-iran-warn-they-are-ready-war-pakistan-ceasefire-talks-limbo?utm_source=rss_feed"],
+      "published": "2026-04-20 23:18"
+    },
+    {
+      "headline": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week. This follows an initial quake that triggered tsunami warnings, placing the country on maximum alert.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss"],
+      "published": "2026-04-20 14:54"
+    },
+    {
+      "headline": "Tim Cook to step down as Apple CEO, handing reins to firm's hardware leader",
+      "summary": "Apple CEO Tim Cook is stepping down from the job that he inherited from the late Steve Jobs, ending a nearly 15-year reign that saw the company's market value soar by more than US$3.6 trillion. Cook, 65, will turn CEO duties over to Apple's head of hardware engineering, John Ternus, on September 1.",
+      "category": "tech",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera", "South China Morning Post"],
+      "source_urls": [
+        "https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo?traffic_source=rss",
+        "https://www.scmp.com/tech/big-tech/article/3350792/tim-cook-step-down-apple-ceo-handing-reins-firms-hardware-leader?utm_source=rss_feed"
+      ],
+      "published": "2026-04-20 22:06"
+    },
+    {
+      "headline": "The World Is Paying the Price for America's War",
+      "summary": "Conflict with Iran hurts American wallets, but it's far more devastating for people in the global south. The analysis examines how the US-Israel war on Iran is driving up energy prices and destabilising economies across Asia and Africa.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/20/trump-iran-war-energy-prices-stocks-ai-asia-africa/"],
+      "published": "2026-04-20 20:06"
+    },
+    {
+      "headline": "The Strategic Aftershocks of Trump's Iran War",
+      "summary": "The consequences will be felt long after the fighting ends. Foreign Policy examines the long-term geopolitical fallout from the US-Israel war on Iran, including implications for Israel, oil markets, and US global standing.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/"],
+      "published": "2026-04-20 18:57"
+    },
+    {
+      "headline": "How 50 days of the Iran war led to the loss of $50 billion worth of oil",
+      "summary": "Reuters analysis details the massive economic impact of the Iran war on global oil markets, with 50 days of conflict resulting in $50 billion in lost oil production and exports.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMipAFBVV95cUxOekdYZjBPOUt4UEN4MUpmR2FOTEM0dk5fUlRNTEtuOVNNbW9EQmFPR0xfdWQwRkFWZ2ZYZktkTVo0bmx2WjAyWW9Ec1RhRTBERHFQOTBCWVhGc1B5c2hzN0MwOWd3Wko3SS1fX2NUTDdneUpxOXdZS3d6LTFVZHd5eXNRMUxFS2loNmNUSmdTX0VSTGxIN1NIQkx5NVZ5N2k4aFU3TA?oc=5"],
+      "published": "2026-04-17 16:44"
+    },
+    {
+      "headline": "Iran replenishes launchers at higher rate than pre-war, guards commander says",
+      "summary": "A Revolutionary Guard commander claims Iran is replenishing missile and launcher systems at a higher rate than before the war, suggesting significant industrial resilience or external support.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXZmWnQzcWFEOElFSmNNUF9lNENIQ2J4Yy1sMVRhVlZBZ2F6cFpranJuSkxIOW5CNWNfWFpDWmhpenA2T0Y2RHQ4XzRvQ3lGamI2ejF6ZEpEX0s2Ylo3TklPZFVtc0lnLUpIYnM0ZzgtTEJVVXB2bkZ4Q3dNSC01WGZVY0JXbG9fMkxQcDRpdHZ0LWNlWHQ5clE2TWdCQjJjUUREVU05bFpwZzI3RldsanQ1elFRRmx3RnlySUc3YVhrYmpSd2c?oc=5"],
+      "published": "2026-04-19 10:36"
+    },
+    {
+      "headline": "Pro-Iran hackers appear to increase critical infrastructure cyberattacks",
+      "summary": "One group claimed responsibility for hacking the Los Angeles Metro as the federal government warns of vulnerabilities. Pro-Iran hacktivist groups are escalating cyberattacks on Western critical infrastructure.",
+      "category": "cyber",
+      "alert_level": "HIGH",
+      "source_names": ["Defense One"],
+      "source_urls": ["https://www.defenseone.com/threats/2026/04/iran-hackers-infrastructure-cyberattacks/412941/"],
+      "published": "2026-04-17 17:00"
+    },
+    {
+      "headline": "Trump boasts on 'winning war' on social media posts",
+      "summary": "Donald Trump has released various social media comments throughout the day, preaching about winning the war. The posts come as the US and Iran both warn they are ready to escalate, casting doubt on ceasefire negotiations.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/video/newsfeed/2026/4/20/trump-boasts-on-winning-war-on-social-media-posts?traffic_source=rss"],
+      "published": "2026-04-20 21:01"
+    },
+    {
+      "headline": "Even Trump's most basic claims about the Iran war can't be trusted",
+      "summary": "A CNN analysis debunks several of Trump's claims about the Iran war, including casualty figures, operational success claims, and statements about allied support. Raises serious questions about administration credibility.",
+      "category": "middleeast",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNN"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiekFVX3lxTFA3Q3A0V21GOHdsWlhLXy14UnNXQVRhdHRSb2xnSUNPdjZ2RGRvV2JYenF1bEcyaEhXUUcwQ2hkNzBHdlAtdFVWa2RSVEY2UFBhZkVFc0NMN3RXSFViVEc0NUd3cE91c0NlbENDaTZ1SlZCdkhYV2FfUDBR?oc=5"],
+      "published": "2026-04-20 20:20"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Ukraine has a plan to build back better with green reconstruction, signalling resilience despite war fatigue",
+      "Clean energy met 100% of world's new power needs in 2025, reducing vulnerability to oil supply shocks",
+      "Singapore dollar seen as safe haven amid Iran war uncertainty, demonstrating safe-haven demand for Asian currencies"
+    ],
+    "negative": [
+      "Foreign Policy: The Iran war is devastating for the global south, with energy price spikes hitting hardest in developing economies",
+      "ADB chief warns Japan's too-slow rate hikes are creating yen pressure and economic vulnerability",
+      "Traders bracing for renewed turmoil on Hormuz standoff, with oil headed back toward $90/barrel",
+      "Iran war costs $50 billion in lost oil production after just 50 days, with sulfur/fertilizer supply chains also disrupted"
+    ],
+    "sources": [
+      "Foreign Policy",
+      "Reuters",
+      "Al Jazeera",
+      "South China Morning Post",
+      "Channel News Asia",
+      "Bloomberg"
+    ]
+  },
+  "patterns": [
+    "Iran war dominates coverage: 6+ major stories directly tied to US-Israel-Iran conflict, with ceasefire talks in Pakistan stalled and both sides warning of readiness to escalate",
+    "Escalation signals: US (VP Vance ready to fly to Pakistan) and Iran both signal war readiness despite ceasefire framework announcement",
+    "Cyber escalation: Pro-Iran hacktivist groups increasingly targeting Western critical infrastructure (LA Metro hack claimed)",
+    "Economic spillover mounting: $50B+ in oil losses, Hormuz standoff reviving market uncertainty, energy prices threatening to return to $90+ range",
+    "US credibility questioned: Multiple outlets fact-check Trump administration claims on Iran war progress and casualties",
+    "US-China nuclear dialogue: Senator urges bringing China into nuclear arms control talks, signalling concern about arms race dynamics",
+    "Clean energy as strategic alternative: Clean power meeting 100% of new global electricity demand in 2025 is reframed as energy security solution amid Iran crisis",
+    "China legal shield: New Chinese regulations counter 'unjustified' extraterritorial application of foreign laws, signalling shift to legal warfare against external pressure",
+    "Regional impact spreading: Iraq unable to maintain neutrality, Lebanon ceasefire holding funerals, Sudan entering fourth year of war"
+  ],
+  "blind_spots": [
+    "Limited reporting on actual Iranian military capabilities and damage assessments — most figures come from anonymous officials or official claims",
+    "Pakistan's internal political situation barely covered despite being the supposed venue for ceasefire talks",
+    "Humanitarian dimension of Iran war on ordinary Iranians — health system, food security, refugee flows — largely absent from mainstream coverage",
+    "Russian and Chinese roles in the conflict underreported — both have clear strategic interests but coverage focuses almost entirely on US/Iran dynamic",
+    "Israeli civilian impact and domestic political fallout from prolonged conflict rarely examined",
+    "Intellectual property and technology transfer implications of the war for AI/tech sector not explored",
+    "African and Latin American reactions to the global south energy crisis largely ignored",
+    "No coverage of public opinion polling in any of the directly involved nations"
+  ]
+}

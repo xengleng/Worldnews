@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-12T18:00:48.851960",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Elon Musk in a post on X says some of his Trump posts \u2018went too far\u2019 and that he regrets them",
+      "link": "https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines",
+      "published": "Wed, 11 Jun 2025 07:09:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c11c202ee4ea6433621ae8e00865216b",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day\u2019s two minutes of silence",
+      "link": "https://www.marketwatch.com/story/bank-of-england-decision-on-thursday-will-be-at-12-02-p-m-local-time-instead-of-12-p-m-due-to-ve-day-two-minutes-of-silence-1f6bed66?mod=mw_rss_realtimeheadlines",
+      "published": "Tue, 06 May 2025 11:59:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "3756c166b5161649f4d4084ec1019660",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
+      "link": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "67f8f19cfa6364d727acb0f36a45e399",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Dollar jumps 0.5% to 0.8890 francs",
+      "link": "https://www.marketwatch.com/story/dollar-jumps-0-5-to-0-8890-francs-047c6b4d?mod=mw_rss_realtimeheadlines",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c79f482905efbd983eda8b0ee0b779fe",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "FOREX",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Legendary Indian singer Asha Bhosle dies aged 92",
+      "link": "https://www.channelnewsasia.com/asia/asha-bhosle-indian-playback-singer-bollywood-dies-age-92-6051626",
+      "published": "Sun, 12 Apr 2026 17:05:00 +0800",
+      "summary": "Bhosle recorded more than 12,000 songs in multiple Indian languages over a seven-decade career.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "616e5afc07d44449c0ad4b7ef9b45d20",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
+      "link": "https://www.channelnewsasia.com/world/humanx-conference-ai-job-panic-silicon-valley-artificial-intelligence-6051596",
+      "published": "Sun, 12 Apr 2026 16:21:00 +0800",
+      "summary": "Another argument has taken hold in Silicon Valley: interpersonal skills will become more valuable than ever, with some voices going so far as to tout a humanities education as sound tech career prepar...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "1a7636c90feb20f357a305ea90bc9216",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Cyclone lashes New Zealand's North Island, hundreds evacuated",
+      "link": "https://www.channelnewsasia.com/world/new-zealand-cyclone-vaianu-north-island-hundreds-evacuate-6051366",
+      "published": "Sun, 12 Apr 2026 15:43:00 +0800",
+      "summary": "Conditions will ease as Cyclone&nbsp;Vaianu works its way down the North Island before exiting on Sunday evening at Hawke's Bay, New Zealand's MetService said.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "4a9ca0440379b9447bb8e9f2f6723c62",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump ballroom renovation allowed to proceed, for now",
+      "link": "https://www.channelnewsasia.com/world/trump-white-house-ballroom-renovation-allowed-proceed-6051591",
+      "published": "Sun, 12 Apr 2026 15:26:17 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "8f862bf7f0d4ba2e40585b6b7c885da0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Cambodia urges Thailand to resume talks on disputed border",
+      "link": "https://www.channelnewsasia.com/asia/cambodia-urges-thailand-resume-talks-border-disputes-hun-manet-6051581",
+      "published": "Sun, 12 Apr 2026 15:22:44 +0800",
+      "summary": "Cambodian Prime Minister Hun Manet said on Saturday (Apr 11) that he \"strongly hopes\" the two neighbours will be able to work together \"quickly and with sincerity\".",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "d991300a2671dc7e220c980515cb8e44",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 09:48:10 GMT",
+      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "d27371a533596cb5c812e9bea8cbc32f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
+      "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 09:47:24 +0000",
+      "summary": "The Ministry of Energy says the East-West pipeline is back to pumping about 7 million barrels per day.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "0ed06afa47939fd708f1d73287b7b00b",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "link": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 09:40:55 +0000",
+      "summary": "Bhosle recorded more than 12,000 songs in multiple Indian languages over a seven decade career.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "d81443ea146419e456aa0555a268df66",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "More than 500 people arrested at London rally for Palestine Action",
+      "link": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 09:36:42 +0000",
+      "summary": "Protest organisers accuse UK government of complicity in Gaza genocide as arrests made at Trafalgar Square rally.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "8608736eb22078158423bca5d09eb118",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Teen sprint star Gout powers to 200m win in 19.67 seconds",
+      "link": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 09:33:38 +0000",
+      "summary": "Gout Gout breaks the under-20 world record for 200m, while also making him faster than Usain Bolt at the same age.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "9bb6bfb8abbe09927f2e54b97dd0b484",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Deported migrants arrive in Costa Rica from the US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/deported-migrants-arrive-in-costa-rica-from-the-us?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 09:31:57 +0000",
+      "summary": "Costa Rica has received 25 people deported by the US as the first wave of an agreement between the two countries.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "1750e28e335163cc84dfd3b74566a636",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 1,
+    "high": 0,
+    "medium": 0,
+    "low": 14
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 1,
+    "TECH": 2,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

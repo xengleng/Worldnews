@@ -1,0 +1,167 @@
+{
+  "agent": "climate",
+  "timestamp": "20260416_0116",
+  "run_ts_utc": "2026-04-16T01:18:02.209696Z",
+  "insights": [
+    {
+      "headline": "Record flooding forces evacuations across Wisconsin and Michigan; historic crest levels reported",
+      "summary": "Northeast Wisconsin and Northern Michigan are experiencing record-breaking flood levels as of April 15-16. The Wolf River prompted evacuation orders for Shiocton and surrounding communities; Newaygo County in Michigan declared a flood emergency as the Muskegon and White rivers rise. A popular bridge in Michigan was destroyed when the river hit historic flood levels. All but two Michigan counties are under flood watch through late Thursday night. Evacuations are expanding in multiple communities including New London, Wisconsin. Chicago's northwest side is also dealing with heavy flooding from Tuesday storms, with record-breaking rainfall and more rain forecast.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["WBAY", "FOX Weather", "WLUK", "NBC26", "Spectrum News", "The Detroit News", "WZZM13.com", "Block Club Chicago", "WPR", "Big Rapids Pioneer"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFVSUHdnT3Q0dWczYWEyTjRXcE9CUG8yX1diTDVNLWdtcko1Ny1sU2I3eGg4VVYyLWs5UDRKeXhFNURvd05JT1JhdjdrWFJ0WnJYQlllM3NyWVp0N1Yxb1dtTlRGZEpCaHBzTk4zdEdHczFOY216QVBQSmF1OWxYOFVzYVpGUHU0dlhlaHVsMmFTRXBGYVBhSHJ2b0lnOUNsX2NiYQ",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUUk1eWptTmxJajdlcVlOZ0lXeHg2Xy11Rnc5em1pSV90ZEsxUS05MUFJRzZiWDBNOHU3MjM0TzZmRDZqMUZaRjNXRzR2OGpTU01KMllJTi1VaXJkcmpXdU1NTGVESVotZnhyd1ZBZGNHaUE5UVY5dTE0SVpPMlJ1by1qWWQ3N0JMb2w4OFJpWEdWNWpqTk1OTWY5VzJ5UW1NaF9aU3JZYXJpQ3V5amxiUmVxRy1DclA0RnY4Rl9rai13QUhIY0V1T3M2MVV4LWpkTFFYN3duNNIB3AFBVV95cUxPZTc1VGNoZmhPakw4RWJBZUVKdmJld0RlWGs1NUVidG1PcjJmV0p6WGFWYkw3YVhFd2lwc3htVkZjMTFLd3JfQW81bVNMVldWVTd1RkM0eUZLYU1leTRwYk10MjhWQ3VqT2lnclRyMlU4N1FxWFdpTkRTZjhwUDdhRTNON2taVFoxOEVHcWNySWZZQjUzTnlrVm9xMlV4Q1o4ZFZYVE5seTF6aFFOdFFXREtVWGt6aUlZZVZSbGZDRnMtUGl1eWkybkFTdkpQd1hMcGl1dEgwSC1ZTG1G",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb3M5bThjd1FGQjN5ejMxRWdYNUR2ay02cU9Ma3BWMXBkQWdfQS12Zzd4UjVVMnhuX00wMHJjUWtsS1Y0cmJ0VFc1MTl3TmRjQUdPZGM3NlkzdjZtVEtFMDlOVkNYaHI4ODRIMS11dWlna1BVQkFwdGk2THJQZXJtcnY0bGw4WHV0dFNSSGxET2JBdERsTUgtQUZqSU0waDBTZ3NLT1VMc2Y1ZGFsMWwxT3g3TmNFQ0lXRUdKQ1U1ZjNmc1lHSmJRdHVBWnVKMDRUcmMxRUtBQWlEbEFlUHBoZTZB",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekUwc1VTVU94dlNGUE02U0NxX25TZ20xcTMwYmo5Z0IteTdHbS1FSk1mOGhBUEFyYXoxSnItYkIyOFl1ZXF6cVNTSk5CcXVNQ3hueENuZklSS1B2X3NrZl82QW9fZ2syS3F0YXdhLThUdjBYRjFfeXJ2UnlWa3lDNnpzS1dhV2NhNF9idkZtZUJqUW42NXBvLTB3",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemNVaUljckRFSWJSZW5CS2Y1YXl1Q3JCNTB1QXc3ZHJDUFhnZTlLZmhRZnA2NXBobkh2UFBrdHhnTHVqS0g3WGFTSXdOd1REVDFXMnQ5c2M3VldlUnpSbG13VGdESVFscTBaWC1lUGx2WVpvTjRocXczT0Jqd3hjMmMxTXlFZmZoc3NvREduYjVQOXFsRU5pNHQycE1pMFBONkkxNU5n"
+      ],
+      "published": "2026-04-15T19:30:00Z"
+    },
+    {
+      "headline": "Hurricane season forecast prompts ominous 'bar-fight rules' warning as NOAA outlook looms",
+      "summary": "USA Today published a foreboding analysis on April 15 evening warning that upcoming hurricane season forecasts may operate under 'bar-fight rules' — meaning conditions are already so dangerous that typical caution thresholds no longer apply. The article cites expert expectations that the coming Atlantic hurricane season could be significantly above average. This comes as the National Hurricane Center typically releases its seasonal outlook in late May.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["USA Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk00aUdaOTYzbldIR1l2Q2JBdkZvaUp5OTJXWHQwMFpXa2ExVGs5QWJTWDR4NzdZUTY4N1dSY1l1MEF2N3ZoUGFSdVUtcHR5eHprZGtiYTY4X3pmLS12YW9STnRWNmd2bFFNZE4tOGljOU95Uzl5eVZNRDNGNFk3aXlSRi1MNzNzV1h0dm4xbVZPQ20wQzFxd1J0SkwwY1BvOTU0eFg5alIzNkdI"
+      ],
+      "published": "2026-04-15T23:50:00Z"
+    },
+    {
+      "headline": "Super Typhoon Sinlaku impacts US Northern Marianas and Guam",
+      "summary": "Super Typhoon Sinlaku made direct hits on the US Northern Marianas and Guam on April 15, described as a recap/recap coverage by The Weather Channel. The storm caused significant impact across these Pacific US territories, though full damage assessments are still emerging.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["The Weather Channel"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHVmZ3YxbTdxeTNVcFV4UWZ2Z3lqYVhJMGFHVk5iby1pcU5KYWRDWWJzc0NCdDhYYzI3UHdsa1dNSmROUzY2N0psUUhOVWhkczlDeklTN255NGtmYTJMOVYwNGZaU3B5dkUwaVdIVUs5ZkdNODRRWjZYZndxbjZFY05WZXpwWlRPQUdxay1WSFllMFlpNDA2STc2Nms4Q0FlRGpHbXc2TnZXcmtGMkY0"
+      ],
+      "published": "2026-04-15T16:51:00Z"
+    },
+    {
+      "headline": "US Forest Service reorganization sparks expert debate — 'dismantling' or necessary reform?",
+      "summary": "The US Forest Service's current reorganization is generating sharp disagreement among wildfire policy experts, as reported by Wildfire Today on April 16. Critics characterize the restructuring as a 'dismantling' of the agency's wildland fire management capacity, while supporters argue it represents a necessary modernization. The debate reflects broader tensions over federal fire management philosophy and funding.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["Wildfire Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcjcyNVlhSkRONGo5cUZxa2Q4amF0U0pmTWlvdkdYRERGLTljc1B3a0pqZ1VhMWhVRlpCdHgxcTVEVUptSy1FY2ZScGx2RExqUnZSSmFyTjhLell0TUVtMjlYUkhOMGtmNU5hbWZjV0pmS1V2VmZYMWxYcElVSDIwMmFSZjRocDFHZ2VUdG5zUmlidnd6YldZRXpIaHdUS2ZUZzVYSjlXTDdPSTlTdEtCakJ3YVRETUlJSFdiUEY3QkNOMTk3YW5lMDNtS21rSTY1ajM0MktIVXM"
+      ],
+      "published": "2026-04-16T00:33:00Z"
+    },
+    {
+      "headline": "New Mexico braces for early wildfire season as Forest Service sounds alarm",
+      "summary": "The US Forest Service in New Mexico is actively preparing for what appears to be an unusually early start to the 2026 wildfire season, as reported by KOB.com on April 16. The early-season conditions are attributed to persistent drought and above-normal temperatures across the Southwest. This follows a 400-acre wildfire near Gainesville, Florida that closed State Road 26, and an active fire situation in Cherokee National Forest, Tennessee.",
+      "category": "disasters",
+      "alert_level": "MEDIUM",
+      "source_names": ["KOB.com", "Gainesville Sun", "Mainstreet Daily News Gainesville", "WCJB", "Alachua Chronicle", "Local 3 News"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2xySGZmSFQyV1lYcG8yWm5XRkRWZ2FGay15em9qNlh6MEVjYjRsMmtvWjZnMXAzal95LXc5RG1hZ3hXcVVTenpDQ1lUci13TFpjWHlmVUwxUXhkRnlZNGs0QUdjUE5oM0tnbXB0elJCTm1Rc3BSaFRxOGJEUF9JT1ItWDRET3dXb1Zwa1d1YjR4ajR5Tl9nRUdBNTNrN3M",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3Ftd0QxNHJqVXRHdjJYenlFSlRFR1pMMDN1Q1FBRnZjNG10TXBWcEUtTjhzeXBwTmJtUzJTOG5DZFNYNmRobGNSQkNMV19zU290X2lxczhhZERoRTNWd0lvWmtRTkU2N1RoLUpIT1o0RFdlU2VUcmNudkRHOGNyOXg5ZW1VR1Fnb0xsUzNQM1RFbUl2Q18ycGZhN3dPUmEtYy05TElBNFRvWWdoSW9CcEdLX0VpMlhFcmp2N2ZDTTJrWXFGN1JYdWYxYnl2dGIyUWlpYnFEVQ"
+      ],
+      "published": "2026-04-16T00:00:00Z"
+    },
+    {
+      "headline": "El Niño / La Niña uncertainty: scientists weigh super El Niño risks as Pacific signals swirl",
+      "summary": "New Scientist and The Guardian published in-depth analyses (April 14-15) examining whether a 'super El Niño' may be forming in the Pacific. Scientists are divided on the probability and impacts, but consensus is growing that El Niño-Southern Oscillation (ENSO) dynamics may be shifting under climate change, potentially intensifying future events. The Guardian's piece on April 13 asked directly: 'Are we heading for super El Niño — and what could we expect?'",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["New Scientist", "The Guardian"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlpSOXpDS2Y0VHJEMjBtbEFKSTZKN2FiR1ZFOFA1dXU1S2FjUjZvTl9fTTRCQzhhVzhSMWdpUGxVUXY4NnhiLTc5QTEtbGdnYTJ5RG90MWptRU9VWmw2QTBPMGY4NWFlMXJ5Q3ZjYVppV3BnaE1WOE1KTlFUWmlDLUhPb3JkVHZFYkhKVHJESFQ5Q1lBVU5SS1hRTTRtUFdTb2lLNEZB",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE10STVjWEdqREVEeUNmT3Q3U2I5azhab29hbHRuRmNpWVRVc2hiOFFqVDJtVENvZmZiMklpakZqZUtFZVFOMXhxbEZTV19rcTgyd1d0R2xfWTlRVkhjalBkMkJBTEluQ0FhVTRJUGpmel83TmhXYjJ6NQ"
+      ],
+      "published": "2026-04-14T19:00:00Z"
+    },
+    {
+      "headline": "Delaware re-launches federal firefighter property program as fire season activity rises",
+      "summary": "The Delaware Forest Service re-launched the Federal Firefighter Property Program on April 15, designed to support local fire departments by providing surplus federal firefighting equipment. While not an emergency event, the timing coincides with rising wildfire activity across multiple states, signaling increased focus on inter-agency fire response coordination.",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": ["State of Delaware News"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGQ0VG0xbU1EREQ2WktwM0psd1ZlYnprdEZNaGNhdlZ4dXFUV1U5ZldmZF9ETlN3NEpFNll3Zl93WGd6ekJQV3dwa0VQcVIwYnV4SktsLTVUVnV0TUU1WVRHUm1KeV82V0RmWEtZM2hxNzVidWFnaVlGQllrMkttVDlqWHViY0duMVBBZDluc0RMdmhSZU81OC1TRkQ1WW4xQk0td3ZmaUdhWXdkVzMzSFZ4WFBkdHBkMHNuMkNKakVzZXozNzJQeDRaM2hkYi1IVjRPakpyWGl6S090"
+      ],
+      "published": "2026-04-15T14:15:00Z"
+    },
+    {
+      "headline": "Aging US infrastructure — dams and flood defenses — under stress from extreme weather",
+      "summary": "Michigan's aging dam network is struggling to handle the current extreme flooding, a National Today analysis published April 14 found. This underscores a broader pattern of US water infrastructure failing under climate-amplified extreme precipitation events. The story of Michigan's dams is part of a wider narrative about decades of underinvestment in flood control infrastructure colliding with more intense, more frequent extreme rainfall events.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["National Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjM1blhILWFvWV9QeWVacjJCWWdwN3RiNXpUak9JQW9GYWE5djUzcGc2MW5vTk5HWTBJNlBfNE56MkEySUM1Smpqa0tsN1FkbUp5bDQ0QnROSDlhZmwzV2tHTmxEM0h3OUlvUWRxdTZaMndzRVVUMUotVml4X3Y5WWZXalVSRExZMGNHSFlIMnNyek5KS3BJVkRwZEVBcDRFbmNXUTF5aVVnUGt0MlVfVlNRNmZwdw"
+      ],
+      "published": "2026-04-14T22:40:00Z"
+    },
+    {
+      "headline": "West's heat wave 'virtually impossible without climate change' — attribution science advances",
+      "summary": "High Country News reported on March 27 that the ongoing Western US heat wave has been assessed by attribution scientists as 'virtually impossible without climate change.' Separately, PBS published an analysis on March 26 detailing how climate change powered the heat wave blanketing much of the US. Meanwhile, Physics Today ran a Q&A with Friederike Otto, a leading extreme weather attribution researcher, on the role of climate change in specific weather events.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["High Country News", "PBS", "Physics Today"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHlsdksyS25CZDlWU0k4Vk9iNVU5U0RKNzh5OXVDZ2tDSXBvSWxaV0YycFhkWkdmTTFFUXZCOXZHQ1NjQWRfNkpPcXhWenVCaXNjdHhzQ3lEaUUwcmZnbFRWSmd5WVRzLVlBdmRkbzFoMEY0dW96UXA4cHNPUW1jcVRESFJIR2hrQ01XTFRyUzB4SnphUTNB",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGdwaWl0UmVSeWNUWVJhQkxNMXZ1Ny1DTF82djZqeHdJcUlybWpaREh1U1hIaThmLVh1SVBQR2hicFpBRjhyXzhPNWVIeEhkM3diOUpWb0I0cWZMaktIaWpiZl9OZWpCSG1VX3Aybm54eVgzVEptMHAxTjV3aFcwX3JDSkloeTBBWXpnSEJ1Zmg5YnN2Z1NIZ1hITFI2a1E3bU81V1JRM0o",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0V1TUgyZHNpeUpsQXdKbExmT0lyemt1eU1RSkRBZlo1TmxLUV9xUHBBbW4yUmpSLWUwV29yUEpwQllrR0tKb2YxeE8xN2hLNXpCSS1SSHpjRFJwaVFzRE9KdE5mUmQ5Y2V6dGdMOG9iTkdkWEZmYWxyQS0taXB0aXBCdU5HbUNfVElSWHBZWXB1YnBlTnlDcXVrZzI4eXQwRE9PeGc1YVhQLW9wVnc1VlFGVlBIZw"
+      ],
+      "published": "2026-03-27T07:00:00Z"
+    },
+    {
+      "headline": "2025 was third-highest year for billion-dollar weather disasters in US on record",
+      "summary": "Earth.Org reported that 2025 ranks as the third-highest year for billion-dollar weather and climate disasters in the United States, underscoring the cumulative financial toll of climate-amplified extreme events. The top three years by this metric are all recent, reflecting an accelerating trend. This data point provides context for the April 2026 extreme weather activity observed across multiple US regions simultaneously.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Earth.Org"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGFqeXA1aUFmck9md1UzOXNUSjEyZjFQcHA1aGRmSmVURjVpQzBvM3JudlZ2aEhVZkNvWDlUZUdHdE9ZbXZoNmZ5TFluWG1jN0ZNOUx4RHNYaUpVY0hQU0RUay1BWGxxbWF0WjhHME1yQ2JpRVliRkhtT1lrUThQZW15b0l2SDhDRDVkWV9aNTRwUmNBb3hoOXJYYW9WUQ"
+      ],
+      "published": "2026-01-09T08:00:00Z"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "TV news coverage of severe weather events can boost public support for climate action across the political aisle, suggesting a potential silver lining in increased extreme weather coverage (University of Southern California, March 2026)",
+      "Smarter, more advanced weather forecasts may save thousands of lives as extreme heat rises, providing actionable early warning capability (Earth.com, April 14)",
+      "Growing scientific capacity to attribute individual extreme weather events to climate change strengthens the case for adaptation and mitigation (Physics Today Q&A with Friederike Otto)",
+      "2025 third-highest year for billion-dollar disasters may finally drive overdue infrastructure investment in flood control and dam safety"
+    ],
+    "negative": [
+      "US Forest Service reorganization described by critics as a 'dismantling' of wildland fire management capacity, risking future fire response (Wildfire Today, April 16)",
+      "Hurricane season forecasts prompt ominous warnings — experts fear conditions may already be outside normal risk parameters (USA Today, April 15)",
+      "Michigan's aging dam infrastructure is failing under extreme floods, illustrating a systemic infrastructure crisis with no immediate solution",
+      "El Niño/La Niña uncertainty: some scientists warn a potential 'super El Niño' could amplify global extreme weather impacts in 2026-2027",
+      "New Mexico Forest Service bracing for early wildfire season — dry conditions and drought have created tinderbox conditions across the Southwest"
+    ],
+    "sources": [
+      "Wildfire Today (April 16, 2026)",
+      "USA Today (April 15, 2026)",
+      "University of Southern California (March 2026)",
+      "Earth.com (April 14, 2026)",
+      "Physics Today Q&A with Friederike Otto (March 2026)",
+      "New Scientist (April 14, 2026)",
+      "The Guardian (April 13, 2026)",
+      "National Today (April 14, 2026)"
+    ]
+  },
+  "patterns": [
+    "Simultaneous multi-regional extremes: major flooding in the Midwest/Great Lakes and wildfire activity in the Southeast and Southwest are occurring at the same time, suggesting climate change is compressing the calendar of extreme events",
+    "Infrastructure as the weak link: the convergence of aging dams, bridges, and flood defenses failing under unprecedented precipitation events is a recurring pattern — this is now a direct cause of evacuation and destruction, not a background risk",
+    "Early-season signal: both wildfires (New Mexico preparing early, active fires in Florida and Tennessee in mid-April) and the invocation of hurricane season warnings in mid-April suggest the traditional 'off-season' for climate disasters is contracting",
+    "Attribution science mainstreaming: multiple outlets (High Country News, PBS, Physics Today) are publishing attribution-focused climate reporting, reflecting growing scientific consensus that specific events can now be linked to anthropogenic climate change with high confidence",
+    "Forecast-to-action pipeline strengthening: the 'bar-fight rules' framing in USA Today's hurricane coverage and the advanced warning language from NOAA/NWS for current Midwest floods suggest the forecasting-to-public-alert system is becoming more direct and less hedged",
+    "USFS institutional uncertainty at a bad time: the ongoing reorganization debate is happening precisely as the US faces simultaneous wildfire and flood emergencies, raising questions about agency readiness"
+  ],
+  "blind_spots": [
+    "International/Global South coverage: data is heavily US-centric; no items from Africa, South Asia, or Small Island Developing States despite these regions experiencing disproportionate climate impacts — WHO source returned 0 items",
+    "Water scarcity and drought: despite 'Drought News' being listed as a source category with 15 items, no substantive drought stories appear in the top 50 results — a significant underrepresentation given drought's role as a wildfire and agricultural risk multiplier",
+    "Sea level rise: no articles addressing coastal erosion, saltwater intrusion, or incremental sea level rise impacts, despite these being slow-onset but high-consequence climate phenomena",
+    "Food system and agricultural disruption: no coverage of climate impacts on agriculture, food supply chains, or crop failures despite olive oil sector analysis (March 24) being the sole exception — this is a major blind spot",
+    "Arctic and permafrost: no items on Arctic amplification, permafrost thaw, or polar feedback mechanisms — despite these being leading indicators of climate system destabilization",
+    "Climate finance and loss-and-damage: no coverage of climate compensation, adaptation funding, or the political economy of climate response — the 'how we pay for this' dimension is absent",
+    "M5.68 earthquake near Silver Springs, Nevada (April 14): this moderate seismic event near a populated area has no associated URL and minimal context, representing a gap in real-time hazard integration"
+  ]
+}

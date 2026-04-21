@@ -1,0 +1,120 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260419_0825",
+  "executive_summary": "US-Iran nuclear diplomacy sees renewed momentum as Pakistan seeks guarantees for Tehran in potential second-round talks. Strategic waterways remain a focal point with Strait of Hormuz security concerns growing amid rising regional tensions. Peace initiatives emerge in Cameroon while Sri Lanka continues navigating complex political transition.",
+  "key_insights": [
+    {
+      "insight": "Pakistan actively pushes for second round of US-Iran talks and seeks 'guarantees' for Tehran, indicating potential breakthrough in nuclear diplomacy",
+      "location": "Pakistan/Iran/US",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strategic analysis of what 'securing' the Strait of Hormuz actually requires, highlighting maritime security challenges",
+      "location": "Gulf Region",
+      "actors": [
+        "Iran",
+        "US",
+        "Regional States"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "RUSI",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope's visit to Cameroon raises hopes for peace in conflict-affected regions",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroon Government"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues political reset process facing significant challenges",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "UN Secretary-General selection process raises questions about peace priorities",
+      "location": "United Nations",
+      "actors": [
+        "UN",
+        "Member States"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Financial markets show post-war normalization with stocks, dollar recovering and fear index declining",
+      "location": "Global Markets",
+      "actors": [
+        "Wall Street",
+        "Investors"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Fed minutes indicate ongoing monetary policy deliberations amid economic uncertainty",
+      "location": "United States",
+      "actors": [
+        "Federal Reserve"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC enforcement leadership change with David Woodcock appointment",
+      "location": "United States",
+      "actors": [
+        "SEC"
+      ],
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Tech stocks drive Nasdaq to record highs as investor confidence returns",
+      "location": "United States",
+      "actors": [
+        "Tech Sector",
+        "Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "US Treasury market cross-margining rules approved, affecting market structure",
+      "location": "United States",
+      "actors": [
+        "SEC",
+        "Treasury Markets"
+      ],
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Rising tensions in Gulf region with potential for increased Iranian naval activity near Strait of Hormuz remain underreported despite significant implications for global oil markets and shipping security",
+  "url": "N/A"
+}

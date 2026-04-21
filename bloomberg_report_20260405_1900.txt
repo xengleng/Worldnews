@@ -1,0 +1,133 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-05 19:00 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • Footage shows Israeli military dog attacking Palestinian man inside mosque
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+   • Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+
+🟠 **HIGH ALERTS** (4)
+   Significant event, consider action
+   • Commandos probed deep into Iran to rescue downed airman: US media
+     [POLITICS → US POLITICS]
+     Source: CNA
+   • Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+     [POLITICS → GENERAL]
+     Source: CNA
+   • US pilot from downed F-15E plane rescued in Iran: What we know
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+
+🟢 **LOW ALERTS** (9)
+   Routine update, no immediate action needed
+   • Pope Leo marks first Easter as pontiff with call for hope amid global conflicts
+     [POLITICS → GENERAL]
+     Source: CNA
+   • China executes Frenchman convicted in 2010 for drug trafficking
+     [POLITICS → GEOPOLITICS]
+     Source: CNA
+   • Artemis astronauts glimpse Moon's 'Grand Canyon' ahead of historic lunar flyby
+     [POLITICS → GENERAL]
+     Source: CNA
+
+📊 **CATEGORIZED NEWS**
+
+**POLITICS** (11)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (5)
+      • 🟠 Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+        Source: CNA
+        A 49-year-old man has been arrested for rash navigation of a vessel and police investigations are on...
+      • 🟢 Pope Leo marks first Easter as pontiff with call for hope amid global conflicts
+        Source: CNA
+        In his Easter homily, Pope Leo singled out those who wage war, abuse the weak and prioritise profits...
+   └─ GEOPOLITICS (3)
+      • 🟢 China executes Frenchman convicted in 2010 for drug trafficking
+        Source: CNA
+      • 🟢 Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod
+        Source: Al Jazeera
+        Fuel leaks at Primorsk, and ⁠NORSI oil refinery catches fire, Russian authorities say....
+   └─ US POLITICS (3)
+      • 🟠 Commandos probed deep into Iran to rescue downed airman: US media
+        Source: CNA
+        The airman, a weapon systems officer, was wounded after the ejection but could still walk, reportedl...
+      • 🟠 US pilot from downed F-15E plane rescued in Iran: What we know
+        Source: Al Jazeera
+        The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hour...
+
+**TECH** (4)
+   Technology, innovation, startups, cybersecurity
+   └─ GENERAL (4)
+      • 🟢 Ask HN: Vibe Coding over Easter?
+        Source: Hacker News
+        Hello HN!So, as coding has become something we're able to do via Telegram/WhatsApp, I assume many of...
+      • 🟢 Talk like caveman
+        Source: Hacker News
+        Article URL: https://github.com/JuliusBrussee/caveman
+Comments URL: https://news.ycombinator.com/ite...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 2 (13.3%)
+🟠 HIGH: 4 (26.7%)
+🟢 LOW: 9 (60.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟠 Commandos probed deep into Iran to rescue downed airman: US media
+   https://www.channelnewsasia.com/world/iran-war-us-rescue-f15-airman-commando-6037521
+
+2. 🟠 Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+   https://www.channelnewsasia.com/singapore/southern-islands-man-missing-body-found-indonesia-6023051
+
+3. 🟢 Pope Leo marks first Easter as pontiff with call for hope amid global conflicts
+   https://www.channelnewsasia.com/world/pope-leo-easter-call-hope-global-conflicts-war-6037471
+
+4. 🟢 China executes Frenchman convicted in 2010 for drug trafficking
+   https://www.channelnewsasia.com/east-asia/china-execute-frenchman-drug-trafficking-6037466
+
+5. 🟢 Artemis astronauts glimpse Moon's 'Grand Canyon' ahead of historic lunar flyby
+   https://www.channelnewsasia.com/world/artemis-astronauts-moon-grand-canyon-lunar-flyby-6037456
+
+6. 🟢 Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick
+   https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss
+
+7. 🟠 US pilot from downed F-15E plane rescued in Iran: What we know
+   https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss
+
+8. 🟠 What we know so far about rescue of US airman in Iran
+   https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss
+
+9. 🔴 Footage shows Israeli military dog attacking Palestinian man inside mosque
+   https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss
+
+10. 🟢 Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod
+   https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss
+
+11. 🟢 Ask HN: Vibe Coding over Easter?
+   https://news.ycombinator.com/item?id=47647645
+
+12. 🟢 Talk like caveman
+   https://github.com/JuliusBrussee/caveman
+
+13. 🔴 Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states
+   https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss
+
+14. 🟢 Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media
+   https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/
+
+15. 🟢 Unverified: What Practitioners Post About OCR, Agents, and Tables
+   https://idp-software.com/news/idp-accuracy-reckoning-2026/

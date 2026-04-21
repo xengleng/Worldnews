@@ -1,0 +1,17 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260419_2147",
+  "executive_summary": "No climate-related events, natural disasters, or environmental developments were identified in today's provided news data. The dataset focuses on financial markets, central bank policy, and geopolitical developments with no climate dimension.",
+  "key_insights": [
+    {
+      "insight": "None identified in this data set",
+      "location": "N/A",
+      "alert_level": "N/A",
+      "source": "N/A",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The provided news data does not include any climate or environmental reporting. Potential climate events may be underreported or located in sources not covered in this dataset.",
+  "url": "N/A"
+}

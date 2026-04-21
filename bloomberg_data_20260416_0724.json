@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-16T07:24:08.210935",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Preventing Lebanon\u2019s Collapse: A Way out of the Israel-Hizbollah War?",
+      "link": "https://www.crisisgroup.org/evt/middle-east-north-africa/lebanon-israelpalestine/preventing-lebanons-collapse-way-out-israel-hizbollah-war",
+      "published": "Wednesday, April 15, 2026 - 18:35",
+      "summary": "In this online event, Crisis Group experts and Aur\u00e9lie Daher, Lebanon Analyst and Associate Professor at Paris-Dauphine PSL University, assessed where the Israel-Hizbollah war stands, what the parties...",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "94d611553e9f2c2cb5c6c86d685a1f8c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Iran Crisis Monitor #1",
+      "link": "https://www.crisisgroup.org/bnt/middle-east-north-africa/iran-israelpalestine-united-states/iran-crisis-monitor-1",
+      "published": "Wednesday, April 15, 2026 - 14:01",
+      "summary": "Crisis Group experts take stock of the past week's developments in the Middle East war and the progress of efforts to end it.",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "9c3b8b837d7f848f9bf4832ba50d4bed",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+      "published": "Wed, 8 Apr 2026 18:00:00 GMT",
+      "summary": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "d0c62e37e959233544fd541ede781ddf",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
+      "published": "Wed, 8 Apr 2026 15:30:00 GMT",
+      "summary": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "ca9a2b468f9dbb2aa86eb0ec004fd522",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "China threat used to convince Congress of need to bolster US military capabilities",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3350232/china-threat-used-convince-congress-need-bolster-us-military-capabilities?utm_source=rss_feed",
+      "published": "Wed, 15 Apr 2026 23:08:57 +0000",
+      "summary": "US military leaders painted a picture of Chinese military threats, spanning Taiwan and space, as they briefed Congress on the military readiness for the financial year 2027 on Wednesday.\nThe People\u2019s ...",
+      "source": "SCMP",
+      "original_category": "geopolitics",
+      "id": "6a78df5f95855b3d8742dd45821493f2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Solana Policy Institute-backed PAC spends millions to jam Sherrod Brown's Senate run",
+      "link": "https://www.coindesk.com/policy/2026/04/15/solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-brown-s-senate-run",
+      "published": "Wed, 15 Apr 2026 23:08:06 +0000",
+      "summary": "",
+      "source": "CoinDesk",
+      "original_category": "finance",
+      "id": "cfaf9caa61ef53be4713d5da2b988d28",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Peru\u2019s ballot count drags on amid frustration with presidential election",
+      "link": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 23:06:31 +0000",
+      "summary": "The turbulent election has prompted fraud claims by candidates and frustration with the country&#039;s chaotic politics.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "04bffb6986b243076aa68134d0e496b2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "ELECTIONS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The New Twin Fossil Shock - ember-energy.org",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVS1lTUg0enFGM2VzOHVkWHN5Z1BUX3p3ODdlTFdDajhTSmNSMTFQR3pQOGk1bXJvaU1LWXkycTdMMTJHZG4xT0h4blQxRkwzNDBCYWIwQ0I0WXgxZk5GQkwyWmpDUVYxeGlHa25XMXJoV0dSVWc?oc=5",
+      "published": "Wed, 15 Apr 2026 23:01:53 GMT",
+      "summary": "The New Twin Fossil Shock&nbsp;&nbsp;ember-energy.org",
+      "source": "Oil & Energy",
+      "original_category": "finance",
+      "id": "2f08ce9761444d194222d6e3e3325bd0",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
+      "link": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs",
+      "published": "Wed, 15 Apr 2026 22:57:59 +0000",
+      "summary": "",
+      "source": "CoinDesk",
+      "original_category": "finance",
+      "id": "4c07cacabebf8bfc30552445db2fa09f",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "CRYPTO",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel bombs homes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 22:53:41 +0000",
+      "summary": "The Israeli army has bombed buildings in southern Lebanon\u2019s Bint Jbeil district.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "0e80fd83c3ab80201eb0f8fc4c37773b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ticketmaster owner Live Nation ran illegal monopoly, US jury finds",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3350231/ticketmaster-owner-live-nation-ran-illegal-monopoly-us-jury-finds?utm_source=rss_feed",
+      "published": "Wed, 15 Apr 2026 22:52:39 +0000",
+      "summary": "A US jury on Wednesday found that entertainment giant Live Nation wielded monopoly power at its Ticketmaster business, violating federal and state antitrust laws, according to California\u2019s attorney ge...",
+      "source": "SCMP",
+      "original_category": "geopolitics",
+      "id": "435bfdb6d689cf3078d1b8627675b286",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "$30m an hour: big oil reaping huge war windfall from consumers, analysis finds - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1dyeTdRczN3LU5XQVlwaVZlaU1JUEpJVlNiMlNJcHlwMDNWNVIzb0hubEdDSHVBdDNmcGNXbXhSbmh3TllVZGQ5MDBna2NnMkZyVFNDbVAxaG9jTnRxUFNtTjQ0OXFQck1TdG1tR1UxSHF0UEZuLWxPVTQ5Q1NQQnl0bXlBRDlTdk83RV9fbGg?oc=5",
+      "published": "Wed, 15 Apr 2026 22:51:00 GMT",
+      "summary": "$30m an hour: big oil reaping huge war windfall from consumers, analysis finds&nbsp;&nbsp;The Guardian",
+      "source": "Oil & Energy",
+      "original_category": "finance",
+      "id": "84ba5fb1fd6cd7b5e28d7562c0866280",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Pakistan Keeps Pushing for Peace",
+      "link": "https://foreignpolicy.com/2026/04/15/pakistan-iran-mediation-talks-cease-fire-islamabad-process/",
+      "published": "Wed, 15 Apr 2026 22:29:03 +0000",
+      "summary": "A first round of U.S.-Iran talks didn\u2019t lead to a deal, but Islamabad wants to stay at the table.",
+      "source": "Foreign Policy",
+      "original_category": "geopolitics",
+      "id": "236c081ab2bbfecfc7d585f099940fb3",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Quad summit plan turns uneasy as India pushes ahead without top leaders: sources",
+      "link": "https://www.scmp.com/news/china/article/3350230/quad-summit-plan-turns-uneasy-india-pushes-ahead-without-top-leaders-sources?utm_source=rss_feed",
+      "published": "Wed, 15 Apr 2026 22:17:13 +0000",
+      "summary": "A stretch of awkward diplomacy is unfolding in the Indo-Pacific.\nAfter India\u2019s 2025 term as the Quad\u2019s rotating chair ended without a leaders\u2019 summit, New Delhi is planning to host a foreign ministers...",
+      "source": "SCMP",
+      "original_category": "geopolitics",
+      "id": "5b72c06e910bcf6720916a4e37f09839",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Justin Sun blasts Trump-linked WLFI's 'absurd' governance vote, escalating feud",
+      "link": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud",
+      "published": "Wed, 15 Apr 2026 22:17:09 +0000",
+      "summary": "",
+      "source": "CoinDesk",
+      "original_category": "finance",
+      "id": "08653de2f974a0156eee28e77aa3e8a0",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 0,
+    "medium": 0,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 2,
+    "TECH": 0,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 2
+  }
+}

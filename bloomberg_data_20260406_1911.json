@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-06T19:11:05.115302",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Buffett may end donations to Gates charity over Bill's ties to Epstein",
+      "link": "https://www.cnbc.com/2026/04/04/buffett-may-end-donations-to-gates-charity-over-bills-ties-to-epstein.html",
+      "published": "Sat, 04 Apr 2026 13:08:53 GMT",
+      "summary": "Revelations about Jeffrey Epstein's ties to Bill Gates have strained his friendship with Warren Buffett and the Omaha billionaire's annual multi-billion-dollar donations to the Gates Foundation.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "7e9033cbbf0a5cac76d06eba52a5064c",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "From subsidies to rationing: How Southeast Asia is coping with energy crisis",
+      "link": "https://www.channelnewsasia.com/asia/southeast-asia-iran-war-fuel-rising-prices-energy-6038826",
+      "published": "Mon, 06 Apr 2026 18:25:27 +0800",
+      "summary": "As the Iran war drags on into its sixth week, CNA takes a look at how some Southeast Asian states are responding to the energy crisis and skyrocketing costs.&nbsp;\n&nbsp;",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "c5e9e96a65caadbfe80f0768f4c84f2a",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Five storylines to follow at this week's Masters",
+      "link": "https://www.channelnewsasia.com/sport/five-storylines-follow-weeks-masters-6038921",
+      "published": "Mon, 06 Apr 2026 18:08:42 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "c7a47952488d32bede401a2a64b25d26",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "South Korea to send ships to Saudi Red Sea port to avoid Hormuz",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-send-ships-saudi-arabia-yanbu-iran-war-6038831",
+      "published": "Mon, 06 Apr 2026 17:49:50 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "c9af10d92d42f0f22dd64140e84ec613",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bereaved Japanese family sues over 'hostage justice'",
+      "link": "https://www.channelnewsasia.com/east-asia/bereaved-japanese-family-sues-over-hostage-justice-6038846",
+      "published": "Mon, 06 Apr 2026 17:47:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "8863f21bdd57a4503d6b1d959c212c36",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Vietnam parliament convenes to confirm new state leaders",
+      "link": "https://www.channelnewsasia.com/asia/vietnam-parliament-new-state-leaders-tran-thanh-man-lam-6038781",
+      "published": "Mon, 06 Apr 2026 17:37:00 +0800",
+      "summary": "Top leader To Lam, who was reaffirmed as the party's general secretary in January, is also widely expected to become president.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "72f86672d000dd9dd8c3d3f2629b5b42",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Is Germany's gold safe in New York ?",
+      "link": "https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873",
+      "published": "Mon, 06 Apr 2026 10:54:11 +0000",
+      "summary": "Article URL: https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873\nComments URL: https://news.ycombinator.com/item?id=47659252\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "e73d6776535877100b4fbadd0542e141",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
+      "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
+      "published": "Mon, 06 Apr 2026 10:49:07 GMT",
+      "summary": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "8fcb22fd03e9423f29ca03bb3dcf4488",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel destroys southern Lebanon towns, hits \u2018safe\u2019 areas around Beirut",
+      "link": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 10:45:58 +0000",
+      "summary": "The Israeli military launches new attacks on Beirut, southern Lebanon as humanitarian crisis deepens.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "31374e131745ff7ff336dd1d390c3a4f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Age Verification as Mass Surveillance Infrastructure",
+      "link": "https://tboteproject.com/surveillancefindings/",
+      "published": "Mon, 06 Apr 2026 10:33:02 +0000",
+      "summary": "Article URL: https://tboteproject.com/surveillancefindings/\nComments URL: https://news.ycombinator.com/item?id=47659109\nPoints: 30\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "999ee07b02ffcd93a149844c0f833eee",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
+      "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 10:16:36 GMT",
+      "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "4ebef221b7163ef285fecc5a5ddaeed2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "World Cup qualification earns Iraq coach Arnold a hero\u2019s welcome in Sydney",
+      "link": "https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 09:53:26 +0000",
+      "summary": "Graham Arnold was received by jubilant Iraqi fans upon his return to Australia after a successful qualification campaign.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "94d490fd32e9ea598ecc65a72fc6b0f2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
+      "link": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 09:45:16 +0000",
+      "summary": "Families face repeated trauma as Israeli attacks displace nearly 1.2 million, many for the second time in recent months.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "287d6f3ce32b80369027be8f0ff498d9",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Number in man page titles e.g. sleep(3)",
+      "link": "https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/",
+      "published": "Mon, 06 Apr 2026 09:39:17 +0000",
+      "summary": "Article URL: https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/\nComments URL: https://news.ycombinator.com/item?id=47658743\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "6d453faa9a2f1e3e6d1fd554d8ac74e2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iraqis give rousing welcome to coach behind historic World Cup return",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/iraqis-give-rousing-welcome-to-coach-behind-historic-world-cup-return?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 09:36:36 +0000",
+      "summary": "Iraqis in Sydney turned out in full force to welcome coach Graham Arnold as he returned to Australia.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "61840353142bdd74df5ad7982b58be3e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 1,
+    "high": 0,
+    "medium": 0,
+    "low": 14
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 9,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

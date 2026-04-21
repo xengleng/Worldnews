@@ -1,0 +1,31 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260416_1008",
+  "executive_summary": "A significant 400-acre wildfire near Gainesville Airport in Alachua County, Florida has prompted road closures and firefighting response. Electric vehicle safety concerns emerge as BYD reports a fire incident at a Shenzhen testing facility for scrapped vehicles.",
+  "key_insights": [
+    {
+      "insight": "400-acre wildfire near Gainesville Airport with State Road 26 closed",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "LOW",
+      "source": "Gainesville Sun",
+      "url": "N/A"
+    },
+    {
+      "insight": "Firefighters battling wildfire off State Road 26 in Alachua County",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "LOW",
+      "source": "Mainstreet Daily News Gainesville",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire incident at Shenzhen garage for test and scrapped vehicles",
+      "location": "Shenzhen, China",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "No active hurricane, tropical storm, or major climate system monitoring data provided in today's news feed, despite peak spring storm season approaching for the Atlantic basin.",
+  "url": "N/A"
+}

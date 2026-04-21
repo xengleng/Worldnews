@@ -1,0 +1,132 @@
+{
+  "agent": "finance",
+  "timestamp": "20260421_1119",
+  "run_ts_utc": "2026-04-21T11:20:24.831123Z",
+  "insights": [
+    {
+      "headline": "Kevin Warsh Fed Chair nomination hearing — markets await signals on rates and independence",
+      "summary": "Former Fed governor Kevin Warsh faces Senate Banking Committee questioning in a highly-anticipated Tuesday hearing. His early testimony emphasizes the Fed should 'stay in its lane' and he vows to protect Fed independence if confirmed. Markets see him as a potential catalyst for Treasury bonds and a key figure in shaping near-term monetary policy direction.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC", "MarketWatch", "Bloomberg"],
+      "source_urls": ["https://www.cnbc.com/2026/04/21/kevin-warshs-senate-hearing-what-to-expect.html", "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYllERFBIZjZmU2MzZWhfaDZHOE5FZDdsaFllU0VBc0RRSjVKUDF5YmZIaWdUbFgzcXdmZkdoU0Z2SEw0cGp3aEdOUDZvbzRPd0lhWHh0MEVZaEZuQWRudXlmaTQ3czZvaTJ0NXFyN2twUjZQeXNmVWhORzRVaUVGZVNFbkNDbUFoa2l4blZSblVKREloaWE0TE1saUN4STRVRDFUaVRQNFNiMy1MMy13WGZyQXBWenVhZW1BWDI4eU5CMExwdHc?oc=5", "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2J6eGZjYklpeEltZFhBRlRhaURzY3Z4Y21nekhVbk9WZ3JCTFZKTFV0UVB5WGQtb0FkV3dCVXFGbW9HN3k3amMzSHVyVmNIdWZWRENFNzFjSVowWFNnWXpabzFneTRkMzhGNFpfemVkUG1BQ245aXQ2WXhFQ0lHNzBrX19ib19fbmpKRzQwWVNxVXR1ZUVhNDdSLTFEV1ptTndMNnhXM09sbjVWdzlMMVRSdw?oc=5"],
+      "published": "2026-04-21 10:00"
+    },
+    {
+      "headline": "Iran war drives oil price surge — biofuels revive, major traders warn of months of volatility",
+      "summary": "The Iran conflict has triggered a sharp oil price rally, pushing biofuels back into fashion. The world's biggest physical oil trader (Vitol) has warned of months of price volatility. Meanwhile, suspiciously well-timed $1 billion oil wagers tied to the Iran war are raising eyebrows across commodities markets.",
+      "category": "commodities",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "OilPrice.com"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1FDZnJBRWxIa1J0M0t5M1hPa1RITXBVV0NUSDNpZEFyZnRBVTNPZGRCbWZpSzV5VDdYMXVLYTJhbGx4UVJORGVzaGtyT1ZvYmNTRG9pbE9YaHRHRFhHTElvUDJEMG5OX0M3QUM1bHl6Nno4OWVJUHM3TlpkTWhWMjFaNkFBbEVud3B1MGtOWUtGblN3bk9lR2VjRUZ1UkdCTVNzZnBmRV8?oc=5", "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2I4cHJyQV9YR0pfNExNWUpUSGpLc2hIbWZpS3pDbkdQRk5WNmFFTkowRDdwaXpWREVHUko2U0FxdWhXanZLRmZWbGJJc056WUVlNkFzN08tZFVNeVhnTGlpYy1fM3BVclk2SnJiQk5PSjRRVHpab0R6NENJZUdDMmM5MzE4Qk5pa1ZCMGo2RXZ2LVBFYlVFUjR2V0NYQVMweWVWRzAwRWRJSGZw0gGyAUFVX3lxTE1iQjhuem9ibFVFTkJ4V3lCbTBLZ25GUnNJYmM1WUNkUEJyUm1iODM5SkowNjFTNXpYNjdYQkU1U3V4Q1luQlowTEI5c215VXpyVnZUcm01clc1TWZ6WkFKNWUtcjFmZF96eUZiRlBXVDFKWUZ6ZHdWSjB5Nmp6dWR2akU0LWh6WFZVQzZTa1Z0SEYySkl6Q3VOcXhuY2lPNzBXd0phUUpBVU5aa3RxWGlMVnc?oc=5", "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVG81YVFPenU4RDJxTTFmS0Q4VHhsUFlldGNSbXNlenFlQ2FkLW9hb0hMaGU5Mk02SWUxQ3BsTnFGZ1JIVzY4R0JRMy1BZWlua01DSlU3MVljM0RxbTdCQkEwTy12MHJteERQaFU1MTVmWVMtZmpoUlJHbVNpLUhjRmp6bWQ3WmpreTQ2OVJVemYwaXI5a2tVSEdXd0xsMFFiM1RLVUpaTTlmemsybU95V1hVa0dtaDV2R1BYanNpY1FQRWF50gHKAUFVX3lxTE9LTkFfdXBMbDlvdkNKWDFjRmpHMFkwaUdlajV2Y2lqVk90RHRJUzA2ZFdlT1NsWUdPNFg0YVBWZW5vVXQxTHpYTU91Q01mU2E3T0lQRXVWTy1aQ3lrSi10UF8zLWhneWExemZNOHE5UWVodG11M3FyaEQ5UlZGSWZtbnV5NXprZmxrM2hDVFgwN01za01ReE1Od1ZvLVhuVlZWTGdXOWlPb1hhTnpVZ2hucUM4R0xmWjdNWi15R0lzTG1Pdll1NXJCR2c?oc=5"],
+      "published": "2026-04-21 06:02"
+    },
+    {
+      "headline": "UAE signals shift from dollar petrocurrency as US Iran war policy strains oil trade",
+      "summary": "UAE officials have signaled they may be forced to use yuan or other currencies if dollar reserves run low, in a significant crack in the petrodollar system. Separately, Muslim Network TV reports UAE is considering moving away from the dollar as US war policy strains oil trade — marking a potential historic shift in the petrocurrency architecture.",
+      "category": "trade",
+      "alert_level": "CRITICAL",
+      "source_names": ["Fortune", "Muslim Network TV"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU1DRVZ4bVFKdEtGYVNKd01mRE9VWnhvVjVOUnI4V1l4M2lzMnBDcjZ1OWdISkNjZnpXcEpkNGN5bVVkOC0tdTA1Slh0Y1NVa2dUNC1WUmlvWVhPOUQ4QkcwbkNPbWxJWVdhRFpUMGVIZkR3bDluX2FfUkZIOXVpOXd0eVpvdG9HcTFIMzV0X2lFWUZtaDRNY2ZoTlh4ZHJfZkxOMnlkeGhYdDB0U1g0alhGdw?oc=5", "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUlsNl9sUFBpZzUxYWI1ZUhvaHZfVG0xWnhHTUM5akVaUTdhQ05TT19XX2JCR29jRkp5Tk1iS09zNkRCcU8tSUdMc2MzVkhVLXJsM3JQM0Vad1o4ak5PS0JNVTctYkVnUUV6ZWtCMU1mQVVTYmdCYXpRRWlVdnVDRllBb2FFanI5cHBrNW5FdXNFRWxLa3ZJTkF3?oc=5"],
+      "published": "2026-04-20 15:55"
+    },
+    {
+      "headline": "US Supreme Court ends tariffs — $166 billion refund process triggered",
+      "summary": "The US Supreme Court has struck down tariffs, triggering a $166 billion refund process in 2026. The tariff refund claims portal launched Monday, with major importers like Walmart and Target potentially receiving billions. However, businesses are already reporting problems with the claims-filing process.",
+      "category": "trade",
+      "alert_level": "CRITICAL",
+      "source_names": ["Crypto Briefing", "CNBC", "Al Jazeera"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmFhX1V4YWdPdDNpRDZvejdTQk0tLWtGQ2pONWU0MHZPWFdOY2FpOGFGaTlwNE0tdTgwcWtOY08xWFd6SllxVHlPRTV3ZF9WZHRiUEd6XzluWmI5NTA4a19Ma2pqcmVpZWduZFM4NTJSbWpTZm9LTkJuM1F4Yk1TMUJsSVplbWtkZDV4Z2lsa01YcldxNC0xbTVwc2c?oc=5", "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"],
+      "published": "2026-04-21 09:05"
+    },
+    {
+      "headline": "China links new trade rules to Iran war and Panama port dispute",
+      "summary": "China has linked tough new trade rules directly to the Iran war and the ongoing Panama port dispute, signaling a hardening of Beijing's trade posture. This comes as the US-Iran standoff creates broader geopolitical friction with major economic consequences for global trade flows.",
+      "category": "trade",
+      "alert_level": "CRITICAL",
+      "source_names": ["Financial Times"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMicEFVX3lxTFBxS180V1VnSkhvM1FrTS1Hci1wdS1xQWxGaFRvT1RhOUlrT3F4SkJpUkFIOFhvd3lsbFFFMDJ2VWxxTUVpOWh4bldVME9zb25Fb0R5R091VkpPSC10Znp2bDExV0xWaWU2OTFlMElnbDg?oc=5"],
+      "published": "2026-04-21 10:01"
+    },
+    {
+      "headline": "KelpDAO hack drains $14 billion from DeFi; Bitcoin bounces but ecosystem shaken",
+      "summary": "A major hack of KelpDAO has triggered a $14 billion exodus from DeFi protocols, with stolen funds already being laundered through exchanges. Bitcoin briefly bounced above $76,000 as TradFi appetite remained firm despite the DeFi crisis — highlighting a sharp divergence between institutional and decentralized finance sentiment.",
+      "category": "crypto",
+      "alert_level": "MEDIUM",
+      "source_names": ["CoinDesk", "Cointelegraph"],
+      "source_urls": ["https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack", "https://www.coindesk.com/business/2026/04/21/data-shows-the-kelpdao-hackers-are-already-laundering-millions-in-stolen-crypto"],
+      "published": "2026-04-20 20:53"
+    },
+    {
+      "headline": "Iran war inflation spike hits Canada — CPI rises to 2.4% on gasoline costs",
+      "summary": "Canada's annual CPI jumped to 2.4%, driven by gasoline cost increases linked to the Iran war. While inflation is rising from the oil shock, there are few signs yet of broad-based price inflation spreading across the economy. The BNN Bloomberg report notes the shock is concentrated in energy-related sectors.",
+      "category": "economic",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "BNN Bloomberg"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjZQNGM0VU1oVzZNSGRhQzN5UlNwQS0ydXFKcFNBNWtFVXRtY3BjQnprRmU3UHU2c3RVem5zVkJvcHpwejRPYVktcFlCXzZDVEZVS1JBOTVMNGJ1QVJ4VmxfWURvYlZuTTBYdGRDMjNZRHRhX09mSXZnU2NJV2k4RkVSeEptVnF4UFpVaS05R3hqVUg2dDQ2WWkzbTlraUZQYXd1WlZGRVRXZG8tVmc?oc=5", "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaERfRkp0eEFOLXZBN3RaQURKaHdPNjFpVDhPdHBDSGpXbUlKQ1VTMTJaY2ZMRF9yS1N4R1FYMTA2dVF6ZXE5SEktV3BoQ2I0dW9HQmhRaXJMV1Z5UmtTZW1ER0FLUjl0c1hzeDRtOVVHSnUwZFFBNzlhM21TUDhObjZwUEQ4b2ZHTm5nS2F2VDJkcnEtck8zdXFzamRaWXJvbmF2SldjRVRfQlhpR1RRUTRRMWZCZw?oc=5"],
+      "published": "2026-04-20 13:37"
+    },
+    {
+      "headline": "Tim Cook steps down as Apple CEO — Warren Buffett, Sam Altman, Palmer Luckey react",
+      "summary": "Apple CEO Tim Cook's transition to executive chair has drawn reactions from major figures including Warren Buffett (who praised Apple's performance under Cook), Sam Altman, and Palmer Luckey. Incoming CEO John Ternus faces the immediate challenge of fixing Apple's AI strategy, seen as a critical gap compared to competitors.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html", "https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html"],
+      "published": "2026-04-21 10:32"
+    },
+    {
+      "headline": "AI trade defies Iran war — tech stocks push markets to record highs",
+      "summary": "Despite the Iran war and geopolitical tensions, AI-driven tech stocks continue to power markets to fresh record highs. Jim Cramer notes markets are 'shrugging off' Iran war risk, with one company alone responsible for half of all S&P 500 earnings revisions since the conflict began. The AI trade remains the dominant driver.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC", "Yahoo Finance", "MarketWatch"],
+      "source_urls": ["https://www.cnbc.com/2026/04/20/jim-cramer-explains-why-the-market-keeps-shrugging-off-the-iran-war.html", "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTFLbUNYSkpiX3ZlVDM2d3VkN193bEx4WXJGVGFlajdGa3Y5a2l4ZWZzZDFteDctVjBjeTNIdDN4VVNOYlA2VThwbmtVeDFBYmRoWjNiTGl6aFVoM3ItQ19sUWRUZUlWSGk2dlM5QVo0cm45aHA4X2ZvTEZic01MaEt3WXNrc2RMcEJINmxmVU5KX0lZRTZZQ2VsdWNOQWZ6ZVk2LWRSTlYxR2UxLXhfaHluRQ?oc=5"],
+      "published": "2026-04-20 22:24"
+    },
+    {
+      "headline": "US-Iran peace talks in limbo — analysts warn American negotiators 'outmatched'",
+      "summary": "With US-Iran peace negotiations stalled and truce extension looking unlikely, analysts warn that American negotiators are being 'outmatched' by Iran's experienced diplomatic delegation. Markets are pricing a peace scenario but preparing for Warsh-era Fed uncertainty. Middle Eastern bourses have fallen on renewed tensions.",
+      "category": "markets",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC", "Bloomberg", "Reuters"],
+      "source_urls": ["https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html", "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjJndW8xXzFlSVRqSy1zWUlxWm95dk1sNE50QnM1eTF2d2hlakFpdGN0YkZ3MG9rNGRGeWlNRXhaZUY2aVF3SHhYeUpjX1Y0M25ORjZkZDR1UmhBQ3FBaFNxVEpIckR0OVVKX1FWTFpISEIwaXNEU0dvemhvUWMydGZuRW90YU03Wk9LV25lNUtLNTVWV0c0a2lzeHV3eTVmaUd5MFY1QzRRY0tRRUFRNU01Mno?oc=5"],
+      "published": "2026-04-21 11:16"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "AI trade fueling market to record highs despite Iran war — Cramer notes market resilience",
+      "Brevan Howard expanding to Tokyo, hiring traders — bullish signal for Asian markets hub",
+      "UnitedHealth tops quarterly estimates, hikes profit outlook — healthcare sector showing strength",
+      "Tariff refunds ($166B) will provide liquidity boost to major importers"
+    ],
+    "negative": [
+      "One company driving half of S&P 500 earnings revisions since Iran war — concentration risk",
+      "KelpDAO $14B hack draining DeFi — ecosystem confidence severely shaken",
+      "Iran war shock driving inflation jump — Canada CPI at 2.4% on gasoline surge",
+      "UAE dollar shift signals petrodollar system stress — potentially historic currency architecture change",
+      "Peace talks in limbo with US negotiators 'outmatched' — escalation risk elevated"
+    ],
+    "sources": ["CNBC (Jim Cramer)", "MarketWatch", "Bloomberg", "CoinDesk", "BNN Bloomberg", "Fortune", "Yahoo Finance"]
+  },
+  "patterns": [
+    "Iran war is the dominant market risk factor — oil, inflation, equities, and currency markets all repricing around it",
+    "AI/tech trade is decoupling from geopolitical risk — stocks at records even as war/escalation continues",
+    "Petrodollar system under pressure — UAE signals dollar alternative usage, yuan in play",
+    "Tariff refund process creates short-term liquidity event — but implementation problems emerging",
+    "DeFi ecosystem seeing major capital exodus while Bitcoin holds above $76K — institutional vs DeFi divergence",
+    "One company (unnamed) driving 50% of S&P 500 earnings revisions — extreme concentration in revision cycle",
+    "Inflation shock concentrated in energy — broader price spiral not yet confirmed",
+    "Geopolitical division between Middle Eastern markets (lower) and Western tech markets (higher) — bifurcation"
+  ],
+  "blind_spots": [
+    "Iran war escalation path unclear — peace talks status ambiguous despite market complacency",
+    "US Supreme Court tariff ruling — long-term trade policy direction uncertain post-ruling",
+    "UAE petrodollar shift — de-dollarization signal may be underweighted by markets",
+    "KelpDAO hack laundering — stolen funds trace and recovery prospects unknown",
+    "China's clean energy dominance play amid Iran war — geopolitical reshuffle advantage unclear",
+    "Kevin Warsh's actual policy leanings — markets pricing his hearing but concrete signals not yet known",
+    "Impact of $166B tariff refunds on inflation expectations — liquidity vs inflation tradeoff"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-04-05T19:01:42.176403",
+  "articles_analyzed": 2,
+  "categorized_articles": [
+    {
+      "title": "HELOC and home equity loan rates Saturday, April 4, 2026: Low and tied to the prime",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-4-2026-100000113.html",
+      "published": "2026-04-04T10:00:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "8a29db96d87d44e77145ab3dbce18e54",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Is the \"Magnificent Seven\" Era Over? Here Are the Stocks That Replace Them",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-era-over-stocks-083000680.html",
+      "published": "2026-04-04T08:30:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "404bef7e2577011ec20b1af2505c63b3",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 2
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 0,
+    "POLITICS": 0,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

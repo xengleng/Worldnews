@@ -1,0 +1,81 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260421_0718",
+  "executive_summary": "Financial markets have experienced a significant unwind following the end of 'war' conditions, with stocks, dollar, and fear indices resetting. Meanwhile, diplomatic efforts involving US-Iran talks mediated by Pakistan continue to develop, and regional peace processes in Cameroon show tentative signs of progress.",
+  "key_insights": [
+    {
+      "insight": "Major financial market unwinding as 'war' conditions end: stocks surge, dollar strengthens, and fear index collapses",
+      "location": "Global Financial Markets",
+      "actors": [
+        "Wall Street",
+        "US Federal Reserve",
+        "Global Investors"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pakistan actively pursuing second round of US-Iran talks and seeking guarantees for Tehran from Washington",
+      "location": "Pakistan/Iran/United States",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strait of Hormuz security challenges detailed - critical waterway requiring complex naval and diplomatic coordination",
+      "location": "Persian Gulf/Hormuz Strait",
+      "actors": [
+        "Iran",
+        "US Navy",
+        "Regional Powers"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka navigating difficult political reset amid ongoing governance challenges",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition Parties"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope's visit generates renewed hopes for peace settlement in Cameroon",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroonian Government",
+        "Armed Groups"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "UN prepares guidance for next Secretary-General selection emphasizing peacekeeping priorities",
+      "location": "United Nations",
+      "actors": [
+        "UN Security Council",
+        "Member States",
+        "UN Secretariat"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Underreported China-Taiwan tensions and South China Sea naval standoffs that continue to escalate amid distracted Western attention on Middle East diplomacy",
+  "url": "N/A"
+}

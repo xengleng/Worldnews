@@ -1,0 +1,98 @@
+📰 **WORLDMONITOR NEWS UPDATE**
+Time: 2026-04-05 09:39 SGT
+Articles: 15 new items
+
+**FINANCE**
+1. Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+   Source: MarketWatch
+
+2. Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day’s two minutes of silence
+   Source: MarketWatch
+
+3. Swiss National Bank cuts interest rates by a half point to 0.5%
+   Source: MarketWatch
+
+**ASIA**
+4. Trump, Israel pressure Iran ahead of deadline as search continues for missing US airman
+   Source: CNA
+   US President Donald&nbsp;Trump&nbsp;says Iran has 48 hours to open the Strait of Hormuz or face attacks.
+
+5. Kanye West returns after controversies with sold-out concert and Lauryn Hill cameo
+   Source: CNA
+   The rapper was also joined by Travis Scott, CeeLo Green and his daughter North West.
+
+6. Waking up in pain? Your sleep position may need adjusting
+   Source: CNA
+   Stiffness, achy joints, acid reflux, snoring – experts explain the pros and cons of the three main ways people sleep.&nbsp;
+
+**GEOPOLITICS**
+7. US satellite firm Planet Labs announces blackout on war on Iran images
+   Source: Al Jazeera
+   Company says move amid US-Israel war on Iran comes after a request from the US government.
+
+8. Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex
+   Source: Al Jazeera
+   Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.
+
+9. Man charged over fatal shooting of baby in pram in New York
+   Source: BBC World
+   Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.
+
+**TECH**
+10. Evacuation of U.S. troops from Mideast base sends community groups scrambling
+   Source: Hacker News
+   Article URL: https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops
+Comme...
+
+11. Shooting down ideas is not a skill
+   Source: Hacker News
+   Article URL: https://scottlawsonbc.com/post/shooting-down-ideas
+Comments URL: <a href="https://news.ycombinator.com/item?id=4...
+
+12. AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy
+   Source: Hacker News
+   Article URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+Comments URL: <a href="https://news.ycombin...
+
+---
+🔗 **ALL ARTICLE LINKS:**
+
+1. Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+   https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines
+
+2. Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day’s two minutes of silence
+   https://www.marketwatch.com/story/bank-of-england-decision-on-thursday-will-be-at-12-02-p-m-local-time-instead-of-12-p-m-due-to-ve-day-two-minutes-of-silence-1f6bed66?mod=mw_rss_realtimeheadlines
+
+3. Swiss National Bank cuts interest rates by a half point to 0.5%
+   https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines
+
+4. Trump, Israel pressure Iran ahead of deadline as search continues for missing US airman
+   https://www.channelnewsasia.com/world/war-iran-deadline-trump-israel-pressure-6037021
+
+5. Kanye West returns after controversies with sold-out concert and Lauryn Hill cameo
+   https://www.channelnewsasia.com/entertainment/kanye-west-returns-after-controversies-sold-out-concert-and-lauryn-hill-cameo-6036501
+
+6. Waking up in pain? Your sleep position may need adjusting
+   https://www.channelnewsasia.com/wellness/how-your-sleep-positions-affect-health-6027846
+
+7. US satellite firm Planet Labs announces blackout on war on Iran images
+   https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss
+
+8. Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex
+   https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss
+
+9. Man charged over fatal shooting of baby in pram in New York
+   https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss
+
+10. Evacuation of U.S. troops from Mideast base sends community groups scrambling
+   https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops
+
+11. Shooting down ideas is not a skill
+   https://scottlawsonbc.com/post/shooting-down-ideas
+
+12. AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy
+   https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+
+---
+Updates every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+Based on WorldMonitor feed selection

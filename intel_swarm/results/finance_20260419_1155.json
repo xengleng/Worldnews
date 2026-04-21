@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260419_1155",
+  "executive_summary": "Markets are experiencing significant unwinding of war-related fears with stocks, the dollar, and volatility metrics normalizing. The Nasdaq has reached record highs as investors rotate back into technology stocks despite higher oil prices and yields, while the SEC's new enforcement director appointment signals potential regulatory shifts.",
+  "key_insights": [
+    {
+      "insight": "Wall Street experiences war unwind: stocks rally, dollar strength fades, and fear index (VIX) normalizes as geopolitical tensions ease",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq reaches record highs as investors rotate back into technology stocks amid improved sentiment",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "US stocks remain resilient despite higher oil prices and Treasury yields, with markets pricing out near-term rate cuts",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC appoints David Woodcock as new Director of Division of Enforcement, signaling potential regulatory priorities shift",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC approves exemptive order for customer cross-margining in U.S. Treasury market, enhancing clearing efficiency",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "FOMC March meeting minutes reveal Fed policy deliberations amid economic uncertainty",
+      "asset_class": "forex",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with major banks including Cr\u00e9dit Agricole and Goldman Sachs",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "April Fed meeting expectations focus on interest rate trajectory with markets anticipating unchanged policy",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Investopedia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strait of Hormuz tensions persist as geopolitical concern for global oil supply security",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "RUSI",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pakistan facilitating US-Iran talks with demands for guarantees, potentially impacting oil market stability",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "While market unwinding receives attention, the structural impact on emerging market currencies and capital flows from the normalization of risk-on sentiment is underreported, particularly for debt-laden developing economies that benefited from safe-haven flows during the conflict period.",
+  "url": "N/A"
+}

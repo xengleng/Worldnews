@@ -1,0 +1,133 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260420_2333",
+  "run_ts_utc": "2026-04-20T23:33:59.837154Z",
+  "insights": [
+    {
+      "headline": "Japan on high alert for 'huge' second earthquake after issuing tsunami warning",
+      "summary": "Japan's meteorological agency has warned another, stronger earthquake may hit within the next week following a initial quake. The agency is on high alert for a potentially catastrophic 'huge' aftershock. This is the most urgent natural disaster alert globally right now.",
+      "category": "natural_disaster",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/czd7m7d699do"],
+      "published": "2026-04-20 14:54"
+    },
+    {
+      "headline": "US and Iran warn they are ready for war as Pakistan ceasefire talks in limbo",
+      "summary": "Both the United States and Iran have warned they are prepared for war as ceasefire talks facilitated in Pakistan face mounting uncertainty. Vice-President J.D. Vance was reportedly ready to fly back to the Pakistani capital to resume talks that President Trump announced would continue. The talks appear to have stalled with no clear path forward.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["South China Morning Post"],
+      "source_urls": ["https://www.scmp.com/news/world/middle-east/article/3350796/us-and-iran-warn-they-are-ready-war-pakistan-ceasefire-talks-limbo"],
+      "published": "2026-04-20 23:18"
+    },
+    {
+      "headline": "A deal to end the Iran war seemed close. Then Trump started posting on social media",
+      "summary": "Negotiations to end the US-Israel war on Iran appeared to be near a breakthrough deal, but President Trump's social media posting activity derailed the diplomatic momentum. Reports suggest his online commentary undermined the negotiations that officials believed were making genuine progress.",
+      "category": "diplomacy",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNN"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wck5zTWU2UFh4Z3VYc3FZcENLOW40T2M4MFh4RzlqakhEanMzaHdCQXBYYkFDV3V1Q1Fna1BuNzRDNFRnRmZFTlA3dk5qX2JTUTh6Y3JpVGpKVDFhbjYybnlIQlA0eUhxRVBJdDNhMFlNa2FSeGpmTWtrOUFVd1E"],
+      "published": "2026-04-20 22:54"
+    },
+    {
+      "headline": "Iran replenishes missile launchers at higher rate than pre-war, Guards commander says",
+      "summary": "Despite 50 days of US-Israel military operations against Iran, a senior IRGC commander reports Iran is replenishing its missile launchers at a rate faster than before the war began. This suggests Iran's military-industrial complex is resilient and adapting to sustained pressure, complicating any timeline for weakening Tehran's deterrent capability.",
+      "category": "military",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXZmWnQzcWFEOElFSmNNUF9lNENIQ2J4Yy1sMVRhVlZBZ2F6cFpranJuSkxIOW5CNWNfWFpDWmhpenA2T0Y2RHQ4XzRvQ3lGamI2ejF6ZEpEX0s2Ylo3TklPZFVtc0lnLUpIYnM0ZzgtTEJVVXB2bkZ4Q3dNSC01WGZVY0JXbG9fMkxQcDRpdHZ0LWNlWHQ5clE2TWdCQjJjUUREVU05bFpwZzI3RldsanQ1elFRRmx3RnlySUc3YVhrYmpSd2c"],
+      "published": "2026-04-19 10:36"
+    },
+    {
+      "headline": "50 days of Iran war led to loss of $50 billion worth of oil",
+      "summary": "Half a century's worth of oil production has been disrupted in just 50 days of the US-Israel war on Iran. Global energy markets remain severely impacted with oil prices elevated and supply chains disrupted. The conflict's economic fallout extends far beyond the region.",
+      "category": "economy_energy",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMipAFBVV95cUxOekdYZjBPOUt4UEN4MUpmR2FOTEM0dk5fUlRNTEtuOVNNbW9EQmFPR0xfdWQwRkFWZ2ZYZktkTVo0bmx2WjAyWW9Ec1RhRTBERHFQOTBCWVhGc1B5c2hzN0MwOWd3Wko3SS1fX2NUTDdneUpxOXdZS3d6LTFVZHd5eXNRMUxFS2loNmNUSmdTX0VSTGxIN1NIQkx5NVZ5N2k4aFU3TA"],
+      "published": "2026-04-17 16:44"
+    },
+    {
+      "headline": "Pro-Iran hackers increase critical infrastructure cyberattacks; LA Metro claimed as target",
+      "summary": "Pro-Iranian hacker groups have significantly increased cyberattacks on critical infrastructure, including claiming responsibility for hacking the Los Angeles Metro. The federal government has issued warnings about vulnerabilities in essential systems. The cyber campaign appears synchronized with the kinetic war.",
+      "category": "cyber_warfare",
+      "alert_level": "CRITICAL",
+      "source_names": ["Defense One"],
+      "source_urls": ["https://www.defenseone.com/threats/2026/04/iran-hackers-infrastructure-cyberattacks/412941"],
+      "published": "2026-04-17 17:00"
+    },
+    {
+      "headline": "Tim Cook to step down as Apple CEO in September, handing reins to hardware leader John Ternus",
+      "summary": "Apple CEO Tim Cook will vacate his position on September 1, handing leadership to head of hardware engineering John Ternus after nearly 15 years. Cook's tenure saw the company's market value soar by over $3.6 trillion. The transition comes amid broader market uncertainty tied to the Iran war's economic fallout.",
+      "category": "business_leadership",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera", "South China Morning Post"],
+      "source_urls": ["https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo", "https://www.scmp.com/tech/big-tech/article/3350792/tim-cook-step-down-apple-ceo-handing-reins-firms-hardware-leader"],
+      "published": "2026-04-20 22:06"
+    },
+    {
+      "headline": "Funerals held across Lebanon during 10-day ceasefire as war with Israel continues",
+      "summary": "Mourners across Lebanon are burying victims of the war with Israel during a 10-day ceasefire window. The temporary respite allows families to grieve while the broader conflict with Iran and its regional allies remains unresolved. The ceasefire's fragility underscores the volatility of the situation.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire"],
+      "published": "2026-04-20 20:13"
+    },
+    {
+      "headline": "Iraq caught in US-Israel-Iran crossfire despite declaring neutrality",
+      "summary": "Despite formally declaring neutrality in the US-Israel war with Iran, Iraq has been unable to keep itself out of the conflict. The Crisis Group reports that Baghdad's body politic is under severe strain and the economy is being squeezed by the regional war. Iraq's geographical position makes it inevitably caught between the belligerents.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Crisis Group"],
+      "source_urls": ["https://www.crisisgroup.org/qna/middle-east-north-africa/iraq-iran-united-states-israelpalestine/iraq-vice"],
+      "published": "2026-04-20 16:59"
+    },
+    {
+      "headline": "Clean energy met 100% of world's new power needs in 2025 — report",
+      "summary": "As the Iran war raises global energy security concerns, a new report confirms clean energy sources met 100% of the world's new electricity demand in 2025. The milestone comes at a pivotal moment as nations re-evaluate fossil fuel dependency amid Middle East conflict-driven supply disruptions.",
+      "category": "energy_transition",
+      "alert_level": "MEDIUM",
+      "source_names": ["South China Morning Post"],
+      "source_urls": ["https://www.scmp.com/economy/global-economy/article/3350759/turning-point-clean-energy-met-100-worlds-new-power-needs-2025-report"],
+      "published": "2026-04-20 23:01"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Foreign Policy: The Iran war's energy disruption is accelerating clean energy adoption globally — European EV sales surged as consumers fled oil price volatility",
+      "Foreign Policy: Ukraine's green reconstruction plan offers a model for sustainable post-war rebuilding that avoids fossil fuel dependencies"
+    ],
+    "negative": [
+      "Foreign Policy: The Iran war is devastating for global south — energy prices and economic disruption hit developing nations hardest",
+      "ADB chief: Japan's too-slow interest rate hikes are creating yen weakness and compounding economic stress from the regional tensions",
+      "Trump's social media posts are actively undermining near-term ceasefire prospects, per CNN reporting",
+      "Iraq cannot remain neutral despite its stated position — the conflict is harming its body politic and economy"
+    ],
+    "sources": [
+      "Foreign Policy - 'The World Is Paying the Price for America's War'",
+      "Foreign Policy - 'The Strategic Aftershocks of Trump's Iran War'",
+      "ADB chief (via Reuters) - yen pressure warning",
+      "CNN - deal talks reporting",
+      "Crisis Group - Iraq neutrality assessment"
+    ]
+  },
+  "patterns": [
+    "US-Iran war dominates geopolitical coverage — ceasefire talks in Pakistan are the central diplomatic focus but face serious obstacles",
+    "Trump's personal social media activity is directly impacting diplomatic negotiations on Iran — multiple sources flag this as a critical variable",
+    "Iran's military resilience is stronger than expected — missile launcher replenishment exceeding pre-war rates",
+    "Regional spillover accelerating — Iraq, Lebanon, and Pakistan all being drawn into the conflict despite neutrality efforts",
+    "Cyber warfare tied to kinetic conflict — pro-Iran hacker groups conducting infrastructure attacks in parallel with shooting war",
+    "Global economic consequences mounting — $50B oil losses, Singdollar safe-haven flows, luxury sector slowdown, clean energy acceleration",
+    "Japan earthquake risk adding a natural disaster layer to an already tense geopolitical environment"
+  ],
+  "blind_spots": [
+    "Limited coverage of India's position — South Asia is deeply impacted by Iran war (energy, trade routes) but media focus is on Middle East/US/Pakistan",
+    "African spillover underreported — Sudan has been in civil war for 3 years with minimal new coverage despite parallels to broader instability",
+    "Russian role unclear — articles mention Russia-Ukraine conflict interaction but don't detail Moscow's hedging in the Iran war",
+    "Humanitarian dimensions lacking — ceasefire coverage focuses on political/military aspects rather than refugee flows and aid access",
+    "South Korean and Japanese economic vulnerability to oil disruption through Hormuz not foregrounded despite both being major energy importers",
+    "Domestic US political impact under-examined — protests, Congressional dissent, and electoral implications receive minimal coverage"
+  ]
+}

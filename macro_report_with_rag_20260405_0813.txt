@@ -1,0 +1,77 @@
+Macro-Driven Market Report with RAG - 2026-04-05 08:13
+
+## 🌍 **MACRO OVERVIEW**
+--------------------------------------------------
+**Monetary Policy (Fed):** 4.25-4.50%
+**Next FOMC:** 2026-04-29
+**Market Sentiment:** Leaning Dovish
+**Net Dovishness:** +13.7%
+**Oil (Brent):** $85.42 (+1.8%)
+**Driver:** Geopolitical tensions in Middle East
+**Trend:** Bullish
+
+**📚 Knowledge Base Insights:**
+1. - Fed expectations monitoring
+- Monetary policy analysis
+- Macro-driven report structure
+   *Source: finance.md › ## Macro & FedWatch*
+
+2. - **Fed Sentiment:** STRONGLY DOVISH (+47.8% net dovishness)
+- **Oil:** $85.42 (+1.8%) driven by Middle East tensions
+- **Primary Bias:** RISK-ON
+- **Action Plan:** Accumulate Gold, Overweight Tech, S...
+   *Source: finance.md › ### **Current Macro Assessment:***
+
+
+## 🎯 **ACTION PLAN**
+--------------------------------------------------
+**Strategy:** Cautiously optimistic
+• **Gold:** Hold existing positions
+• **Tech:** Selective buying
+• **Forex:** Range‑trade USD pairs
+• **Singapore Stocks:** Accumulate slowly
+
+**📚 Knowledge Base Insights:**
+1. **Feedback Received:** Reports should start with macro overview, then go into sectors/individual assets with clear reasoning and action plans.
+
+```
+1. 🌍 MACRO OVERVIEW
+   - Monetary Policy (Fed expect...
+   *Source: finance.md › ## ✅ **Macro-Driven Report Structure Implemented***
+
+2. - Daily comprehensive reports with 5 sections
+- Macro overview → sectors → individual assets → action plans
+   *Source: finance.md › ## Reports*
+
+
+KNOWLEDGE BASE INSIGHTS:
+FedWatch integration: **📚 Knowledge Base Insights:**
+1. 1. **Integrate Real CME Data** - Replace placeholder with actual FedWatch probabilities
+2. **Implement Alert Notifications** - Telegram alerts for threshold breaches
+...
+forex monitoring: **📚 Knowledge Base Insights:**
+1. - ExchangeRate-API.com for forex
+- Financial modeling prep for stocks
+- FedWatch for rate expectations
+   *Source: tech.md › ## APIs Used*
+
+2. Your comprehensive dail...
+gold price: **📚 Knowledge Base Insights:**
+1. - XAUUSD (Gold - USD per ounce)
+   *Source: finance.md › ## Gold*
+
+2. 1. **GOLD (XAUUSD, GLD):** STRONG BUY - Target $2,300-2,400/oz
+2. **USD/SGD:** BEARISH USD - Tar...
+Singapore stocks: **📚 Knowledge Base Insights:**
+1. 1. **GOLD (XAUUSD, GLD):** STRONG BUY - Target $2,300-2,400/oz
+2. **USD/SGD:** BEARISH USD - Target 1.25-1.28 range
+3. **TECH STOCKS:** VERY BULLISH - Focus MRVL (AI ...
+home loan rates: **📚 Knowledge Base Insights:**
+1. ```
+1. 🌍 MACRO OVERVIEW
+   • Fed expectations vs reality
+   • Geopolitical oil impact
+   • Market contradictions
+
+2. 🏠 HOME LOAN RATES (NEW SECTION)
+   • Bank compari...

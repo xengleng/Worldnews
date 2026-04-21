@@ -1,0 +1,166 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260414_1305",
+  "run_ts_utc": "2026-04-14T13:09:52.813365Z",
+  "insights": [
+    {
+      "headline": "US blockade of Strait of Hormuz pushes Asia into worst energy crisis in living memory",
+      "summary": "Washington's naval blockade of the Strait of Hormuz is threatening to tip Asia into its worst energy crisis. With peace talks stalled and no clear timeline for oil flows to resume, energy supply across Asia is at breaking point. The IEA has warned of 'demand destruction' from global oil demand plunge, and countries including Malaysia are urging citizens to tighten their belts as buffers run out by June.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "SCMP", "IEA"],
+      "source_urls": [
+        "https://www.scmp.com/week-asia/economics/article/3350057/asias-energy-supply-breaking-point-us-blockades-hormuz",
+        "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions",
+        "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked"
+      ],
+      "published": "2026-04-14 10:09"
+    },
+    {
+      "headline": "IMF cuts China GDP forecast to 4.4% as Iran war pressures global economy",
+      "summary": "The IMF has lowered its global growth forecast to 3.1% this year, with China's GDP cut to 4.4%, citing shocks from the US-Israeli war in Iran. The Fund's World Economic Outlook published Tuesday highlights the war's cascading economic impact across Asia, with Malaysia's government already urging citizens to prepare for an extended crisis as economic buffers run out by June.",
+      "category": "global economy",
+      "alert_level": "CRITICAL",
+      "source_names": ["SCMP", "Reuters", "IMF"],
+      "source_urls": [
+        "https://www.scmp.com/economy/global-economy/article/3350042/imf-cuts-chinas-gdp-growth-forecast-44-iran-war-pressures-global-economy"
+      ],
+      "published": "2026-04-14 13:00"
+    },
+    {
+      "headline": "US-Iran ceasefire under threat as naval blockade undermines diplomatic talks",
+      "summary": "Despite US-Iran talks reportedly resuming this week — Trump said Iran reached out on Monday wanting a deal — a US naval blockade of Iranian ports is threatening the fragile ceasefire. The blockade, imposed after talks yielded no agreement, risks upending Washington's already fragile ceasefire with Tehran without international backing.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNA", "Foreign Policy", "Reuters"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/world/us-iran-talks-may-resume-war-ceasefire-pakistan-blockade-6055631",
+        "https://foreignpolicy.com/2026/04/13/us-military-blockade-iran-ports-strait-hormuz-trump-pope-leo-nato/"
+      ],
+      "published": "2026-04-14 10:04"
+    },
+    {
+      "headline": "Iran war agriculture shock: fertilizer and energy flows trapped even under ceasefire",
+      "summary": "Even with a ceasefire potentially in place, vital energy and fertilizer flows remain trapped, threatening a prolonged agricultural shock that outlasts the shooting war. The IEA's 'demand destruction' report follows its chief noting that unnamed countries are hoarding strategic stockpiles in anticipation of prolonged disruption.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Foreign Policy", "Al Jazeera"],
+      "source_urls": [
+        "https://foreignpolicy.com/2026/04/10/iran-war-ceasefire-energy-fertilizer-agriculture-food-prices/",
+        "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions"
+      ],
+      "published": "2026-04-10 20:19"
+    },
+    {
+      "headline": "Jet fuel shock worsens crisis for global airlines as Iran war disrupts fuel supply",
+      "summary": "The Iran war's disruption of jet fuel supply is compounding a crisis already hitting global airlines, with energy markets under severe pressure from the Hormuz blockade. Asia's energy supply is described as at 'breaking point' as the US naval blockade cuts off critical fuel transit routes.",
+      "category": "aviation/energy",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNA"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/business/iran-us-war-jet-fuel-shock-worsens-crisis-global-airlines-6055891"
+      ],
+      "published": "2026-04-14 11:57"
+    },
+    {
+      "headline": "Defense One: War with Iran has weakened the US in the great power game",
+      "summary": "A detailed analysis argues the US-Israeli war in Iran has further strained American alliances while enabling China and Russia to advance regional influence. The piece identifies four specific ways the conflict has diminished US strategic position in the great power competition, including alliance erosion and credibility damage.",
+      "category": "great power competition",
+      "alert_level": "CRITICAL",
+      "source_names": ["Defense One"],
+      "source_urls": [
+        "https://www.defenseone.com/ideas/2026/04/war-iran-weakened-us-great-power/412809/"
+      ],
+      "published": "2026-04-13 16:00"
+    },
+    {
+      "headline": "Russia targeting university students for military recruitment — 'colossal' pressure campaign",
+      "summary": "Russia is deploying 'colossal' pressure to recruit university students into its military forces, according to CNN reporting. The report highlights a systematic targeting of students — a demographic that has historically been resistant to conscription — indicating escalating manpower demands as attrition from the Ukraine war continues.",
+      "category": "russia/ukraine",
+      "alert_level": "HIGH",
+      "source_names": ["CNN"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0FoTVdpVkJsTWRZNk13X3Q4UHZiaHFvSjBCOXJhTHVZUElBZWd5OE95ZlE1SFRUSVpoSE50enkwaFh3OGhBcFh3RGpVeGc2M2xQZ1drbE9fbDhaMUs3YXFJRjVzcEg1ZnRwQ05YSTdzRjVEeDlQUW5MaG0wN29SNURpU1BucWluNS0tYUlqQjA4YUpWRWNF"
+      ],
+      "published": "2026-04-14 04:01"
+    },
+    {
+      "headline": "Hungary's Fidesz loses election — Orbán's defeat lifts EU block on Ukraine support",
+      "summary": "Hungary's opposition has won a stunning victory over Viktor Orbán's Fidesz party, potentially removing the main EU obstacle to military and financial support for Ukraine. Crisis Group experts assess that while this lifts the block on EU support for Kyiv, significant frictions remain within the bloc over the direction and pace of assistance.",
+      "category": "europe",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy", "BBC News", "Crisis Group"],
+      "source_urls": [
+        "https://foreignpolicy.com/2026/04/12/why-viktor-orbans-fidesz-party-lost/",
+        "https://www.bbc.com/news/articles/cd6lzezp4zvo",
+        "https://www.crisisgroup.org/anb/europe/hungary-ukraine/orbans-defeat-lifts-block-eu-support-ukraine-frictions-remain"
+      ],
+      "published": "2026-04-13 21:28"
+    },
+    {
+      "headline": "HASC chair: trillion-dollar defense budgets are the 'new normal'",
+      "summary": "The House Armed Services Committee chair has acknowledged that trillion-dollar defense budgets represent the 'new normal', with the Iran war and great power competition driving sustained defense spending. However, budget reconciliation remains uncertain, with many administration space priorities relying on unconventional budget mechanisms.",
+      "category": "defense/budget",
+      "alert_level": "HIGH",
+      "source_names": ["Defense One"],
+      "source_urls": [
+        "https://www.defenseone.com/policy/2026/04/hasc-chair-trillion-dollar-defense-budgets-are-new-normal-reconciliation-less-certain/412806/"
+      ],
+      "published": "2026-04-13 19:20"
+    },
+    {
+      "headline": "Russia-linked hackers mass-harvest Microsoft Office tokens via router exploits",
+      "summary": "Hackers linked to Russia's military intelligence (GRU) are exploiting known flaws in older internet routers to mass-harvest Microsoft Office authentication tokens, allowing silent access to corporate and government accounts. Separately, Germany has doxed the head of ransomware groups REvil and GandCrab — a 31-year-old Russian national — in a significant law enforcement action.",
+      "category": "cyber",
+      "alert_level": "HIGH",
+      "source_names": ["Krebs on Security"],
+      "source_urls": [
+        "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+        "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+      ],
+      "published": "2026-04-07 17:02"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Crisis Group: Hungary's election result lifts the EU block on Ukraine support, offering a potential path toward unified Western backing for Kyiv",
+      "Foreign Policy / Crisis Group analysts: Despite Hormuz chaos, a ceasefire window remains possible if diplomatic channels stay open",
+      "IEA: Countries hoarding oil stocks signal preparedness for extended disruption, moderating the most acute price spikes"
+    ],
+    "negative": [
+      "Defense One: The Iran war has weakened the US in the great power game — alliances strained, China and Russia advantaged",
+      "World Bank chief: A jobs crisis looms even after the war ends, with economic damage outlasting the fighting",
+      "IMF: Global growth cut to 3.1%; China's growth cut to 4.4%; Asia bearing the heaviest energy shock",
+      "Foreign Policy: The US Hormuz blockade without international backing risks upending the fragile ceasefire entirely",
+      "SCMP: Malaysia warned to tighten belts as buffers run out by June; full energy crisis effects imminent",
+      "RUSI: Modern warfare (Ukraine, Iran) shows 'David vs Goliath' dynamics — smaller powers using asymmetric means to exhaust larger adversaries"
+    ],
+    "sources": [
+      "International Crisis Group ( Crisis Group )",
+      "Foreign Policy",
+      "Defense One",
+      "World Bank / IMF (via Reuters, SCMP)",
+      "RUSI",
+      "SCMP",
+      "Al Jazeera"
+    ]
+  },
+  "patterns": [
+    "US-Iran ceasefire talks are live and reportedly resuming, but the concurrent naval blockade is undermining diplomatic incentives — a contradictory signals problem that raises deal failure risk",
+    "All major economic institutions (IMF, World Bank, IEA) are simultaneously downgrading growth and warning of energy/food supply destruction, signaling a systemic economic shock rather than a contained regional conflict",
+    "The Hormuz blockade is the central Asia flashpoint — 279 ships transited, 22 attacked since the war began — with oil demand destruction already manifesting regionally before the blockade fully tightens",
+    "China and Russia are identified across multiple sources as strategic beneficiaries of US overextension in the Middle East, accelerating great power rivalry even as the US is distracted",
+    "Russia's domestic manpower crisis is deepening — shifting to direct university student recruitment signals desperation as Ukraine war attrition mounts",
+    "The EU's foreign policy paralysis over Ukraine may be breaking — Orbán's defeat removes the primary blocker, potentially unlocking a more unified European response",
+    "Cyber operations are escalating in parallel with kinetic warfare — state-backed Russian hackers and pro-Iran wiper malware both active, expanding the conflict into digital domain"
+  ],
+  "blind_spots": [
+    "Iranian domestic situation largely absent from Western sources — no reporting on internal stability, Revolutionary Guard posture, or popular sentiment under sustained military pressure",
+    "Israeli political fallout from the war undefined — no coverage of Netanyahu government's stability or post-war political calculations despite Israel being a primary belligerent",
+    "Indian subcontinent energy vulnerability underreported — India is heavily dependent on Middle East energy flows but receives limited direct coverage in this dataset",
+    "Ceasefire enforcement mechanism undefined — who verifies, who patrols Hormuz post-ceasefire, what happens to the blockade if talks succeed vs fail",
+    "Humanitarian dimensions of the Hormuz crisis — no reporting on food/medical supply impacts on Yemen, Lebanon, or Gaza which rely on Red Sea/Hormuz transit",
+    "Gulf state hedging strategies underexplored — Saudi Arabia, UAE, Qatar responses to US over.militarization in their neighborhood barely covered",
+    "African spillover effects minimal coverage — Sudan civil war and broader Sahel instability linked to food/energy price shocks from Iran war not developed"
+  ]
+}

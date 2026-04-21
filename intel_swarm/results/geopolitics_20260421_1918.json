@@ -1,0 +1,69 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260421_1918",
+  "executive_summary": "The Strait of Hormuz emerges as the most critical geopolitical flashpoint, with RUSI analysis highlighting the complex challenges of securing this vital oil chokepoint amid escalating US-Iran tensions ahead of a ceasefire deadline. Sri Lanka continues its fragile political reset process, while UN reform discussions focus on selecting a successor to strengthen multilateral governance amid rising global tensions.",
+  "key_insights": [
+    {
+      "insight": "RUSI analysis warns of the reality and complexities involved in an extended closure of the Strait of Hormuz, one of the world's most critical oil shipping chokepoints",
+      "location": "Gulf Region/Iran",
+      "actors": [
+        "United States",
+        "Iran",
+        "Gulf States"
+      ],
+      "alert_level": "HIGH",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "US crude futures decline as investors reassess risks surrounding US-Iran tensions ahead of an approaching ceasefire deadline",
+      "location": "United States/Iran",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "CNA",
+      "url": "N/A"
+    },
+    {
+      "insight": "Analysis of what 'securing' the Strait of Hormuz actually requires in terms of military and diplomatic resources",
+      "location": "Gulf Region",
+      "actors": [
+        "United States",
+        "Iran",
+        "International Shipping Companies"
+      ],
+      "alert_level": "HIGH",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues its bumpy political reset journey following the 2022 economic crisis, facing ongoing governance challenges",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition Parties",
+        "IMF"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Crisis Group outlines priorities for the UN regarding what to ask of the next Secretary-General to strengthen multilateral diplomacy",
+      "location": "Global/United Nations",
+      "actors": [
+        "United Nations",
+        "Member States",
+        "Security Council"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Crisis Group",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The growing strategic competition between the US and China in the Gulf region, including Chinese investments in regional infrastructure and naval presence, remains underreported despite its long-term implications for Hormuz security and global energy markets.",
+  "url": "N/A"
+}

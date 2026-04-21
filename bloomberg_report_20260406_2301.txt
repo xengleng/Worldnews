@@ -1,0 +1,148 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-06 23:01 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears
+     [POLITICS → US POLITICS]
+     Source: CNBC
+   • Convicted spyware maker Bryan Fleming avoids jail at sentencing
+     [TECH → AI]
+     Source: TechCrunch
+
+🟠 **HIGH ALERTS** (2)
+   Significant event, consider action
+   • Ukraine strikes Russian Black Sea energy hub Novorossiysk
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+   • In maps and photos: Five Iranian civilian bridges at risk of US strikes
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • Analysis:Investors press Amazon, Microsoft and Google on water, power use in US data centers
+     [MARKETS → GENERAL]
+     Source: CNA
+
+🟢 **LOW ALERTS** (10)
+   Routine update, no immediate action needed
+   • Arbeloa expects Champions League response as Real host Bayern after LaLiga setback
+     [POLITICS → GENERAL]
+     Source: CNA
+   • New Jersey cannot regulate Kalshi's prediction market, US appeals court rules
+     [MARKETS → GENERAL]
+     Source: CNA
+   • North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'
+     [POLITICS → GENERAL]
+     Source: CNA
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (3)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (3)
+      • 🟢 New Jersey cannot regulate Kalshi's prediction market, US appeals court rules
+        Source: CNA
+      • 🟡 Analysis:Investors press Amazon, Microsoft and Google on water, power use in US data centers
+        Source: CNA
+
+**POLITICS** (8)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (4)
+      • 🟢 Arbeloa expects Champions League response as Real host Bayern after LaLiga setback
+        Source: CNA
+      • 🟢 North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'
+        Source: CNA
+   └─ GEOPOLITICS (1)
+      • 🟠 Ukraine strikes Russian Black Sea energy hub Novorossiysk
+        Source: Al Jazeera
+        Ukraine has increased attacks on Russian energy infrastructure in bid to disrupt financing of its wa...
+   └─ US POLITICS (3)
+      • 🔴 U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears
+        Source: CNBC
+        The 45-day ceasefire proposal, which could lead to an end to the war, is reportedly being discussed ...
+      • 🟠 In maps and photos: Five Iranian civilian bridges at risk of US strikes
+        Source: Al Jazeera
+        A look at the multimillion-dollar mega structures that could be threatened by Trump&#039;s &#039;Bri...
+
+**TECH** (4)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (1)
+      • 🔴 Convicted spyware maker Bryan Fleming avoids jail at sentencing
+        Source: TechCrunch
+        The pcTattletale founder escapes a custodial sentence following the first successful prosecution of ...
+   └─ GENERAL (1)
+      • 🟢 Ticket savings of up to $500 this week for TechCrunch Disrupt 2026
+        Source: TechCrunch
+        Starting today, you have 5 days to save nearly $500 on your ticket to TechCrunch Disrupt 2026. This ...
+   └─ SOFTWARE (2)
+      • 🟢 Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K
+        Source: TechCrunch
+        Nominate your startup, or one you know that deserves the spotlight, and finish the process by applyi...
+      • 🟢 How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others
+        Source: TechCrunch
+        Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT....
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 2 (13.3%)
+🟠 HIGH: 2 (13.3%)
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 10 (66.7%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Arbeloa expects Champions League response as Real host Bayern after LaLiga setback
+   https://www.channelnewsasia.com/sport/arbeloa-expects-champions-league-response-real-host-bayern-after-laliga-setback-6039226
+
+2. 🟢 New Jersey cannot regulate Kalshi's prediction market, US appeals court rules
+   https://www.channelnewsasia.com/business/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules-6039221
+
+3. 🟢 North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'
+   https://www.channelnewsasia.com/east-asia/kim-yo-jong-kim-jong-un-sister-seoul-regret-drone-wise-behaviour-6039171
+
+4. 🟡 Analysis:Investors press Amazon, Microsoft and Google on water, power use in US data centers
+   https://www.channelnewsasia.com/business/analysisinvestors-press-amazon-microsoft-and-google-water-power-use-in-us-data-centers-6039131
+
+5. 🟢 Third teen charged with trafficking of etomidate vape pods
+   https://www.channelnewsasia.com/singapore/hsa-18-year-old-charged-etomidate-vape-pods-alleged-trafficking-6039041
+
+6. 🔴 U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears
+   https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html
+
+7. 🟢 Robinhood, BNY to build Trump Accounts app
+   https://www.cnbc.com/2026/04/06/treasury-trump-accounts-bny-robinhood.html
+
+8. 🟢 Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K
+   https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/
+
+9. 🟠 Ukraine strikes Russian Black Sea energy hub Novorossiysk
+   https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss
+
+10. 🟢 How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others
+   https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/
+
+11. 🟠 In maps and photos: Five Iranian civilian bridges at risk of US strikes
+   https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss
+
+12. 🟢 Ticket savings of up to $500 this week for TechCrunch Disrupt 2026
+   https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/
+
+13. 🟢 DR Congo agrees to take deportees from the US
+   https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss
+
+14. 🔴 Convicted spyware maker Bryan Fleming avoids jail at sentencing
+   https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/
+
+15. 🟢 The US could still try to play the ethnic card in Iran
+   https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss

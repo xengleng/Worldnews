@@ -1,0 +1,131 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260419_1155",
+  "executive_summary": "Pakistan is actively mediating between the US and Iran for a second round of talks amid heightened regional tensions. The Strait of Hormuz remains a critical flashpoint as geopolitical and security concerns mount over potential disruptions to global oil supplies. Peace initiatives are emerging in Cameroon and Sri Lanka while UN reform discussions gain momentum ahead of new leadership selection.",
+  "key_insights": [
+    {
+      "insight": "Pakistan seeks to facilitate second round of US-Iran negotiations, requesting guarantees for Tehran's participation",
+      "location": "Middle East/South Asia",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Analysis reveals complexities of securing the Strait of Hormuz, a critical global oil shipping route",
+      "location": "Gulf Region",
+      "actors": [
+        "Iran",
+        "United States",
+        "Regional Powers"
+      ],
+      "alert_level": "HIGH",
+      "source": "RUSI",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues political reset amid economic recovery and governance challenges",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition Parties",
+        "IMF"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope Francis's visit to Cameroon raises hopes for peace and reconciliation in the region",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroonian Government",
+        "Regional Armed Groups"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "UN member states discuss priorities for the next Secretary-General appointment process",
+      "location": "Global/UN",
+      "actors": [
+        "UN Member States",
+        "UN Security Council",
+        "Civil Society"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Wall Street markets show post-war normalization with stock rally and dollar strength",
+      "location": "United States",
+      "actors": [
+        "US Markets",
+        "Federal Reserve",
+        "Global Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC enforcement leadership transition under new Director David Woodcock",
+      "location": "United States",
+      "actors": [
+        "SEC",
+        "Financial Markets",
+        "Corporate Entities"
+      ],
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve signals potential hold on interest rate cuts amid inflation concerns",
+      "location": "United States",
+      "actors": [
+        "Federal Reserve",
+        "US Economy",
+        "Global Markets"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions against major international banks",
+      "location": "United States/Europe/Asia",
+      "actors": [
+        "Federal Reserve",
+        "Cr\u00e9dit Agricole",
+        "Goldman Sachs",
+        "Mega Bank"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq reaches record highs as investor confidence returns to technology sector",
+      "location": "United States",
+      "actors": [
+        "Tech Companies",
+        "US Markets",
+        "Global Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The escalating naval and drone activity near the Strait of Hormuz remains significantly underreported despite potential for rapid escalation affecting 20% of global oil shipments.",
+  "url": "N/A"
+}

@@ -1,0 +1,83 @@
+Stock News Report - 2026-04-03 23:24
+Stocks monitored: MRVL, AMD, NVDA, FIG
+
+[HIGH] MRVL - Wingstop upgraded, Wix downgraded: Wall Street’s top analyst calls
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/wingstop-upgraded-wix-downgraded-wall-134544557.html?.tsrc=rss
+
+[HIGH] MRVL - Bank of America resets Marvell stock price target after Nvidia deal
+Source: Yahoo Finance
+Link: https://www.thestreet.com/investing/stocks/bank-of-america-resets-marvell-stock-price-target-after-nvidia-deal?.tsrc=rss
+
+[HIGH] MRVL - Marvell Gets Nvidia’s $2B ‘Vote of Confidence’: Analysts Strike a Bullish Chord
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/marvell-gets-nvidia-2b-vote-212100683.html?.tsrc=rss
+
+[HIGH] AMD - Wingstop upgraded, Wix downgraded: Wall Street’s top analyst calls
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/wingstop-upgraded-wix-downgraded-wall-134544557.html?.tsrc=rss
+
+[HIGH] AMD - AMD upgraded to Buy from Hold at Erste Group
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/amd-upgraded-buy-hold-erste-133742793.html?.tsrc=rss
+
+[HIGH] AMD - Advanced Micro Devices (AMD) Is Up 6.7% After New CIQ Partnership Targets Open, Power‑Efficient AI Infrastructure
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/sectors/technology/articles/advanced-micro-devices-amd-6-011653806.html?.tsrc=rss
+
+[HIGH] NVDA - Why Shares of Wix.com Stock Zoomed 28% Higher Last Month
+Source: Yahoo Finance
+Link: https://www.fool.com/investing/2026/04/03/why-shares-of-wixcom-stock-zoomed-28-higher-last-m/?.tsrc=rss
+
+[HIGH] NVDA - Top Analyst Hikes Nvidia Target to $220 on AI Chip Demand
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/top-analyst-hikes-nvidia-target-144956628.html?.tsrc=rss
+
+[HIGH] FIG - William Blair Downgrades Adobe (ADBE) to Market Perform, Lowers PT
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/william-blair-downgrades-adobe-adbe-141220129.html?.tsrc=rss
+
+[HIGH] FIG - Oppenheimer Initiates Coverage of Figma (FIG) with a ‘Perform’ Rating
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-coverage-figma-fig-114105424.html?.tsrc=rss
+
+[MEDIUM] MRVL - Jim Cramer Notes That NVIDIA’s PE “Makes No Sense at All”
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-nvidia-pe-090834786.html?.tsrc=rss
+
+[MEDIUM] MRVL - Nvidia’s US$2b Marvell Stake Expands AI Data Center And Telecom Reach
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/nvidia-us-2b-marvell-stake-002146884.html?.tsrc=rss
+
+[MEDIUM] AMD - Riot Platforms sells 3,778 BTC for $289.5M in Q1 2026, mines 1,473 BTC
+Source: Yahoo Finance
+Link: https://blockspace.media/insight/riot-platforms-sells-3778-btc-for-289-5m-in-q1-2026-mines-1473-btc/?.tsrc=rss
+
+[MEDIUM] AMD - Latest News In AI Chips - AI Infrastructure Costs Soar As Deployment Expenses Climb
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/sectors/technology/articles/latest-news-ai-chips-ai-113731551.html?.tsrc=rss
+
+[MEDIUM] NVDA - This High-Yield Dividend Stock Has Raised Its Payout for Over a Decade
+Source: Yahoo Finance
+Link: https://www.fool.com/investing/2026/04/03/high-yield-dividend-stock-raised-payout-main/?.tsrc=rss
+
+[MEDIUM] NVDA - 2 Under-the-Radar Dividend Kings to Buy in Bunches
+Source: Yahoo Finance
+Link: https://www.fool.com/investing/2026/04/03/2-under-the-radar-dividend-kings-to-buy-in-bunches/?.tsrc=rss
+
+[MEDIUM] NVDA - At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/sectors/technology/articles/wmf-edition-ai-global-summit-145600148.html?.tsrc=rss
+
+[MEDIUM] FIG - Figma Rides on Strong MCP Server Demand: A Sign for More Upside?
+Source: Yahoo Finance
+Link: https://finance.yahoo.com/markets/stocks/articles/figma-rides-strong-mcp-server-151200699.html?.tsrc=rss
+
+[LOW] FIG - Could Investing $10,000 in Figma Make You a Millionaire?
+Source: Yahoo Finance
+Link: https://www.fool.com/investing/2026/04/03/could-investing-10000-in-figma-make-you-a-milliona/?.tsrc=rss
+
+[LOW] FIG - Figma: Ugly Chart, Good Business
+Source: Yahoo Finance
+Link: https://www.trefis.com/articles/595322/figma-ugly-chart-good-business/2026-04-01?.tsrc=rss
+

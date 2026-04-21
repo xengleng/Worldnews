@@ -1,0 +1,120 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260418_1614",
+  "executive_summary": "Trump signals potential end to Iran conflict as markets hit record highs, while geopolitical tensions persist with a pro-Russian cyberattack on Swedish critical infrastructure. China's BYD faces scrutiny over a garage fire incident as broader war economic risks prompt policymaker warnings.",
+  "key_insights": [
+    {
+      "insight": "Trump announces Iran war 'close to over' amid S&P 500 record high and volatile oil markets",
+      "location": "Middle East/Iran",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets"
+    },
+    {
+      "insight": "Policymakers warn markets are underestimating economic damage from ongoing conflicts and geopolitical instability",
+      "location": "Global",
+      "actors": [
+        "International Monetary System",
+        "Central Banks"
+      ],
+      "alert_level": "HIGH",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/markets"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian group in 2025 cyberattack on critical infrastructure",
+      "location": "Sweden",
+      "actors": [
+        "Sweden",
+        "Russia",
+        "Pro-Russian Hacktivists"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe"
+    },
+    {
+      "insight": "BYD reports fire at Shenzhen garage for test and scrapped vehicles, raising safety and industrial concerns",
+      "location": "China",
+      "actors": [
+        "China",
+        "BYD"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com"
+    },
+    {
+      "insight": "US investigating suspicious oil trades made before Trump policy pivots, potential market manipulation",
+      "location": "United States/Global Oil Markets",
+      "actors": [
+        "United States",
+        "Oil Traders"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/markets"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI pursue IPO listings",
+      "location": "United States/Technology Sector",
+      "actors": [
+        "Anthropic",
+        "OpenAI",
+        "Tech Industry"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com"
+    },
+    {
+      "insight": "Ye postpones Marseille concert after French authorities indicate intent to seek performance ban",
+      "location": "France",
+      "actors": [
+        "France",
+        "Ye (Kanye West)"
+      ],
+      "alert_level": "LOW",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit, indicating ongoing supply constraints",
+      "location": "Global Commodity Markets",
+      "actors": [
+        "Silver Producers",
+        "Industrial Consumers"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/markets"
+    },
+    {
+      "insight": "Bank of America stock traders achieve record results driven by market momentum",
+      "location": "United States",
+      "actors": [
+        "Bank of America"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/markets"
+    },
+    {
+      "insight": "El Salvador enacts law permitting life sentences for minors as young as 12, drawing human rights concerns",
+      "location": "El Salvador",
+      "actors": [
+        "El Salvador Government"
+      ],
+      "alert_level": "LOW",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com"
+    }
+  ],
+  "blind_spot": "Lack of reporting on China's strategic positioning in electric vehicle supply chains amid BYD incident, and limited coverage of how potential Iran conflict resolution could reshape Middle East energy politics and US-China trade dynamics.",
+  "url": "N/A"
+}

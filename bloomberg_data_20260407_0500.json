@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-07T05:00:39.249308",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Patrick Reed: 'Traditional way of golf' key in PGA Tour return",
+      "link": "https://www.channelnewsasia.com/sport/patrick-reed-traditional-way-golf-key-in-pga-tour-return-6039686",
+      "published": "Tue, 07 Apr 2026 04:50:14 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "464781783118cf9a894c03d116b8d758",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ukraine hits major oil terminal in southern Russia: Moscow",
+      "link": "https://www.channelnewsasia.com/world/russia-ukraine-strikes-oil-pipeline-casapian-6039646",
+      "published": "Tue, 07 Apr 2026 04:25:00 +0800",
+      "summary": "Russia\u2019s defence ministry accused Ukraine of damaging a major oil pipeline, while Ukraine denied that claim but said it struck a different site.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "266fca60b13cb7135389a854150fd20b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+      "link": "https://www.channelnewsasia.com/business/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-access-6039596",
+      "published": "Tue, 07 Apr 2026 03:33:11 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "b1d5b7203f4ed730b2dbfacaca04a971",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "SoFi Stadium workers urge FIFA to bar ICE from World Cup, threaten strike",
+      "link": "https://www.channelnewsasia.com/sport/sofi-stadium-workers-urge-fifa-bar-ice-world-cup-threaten-strike-6039601",
+      "published": "Tue, 07 Apr 2026 03:29:39 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "64edd3dc01dafeb09bb865387574ef13",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Masters rookie Gotterup brings confidence to Augusta after meteoric rise",
+      "link": "https://www.channelnewsasia.com/sport/masters-rookie-gotterup-brings-confidence-augusta-after-meteoric-rise-6039591",
+      "published": "Tue, 07 Apr 2026 03:27:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "079b77d6eafc9e80325f7deaf6ec8395",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
+      "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
+      "published": "Mon, 06 Apr 2026 20:47:02 GMT",
+      "summary": "Before the U.S and Israel began their war against Iran, about 20% of the world's oil was shipped through the narrow Strait of Hormuz.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "6c101be669db622397db7dc14b36b95f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
+      "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:41:49 +0000",
+      "summary": "Alexei Smirnov found guilty of taking bribes from firms contracted to build fortifications along Ukraine border.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3de9c6e61aa98c2d711f8c4d6868dbfa",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Root Persistence via macOS Recovery Mode Safari",
+      "link": "https://yaseenghanem.com/recovery-unrestricted-write-access/",
+      "published": "Mon, 06 Apr 2026 20:41:41 +0000",
+      "summary": "Article URL: https://yaseenghanem.com/recovery-unrestricted-write-access/\nComments URL: https://news.ycombinator.com/item?id=47666767\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "6d5cde85b5e02ca49fe7be0d944de1e6",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
+      "link": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:34:47 +0000",
+      "summary": "Drones are reported to have fired missiles into an area near Maghazi refugee camp.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "510c57153975d98c13d5cd2d976d3331",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
+      "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:22:24 +0000",
+      "summary": "Steve Bannon, an ally of US President Donald Trump, served a four-month prison sentence after his 2022 conviction.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "7632f47c4348bbe9f184e4f70d40f057",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Lebanon\u2019s Hezbollah and Yemen\u2019s Houthis join Iran in strike on Israel",
+      "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:22:06 +0000",
+      "summary": "The Houthis in Yemen say they attacked Israel alongside their backers Iran and Hezbollah in Lebanon.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "af66cab5a74f1c1c1a6126fec0a61515",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "A macOS kernel bug can cause OpenClaw to stop working after 49.7 days",
+      "link": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
+      "published": "Mon, 06 Apr 2026 20:20:54 +0000",
+      "summary": "Article URL: https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking\nComments URL: https://news.ycombinator.com/item?id=47666488\nPoints: 34\n# Comments: 9",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "0622318cee780f23b3b70d87863b489c",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial",
+      "link": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html",
+      "published": "Mon, 06 Apr 2026 20:11:47 GMT",
+      "summary": "OpenAI sent a letter to the California and Delaware attorneys general, urging them to investigate \"anti-competitive behavior\" by Elon Musk and his associates.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "6272eea24f6a8f1178f9913792b88988",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Trump claims Iranians begging US to keep bombing Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 20:05:05 +0000",
+      "summary": "Donald Trump claimed the US has \u201cnumerous intercepts\u201d of Iranians pleading for a continuation of bombing.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "5d8fee1f5609e12df1d9b2bbceba3cfd",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Show HN: Ghost Pepper \u2013 100% local hold-to-talk speech-to-text for macOS",
+      "link": "https://github.com/matthartman/ghost-pepper",
+      "published": "Mon, 06 Apr 2026 19:50:16 +0000",
+      "summary": "I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I've been using a ton for coding and emails. Experimenting wi...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "a6d37a7089db05dd9807a4057686b561",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 3,
+    "medium": 0,
+    "low": 9
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 6,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

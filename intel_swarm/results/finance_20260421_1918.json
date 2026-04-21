@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260421_1918",
+  "executive_summary": "Federal Reserve FOMC minutes signal cautious monetary policy amid economic uncertainty, while Nasdaq reaches record highs driven by tech sector revival. Geopolitical tensions around the Strait of Hormuz continue to pressure energy markets, with US crude futures declining as investors reassess Iran-related risks ahead of potential ceasefire developments.",
+  "key_insights": [
+    {
+      "insight": "Federal Reserve releases March FOMC meeting minutes revealing policymakers' views on interest rate trajectory and economic outlook",
+      "asset_class": "forex",
+      "alert_level": "HIGH",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq achieves record highs as investors rotate back into technology stocks, indicating renewed confidence in tech sector",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC approves exemptive order permitting customer cross-margining in U.S. Treasury market, potentially improving capital efficiency",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US crude futures decline as markets reassess US-Iran geopolitical risks ahead of ceasefire deadline",
+      "asset_class": "energy",
+      "alert_level": "HIGH",
+      "source": "CNA",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with major banks including Goldman Sachs, Cr\u00e9dit Agricole, and Mega International Commercial Bank",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Geopolitical analysis warns of extended Strait of Hormuz closure implications for global oil supply chains",
+      "asset_class": "energy",
+      "alert_level": "HIGH",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Luxury brands face mounting pressure as post-pandemic demand surge fades, impacting consumer discretionary equities",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNA",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve releases discount rate meeting minutes from February and March 2026",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve issues new enforcement action against Community Bankshares, Inc.",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strategic analysis of securing Strait of Hormuz reveals complexity of maritime security in Middle East",
+      "asset_class": "commodities",
+      "alert_level": "MEDIUM",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The termination of major enforcement actions against global systemically important banks like Goldman Sachs and Cr\u00e9dit Agricole may signal a shift in regulatory approach, but the implications for market risk management and compliance frameworks remain underreported in mainstream financial coverage.",
+  "url": "N/A"
+}

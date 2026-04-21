@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260416_0955",
+  "executive_summary": "S&P 500 reaches record highs as geopolitical tensions ease with Trump signaling the Iran war is near conclusion, boosting equity markets while oil remains volatile. Meanwhile, investor sentiment on AI and tech spending is souring as major AI firms prepare for IPOs, raising questions about valuations in the sector.",
+  "key_insights": [
+    {
+      "insight": "S&P 500 hits record high amid geopolitical relief as Trump indicates Iran war 'close to over'",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Markets underestimating economic toll of ongoing geopolitical conflicts, policymakers warn of complacency",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI prepare IPOs while tech spending continues",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US regulatory probe into suspicious oil trades made before Trump policy pivots signals potential market manipulation concerns",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit, supporting bullish commodity outlook",
+      "asset_class": "commodities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Bank of America stock traders achieve record performance driven by market momentum strategies",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire incident at Shenzhen facility for test and scrapped vehicles, raising quality control questions",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Oil markets remain choppy amid uncertainty over Iran conflict resolution timeline",
+      "asset_class": "energy",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Mark Mobius, legendary emerging markets investor, passes away at 89, marking end of era for EM investing",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian cyber group in 2025 highlights critical infrastructure vulnerability",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Reuters World",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "While IPO preparations by major AI companies like Anthropic and OpenAI dominate headlines, the underlying cooling of public sentiment toward AI infrastructure spending represents a potential structural shift in tech investment narratives that markets may not be fully pricing in.",
+  "url": "N/A"
+}

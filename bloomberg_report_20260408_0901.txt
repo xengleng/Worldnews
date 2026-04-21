@@ -1,0 +1,137 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-08 09:01 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (9)
+   Market-moving event, immediate attention required
+   • Bank of Korea to hold rates at 2.50% as war-driven uncertainty persists: Reuters poll
+     [TECH → AI]
+     Source: CNA
+   • Gold extends gains as Trump pauses Iran attacks for two weeks
+     [POLITICS → US POLITICS]
+     Source: CNA
+   • Trump agrees to suspend bombing of Iran for 2 weeks if Tehran completely reopens Strait of Hormuz
+     [POLITICS → US POLITICS]
+     Source: CNA
+
+🟠 **HIGH ALERTS** (1)
+   Significant event, consider action
+   • White House confirms two-week suspension of strikes on Iran
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+
+🟢 **LOW ALERTS** (5)
+   Routine update, no immediate action needed
+   • CK Hutchison's Panama unit files arbitration against Maersk over ports takeover
+     [TECH → AI]
+     Source: CNA
+   • These women give blind, ageing and terminally ill pets a home – when no one else will
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene
+     [POLITICS → US POLITICS]
+     Source: BBC World
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (1)
+      • 🟢 Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups
+        Source: CNBC
+        Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic...
+
+**POLITICS** (11)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (1)
+      • 🟢 These women give blind, ageing and terminally ill pets a home – when no one else will
+        Source: CNA
+        While many adopters seek puppies and kittens, these four women chose the opposite – giving homes to ...
+   └─ GEOPOLITICS (4)
+      • 🔴 South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal
+        Source: CNBC
+        Asia-Pacific markets opened higher after President Donald Trump said he agreed to suspend planned at...
+      • 🔴 Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire
+        Source: CNBC
+        President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minis...
+   └─ US POLITICS (6)
+      • 🔴 Gold extends gains as Trump pauses Iran attacks for two weeks
+        Source: CNA
+        Gold, which started the year on a strong note, has fallen more than 8 per cent since the Iran war be...
+      • 🔴 Trump agrees to suspend bombing of Iran for 2 weeks if Tehran completely reopens Strait of Hormuz
+        Source: CNA
+        Iran says talks with the US will begin on Friday (Apr 10) in Pakistan's capital Islamabad....
+
+**TECH** (3)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (2)
+      • 🔴 Bank of Korea to hold rates at 2.50% as war-driven uncertainty persists: Reuters poll
+        Source: CNA
+      • 🟢 CK Hutchison's Panama unit files arbitration against Maersk over ports takeover
+        Source: CNA
+   └─ GENERAL (1)
+      • 🟢 Xilem – An experimental Rust native UI framework
+        Source: Hacker News
+        Article URL: https://github.com/linebender/xilem
+Comments URL: https://news.ycombinator.com/item?id=...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 9 (60.0%)
+🟠 HIGH: 1 (6.7%)
+🟢 LOW: 5 (33.3%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🔴 Bank of Korea to hold rates at 2.50% as war-driven uncertainty persists: Reuters poll
+   https://www.channelnewsasia.com/business/bank-korea-hold-rates-250-war-driven-uncertainty-persists-reuters-poll-6042486
+
+2. 🔴 Gold extends gains as Trump pauses Iran attacks for two weeks
+   https://www.channelnewsasia.com/business/gold-prices-trump-us-iran-war-ceasefire-two-week-6042456
+
+3. 🟢 CK Hutchison's Panama unit files arbitration against Maersk over ports takeover
+   https://www.channelnewsasia.com/business/ck-hutchisons-panama-unit-files-arbitration-against-maersk-over-ports-takeover-6042441
+
+4. 🔴 Trump agrees to suspend bombing of Iran for 2 weeks if Tehran completely reopens Strait of Hormuz
+   https://www.channelnewsasia.com/world/trump-iran-war-ceasefire-strait-hormuz-pakistan-6038491
+
+5. 🟢 These women give blind, ageing and terminally ill pets a home – when no one else will
+   https://www.channelnewsasia.com/women/women-adopt-senior-sick-pets-singapore-6020576
+
+6. 🔴 South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal
+   https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html
+
+7. 🔴 Oil slides after US and Iran agree to conditional two-week ceasefire
+   https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss
+
+8. 🔴 Iran ceasefire deal a temporary win for Trump - but it comes at a cost
+   https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss
+
+9. 🟢 Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene
+   https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss
+
+10. 🔴 Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire
+   https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html
+
+11. 🔴 US, Iran say they have agreed to a two-week ceasefire
+   https://apnews.com/live/iran-war-israel-trump-04-07-2026
+
+12. 🔴 Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz
+   https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html
+
+13. 🟠 White House confirms two-week suspension of strikes on Iran
+   https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss
+
+14. 🟢 Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups
+   https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html
+
+15. 🟢 Xilem – An experimental Rust native UI framework
+   https://github.com/linebender/xilem

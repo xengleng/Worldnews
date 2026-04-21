@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-06T23:01:27.062245",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Arbeloa expects Champions League response as Real host Bayern after LaLiga setback",
+      "link": "https://www.channelnewsasia.com/sport/arbeloa-expects-champions-league-response-real-host-bayern-after-laliga-setback-6039226",
+      "published": "Mon, 06 Apr 2026 21:38:29 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "d377620b68a4ed648b07e7208bafc65a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "New Jersey cannot regulate Kalshi's prediction market, US appeals court rules",
+      "link": "https://www.channelnewsasia.com/business/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules-6039221",
+      "published": "Mon, 06 Apr 2026 21:35:09 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "6dd39385e9251e1d3e02501c0ea085b5",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'",
+      "link": "https://www.channelnewsasia.com/east-asia/kim-yo-jong-kim-jong-un-sister-seoul-regret-drone-wise-behaviour-6039171",
+      "published": "Mon, 06 Apr 2026 21:17:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a1bd27a1342b0a331b22e2fcc7544e54",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Analysis:Investors press Amazon, Microsoft and Google on water, power use in US data centers",
+      "link": "https://www.channelnewsasia.com/business/analysisinvestors-press-amazon-microsoft-and-google-water-power-use-in-us-data-centers-6039131",
+      "published": "Mon, 06 Apr 2026 20:42:22 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "f7cbd9ad76ddf90a1c3db8b2b5053d54",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Third teen charged with trafficking of etomidate vape pods",
+      "link": "https://www.channelnewsasia.com/singapore/hsa-18-year-old-charged-etomidate-vape-pods-alleged-trafficking-6039041",
+      "published": "Mon, 06 Apr 2026 20:14:00 +0800",
+      "summary": "Goh Shao Zhi Cornelius&nbsp;is the third teenager to be charged for allegedly trafficking etomidate vape pods.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "183a14459174d86f00fa963581aa1ffa",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears",
+      "link": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
+      "published": "Mon, 06 Apr 2026 14:50:21 GMT",
+      "summary": "The 45-day ceasefire proposal, which could lead to an end to the war, is reportedly being discussed by the U.S., Iran and a group of regional mediators.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b8152bd32c5e5d43692014221a16f985",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Robinhood, BNY to build Trump Accounts app",
+      "link": "https://www.cnbc.com/2026/04/06/treasury-trump-accounts-bny-robinhood.html",
+      "published": "Mon, 06 Apr 2026 14:49:06 GMT",
+      "summary": "The Treasury Department designated BNY as the financial agent to manage Trump accounts. BNY will also partner with Robinhood on a Trump accounts app.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "f03bf99564e64b237153d2e704344884",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
+      "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "published": "Mon, 06 Apr 2026 14:30:00 +0000",
+      "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield ...",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "98a976f977d3e4926e6356e34471294f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "SOFTWARE",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
+      "link": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 14:14:32 +0000",
+      "summary": "Ukraine has increased attacks on Russian energy infrastructure in bid to disrupt financing of its war.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "b08424bdd7aa649332a98c54158e66f2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "published": "Mon, 06 Apr 2026 14:11:42 +0000",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "0826784e40eb76cb47c5d6443dbbd7f2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "SOFTWARE",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
+      "link": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 14:04:59 +0000",
+      "summary": "A look at the multimillion-dollar mega structures that could be threatened by Trump&#039;s &#039;Bridge Day&#039; ultimatum.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "7099ebe6091d656a7c745da7950757af",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+      "published": "Mon, 06 Apr 2026 14:00:00 +0000",
+      "summary": "Starting today, you have 5 days to save\u00a0nearly $500\u00a0on your ticket to\u00a0TechCrunch\u00a0Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "4094d447193563226636c418336d27bc",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "DR Congo agrees to take deportees from the US",
+      "link": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 13:25:37 GMT",
+      "summary": "The country will start receiving deportees from this month but has not said how many they will accept.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "084571c7f9a8d1ecaabe37f3108ee5e9",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
+      "link": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
+      "published": "Mon, 06 Apr 2026 13:03:04 +0000",
+      "summary": "The pcTattletale founder escapes a custodial sentence following the first successful prosecution of a spyware maker in the U.S. for over a decade.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "35e6080dfec4d88003042d93c9c2babe",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "The US could still try to play the ethnic card in Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 13:01:52 +0000",
+      "summary": "But past experience and current geopolitical realities show such a strategy is doomed to failure.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "eb35984b771a97cfcc1ba8b73fae9c17",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 2,
+    "medium": 1,
+    "low": 10
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 0,
+    "TECH": 4,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

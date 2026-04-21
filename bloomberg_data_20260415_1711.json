@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-15T17:11:20.817652",
+  "articles_analyzed": 5,
+  "categorized_articles": [
+    {
+      "title": "Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong",
+      "link": "https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html",
+      "published": "Wed, 15 Apr 2026 07:30:25 GMT",
+      "summary": "ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "6f8dcb5e6c0b43000ba9ef19ca817b63",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "JPMorgan has stark message for investors on market weakness",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-investors-market-174700070.html",
+      "published": "2026-04-14T17:47:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "fe82335cc7300d900130630f1f7defda",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "How to start buying crypto with $100",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-crypto-with-100-155125790.html",
+      "published": "2026-04-13T15:51:25Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "3e0a8a36c8a1ed2bf107d1043a310f05",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "CRYPTO",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "8 common crypto scams and how to avoid them",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/crypto-scams-130000492.html",
+      "published": "2026-04-13T13:00:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "7d571d89d5c4b241f440a453b8966850",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "CRYPTO",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Weekly survey of mortgage lenders with the best rates: 4 lenders dip below 6% APR",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-13-2026-170834921.html",
+      "published": "2025-11-03T17:08:34Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "e9699f57c24862afa763f6cf75e7b57c",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 5
+  },
+  "category_summary": {
+    "MARKETS": 4,
+    "ECONOMY": 0,
+    "TECH": 1,
+    "POLITICS": 0,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -41,6 +41,9 @@ UTC_TS = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 # ─────────────────────────────────────────────
 # FEEDS — WorldMonitor source categories
 # ─────────────────────────────────────────────
+NEWSAPI_KEY = "3a37ab6fc0aa41b48bfa1ce7ff264782"
+NEWSAPI_BASE = "https://newsapi.org/v2"
+
 FEEDS = {
     "geopolitics": [
         {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "cat": "politics"},
@@ -56,6 +59,10 @@ FEEDS = {
         {"name": "Oryx OSINT", "url": "https://www.oryxspioenkop.com/feeds/posts/default?alt=rss", "cat": "intel"},
         {"name": "RUSI", "url": "https://news.google.com/rss/search?q=site:rusi.org&hl=en-US&gl=US&ceid=US:en", "cat": "intel"},
         {"name": "Krebs Security", "url": "https://krebsonsecurity.com/feed/", "cat": "cyber"},
+        {"name": "NewsAPI US", "url": f"{NEWSAPI_BASE}/top-headlines?country=us&category=general&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "politics"},
+        {"name": "NewsAPI UK", "url": f"{NEWSAPI_BASE}/top-headlines?country=gb&category=general&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "politics"},
+        {"name": "NewsAPI China", "url": f"{NEWSAPI_BASE}/top-headlines?country=cn&category=general&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "asia"},
+        {"name": "NewsAPI Russia", "url": f"{NEWSAPI_BASE}/top-headlines?country=ru&category=general&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "politics"},
     ],
     "finance": [
         {"name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "cat": "markets"},
@@ -72,6 +79,7 @@ FEEDS = {
         {"name": "Economic Data", "url": "https://news.google.com/rss/search?q=(CPI+OR+inflation+OR+GDP+OR+jobs+report)&hl=en-US&gl=US&ceid=US:en", "cat": "economic"},
         {"name": "Trade & Tariffs", "url": "https://news.google.com/rss/search?q=(tariff+OR+trade+war+OR+sanctions)&hl=en-US&gl=US&ceid=US:en", "cat": "trade"},
         {"name": "SEC", "url": "https://www.sec.gov/news/pressreleases.rss", "cat": "regulation"},
+        {"name": "NewsAPI Business", "url": f"{NEWSAPI_BASE}/top-headlines?category=business&language=en&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "markets"},
     ],
     "climate": [
         {"name": "Climate News", "url": "https://news.google.com/rss/search?q=climate+change+extreme+weather&hl=en-US&gl=US&ceid=US:en", "cat": "climate"},
@@ -82,6 +90,7 @@ FEEDS = {
         {"name": "Wildfire News", "url": "https://news.google.com/rss/search?q=(wildfire+OR+bushfire+OR+forest+fire)&hl=en-US&gl=US&ceid=US:en", "cat": "disasters"},
         {"name": "Flood News", "url": "https://news.google.com/rss/search?q=(flood+OR+flooding+OR+hurricane+OR+typhoon)&hl=en-US&gl=US&ceid=US:en", "cat": "disasters"},
         {"name": "Drought News", "url": "https://news.google.com/rss/search?q=(drought+OR+water+crisis+OR+heatwave)&hl=en-US&gl=US&ceid=US:en", "cat": "climate"},
+        {"name": "NewsAPI Science", "url": f"{NEWSAPI_BASE}/top-headlines?category=science&language=en&pageSize=15&apiKey={NEWSAPI_KEY}", "cat": "climate"},
     ],
 }
 
@@ -167,6 +176,37 @@ def assess_alert_level(title: str, summary: str) -> str:
     return "LOW"
 
 
+def parse_newsapi_items(json_content: str, max_items: int = 15) -> list:
+    """Parse NewsAPI JSON response and extract items."""
+    import json as json_lib
+    items = []
+    try:
+        data = json_lib.loads(json_content)
+        if data.get("status") != "ok":
+            return items
+        for article in data.get("articles", [])[:max_items]:
+            title = article.get("title", "") or ""
+            url = article.get("url", "") or ""
+            desc = article.get("description", "") or ""
+            source = article.get("source", {}).get("name", "NewsAPI") or "NewsAPI"
+            published = article.get("publishedAt", "")[:16]
+            if title and title != "[Removed]":
+                items.append({
+                    "title": title,
+                    "link": url,
+                    "published": published,
+                    "summary": desc[:300] + "..." if len(desc) > 300 else desc,
+                    "source": source,
+                })
+    except Exception as e:
+        print(f"  ⚠ NewsAPI parse error: {e}", file=sys.stderr)
+    return items
+
+
+def is_newsapi_url(url: str) -> bool:
+    return "newsapi.org" in url
+
+
 def process_domain(domain: str, feeds: list) -> dict:
     """Process all feeds for a domain and return structured data."""
     print(f"\n[{domain.upper()}] Processing {len(feeds)} feeds...")
@@ -179,6 +219,43 @@ def process_domain(domain: str, feeds: list) -> dict:
         cat = feed["cat"]
         name = feed["name"]
         
+        # Skip CSV feeds (USGS earthquakes - different format)
+        if url.endswith('.csv'):
+            content = fetch_feed(url)
+            if content:
+                lines = content.strip().split('\n')
+                for line in lines[:5]:
+                    parts = line.split(',')
+                    if len(parts) >= 5:
+                        try:
+                            all_items.append({
+                                "title": f"M{parts[4]} - {parts[13] if len(parts) > 13 else 'Unknown'}",
+                                "link": f"https://earthquake.usgs.gov/earthquakes/eventpage/{parts[13] if len(parts) > 13 else 'unknown'}",
+                                "published": parts[0] if len(parts) > 0 else "",
+                                "summary": f"Location: {parts[13] if len(parts) > 13 else 'Unknown'}, Depth: {parts[3]}km",
+                                "source": "USGS",
+                                "category": cat,
+                            })
+                        except:
+                            pass
+                source_stats[name] = len(lines) - 1
+            continue
+        
+        # Handle NewsAPI JSON responses
+        if is_newsapi_url(url):
+            content = fetch_feed(url)
+            if not content:
+                print(f"  ⚠ No content: {name}")
+                continue
+            items = parse_newsapi_items(content)
+            for item in items:
+                item["category"] = cat
+                item["alert_level"] = assess_alert_level(item["title"], item["summary"])
+                all_items.append(item)
+            source_stats[name] = len(items)
+            print(f"  ✓ {name}: {len(items)} items")
+            continue
+
         # Skip CSV feeds (USGS earthquakes - different format)
         if url.endswith('.csv'):
             content = fetch_feed(url)
@@ -350,6 +427,13 @@ def generate_synthesizer_task() -> str:
     "high": ["string"],
     "medium": ["string"],
     "low": ["string"]
+  }},
+  "telegram_summary": {{
+    "crisis_line": "string (1-line headline — MUST use ✅ for positive signals, ❌ for negative, ⚠️ for mixed. e.g. '✅ Ceasefire talks reportedly resuming' vs '❌ Naval blockade ongoing — ceasefire collapse risk HIGH')",
+    "executive": "string (2-3 sentence strategic overview — note divergences and compound risks)",
+    "critical_alerts": ["string (one per line, bullet format)"],
+    "high_alerts": ["string (one per line, bullet format)"],
+    "alpha": "string (1-2 alpha angles)"
   }}
 }}
 ```
@@ -383,6 +467,13 @@ type: intelligence-report
 
 ## Alerts Summary
 [CRITICAL/HIGH/MEDIUM/LOW sections]
+
+## Telegram Summary (for Phase 3 delivery)
+[telegram_summary.crisis_line]
+[telegram_summary.executive]
+CRITICAL: [bulleted]
+HIGH: [bulleted]
+Alpha: [telegram_summary.alpha]
 
 ## Reference Index
 [table of sources]
@@ -493,9 +584,9 @@ Read the task file, execute, save:
    ```
 
 3. Send Telegram summary to YEO:
-   - Critical/High alert count
-   - 2-line executive summary
-   - Report file name
+   - Extract the "Telegram Summary" section from the markdown report you just generated
+   - Send exactly that section as the Telegram message
+   - Include: crisis_line, executive, CRITICAL bullets, HIGH bullets, alpha
 
 ---
 

@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-16T09:00:37.477351",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
+      "link": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
+      "published": "Wed, 15 Apr 2026 23:58:12 GMT",
+      "summary": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "ba42e0dcefef66be5e00ea481026c8e9",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "El Salvador publishes law allowing life sentences for minors as young as 12",
+      "link": "https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 23:45:44 +0000",
+      "summary": "The new sentencing measure comes as President Nayib Bukele oversees a four-year-long state of emergency against crime.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c1e09b5d972992c5ed454f0881a5c96a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "LEGISLATION",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "400-acre wildfire burns near Gainesville airport; SR 26 closed - Gainesville Sun",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3Ftd0QxNHJqVXRHdjJYenlFSlRFR1pMMDN1Q1FBRnZjNG10TXBWcEUtTjhzeXBwTmJtUzJTOG5DZFNYNmRobGNSQkNMV19zU290X2lxczhhZERoRTNWd0lvWmtRTkU2N1RoLUpIT1o0RFdlU2VUcmNudkRHOGNyOXg5ZW1VR1Fnb0xsUzNQM1RFbUl2Q18ycGZhN3dPUmEtYy05TElBNFRvWWdoSW9CcEdLX0VpMlhFcmp2N2ZDTTJrWXFGN1JYdWYxYnl2dGIyUWlpYnFEVQ?oc=5",
+      "published": "Wed, 15 Apr 2026 23:31:00 GMT",
+      "summary": "400-acre wildfire burns near Gainesville airport; SR 26 closed&nbsp;&nbsp;Gainesville Sun",
+      "source": "Wildfire News",
+      "original_category": "climate",
+      "id": "f62ea455a589f0d4c549b447584b2d36",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Futu Securities opens coffee shop in branch as it adapts to changing client \u2018lifestyles\u2019",
+      "link": "https://www.scmp.com/business/article/3350205/futu-securities-opens-coffee-shop-branch-it-adapts-changing-client-lifestyles?utm_source=rss_feed",
+      "published": "Wed, 15 Apr 2026 23:30:08 +0000",
+      "summary": "Futu Securities is the latest non-food and beverage retailer to sell coffee and other drinks in one of its outlets in Hong Kong as the online stock brokerage adapts to its clients\u2019 lifestyle, accordin...",
+      "source": "SCMP",
+      "original_category": "geopolitics",
+      "id": "b94cfdfd6e63c07beeaf545bc48c7be0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Firefighters battle wildfire off State Road 26 in Alachua County - Mainstreet Daily News Gainesville",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGJZWjkybzBTdkY5OTAwY2ZaWHhlLWRMR05KUUxnV3JqR2VEWklVSDV1SUJTZHdYa1VBYllFMnZHSWJMZ0dqTlB5WHlIb3VxaERYM1hkelB0NTZzOUljNFBmQV83SFlmdkt4Szc3bmpzZVRzNEYwcTRPNGNkaVJkV2plSDM?oc=5",
+      "published": "Wed, 15 Apr 2026 22:20:15 GMT",
+      "summary": "Firefighters battle wildfire off State Road 26 in Alachua County&nbsp;&nbsp;Mainstreet Daily News Gainesville",
+      "source": "Wildfire News",
+      "original_category": "climate",
+      "id": "b229e5af2939d2ba96e69f2a3bd28421",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Swedish power plant targeted by pro-Russian group in 2025, government says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0d3RzNyTE02dDZWWjNDZUcwUV9YLU9sZXVUUEdaTjdNd3hQMU9sajNjRXluZEQ3eW5ZQ1ZiVXBVejlyYzF4SzBGQW5jVWpsNUFfZVpTY1ptRmxEa1dSYnRoWlZhWVU1Mk5peld2WHFzeFNWal9SVS1yU2F2MzRabi1zNXh6cWJ5QkF3Tkd2V3dmM0Q5VFdZck9FNDd6WEl1MHFqUDVmMW1tNW9vRUpTcEdB?oc=5",
+      "published": "Wed, 15 Apr 2026 22:05:49 GMT",
+      "summary": "Swedish power plant targeted by pro-Russian group in 2025, government says&nbsp;&nbsp;Reuters",
+      "source": "Reuters World",
+      "original_category": "geopolitics",
+      "id": "5243ba1499dea24b819fcccf62e3bc72",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US Probes Suspicious Oil Trades Made Before Trump Pivots - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUh1cXNtVVdWMmY4ZHJ3UDUwVFpXRXhoNmxiR29TdUhpR0c0QVRzY0N4YXduSm1QOW1vY1VZS3B5c3BpVnBuWHlDYmplalJYYjIyQWxfb050UTBLZElkWi1SSWdTZmVJR01IOE10T1RjTGU4WFlpUm9lUlJMWWgxN1dJTXJ3My1IX0gzS0VHNmZlbFZ0elVGdWlnSHJWUTFzVE5lQ1R4UnN4cDVsdzhDZnh3?oc=5",
+      "published": "Wed, 15 Apr 2026 20:26:18 GMT",
+      "summary": "US Probes Suspicious Oil Trades Made Before Trump Pivots&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg Markets",
+      "original_category": "finance",
+      "id": "8d72475aa399251fc2d104616936f8a4",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Markets Are Too Blas\u00e9 on War\u2019s Economic Toll, Policymakers Warn - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmItTE1teUFBdC1JTFdQQTA3RURqUy1hWnYyZ2c3T2pzN0tPNS1MdVNmQzB5LVJpZWNKZFZyTFRxekVYR3VZRnhzSlYwZl83UjJjTDBOcm1tbkN6LXRnMmQ5UFZ0WTZZLWRSV3lheUMtRzN4cG4wWHpDemhVUVE2S0hLZ05hd01tQklDWlo1OGtyOVJURmRndUxDbmd1WVk1dTVmNGdRUTN3Qll4Q19oeXpDUQ?oc=5",
+      "published": "Wed, 15 Apr 2026 19:11:22 GMT",
+      "summary": "Markets Are Too Blas\u00e9 on War\u2019s Economic Toll, Policymakers Warn&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg Markets",
+      "original_category": "finance",
+      "id": "b44d0d3c669e4db87176ce133ccb35bb",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Mark Mobius, Emerging Markets Investment Pioneer, Dies at 89 - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFpsR1ZURGRPRHk0dkt0ZnY4QlhQQVlPMGlia3hWTFB2RnVadTR6VkFEenNuYXN6M2dTNzFmMDVlaVNkcjdyZDFxMExKejJtcTd1QWFlME5VeE1fOXpldzl4ZC1GbTdJV01KcjFmTkllNEZfaENnU3hveHFncDhoVDZkQndwazcyM1hOQzdQN0RzeUdVRGNfWVMwYlhaSjhsUGdONkZ3SzNFcjRFN2MwOA?oc=5",
+      "published": "Wed, 15 Apr 2026 17:12:46 GMT",
+      "summary": "Mark Mobius, Emerging Markets Investment Pioneer, Dies at 89&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg Markets",
+      "original_category": "finance",
+      "id": "9dc37d6ca32921ab3db0d19ad83204e3",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWdWc0lldDMtQVVReWdhR0lHTmU1MXpRblVoU0JoVDFoWFlUR2FoX05kaWJIM2MzcmhPTHhSRjlTNTBMS2RMdmZObEhYeWVCa1ZTOE5SbGtBZmxCbEs2d19PTXpPT01qdFprQ1h1VVB4dVFjR3RwdzBHeENPcEs1MnVJZmc2U25QZXdBdVc3a0lkN2xIUUtLdVZScWl6eDBFRTN4c0VuWVhVaWJQdjBubEJ3?oc=5",
+      "published": "Wed, 15 Apr 2026 13:43:06 GMT",
+      "summary": "BofA Stock Traders Notch Record Fueled by Momentum in Markets&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg Markets",
+      "original_category": "finance",
+      "id": "a92f615fd06c92d07a152de57755e853",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Silver Market Poised for Sixth Straight Annual Deficit This Year - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXB4TlpxaXI4VjhXUXJnak5pMXo0MXdhZV9ZSEZRbFVTVEZFbU5fQkhaNXZwWUxrWUJnUy14amVNaDlOckMxVHlHdVJfLWwyNnc2WXdFaUdQUEJZdnJONFRqejVfUFBfNXFMMDYyaHdoUDZQdzc0dEFSaEhiVUZtT09rN25wRnhSSWM5Z3hjTjU4MkU3dE5ENFgtZlE4NXFXS1dEZk1CTlZqS2pzWEpQNkZuWmxCUQ?oc=5",
+      "published": "Wed, 15 Apr 2026 12:15:00 GMT",
+      "summary": "Silver Market Poised for Sixth Straight Annual Deficit This Year&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg Markets",
+      "original_category": "finance",
+      "id": "d47f4847ad81afc6b7fa446804c74563",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "S&P 500 hits record high, oil choppy as Trump says Iran war \"close to over\" - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5",
+      "published": "Wed, 15 Apr 2026 01:57:00 GMT",
+      "summary": "S&amp;P 500 hits record high, oil choppy as Trump says Iran war \"close to over\"&nbsp;&nbsp;Reuters",
+      "source": "Reuters Markets",
+      "original_category": "finance",
+      "id": "41ee03852c872785211cce3e61d71dad",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "S&P 500 hits record high, oil choppy as Trump says Iran war \"close to over\" - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5",
+      "published": "Wed, 15 Apr 2026 01:57:00 GMT",
+      "summary": "S&amp;P 500 hits record high, oil choppy as Trump says Iran war \"close to over\"&nbsp;&nbsp;Reuters",
+      "source": "Reuters World",
+      "original_category": "geopolitics",
+      "id": "41ee03852c872785211cce3e61d71dad",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "China's BYD reports fire at Shenzhen garage for 'test and scrapped' cars - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnBreU1qWWx5X0R6SVFOWG9LZkkzSWdVSm9ELW1na2dzTUZvSHhONU5zMWdHNFJHbTZWRzFXLVdWSjZPYk9OX0FUT1MtR0xWYUxOZC1oZFRPanJfMjlxcThVWjNOUm1kU0ZleDlwazBmNmQyaEttR2lPLTlRUDRlbGFhUC1VdzZPMDBDTnhWcjc3eEdPaU1vR1ZtN3JJMzhrYXNZdE5XcDVjZFF5Ql9qQXYxMERQaXpibTJDMF9xcXl0VTU0VVBLZ01DaG9QQQ?oc=5",
+      "published": "Tue, 14 Apr 2026 10:30:00 GMT",
+      "summary": "China's BYD reports fire at Shenzhen garage for 'test and scrapped' cars&nbsp;&nbsp;Nikkei Asia",
+      "source": "Nikkei Asia",
+      "original_category": "geopolitics",
+      "id": "37ae9c840e861f711c55dc3731d1e951",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Ye postpones Marseille concert after French authorities say they will seek a ban",
+      "link": "https://www.channelnewsasia.com/entertainment/kanye-west-ye-postpones-france-marseilles-concert-6058096",
+      "published": "Thu, 16 Apr 2026 08:27:00 +0800",
+      "summary": "The rapper, formerly known as Kanye West, had been expected to play at Marseille's Stade V\u00e9lodrome on Jun 11.",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "2aaa0e583090c45c73606114405e950e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 4,
+    "high": 0,
+    "medium": 1,
+    "low": 10
+  },
+  "category_summary": {
+    "MARKETS": 4,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

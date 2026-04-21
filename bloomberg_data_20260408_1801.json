@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-08T18:01:06.863325",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Elon Musk in a post on X says some of his Trump posts \u2018went too far\u2019 and that he regrets them",
+      "link": "https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines",
+      "published": "Wed, 11 Jun 2025 07:09:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c11c202ee4ea6433621ae8e00865216b",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Malaysia faces balancing act on EV hub ambition with need to \u2018preserve market space\u2019 for domestic firms",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-ev-ambition-dilemma-protect-local-industry-car-makers-6033221",
+      "published": "Wed, 08 Apr 2026 17:47:52 +0800",
+      "summary": "A reported standoff between BYD and Malaysia\u2019s Ministry of Investment, Trade and Industry (MITI) over strict manufacturing conditions has left the Chinese automaker\u2019s RM1.3 billion Tanjung Malim assem...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "fd1fd035df6be31069a374b4f6a2f7c8",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Man fined US$300 for entering hippo Moo Deng's pen: Thai zoo",
+      "link": "https://www.channelnewsasia.com/asia/moo-deng-thai-zoo-man-fined-break-in-enclosure-6043736",
+      "published": "Wed, 08 Apr 2026 17:46:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a1f02df3807f50a6ebbfeb1b57c8d563",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "India mulls releasing snakes, crocodiles along Bangladesh border to deter unauthorised crossings",
+      "link": "https://www.channelnewsasia.com/asia/india-bangladesh-release-snakes-crocodiles-unauthorised-crossings-6043721",
+      "published": "Wed, 08 Apr 2026 17:35:46 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "901cc61c2de1bfeb17483bc0bd30d21a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Pope Leo praises Iran war ceasefire after criticising Trump threat",
+      "link": "https://www.channelnewsasia.com/world/pope-leo-vatican-iran-war-ceasefire-trump-6043646",
+      "published": "Wed, 08 Apr 2026 17:33:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "7d4ec02f7325b22e107a44038e4ca3da",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Chess-Leaked files linked to Candidates leader Sindarov spark debate",
+      "link": "https://www.channelnewsasia.com/sport/chess-leaked-files-linked-candidates-leader-sindarov-spark-debate-6043716",
+      "published": "Wed, 08 Apr 2026 17:23:35 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "5adc02db1030ca4446c05bf38f6fe5b1",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Lebanon excluded from ceasefire as Israeli strikes continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lebanon-excluded-from-ceasefire-as-israeli-strikes-continue?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 09:29:33 +0000",
+      "summary": "Israel has backed a ceasefire between the US and Iran but made clear it does not extend to Lebanon.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "0996d510f890addf1615fcfe18b60f51",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "US-Iran ceasefire deal: What are the terms, and what\u2019s next?",
+      "link": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 09:20:22 +0000",
+      "summary": "Trump cites Iran&#039;s 10-point plan as a basis for negotiation, signalling potential progress towards long-term peace.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c77a3211b6208d3199c1691bba758e7b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "published": "Wed, 08 Apr 2026 08:50:37 +0000",
+      "summary": "Article URL: https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/\nComments URL: https://news.ycombinator.com/item?id=47687248\nPoints: 66\n#...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "fdb104c107c9ce6c747c87beca64ecf6",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "GCC, other Middle East nations react to Iran-US ceasefire announcement",
+      "link": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 08:24:31 +0000",
+      "summary": "Countries in the region welcome the temporary truce and urge negotiations for the war&#039;s permanent end.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a121f16b6582710039c718e610923c22",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Romanian football great Mircea Lucescu dies aged 80",
+      "link": "https://www.aljazeera.com/sports/2026/4/8/romanian-football-great-mircea-lucescu-dies-aged-80?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 08:21:20 +0000",
+      "summary": "Lucescu, one of the most successful Romanian football coaches and players, won several European club titles.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a915cd7b9a76a6662a5b971535c2dcec",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Tehran celebrates as Iran, US agree to two-week ceasefire",
+      "link": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 08:21:05 +0000",
+      "summary": "Iran hails the pause in hostilities as a &#039;victory&#039;, crediting national unity and patience for the agreement.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "fe15a4a41cbb36cd91a3ef4236c2d778",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 08:15:36 GMT",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "9b5c15425afc57d69fc287eac4ebfb38",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "U.S. Treasury yields plunge 10 basis points as Iran war ceasefire lifts sentiment",
+      "link": "https://www.cnbc.com/2026/04/08/us-treasury-yields-plunge-amid-iran-ceasefire.html",
+      "published": "Wed, 08 Apr 2026 07:56:44 GMT",
+      "summary": "U.S. Treasury yields fell on Wednesday after the U.S. and Iran agreed to a two-week pause in hostilities.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "a91022e6d01a409e6581461d7f350e20",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Veracrypt Project Update",
+      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "published": "Wed, 08 Apr 2026 07:23:39 +0000",
+      "summary": "Article URL: https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/\nComments URL: https://news.ycombinator.com/item?id=47686549\nPoints: 169\n# Comments: 34",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "a129539376cb21e0ab5b58db7c11b8e4",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 7,
+    "high": 0,
+    "medium": 0,
+    "low": 8
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 10,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

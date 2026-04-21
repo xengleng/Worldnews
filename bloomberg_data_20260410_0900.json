@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-10T09:00:45.999565",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Elon Musk in a post on X says some of his Trump posts \u2018went too far\u2019 and that he regrets them",
+      "link": "https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines",
+      "published": "Wed, 11 Jun 2025 07:09:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c11c202ee4ea6433621ae8e00865216b",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day\u2019s two minutes of silence",
+      "link": "https://www.marketwatch.com/story/bank-of-england-decision-on-thursday-will-be-at-12-02-p-m-local-time-instead-of-12-p-m-due-to-ve-day-two-minutes-of-silence-1f6bed66?mod=mw_rss_realtimeheadlines",
+      "published": "Tue, 06 May 2025 11:59:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "3756c166b5161649f4d4084ec1019660",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
+      "link": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "67f8f19cfa6364d727acb0f36a45e399",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Dollar jumps 0.5% to 0.8890 francs",
+      "link": "https://www.marketwatch.com/story/dollar-jumps-0-5-to-0-8890-francs-047c6b4d?mod=mw_rss_realtimeheadlines",
+      "published": "Thu, 12 Dec 2024 08:32:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c79f482905efbd983eda8b0ee0b779fe",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "FOREX",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Video shows explosion over Erbil in suspected drone interception",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 23:50:16 +0000",
+      "summary": "Video shows an explosion in the sky above Erbil, in the Kurdish region of northern Iraq.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "4464b024f822eab3444ab60a74d30e67",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ecuador hikes tariffs to 100-percent in feud with neighbour Colombia",
+      "link": "https://www.aljazeera.com/news/2026/4/9/ecuador-hikes-tariffs-to-100-percent-in-feud-with-neighbour-colombia?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 23:33:53 +0000",
+      "summary": "Daniel Noboa has accused Colombia&#039;s Gustavo Petro of failing to take &#039;effective measures&#039; against drug trafficking.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "1f60a4581652b69604239a4c7e0d58d3",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran\u2019s Supreme Leader Mojtaba Khamenei says \u2018we seek compensation, not war\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 23:16:47 +0000",
+      "summary": "Iranian state TV has read out a message from new Supreme Leader Mojtaba Khamenei which says Iran \u2018does not want war\u2019.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "f9ce27f0eca148010b7c0160cdf70256",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+      "summary": "Both sides have reason to end the war but share no common ground.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "1260b2780575e9216e69e97bc00e06f5",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Police in Venezuela block protesters calling for higher wages, pensions",
+      "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 22:50:43 +0000",
+      "summary": "Cost of living issues have persisted in Venezuela since the US abducted former President Nicolas Maduro in January.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c1b0616fec9c7adb68a3dacf8429dabf",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 22:33:48 GMT",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "8051b456a7fd6ba101288be4b3184093",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+      "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 22:27:36 GMT",
+      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "d99c9b678e51558798e8c8ae9500a351",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "published": "Thu, 09 Apr 2026 22:13:26 +0000",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State Univer...",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "c1b8712668d6e420816afc53fc1998f0",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
+      "link": "https://vaultproof.dev/blog/trivy-supply-chain-attack",
+      "published": "Thu, 09 Apr 2026 22:10:53 +0000",
+      "summary": "Article URL: https://vaultproof.dev/blog/trivy-supply-chain-attack\nComments URL: https://news.ycombinator.com/item?id=47710919\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "af226c11fbaa2abaa31b8ff2fcceb29b",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Many African families spend fortunes burying their dead",
+      "link": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+      "published": "Thu, 09 Apr 2026 22:10:10 +0000",
+      "summary": "Article URL: https://davidoks.blog/p/how-funerals-keep-africa-poor\nComments URL: https://news.ycombinator.com/item?id=47710907\nPoints: 102\n# Comments: 72",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "326e45a36c0856d2346474e9e91a2c42",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "BunnyCDN has been silently losing our production files for 15 months",
+      "link": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
+      "published": "Thu, 09 Apr 2026 22:04:09 +0000",
+      "summary": "Article URL: https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/\nComments URL: https://news.ycombinator.com/item?id=47710845\nPoints: 93\n# Comments: 19",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "08f7ecda020824d272bd7c87c835895f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 5,
+    "high": 1,
+    "medium": 0,
+    "low": 9
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 1,
+    "TECH": 4,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

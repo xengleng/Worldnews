@@ -1,0 +1,125 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260416_1008",
+  "executive_summary": "Critical infrastructure attacks and geopolitical tensions dominate today, with a pro-Russian group targeting Sweden's power grid amid NATO membership, while markets remain dangerously complacent about war's economic fallout. The Iran conflict nears potential resolution as Trump signals de-escalation, but tensions persist in critical technology and trade sectors globally.",
+  "key_insights": [
+    {
+      "insight": "Pro-Russian cyber group targets Swedish power plant in 2025, marking significant hybrid warfare escalation against NATO member",
+      "location": "Sweden/Europe",
+      "actors": [
+        "Pro-Russian group",
+        "Swedish government",
+        "NATO"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters World",
+      "url": "N/A"
+    },
+    {
+      "insight": "Trump signals Iran war 'close to over' as S&P 500 hits record high, suggesting potential Middle East de-escalation",
+      "location": "Iran/Middle East/United States",
+      "actors": [
+        "United States",
+        "Iran",
+        "Trump administration"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters World",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire at Shenzhen test facility for scrapped vehicles, raising questions about EV safety and Chinese industrial practices",
+      "location": "China/Asia",
+      "actors": [
+        "China",
+        "BYD",
+        "Shenzhen"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets dangerously complacent about economic costs of ongoing conflicts globally",
+      "location": "Global",
+      "actors": [
+        "Policymakers",
+        "Financial markets"
+      ],
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Anthropic and OpenAI pursue IPO as public sentiment shifts negative toward AI and data center expansion",
+      "location": "United States/Global",
+      "actors": [
+        "Anthropic",
+        "OpenAI",
+        "Tech industry"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "El Salvador enacts controversial law allowing life sentences for minors as young as 12",
+      "location": "El Salvador/Central America",
+      "actors": [
+        "El Salvador government",
+        "Bukele administration"
+      ],
+      "alert_level": "LOW",
+      "source": "Al Jazeera",
+      "url": "N/A"
+    },
+    {
+      "insight": "US investigates suspicious oil trades made before Trump policy pivots, suggesting market manipulation concerns",
+      "location": "United States",
+      "actors": [
+        "US government",
+        "Oil traders",
+        "Trump administration"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market faces sixth consecutive annual deficit, indicating ongoing strategic mineral supply constraints",
+      "location": "Global",
+      "actors": [
+        "Silver markets",
+        "Industrial consumers"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Death of Mark Mobius marks end of era for emerging markets investing, with implications for frontier market capital flows",
+      "location": "Emerging Markets/Global",
+      "actors": [
+        "Mark Mobius",
+        "Emerging market investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Ye postpones Marseille concert following French authorities' ban announcement, highlighting cultural geopolitics",
+      "location": "France/Europe",
+      "actors": [
+        "Ye (Kanye West)",
+        "French government"
+      ],
+      "alert_level": "LOW",
+      "source": "CNA",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The Swedish power plant cyberattack by pro-Russian actors represents a significant escalation in hybrid warfare against NATO infrastructure that is undercovered relative to its strategic implications for European energy security and alliance cohesion",
+  "url": "N/A"
+}

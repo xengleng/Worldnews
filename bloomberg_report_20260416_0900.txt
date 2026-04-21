@@ -1,0 +1,175 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-16 09:00 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (4)
+   Market-moving event, immediate attention required
+   • Markets Are Too Blasé on War’s Economic Toll, Policymakers Warn - Bloomberg
+     [MARKETS → GENERAL]
+     Source: Bloomberg Markets
+     🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmItTE1teUFBdC1JTFdQQTA3RURqUy1hWnYyZ2c3T2pzN0tPNS1MdVNmQzB5LVJpZWNKZFZyTFRxekVYR3VZRnhzSlYwZl83UjJjTDBOcm1tbkN6LXRnMmQ5UFZ0WTZZLWRSV3lheUMtRzN4cG4wWHpDemhVUVE2S0hLZ05hd01tQklDWlo1OGtyOVJURmRndUxDbmd1WVk1dTVmNGdRUTN3Qll4Q19oeXpDUQ?oc=5
+   • S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+     [POLITICS → US POLITICS]
+     Source: Reuters Markets
+     🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+   • S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+     [POLITICS → US POLITICS]
+     Source: Reuters World
+     🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending
+     [TECH → AI]
+     Source: CNBC
+     🔗 https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html
+
+🟢 **LOW ALERTS** (10)
+   Routine update, no immediate action needed
+   • El Salvador publishes law allowing life sentences for minors as young as 12
+     [POLITICS → LEGISLATION]
+     Source: Al Jazeera
+     🔗 https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss
+   • 400-acre wildfire burns near Gainesville airport; SR 26 closed - Gainesville Sun
+     [TECH → AI]
+     Source: Wildfire News
+     🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3Ftd0QxNHJqVXRHdjJYenlFSlRFR1pMMDN1Q1FBRnZjNG10TXBWcEUtTjhzeXBwTmJtUzJTOG5DZFNYNmRobGNSQkNMV19zU290X2lxczhhZERoRTNWd0lvWmtRTkU2N1RoLUpIT1o0RFdlU2VUcmNudkRHOGNyOXg5ZW1VR1Fnb0xsUzNQM1RFbUl2Q18ycGZhN3dPUmEtYy05TElBNFRvWWdoSW9CcEdLX0VpMlhFcmp2N2ZDTTJrWXFGN1JYdWYxYnl2dGIyUWlpYnFEVQ?oc=5
+   • Futu Securities opens coffee shop in branch as it adapts to changing client ‘lifestyles’
+     [POLITICS → GENERAL]
+     Source: SCMP
+     🔗 https://www.scmp.com/business/article/3350205/futu-securities-opens-coffee-shop-branch-it-adapts-changing-client-lifestyles?utm_source=rss_feed
+
+📊 **CATEGORIZED NEWS**
+
+**ENERGY** (1)
+   Oil, gas, renewables, utilities, energy policy
+   └─ OIL & GAS (1)
+      • 🟢 US Probes Suspicious Oil Trades Made Before Trump Pivots - Bloomberg
+        Source: Bloomberg Markets
+        🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUh1cXNtVVdWMmY4ZHJ3UDUwVFpXRXhoNmxiR29TdUhpR0c0QVRzY0N4YXduSm1QOW1vY1VZS3B5c3BpVnBuWHlDYmplalJYYjIyQWxfb050UTBLZElkWi1SSWdTZmVJR01IOE10T1RjTGU4WFlpUm9lUlJMWWgxN1dJTXJ3My1IX0gzS0VHNmZlbFZ0elVGdWlnSHJWUTFzVE5lQ1R4UnN4cDVsdzhDZnh3?oc=5
+        US Probes Suspicious Oil Trades Made Before Trump Pivots&nbsp;&nbsp;Bloomberg...
+
+**MARKETS** (4)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ EQUITIES (1)
+      • 🟢 BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg
+        Source: Bloomberg Markets
+        🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWdWc0lldDMtQVVReWdhR0lHTmU1MXpRblVoU0JoVDFoWFlUR2FoX05kaWJIM2MzcmhPTHhSRjlTNTBMS2RMdmZObEhYeWVCa1ZTOE5SbGtBZmxCbEs2d19PTXpPT01qdFprQ1h1VVB4dVFjR3RwdzBHeENPcEs1MnVJZmc2U25QZXdBdVc3a0lkN2xIUUtLdVZScWl6eDBFRTN4c0VuWVhVaWJQdjBubEJ3?oc=5
+        BofA Stock Traders Notch Record Fueled by Momentum in Markets&nbsp;&nbsp;Bloomberg...
+   └─ GENERAL (3)
+      • 🔴 Markets Are Too Blasé on War’s Economic Toll, Policymakers Warn - Bloomberg
+        Source: Bloomberg Markets
+        🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmItTE1teUFBdC1JTFdQQTA3RURqUy1hWnYyZ2c3T2pzN0tPNS1MdVNmQzB5LVJpZWNKZFZyTFRxekVYR3VZRnhzSlYwZl83UjJjTDBOcm1tbkN6LXRnMmQ5UFZ0WTZZLWRSV3lheUMtRzN4cG4wWHpDemhVUVE2S0hLZ05hd01tQklDWlo1OGtyOVJURmRndUxDbmd1WVk1dTVmNGdRUTN3Qll4Q19oeXpDUQ?oc=5
+        Markets Are Too Blasé on War’s Economic Toll, Policymakers Warn&nbsp;&nbsp;Bloomberg...
+      • 🟢 Mark Mobius, Emerging Markets Investment Pioneer, Dies at 89 - Bloomberg
+        Source: Bloomberg Markets
+        🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFpsR1ZURGRPRHk0dkt0ZnY4QlhQQVlPMGlia3hWTFB2RnVadTR6VkFEenNuYXN6M2dTNzFmMDVlaVNkcjdyZDFxMExKejJtcTd1QWFlME5VeE1fOXpldzl4ZC1GbTdJV01KcjFmTkllNEZfaENnU3hveHFncDhoVDZkQndwazcyM1hOQzdQN0RzeUdVRGNfWVMwYlhaSjhsUGdONkZ3SzNFcjRFN2MwOA?oc=5
+        Mark Mobius, Emerging Markets Investment Pioneer, Dies at 89&nbsp;&nbsp;Bloomberg...
+
+**POLITICS** (7)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (2)
+      • 🟢 Futu Securities opens coffee shop in branch as it adapts to changing client ‘lifestyles’
+        Source: SCMP
+        🔗 https://www.scmp.com/business/article/3350205/futu-securities-opens-coffee-shop-branch-it-adapts-changing-client-lifestyles?utm_source=rss_feed
+        Futu Securities is the latest non-food and beverage retailer to sell coffee and other drinks in one ...
+      • 🟢 Ye postpones Marseille concert after French authorities say they will seek a ban
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/entertainment/kanye-west-ye-postpones-france-marseilles-concert-6058096
+        The rapper, formerly known as Kanye West, had been expected to play at Marseille's Stade Vélodrome o...
+   └─ GEOPOLITICS (2)
+      • 🟢 Swedish power plant targeted by pro-Russian group in 2025, government says - Reuters
+        Source: Reuters World
+        🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0d3RzNyTE02dDZWWjNDZUcwUV9YLU9sZXVUUEdaTjdNd3hQMU9sajNjRXluZEQ3eW5ZQ1ZiVXBVejlyYzF4SzBGQW5jVWpsNUFfZVpTY1ptRmxEa1dSYnRoWlZhWVU1Mk5peld2WHFzeFNWal9SVS1yU2F2MzRabi1zNXh6cWJ5QkF3Tkd2V3dmM0Q5VFdZck9FNDd6WEl1MHFqUDVmMW1tNW9vRUpTcEdB?oc=5
+        Swedish power plant targeted by pro-Russian group in 2025, government says&nbsp;&nbsp;Reuters...
+      • 🔴 China's BYD reports fire at Shenzhen garage for 'test and scrapped' cars - Nikkei Asia
+        Source: Nikkei Asia
+        🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnBreU1qWWx5X0R6SVFOWG9LZkkzSWdVSm9ELW1na2dzTUZvSHhONU5zMWdHNFJHbTZWRzFXLVdWSjZPYk9OX0FUT1MtR0xWYUxOZC1oZFRPanJfMjlxcThVWjNOUm1kU0ZleDlwazBmNmQyaEttR2lPLTlRUDRlbGFhUC1VdzZPMDBDTnhWcjc3eEdPaU1vR1ZtN3JJMzhrYXNZdE5XcDVjZFF5Ql9qQXYxMERQaXpibTJDMF9xcXl0VTU0VVBLZ01DaG9QQQ?oc=5
+        China's BYD reports fire at Shenzhen garage for 'test and scrapped' cars&nbsp;&nbsp;Nikkei Asia...
+   └─ LEGISLATION (1)
+      • 🟢 El Salvador publishes law allowing life sentences for minors as young as 12
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss
+        The new sentencing measure comes as President Nayib Bukele oversees a four-year-long state of emerge...
+   └─ US POLITICS (2)
+      • 🔴 S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+        Source: Reuters Markets
+        🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+        S&amp;P 500 hits record high, oil choppy as Trump says Iran war "close to over"&nbsp;&nbsp;Reuters...
+      • 🔴 S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+        Source: Reuters World
+        🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+        S&amp;P 500 hits record high, oil choppy as Trump says Iran war "close to over"&nbsp;&nbsp;Reuters...
+
+**TECH** (3)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (3)
+      • 🟡 The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending
+        Source: CNBC
+        🔗 https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html
+        Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and ...
+      • 🟢 400-acre wildfire burns near Gainesville airport; SR 26 closed - Gainesville Sun
+        Source: Wildfire News
+        🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3Ftd0QxNHJqVXRHdjJYenlFSlRFR1pMMDN1Q1FBRnZjNG10TXBWcEUtTjhzeXBwTmJtUzJTOG5DZFNYNmRobGNSQkNMV19zU290X2lxczhhZERoRTNWd0lvWmtRTkU2N1RoLUpIT1o0RFdlU2VUcmNudkRHOGNyOXg5ZW1VR1Fnb0xsUzNQM1RFbUl2Q18ycGZhN3dPUmEtYy05TElBNFRvWWdoSW9CcEdLX0VpMlhFcmp2N2ZDTTJrWXFGN1JYdWYxYnl2dGIyUWlpYnFEVQ?oc=5
+        400-acre wildfire burns near Gainesville airport; SR 26 closed&nbsp;&nbsp;Gainesville Sun...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 4 (26.7%)
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 10 (66.7%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟡 The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending
+   https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html
+
+2. 🟢 El Salvador publishes law allowing life sentences for minors as young as 12
+   https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss
+
+3. 🟢 400-acre wildfire burns near Gainesville airport; SR 26 closed - Gainesville Sun
+   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3Ftd0QxNHJqVXRHdjJYenlFSlRFR1pMMDN1Q1FBRnZjNG10TXBWcEUtTjhzeXBwTmJtUzJTOG5DZFNYNmRobGNSQkNMV19zU290X2lxczhhZERoRTNWd0lvWmtRTkU2N1RoLUpIT1o0RFdlU2VUcmNudkRHOGNyOXg5ZW1VR1Fnb0xsUzNQM1RFbUl2Q18ycGZhN3dPUmEtYy05TElBNFRvWWdoSW9CcEdLX0VpMlhFcmp2N2ZDTTJrWXFGN1JYdWYxYnl2dGIyUWlpYnFEVQ?oc=5
+
+4. 🟢 Futu Securities opens coffee shop in branch as it adapts to changing client ‘lifestyles’
+   https://www.scmp.com/business/article/3350205/futu-securities-opens-coffee-shop-branch-it-adapts-changing-client-lifestyles?utm_source=rss_feed
+
+5. 🟢 Firefighters battle wildfire off State Road 26 in Alachua County - Mainstreet Daily News Gainesville
+   https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGJZWjkybzBTdkY5OTAwY2ZaWHhlLWRMR05KUUxnV3JqR2VEWklVSDV1SUJTZHdYa1VBYllFMnZHSWJMZ0dqTlB5WHlIb3VxaERYM1hkelB0NTZzOUljNFBmQV83SFlmdkt4Szc3bmpzZVRzNEYwcTRPNGNkaVJkV2plSDM?oc=5
+
+6. 🟢 Swedish power plant targeted by pro-Russian group in 2025, government says - Reuters
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0d3RzNyTE02dDZWWjNDZUcwUV9YLU9sZXVUUEdaTjdNd3hQMU9sajNjRXluZEQ3eW5ZQ1ZiVXBVejlyYzF4SzBGQW5jVWpsNUFfZVpTY1ptRmxEa1dSYnRoWlZhWVU1Mk5peld2WHFzeFNWal9SVS1yU2F2MzRabi1zNXh6cWJ5QkF3Tkd2V3dmM0Q5VFdZck9FNDd6WEl1MHFqUDVmMW1tNW9vRUpTcEdB?oc=5
+
+7. 🟢 US Probes Suspicious Oil Trades Made Before Trump Pivots - Bloomberg
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUh1cXNtVVdWMmY4ZHJ3UDUwVFpXRXhoNmxiR29TdUhpR0c0QVRzY0N4YXduSm1QOW1vY1VZS3B5c3BpVnBuWHlDYmplalJYYjIyQWxfb050UTBLZElkWi1SSWdTZmVJR01IOE10T1RjTGU4WFlpUm9lUlJMWWgxN1dJTXJ3My1IX0gzS0VHNmZlbFZ0elVGdWlnSHJWUTFzVE5lQ1R4UnN4cDVsdzhDZnh3?oc=5
+
+8. 🔴 Markets Are Too Blasé on War’s Economic Toll, Policymakers Warn - Bloomberg
+   https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmItTE1teUFBdC1JTFdQQTA3RURqUy1hWnYyZ2c3T2pzN0tPNS1MdVNmQzB5LVJpZWNKZFZyTFRxekVYR3VZRnhzSlYwZl83UjJjTDBOcm1tbkN6LXRnMmQ5UFZ0WTZZLWRSV3lheUMtRzN4cG4wWHpDemhVUVE2S0hLZ05hd01tQklDWlo1OGtyOVJURmRndUxDbmd1WVk1dTVmNGdRUTN3Qll4Q19oeXpDUQ?oc=5
+
+9. 🟢 Mark Mobius, Emerging Markets Investment Pioneer, Dies at 89 - Bloomberg
+   https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFpsR1ZURGRPRHk0dkt0ZnY4QlhQQVlPMGlia3hWTFB2RnVadTR6VkFEenNuYXN6M2dTNzFmMDVlaVNkcjdyZDFxMExKejJtcTd1QWFlME5VeE1fOXpldzl4ZC1GbTdJV01KcjFmTkllNEZfaENnU3hveHFncDhoVDZkQndwazcyM1hOQzdQN0RzeUdVRGNfWVMwYlhaSjhsUGdONkZ3SzNFcjRFN2MwOA?oc=5
+
+10. 🟢 BofA Stock Traders Notch Record Fueled by Momentum in Markets - Bloomberg
+   https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWdWc0lldDMtQVVReWdhR0lHTmU1MXpRblVoU0JoVDFoWFlUR2FoX05kaWJIM2MzcmhPTHhSRjlTNTBMS2RMdmZObEhYeWVCa1ZTOE5SbGtBZmxCbEs2d19PTXpPT01qdFprQ1h1VVB4dVFjR3RwdzBHeENPcEs1MnVJZmc2U25QZXdBdVc3a0lkN2xIUUtLdVZScWl6eDBFRTN4c0VuWVhVaWJQdjBubEJ3?oc=5
+
+11. 🟢 Silver Market Poised for Sixth Straight Annual Deficit This Year - Bloomberg
+   https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXB4TlpxaXI4VjhXUXJnak5pMXo0MXdhZV9ZSEZRbFVTVEZFbU5fQkhaNXZwWUxrWUJnUy14amVNaDlOckMxVHlHdVJfLWwyNnc2WXdFaUdQUEJZdnJONFRqejVfUFBfNXFMMDYyaHdoUDZQdzc0dEFSaEhiVUZtT09rN25wRnhSSWM5Z3hjTjU4MkU3dE5ENFgtZlE4NXFXS1dEZk1CTlZqS2pzWEpQNkZuWmxCUQ?oc=5
+
+12. 🔴 S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+
+13. 🔴 S&P 500 hits record high, oil choppy as Trump says Iran war "close to over" - Reuters
+   https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1RxNXNoOGFfZEh5M2VrZGJ1Q3djVG9mNGhfZDByeU9oUGhVYzVONmd1amxqaS1kZGVoa1V4Qmw3bnFRMW1ITG95T21BTlhGRllpU2tmSWdVRmVXTVRzbkNSZ3dHcjNwcDRVR0VsZ0ZmOC13MXFqUW9oMDFGajhzSkN1RQ?oc=5
+
+14. 🔴 China's BYD reports fire at Shenzhen garage for 'test and scrapped' cars - Nikkei Asia
+   https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnBreU1qWWx5X0R6SVFOWG9LZkkzSWdVSm9ELW1na2dzTUZvSHhONU5zMWdHNFJHbTZWRzFXLVdWSjZPYk9OX0FUT1MtR0xWYUxOZC1oZFRPanJfMjlxcThVWjNOUm1kU0ZleDlwazBmNmQyaEttR2lPLTlRUDRlbGFhUC1VdzZPMDBDTnhWcjc3eEdPaU1vR1ZtN3JJMzhrYXNZdE5XcDVjZFF5Ql9qQXYxMERQaXpibTJDMF9xcXl0VTU0VVBLZ01DaG9QQQ?oc=5
+
+15. 🟢 Ye postpones Marseille concert after French authorities say they will seek a ban
+   https://www.channelnewsasia.com/entertainment/kanye-west-ye-postpones-france-marseilles-concert-6058096

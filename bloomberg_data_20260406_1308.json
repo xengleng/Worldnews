@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-04-06T13:08:00.968517",
+  "articles_analyzed": 4,
+  "categorized_articles": [
+    {
+      "title": "AI data center boom \u2018stress tests\u2019 insurers as private capital floods in",
+      "link": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+      "published": "Mon, 06 Apr 2026 05:00:01 GMT",
+      "summary": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b7b597fd73a990fd7f6c1000e96d7276",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Jim Cramer Discusses Starbucks (SBUX) CEO\u2019s Turnaround Algorithm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-starbucks-sbux-182816273.html",
+      "published": "2026-04-04T18:28:16Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "4ea37cc3eb11dc14e4f1edeb415d772a",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Jim Cramer Doesn\u2019t Know What Nike  (NKE) Should Do Even Though He\u2019s Rooting For The Firm",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-know-182804706.html",
+      "published": "2026-04-04T18:28:04Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "e221a3b80603968aeb5ff591a05b5f8b",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Why Marvell Technology Rallied in March",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-rallied-march-174100238.html",
+      "published": "2026-04-04T17:41:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "8a0a100a7c482f88966fc81e55162653",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 1,
+    "low": 3
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 2,
+    "POLITICS": 0,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -1,0 +1,115 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-05 13:00 SGT
+Articles Analyzed: 10
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • Shooting down ideas is not a skill
+     [TECH → GENERAL]
+     Source: Hacker News
+   • Trump's Speech Skipped 'Ceasefire' And 'Peace', Leaving Polymarket Traders Who Bet Against These Words Profiting Big Time
+     [MARKETS → GENERAL]
+     Source: Yahoo Finance
+
+🟠 **HIGH ALERTS** (1)
+   Significant event, consider action
+   • US rescues F-15 crew member downed in Iran, US officials say
+     [POLITICS → US POLITICS]
+     Source: CNA
+
+🟢 **LOW ALERTS** (7)
+   Routine update, no immediate action needed
+   • Price calls for Shields fight after beating Pineiro
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Britain woos expansion effort by Anthropic after US defence clash, FT says
+     [TECH → AI]
+     Source: CNA
+   • The man who became one of India's greatest stage queens
+     [POLITICS → GENERAL]
+     Source: BBC World
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (3)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ EQUITIES (1)
+      • 🟢 Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock
+        Source: Yahoo Finance
+   └─ GENERAL (2)
+      • 🔴 Trump's Speech Skipped 'Ceasefire' And 'Peace', Leaving Polymarket Traders Who Bet Against These Words Profiting Big Time
+        Source: Yahoo Finance
+      • 🟢 Best cash-out refinance mortgage lenders of April 2026
+        Source: Yahoo Finance
+
+**POLITICS** (3)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (2)
+      • 🟢 Price calls for Shields fight after beating Pineiro
+        Source: CNA
+      • 🟢 The man who became one of India's greatest stage queens
+        Source: BBC World
+        Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived and the spotlight moved on....
+   └─ US POLITICS (1)
+      • 🟠 US rescues F-15 crew member downed in Iran, US officials say
+        Source: CNA
+        The airman was the second member of a two-person crew of an F-15 that Iran said on Friday was brough...
+
+**TECH** (4)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (3)
+      • 🟢 Britain woos expansion effort by Anthropic after US defence clash, FT says
+        Source: CNA
+      • 🟢 Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake
+        Source: Yahoo Finance
+   └─ GENERAL (1)
+      • 🔴 Shooting down ideas is not a skill
+        Source: Hacker News
+        Article URL: https://scottlawsonbc.com/post/shooting-down-ideas
+Comments URL: https://news.ycombinat...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 10
+🔴 CRITICAL: 2 (20.0%)
+🟠 HIGH: 1 (10.0%)
+🟢 LOW: 7 (70.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Price calls for Shields fight after beating Pineiro
+   https://www.channelnewsasia.com/sport/price-calls-shields-fight-after-beating-pineiro-6037366
+
+2. 🟢 Britain woos expansion effort by Anthropic after US defence clash, FT says
+   https://www.channelnewsasia.com/business/britain-woos-expansion-effort-anthropic-after-us-defence-clash-ft-says-6037361
+
+3. 🟠 US rescues F-15 crew member downed in Iran, US officials say
+   https://www.channelnewsasia.com/world/iran-war-f15-rescue-airman-pilot-6037286
+
+4. 🔴 Shooting down ideas is not a skill
+   https://scottlawsonbc.com/post/shooting-down-ideas
+
+5. 🟢 The man who became one of India's greatest stage queens
+   https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss
+
+6. 🟢 Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock
+   https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-billionaire-214456500.html
+
+7. 🟢 Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake
+   https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html
+
+8. 🟢 Credo Technology (CRDO): Billionaire Steve Cohen Continues to Be Bullish
+   https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-billionaire-steve-214111813.html
+
+9. 🔴 Trump's Speech Skipped 'Ceasefire' And 'Peace', Leaving Polymarket Traders Who Bet Against These Words Profiting Big Time
+   https://finance.yahoo.com/markets/crypto/articles/trumps-speech-skipped-ceasefire-peace-213121542.html
+
+10. 🟢 Best cash-out refinance mortgage lenders of April 2026
+   https://finance.yahoo.com/personal-finance/mortgages/article/best-cash-out-refinance-lenders-134200722.html

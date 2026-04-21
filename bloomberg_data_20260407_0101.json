@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-07T01:01:19.968249",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Chicago Sky trade Angel Reese to Atlanta Dream for two first-round picks",
+      "link": "https://www.channelnewsasia.com/sport/chicago-sky-trade-angel-reese-atlanta-dream-two-first-round-picks-6039401",
+      "published": "Tue, 07 Apr 2026 00:49:20 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "244fb315e80ba32615a4cfd4fdae64a1",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "A gray whale that swam 20 miles up a Washington state river is found dead",
+      "link": "https://www.channelnewsasia.com/world/grey-whale-marine-conservation-washington-6039381",
+      "published": "Tue, 07 Apr 2026 00:41:00 +0800",
+      "summary": "A juvenile gray whale was found dead after swimming far inland, as experts say whales are \u201cfacing a major crisis\u201d due to lack of food.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "0ee15d9924f29aff990e43f477f31f5e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 23:02:53 GMT",
+      "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "541167acb888a6e1257bb762822052b4",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran rejects ceasefire proposal, wants permanent end to war as deadline nears on Trump ultimatum",
+      "link": "https://www.channelnewsasia.com/world/iran-rejects-ceasefire-proposal-war-us-trump-deadline-6039316",
+      "published": "Mon, 06 Apr 2026 23:19:00 +0800",
+      "summary": "The US president has threatened to rain \"hell\" on Tehran if it did not make a deal that would allow traffic to start moving again through the vital Strait of Hormuz.&nbsp;",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a231e676caa87cf886382a0b50267ccd",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
+      "link": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
+      "published": "Mon, 06 Apr 2026 17:00:25 +0000",
+      "summary": "An apparent North Korean worker was caught visibly stumped during a remote job interview when asked to insult the country's leader.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "a7d699e6b47cd36e91c7a104687d7a29",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "FDA declines to issue specific guidance on health programs' foreign drug imports",
+      "link": "https://www.cnbc.com/2026/04/06/fda-says-foreign-drug.html",
+      "published": "Mon, 06 Apr 2026 16:56:50 GMT",
+      "summary": "A CNBC investigation revealed the proliferation of AFPs, which import prescription drugs from overseas in what U.S. regulators say is a violation of import laws.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "180611047c527c5167e7da541c14ccf6",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump says Iran ceasefire proposal 'significant' but 'not good enough' as Hormuz Strait deadline nears",
+      "link": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
+      "published": "Mon, 06 Apr 2026 16:56:38 GMT",
+      "summary": "The 45-day ceasefire proposal, which could lead to an end to the war, is reportedly being discussed by the U.S., Iran and a group of regional mediators.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "6ba7041f0421b3eab28993d0d1798a5c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Robinhood, BNY to build Trump accounts app",
+      "link": "https://www.cnbc.com/2026/04/06/treasury-trump-accounts-bny-robinhood.html",
+      "published": "Mon, 06 Apr 2026 16:48:41 GMT",
+      "summary": "The Treasury Department designated BNY as the financial agent to manage Trump accounts. BNY will also partner with Robinhood on a Trump accounts app.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "e98ec004612b7875ebf42702a84b3453",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "North Korea\u2019s hijack of one of the web\u2019s most used open source projects was likely weeks in the making",
+      "link": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+      "published": "Mon, 06 Apr 2026 16:43:25 +0000",
+      "summary": "North Korean hackers pushed out malicious updates to a popular open source project by hacking a top developer's computer in a long-running campaign.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "98b6577c22819058c04dd37820b5f852",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Show HN: I Built Paul Graham's Intellectual Captcha Idea",
+      "link": "https://mentwire.com/sample",
+      "published": "Mon, 06 Apr 2026 16:36:00 +0000",
+      "summary": "PG has posted about improving social networks using something like an \"intellectual CAPTCHA\" many times [1][2][3][4] - \"Make users pass a test on basic concepts like the distinction between necessary ...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "76a6ae5f43e6308e6c69543b8c35b415",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
+      "link": "https://www.freestyle.sh",
+      "published": "Mon, 06 Apr 2026 16:32:11 +0000",
+      "summary": "We\u2019re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We\u2019re building a cloud for  Coding Agents.For the first generation of agents it looked like workflows with minimal tools. 2 years a...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "c5cd035259644616ebb28ff2ad885ebf",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+      "link": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+      "published": "Mon, 06 Apr 2026 16:15:41 +0000",
+      "summary": "Article URL: https://twitter.com/Suzierizzo1/status/2040864617467924865\nComments URL: https://news.ycombinator.com/item?id=47662857\nPoints: 76\n# Comments: 51",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "1b8de055d704e0290831db4df15c6607",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Reducto releases Deep Extract",
+      "link": "https://reducto.ai/blog/reducto-deep-extract-agent",
+      "published": "Mon, 06 Apr 2026 16:13:47 +0000",
+      "summary": "Article URL: https://reducto.ai/blog/reducto-deep-extract-agent\nComments URL: https://news.ycombinator.com/item?id=47662833\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "bfe5ee2bcfd0eefbc0afe197f4ca2639",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Gaza camp offers children a sense of safety",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 16:06:46 +0000",
+      "summary": "The Samir Project is offering children in Gaza a camp where they can learn, heal, and regain some sense of safety.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3fc7b47d497a3171ac5e8284ede18d01",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "sc-im Spreadsheets in Your Terminal",
+      "link": "https://github.com/andmarti1424/sc-im",
+      "published": "Mon, 06 Apr 2026 16:00:29 +0000",
+      "summary": "Article URL: https://github.com/andmarti1424/sc-im\nComments URL: https://news.ycombinator.com/item?id=47662658\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "a7b3a9ea8d464ef8f9fb3dde045c7c63",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 0,
+    "medium": 0,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 7,
+    "POLITICS": 6,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

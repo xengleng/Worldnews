@@ -1,0 +1,158 @@
+{
+  "agent": "climate",
+  "timestamp": "20260421_1119",
+  "run_ts_utc": "2026-04-21T11:20:24.831151Z",
+  "insights": [
+    {
+      "headline": "Historic severe weather outbreak slams central US: 14 tornadoes reported in Wisconsin, widespread flooding across multiple states",
+      "summary": "A week-long severe weather outbreak has caused major damage across the central United States. Wisconsin recorded 14 tornadoes and extensive flooding, with Janesville schools inundated. Michigan declared flood emergencies in Iron and Marquette counties. In Fox River areas, officials described conditions as a '100-year flood' with Shiocton described as 'basically a lake.' Cleanup efforts are underway but river levels remain elevated.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["WPR", "The Detroit News", "Bridge Michigan", "CBS News", "WISN", "Detroit Free Press", "The Post-Crescent"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjEwNGZfdkw5aEJDS0NtVXFNVUZ3NmpsbzFrWGFTc0pJbWZjSG9URVdHNFVVNWp2R2tKcmRwVi1TNUNvTmplelRHV0ZRbTBvSUE2bXo3U1BHdHo5WnB5YW1waGE4czVCbGFVbW12eG44c3JzVF9TLV9hOFFZTEdXSmdaTngyZWtubUpPZE1sdnlNX01YSHFTbTlQQUphNFFkM0pnZzNR?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzlTUnVJQkVadm9sYkdYaDJrazhzdEc3c1AxaXdidzYzMFk4eExON1hST2xiaER4NTY2R0RybG15WFhhVVpxcmVrRU92blNWYVRqaWEwNFBuMnZvTW5COUk5a2pLb0RIU21hdUV2N2o5LVpjcmdPTldrZTJfQWZ0Vnl4MFhwMWJkNTJVUlRGQ2hub0ZyVXVXejlxX2FwalJFbnV1c2hMOEY3Z01SSDVUOVIxX2xXUTg4X1FsdFZSR0JQN3h1alZ2dQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJHNGYwYktLeHF4MTBaS3kxeHpNeDJVV1FuRVhJTGZ4bkNVcUtyX2hxS25pRGJFWHExRThIYXJTWU8yaDFFVFBaY2trMkI5QVVZb3lmZ2l0S205NTFUTnhxWFVzcTVUSzBhbDdoNEV6NS1BbUhTV0RnLWlEMHM1SUxJSGZpLUhURHRFb25nR3VEWjF4dlNIZzBBbzhrVExtaEwyQVI1eUM5TnMzVDl3ejl5Zk1jak5F?oc=5"
+      ],
+      "published": "2026-04-20 to 2026-04-21"
+    },
+    {
+      "headline": "Texas flash flood emergency: San Antonio and New Braunfels under active warnings as heavy rain continues through Tuesday",
+      "summary": "Flash flood warnings remain active for San Antonio and New Braunfels areas. Warnings were extended until 11 p.m. Monday as heavy rainfall continues through Tuesday. Austin and central Texas areas face localized flood potential. Conditions are expected to improve mid-week as a drier, warmer pattern emerges.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["San Antonio Express-News", "WOAI", "KSAT", "Texas Storm Chasers", "KVUE"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2pCNkhSNjA3b2NzVGJVenhfc0xreHFWOExyMFRuYzJMS0NOdWhacUhYMndzSjhrTkxfOWF2NlVPcXlaV0laaGtDWTZ5RE9XWGFkRkpTNElyTlhUWi1UMmh6RkltYWZyRzY3Y2dmOURYZ3pZRk1mbUdfLUhGd1c2MmVrZTFDeVV3SEdaOXdCYTZGVEdyeE9oNi1aRThObFl1VlZwQWNjcE1BMmx5ZU9HMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0J2UkJYa3JkaWpybEVPdkljcnItVU12SFpFY2Z1ckg2TU5ZWUstd19nMTR2bUVpRWtwSjVBTktUVGptRmo0ajRGYWZvYnh3cnk3M1NtRkpEdlpoZTRRQnRwWU9vS09SSGtiN2V0OXhSS0RiazhNd20yb2c4a0VMRGlYRVBXYmxfYnFrcU5pZUxBTVJqT2xhTDF3OGQtQWF6a2hoSEV6aXd3V0pxcVl0RW1wem1OQTVq?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHFldktGUG9Jc3NXQzAycGJfcjFrTDZJMzdyS2xnVUlhLTkzN3BpTkpwZDVwR0xwMGNraTlCSkZIUnBhMWkzaENXYVJiajg1QWJxU1VET1JJbUlEa1hyX0x5QWVvV3VuVG42QVhaTmFNZEJTamhGVERWc1lwdkdNV25qbTY4dWZ3V0NZTG9JbUpRVV9mU0R6OGtjWEg2S2VMd2dtbEwyeTU4TkpDSi1fczFDV19KWTQ?oc=5"
+      ],
+      "published": "2026-04-20 to 2026-04-21"
+    },
+    {
+      "headline": "Active wildfire complexes burn across Florida, Georgia, Colorado as drought tightens grip on Southeast",
+      "summary": "Multiple wildfires are burning across North Central Florida, with evacuations ordered in Putnam County. The Railroad Fire has burned over 3,000 acres in Clay and Putnam counties. Georgia's Pineland Rd Fire continues to grow under drought conditions. Colorado's Gila National Forest is preparing for fire season. New Mexico officials say they are ready for fire season. Nebraska launched a new wildfire recovery tracking website.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["News4JAX", "WCJB", "WESH", "JaxToday", "Gainesville Sun", "Facebook", "KOAT", "KUSA.com", "NM Fire Info"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTd1N0h0S3huYW9oSjNQYWdLVl9OX0htMTdjUmtzQldXelFfbjJvOVU3clJVamR2RWVMSzBmSkZvUk5Xa2ZDX3FQd0hXR3lwOXFTWm9aU0o2YmRzQVFOOWI3aFFzTm1BVUVrMWhiY0l1TURyTFMwWHk5SnpLUVNzUjlSQ0F6ZV8zS0Y0SlBiUFQ3aVBmOW9RMmRGdVhRTWZKb0gwMFRlVXk0bWVUMlE?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNVdrM2k2TmpmUUFzSGlyYmxtcHh2dXJKZTVLemtTUDdZNjdmeTYwOVBFNXc3andILVMwWWI1T2ZrYmk5dF9rTmt3NGZJU1R6YVRNTUJtX1FBcmdxRlJ5UVVBR3VsUEdVelJORzRCeWVKWjhlaWg0cVdxWVRtWV94QlJJYnZzVzBCLWxoakZ4VVZ4VDY2S3NqdWFKd2V3RUV6blRKcWYyTFhkNi1qNkRETkVYWEhqVlItSm94Q1R2VDJob191TDNuM1VBNHI4QkNPNUtmblpIOUkxb3podENYN3ZJV1ZSXzVXeHc0?oc=5"
+      ],
+      "published": "2026-04-20 to 2026-04-21"
+    },
+    {
+      "headline": "Picayune forest fire 95% contained; Southern US fire risk remains elevated",
+      "summary": "A forest fire near Picayune is now 95% contained, but fire officials remain cautious as weather conditions could change. The Gila National Forest in New Mexico and Kaibab National Forest in Arizona are both preparing for active fire seasons.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["Naples Daily News", "US Forest Service"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzlWZ25mdmN2b3lRYTh6TEFmS19WQU04VnQ4NWNHR2pCRHUxUUFIRWg1b0h1eThscmZfZ1BXcDdFS2cxeU1mSGJMbkthRmZ1bEJtekdfNndta1RtMTFoVDc0TnFITURQbzFRZ1ozalh6MG5kZDVySTNYZ0F3RHg5ekpIVzhuUnpsNnhSeWx4X21NRjFOM2doWnRfdEtJTy01OElzRmh2WnJPTWhyNmtSX0VVeU9Ed2xHcnlTa1ZHcXRxc3N5d2pTQm1WcE4tUQ?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Climate change making parts of Israel uninhabitable within decades, experts warn",
+      "summary": "Experts warn that climate change will make parts of Israel uninhabitable within decades. The warning comes amid broader Middle East climate vulnerability concerns, with extreme heat and water scarcity threatening habitability in low-lying coastal and desert regions.",
+      "category": "climate",
+      "alert_level": "CRITICAL",
+      "source_names": ["ynetnews"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SNEM5NXA3S210SnNOZUo0N21kUDJTWTNLUkRMSnAzV19PQk84d0ptUVRoRXBzR1BZWEIwa3lWT09BWGY1dG1rQlhqX012b3ZZZDlNVDA0Y1E4d1duYXMybVlOZ3ZGZw?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Study links extreme climate events to increased heart disease risk",
+      "summary": "A new study published in EurekAlert reveals that extreme climate events significantly increase heart disease risk. The research adds to growing evidence linking climate-driven weather extremes to direct human health impacts beyond property and agricultural damage.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["EurekAlert!"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95QWhMU0Zld3JxSGxwQ2JlazFPWTV4R1lWd3NwR0N4ZGZBazktcTI1U29wRG5sSnAwWVoyVm0xQ2pnNWw4UTBybm1NREJGR1NGb2JrWjlDNVlCbjk0?oc=5"
+      ],
+      "published": "2026-04-21"
+    },
+    {
+      "headline": "US farmers face extreme weatherravaged year; adaptation efforts documented",
+      "summary": "American farms have been heavily impacted by extreme weather events throughout 2026. A KCUR report documents how farmers across multiple regions are adapting to new climate normals, including altered planting schedules, drought-resistant crop varieties, and modified irrigation strategies.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["KCUR"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzAycDJ5S1pHOHlqVmlIQmFVOGdwVWQ3QUMyTWg2azF3ekQ3TnFrekRHNFlfbDVFU3ZUY0cyNWZqWFU5T0xmbGJHZlNWSk5vV0xCRE5ONkl3YTQySmFwZUtia3pqUXdUQUtkMERhZkJ6Z0lCNEpxWEhqT2Rmd2NjWkhxeGRJSUx6a0RF?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "WMO confirms extreme heat, cold, precipitation and fires marked start of 2026 globally",
+      "summary": "The World Meteorological Organization confirmed that extreme heat, cold, precipitation and fires characterized the start of 2026 globally. The WMO report underscores the broad-based nature of climate-driven weather anomalies across all continents at the beginning of the year.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["World Meteorological Organization WMO"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelMwbDZJV0JJVnpIRkJfS01oTTRSUUlDYkVJQ3NHLXM0eDU1bFBPMDA2cnl4ak9vNG1OaFRzaHVlLU1vNzJzVjBEUWdTU2gxUzlaSmlUeXpYTXF0Q1dzblJHUEJScUxuQUNRT2Q4cjY2eFlWclZ0YjNYX2lSYl8zSjZWc0NWMlU1cExlY0lKVkw?oc=5"
+      ],
+      "published": "2026-01-26"
+    },
+    {
+      "headline": "Climate change humidity-driven heat risks found to be more dangerous than previously understood",
+      "summary": "New research published in News-Medical finds that climate change could make humidity-driven heat risks more dangerous than previously modeled. The study highlights that wet-bulb temperature extremes — combining high heat and humidity — pose an underappreciated threat to human health in populated regions.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["News-Medical"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmZnYTFVeW1FT0kxd3pCVGYyTGVrcl84T0pjeUJyLWREaXVEb1lJcW9fWkVuM19nRFByYy1yWW9GMkZJUzFkMDAxTUNqOEFSaTVoSjkyeGxXVHVLUThHNGdhM3NlLVBqVHlEeUFsbjZjTE5qa01pQXBIZTF4Um9pS3RCUmpqYm9kSG9WUEtYXzBTQk95dnlzLWE0UDZkMnV6aklsbC1tdWVLSDN1cXltdW9XVl9tN1hyTjhJbDdxLU10NkRtLWc?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Indian public increasingly attributes extreme weather to global warming — Yale survey",
+      "summary": "A Yale Program on Climate Change Communication survey finds majorities in India believe global warming is affecting extreme weather in their country. The survey reflects growing public recognition of climate attribution in the world's most populous nation, with implications for policy and adaptation investment.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Yale Program on Climate Change Communication"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbk4xVGxLc2hWZVhnUEVNMC1YWlNLUEFFVExySzBUMHhnNnFWRnV5X1JyM1lsUDFoN19TbjdUYVAtU2Vxa3BaWXBZS1NMUUFub2FlcDlsYUszN095bHlJblRvYjJQdFYzN3ItRTIxZWRMY2s4MklrcUZrQmEzdFY0a3NITlJwVGUwSVQ1RVpnVi1HMnB1ZjlnT1AyYkdTbkMtXzNzQTFhY0ZEQVdPUHpvTFhaNExyUXBvQmkyYnd3?oc=5"
+      ],
+      "published": "2025-11-18"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Texas flood threat expected to ease mid-week as drier, warmer pattern develops (KSAT meteorologists)",
+      "Picayune forest fire 95% contained with containment lines holding (Naples Daily News)",
+      "New wildfire recovery tracking tool launched to help Nebraska landowners monitor post-fire land restoration (Nebraska Today)",
+      "Gila National Forest officials say they are prepared for fire season with resources in place (KOAT)"
+    ],
+    "negative": [
+      "Wisconsin climatologist confirms extreme weather events are becoming more common in April, citing multi-tornado outbreaks and flooding as the 'new normal' (WUWM)",
+      "World Weather Attribution 2025 report found limits to climate adaptation — some extreme events now exceeding human and infrastructure tolerance thresholds",
+      "Climate expert cited in BBC analysis warns that heatwaves, droughts, wildfires, and floods are all being worsened beyond historical norms",
+      "Environmental Defense Fund analysis confirms extreme weather is receiving a boost from climate change across all event types"
+    ],
+    "sources": ["WMO", "World Weather Attribution", "Yale Climate Change Communication Program", "WUWM", "EDF", "BBC"]
+  },
+  "patterns": [
+    "Severe concurrent weather crises across multiple US regions — simultaneous tornado/flooding outbreak (Wisconsin/Michigan), major flash flooding (Texas), and active wildfires (Florida/Georgia/Colorado) — indicates broad-scale atmospheric instability",
+    "Multi-state flooding synchronized with snowmelt and spring storm systems — suggests compounding factors rather than isolated events",
+    "Florida drought creating tinderbox conditions for rapid wildfire spread, with 3,000+ acre fires developing in under 48 hours",
+    "Climate change attribution framing increasingly normalized in mainstream reporting — WMO, Yale, EDF all providing institutional backing",
+    "Wildfire evacuations being lifted within 24-48 hours in some areas (Colorado's Wellington fire) indicating effective response, but new ignitions continue (Lake County, FL from human activity)",
+    "Heart disease / human health link to extreme climate events is a growing reporting theme, signaling medical community engagement with climate science",
+    "Agricultural adaptation reporting shows farmers are implementing practical responses to new climate normals, suggesting adaptation is underway but uneven"
+  ],
+  "blind_spots": [
+    "Limited reporting on climate impacts outside US/Europe/Israel — Africa, Southeast Asia, South Asia, and Small Island Developing States (SIDS) almost entirely absent from current data despite being most climate-vulnerable",
+    "No coverage of climate-related food security or supply chain disruptions beyond US agriculture — global food price impacts from concurrent droughts/floods unexamined",
+    "No data on climate-driven displacement, migration, or refugee flows — despite this being a major policy concern",
+    "Absence of corporate emissions reporting data, carbon budget tracking, or Paris Agreement compliance updates in current climate category",
+    "Climate finance flows (loss and damage funding, green bond markets, climate adaptation funding) not covered in current data set",
+    "Mental health and climate anxiety impacts entirely missing from current reporting",
+    "Biodiversity loss from extreme weather events (beyond the naked mole rat outlier) not represented",
+    "No coverage of climate-related legal/regulatory developments (carbon pricing, ESG litigation, climate liability cases)",
+    "Ocean/climate interactions (coral bleaching, sea level rise, ocean acidification) absent from recent data",
+    "Climate disinformation and information integrity — no reporting on misinformation campaigns or science communication challenges"
+  ]
+}

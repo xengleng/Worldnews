@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-14T18:05:49.392927",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Elon Musk in a post on X says some of his Trump posts \u2018went too far\u2019 and that he regrets them",
+      "link": "https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines",
+      "published": "Wed, 11 Jun 2025 07:09:00 GMT",
+      "summary": "",
+      "source": "MarketWatch",
+      "original_category": "finance",
+      "id": "c11c202ee4ea6433621ae8e00865216b",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Swiatek banks on Nadal's former coach to\u00a0reignite her season",
+      "link": "https://www.channelnewsasia.com/sport/swiatek-banks-nadals-former-coach-reignite-her-season-6055601",
+      "published": "Tue, 14 Apr 2026 17:40:19 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "166ad57bcda9e0a96320fdfad5ebcd0d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Vietnam's top leader To Lam arrives in China for first state visit",
+      "link": "https://www.channelnewsasia.com/asia/vietnam-president-lam-china-foreign-policy-geopolitics-6055416",
+      "published": "Tue, 14 Apr 2026 17:14:49 +0800",
+      "summary": "The 68-year-old assumed the presidency while retaining his role as Communist Party chief \u2013 a dual mandate analysts say could bolster Vietnam\u2019s global ambitions.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "64487d60e919050da13123b0846d31ef",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "China's Xi says rule of law must be upheld for Middle East peace",
+      "link": "https://www.channelnewsasia.com/east-asia/china-xi-iran-war-rule-law-middle-east-peace-6055541",
+      "published": "Tue, 14 Apr 2026 17:09:00 +0800",
+      "summary": "The Chinese president vowed that China will play a \"constructive role\" in promoting peace talks in the Middle East, according to the Xinhua news agency.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "f5c8a19bbe3b1bff7b6fb9287b364d5d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "South Korea's Lee warns Iran war to keep oil price high, orders quick aid rollout",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-iran-war-high-oil-price-aid-rollout-6055511",
+      "published": "Tue, 14 Apr 2026 17:05:00 +0800",
+      "summary": "The government should treat prolonged disruption in global energy and raw materials markets as a given and reinforce its emergency response system, said President Lee Jae Myung in a Cabinet meeting.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2c12cf96ef024a8ff14a05c462ece7df",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "South Korean celebrity couple Park Shin-hye and Choi Tae-joon expecting second child",
+      "link": "https://www.channelnewsasia.com/entertainment/park-shin-hye-choi-tae-joon-second-child-6055536",
+      "published": "Tue, 14 Apr 2026 17:03:00 +0800",
+      "summary": "On Tuesday (Apr 14),&nbsp;Park Shin-hye's agency announced that the&nbsp;Pinocchio star was expecting her second child with her actor husband,&nbsp;Choi Tae-joon.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "207e764ef5d184dac3616205eb1f414a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The Iran war could cost the American taxpayer $1 trillion, says Harvard academic",
+      "link": "https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html",
+      "published": "Tue, 14 Apr 2026 10:01:42 GMT",
+      "summary": "As efforts to reach a lasting settlement have so far proved unsuccessful, one Harvard academic estimates the total could end up far higher than was promised.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "f137113ca31704745d2b940fb8d23410",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'",
+      "link": "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html",
+      "published": "Tue, 14 Apr 2026 09:29:14 GMT",
+      "summary": "The Chinese foreign ministry said only a \"comprehensive ceasefire\" would help ease the ongoing crisis in the Middle East.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "80b5e814d89d1c2c0c380e17af3a0f17",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Maradona\u2019s childhood home becomes soup kitchen for those in need",
+      "link": "https://www.aljazeera.com/gallery/2026/4/14/maradonas-childhood-home-now-a-soup-kitchen-for-the-needy?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 09:10:25 +0000",
+      "summary": "Neighbours gather at Maradona&#039;s birthplace for meals, keeping compassion alive in the Buenos Aires suburb of Fiorito.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "4ce90b2442a40ef965ee29fd4e2e580c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Russia\u2019s Lavrov visits China as US pressures Iran with Hormuz blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 09:08:46 +0000",
+      "summary": "China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "da7dac210f21e644b2d38c6190a2ea70",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Inertia moves to commercialize one of the world\u2019s most elaborate science experiments",
+      "link": "https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/",
+      "published": "Tue, 14 Apr 2026 09:00:00 +0000",
+      "summary": "Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the company to bring its pioneering fusion reactor to market.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "3e91d85b2ad118f9b9851e56120532ed",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "World faces food \u2018catastrophe\u2019 if Strait of Hormuz disruption persists: FAO",
+      "link": "https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 08:52:52 +0000",
+      "summary": "Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices and food inflation.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "b9910a3a2b58facadbe7b22be030bd24",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "An AI Vibe Coding Horror Story",
+      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+      "published": "Tue, 14 Apr 2026 08:35:45 +0000",
+      "summary": "Article URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/\nComments URL: https://news.ycombinator.com/item?id=47762901\nPoints: 101\n# Comments: 71",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "d5cadb7cd5d8a76cda4ab87f90f72899",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Backblaze has stopped backing up your data",
+      "link": "https://rareese.com/posts/backblaze/",
+      "published": "Tue, 14 Apr 2026 08:30:27 +0000",
+      "summary": "Article URL: https://rareese.com/posts/backblaze/\nComments URL: https://news.ycombinator.com/item?id=47762864\nPoints: 60\n# Comments: 22",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "14879bf833c06ace6a56839205d0f608",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Carlos Queiroz named Ghana head coach before World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/4/14/carlos-queiroz-named-ghana-head-coach-before-world-cup?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 08:19:35 +0000",
+      "summary": "The Portuguese coach takes charge after the sacking of Otto Addo, and will lead the Black Stars at the FIFA World Cup.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c361483f427e6bfefae526ad23ac13b0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 0,
+    "medium": 1,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 5,
+    "POLITICS": 9,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

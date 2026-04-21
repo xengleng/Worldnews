@@ -1,0 +1,136 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-05 19:02 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (1)
+   Market-moving event, immediate attention required
+   • Footage shows Israeli military dog attacking Palestinian man inside mosque
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+
+🟠 **HIGH ALERTS** (5)
+   Significant event, consider action
+   • Commandos probed deep into Iran to rescue downed airman: US media
+     [POLITICS → US POLITICS]
+     Source: CNA
+   • Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Trump confirms both military officers missing in Iran have been rescued
+     [POLITICS → US POLITICS]
+     Source: CNBC
+
+🟢 **LOW ALERTS** (9)
+   Routine update, no immediate action needed
+   • Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+     [MARKETS → GENERAL]
+     Source: MarketWatch
+   • Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day’s two minutes of silence
+     [MARKETS → GENERAL]
+     Source: MarketWatch
+   • Swiss National Bank cuts interest rates by a half point to 0.5%
+     [ECONOMY → GENERAL]
+     Source: MarketWatch
+
+📊 **CATEGORIZED NEWS**
+
+**ECONOMY** (1)
+   Macroeconomic data, central banks, policy, indicators
+   └─ GENERAL (1)
+      • 🟢 Swiss National Bank cuts interest rates by a half point to 0.5%
+        Source: MarketWatch
+
+**MARKETS** (3)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ FOREX (1)
+      • 🟢 Dollar jumps 0.5% to 0.8890 francs
+        Source: MarketWatch
+   └─ GENERAL (2)
+      • 🟢 Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+        Source: MarketWatch
+      • 🟢 Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day’s two minutes of silence
+        Source: MarketWatch
+
+**POLITICS** (11)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (5)
+      • 🟠 Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+        Source: CNA
+        A 49-year-old man has been arrested for rash navigation of a vessel and police investigations are on...
+      • 🟢 Pope Leo marks first Easter as pontiff with call for hope amid global conflicts
+        Source: CNA
+        In his Easter homily, Pope Leo singled out those who wage war, abuse the weak and prioritise profits...
+   └─ GEOPOLITICS (2)
+      • 🟢 China executes Frenchman convicted in 2010 for drug trafficking
+        Source: CNA
+      • 🟢 Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod
+        Source: Al Jazeera
+        Fuel leaks at Primorsk, and ⁠NORSI oil refinery catches fire, Russian authorities say....
+   └─ US POLITICS (4)
+      • 🟠 Commandos probed deep into Iran to rescue downed airman: US media
+        Source: CNA
+        The airman, a weapon systems officer, was wounded after the ejection but could still walk, reportedl...
+      • 🟠 Trump confirms both military officers missing in Iran have been rescued
+        Source: CNBC
+        Trump says the officers were rescued "deep in Enemy Territory" in mountainous terrain....
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 1 (6.7%)
+🟠 HIGH: 5 (33.3%)
+🟢 LOW: 9 (60.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+   https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines
+
+2. 🟢 Bank of England decision on Thursday will be at 12:02 p.m. local time instead of 12 p.m., due to VE Day’s two minutes of silence
+   https://www.marketwatch.com/story/bank-of-england-decision-on-thursday-will-be-at-12-02-p-m-local-time-instead-of-12-p-m-due-to-ve-day-two-minutes-of-silence-1f6bed66?mod=mw_rss_realtimeheadlines
+
+3. 🟢 Swiss National Bank cuts interest rates by a half point to 0.5%
+   https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines
+
+4. 🟢 Dollar jumps 0.5% to 0.8890 francs
+   https://www.marketwatch.com/story/dollar-jumps-0-5-to-0-8890-francs-047c6b4d?mod=mw_rss_realtimeheadlines
+
+5. 🟠 Commandos probed deep into Iran to rescue downed airman: US media
+   https://www.channelnewsasia.com/world/iran-war-us-rescue-f15-airman-commando-6037521
+
+6. 🟠 Body found off Indonesia believed to be missing person from collision between vessels near Singapore's Southern Islands
+   https://www.channelnewsasia.com/singapore/southern-islands-man-missing-body-found-indonesia-6023051
+
+7. 🟢 Pope Leo marks first Easter as pontiff with call for hope amid global conflicts
+   https://www.channelnewsasia.com/world/pope-leo-easter-call-hope-global-conflicts-war-6037471
+
+8. 🟢 China executes Frenchman convicted in 2010 for drug trafficking
+   https://www.channelnewsasia.com/east-asia/china-execute-frenchman-drug-trafficking-6037466
+
+9. 🟢 Artemis astronauts glimpse Moon's 'Grand Canyon' ahead of historic lunar flyby
+   https://www.channelnewsasia.com/world/artemis-astronauts-moon-grand-canyon-lunar-flyby-6037456
+
+10. 🟠 Trump confirms both military officers missing in Iran have been rescued
+   https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html
+
+11. 🟢 Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick
+   https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss
+
+12. 🟠 US pilot from downed F-15E plane rescued in Iran: What we know
+   https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss
+
+13. 🟠 What we know so far about rescue of US airman in Iran
+   https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss
+
+14. 🔴 Footage shows Israeli military dog attacking Palestinian man inside mosque
+   https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss
+
+15. 🟢 Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod
+   https://www.aljazeera.com/news/2026/4/5/drone-attacks-hit-russian-oil-infrastructure-leak-and-fires-reported?traffic_source=rss

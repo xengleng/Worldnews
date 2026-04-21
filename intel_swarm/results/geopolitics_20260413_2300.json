@@ -1,0 +1,131 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260413_2300",
+  "run_ts_utc": "2026-04-13T23:00:39.225676Z",
+  "insights": [
+    {
+      "headline": "Hungary's next PM would tell Putin to stop Ukraine war if called",
+      "summary": "Hungary's likely next prime minister Péter Magyar stated he would pick up if Putin calls and tell him to stop the Ukraine war, though he won't initiate contact. This marks a significant shift from Orban's pro-Russia stance and could unblock EU support for Ukraine.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"],
+      "published": "2026-04-13 21:28"
+    },
+    {
+      "headline": "US imposes blockade on Iranian ports in Strait of Hormuz",
+      "summary": "The US military has imposed a blockade on Iranian ports in the Strait of Hormuz after talks yielded no agreement. This risks upending the fragile ceasefire with Tehran and could escalate tensions in the vital maritime trade corridor.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy", "Reuters"],
+      "source_urls": [
+        "https://foreignpolicy.com/2026/04/13/us-military-blockade-iran-ports-strait-hormuz-trump-pope-leo-nato/",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5"
+      ],
+      "published": "2026-04-13 21:01"
+    },
+    {
+      "headline": "Philippines accuses China of using cyanide to poison South China Sea atoll",
+      "summary": "The Philippines has accused China of using cyanide to poison a South China Sea atoll, warning it could harm marine life and weaken the reef supporting a grounded warship. This represents a significant escalation in maritime tensions between the two nations.",
+      "category": "asia",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss"],
+      "published": "2026-04-13 21:05"
+    },
+    {
+      "headline": "Brazil's fugitive ex-intel chief detained by US immigration authorities",
+      "summary": "Brazil's former intelligence chief Alexandre Ramagem, who fled after being convicted for involvement in a coup plot, has been detained by US Immigration and Customs Enforcement. This highlights ongoing political instability in Brazil and US cooperation in extraditing fugitives.",
+      "category": "americas",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera", "SCMP"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities?traffic_source=rss",
+        "https://www.scmp.com/news/world/americas/article/3349961/brazils-fugitive-ex-spy-chief-detained-ice-us?utm_source=rss_feed"
+      ],
+      "published": "2026-04-13 20:16"
+    },
+    {
+      "headline": "Energy prices rise despite Jones Act suspension by Trump",
+      "summary": "Shipping costs have increased by more than 10% in the past month due to the US-Israel war on Iran, despite Trump's suspension of the Jones Act. This indicates that geopolitical tensions are outweighing regulatory changes in driving energy market volatility.",
+      "category": "economics",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"],
+      "published": "2026-04-13 22:17"
+    },
+    {
+      "headline": "Iran carried out highest number of executions in decades",
+      "summary": "Iran has carried out its highest number of executions in decades, with organizations warning many more could be executed following anti-government protests earlier this year. This reflects severe internal repression amid ongoing regional conflicts.",
+      "category": "human_rights",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"],
+      "published": "2026-04-13 12:53"
+    },
+    {
+      "headline": "World Bank chief sounds alarm about looming jobs crisis even after war ends",
+      "summary": "The World Bank chief has warned of a looming jobs crisis that will persist even after the Iran war ends, highlighting long-term economic damage from the conflict. This comes as IMF and World Bank meetings are shadowed by Middle East war economic shocks.",
+      "category": "economics",
+      "alert_level": "MEDIUM",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5"],
+      "published": "2026-04-13 07:07"
+    },
+    {
+      "headline": "Nigeria Air Force orders investigation after dozens killed in airstrike",
+      "summary": "Nigeria's Air Force has ordered an investigation after reports that dozens (possibly over 100) were killed in an airstrike. This highlights ongoing security challenges and civilian casualties in Nigeria's counterinsurgency operations.",
+      "category": "africa",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss"],
+      "published": "2026-04-13 10:52"
+    },
+    {
+      "headline": "US stocks gain, dollar dips on hopes for Iran war negotiations",
+      "summary": "US stocks gained and the dollar dipped on hopes for Iran war negotiations, indicating market sensitivity to geopolitical developments. This comes amid mixed signals about the conflict's trajectory and ceasefire prospects.",
+      "category": "markets",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNA"],
+      "source_urls": ["https://www.channelnewsasia.com/business/us-stocks-gain-dollar-dips-hopes-iran-war-negotiations-6054421"],
+      "published": "2026-04-13 21:02"
+    },
+    {
+      "headline": "Dozens arrested in New York protesting US bomb sales to Israel",
+      "summary": "Nearly 100 protesters were arrested in New York demanding US blocks sale of bombs to Israel, led by Jewish Voice for Peace. This reflects growing domestic opposition to US involvement in Middle East conflicts.",
+      "category": "domestic_politics",
+      "alert_level": "MEDIUM",
+      "source_names": ["SCMP"],
+      "source_urls": ["https://www.scmp.com/news/world/united-states-canada/article/3349963/dozens-arrested-new-york-protesters-demand-us-blocks-sale-bombs-israel?utm_source=rss_feed"],
+      "published": "2026-04-13 21:57"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Hungary's political shift could unblock EU support for Ukraine and strengthen Western unity",
+      "Market optimism about potential Iran war negotiations suggests diplomatic openings",
+      "US detention of Brazil's fugitive ex-intel chief shows international cooperation against political instability"
+    ],
+    "negative": [
+      "US blockade of Iranian ports risks escalating conflict and undermining fragile ceasefire",
+      "China-Philippines cyanide allegations represent dangerous escalation in South China Sea tensions",
+      "Iran's execution surge indicates severe internal repression amid external conflicts",
+      "World Bank warning about persistent jobs crisis suggests long-term economic damage from war"
+    ],
+    "sources": ["BBC News", "Foreign Policy", "Al Jazeera", "Reuters", "Defense One", "Crisis Group"]
+  },
+  "patterns": [
+    "Multiple conflicts intersecting: Iran war, Ukraine war, South China Sea tensions, Sudan civil war",
+    "Economic consequences of conflict dominating international financial discussions (IMF/World Bank meetings)",
+    "Domestic political opposition to foreign military involvement growing in Western countries",
+    "Shift in European politics with Hungary potentially moving away from pro-Russia stance",
+    "Cyber warfare and information operations increasingly integrated with conventional conflicts"
+  ],
+  "blind_spots": [
+    "Limited coverage of African conflicts beyond Nigeria (Sudan war ongoing for 3 years with minimal attention)",
+    "Underreporting of humanitarian impacts of multiple simultaneous conflicts",
+    "Lack of analysis on how simultaneous US involvement in Ukraine and Iran affects military readiness",
+    "Insufficient coverage of China's strategic positioning amid US focus on Middle East",
+    "Minimal discussion of nuclear proliferation risks in current conflict scenarios"
+  ]
+}

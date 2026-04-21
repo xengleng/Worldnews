@@ -1,0 +1,5 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "<think>\nThe user wants me to act as a Climate and Disaster Intelligence Analyst and analyze today's news data to identify climate-related events, natural disasters, and environmental developments.\n\nHowever, I notice that the news data placeholder shows `{news_data}` - meaning no actual news data was",
+  "_raw": "<think>\nThe user wants me to act as a Climate and Disaster Intelligence Analyst and analyze today's news data to identify climate-related events, natural disasters, and environmental developments.\n\nHo"
+}

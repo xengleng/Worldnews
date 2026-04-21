@@ -1,0 +1,153 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-14 18:05 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • South Korea's Lee warns Iran war to keep oil price high, orders quick aid rollout
+     [POLITICS → GEOPOLITICS]
+     Source: CNA
+     🔗 https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-iran-war-high-oil-price-aid-rollout-6055511
+   • The Iran war could cost the American taxpayer $1 trillion, says Harvard academic
+     [POLITICS → GEOPOLITICS]
+     Source: CNBC
+     🔗 https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • Backblaze has stopped backing up your data
+     [TECH → GENERAL]
+     Source: Hacker News
+     🔗 https://rareese.com/posts/backblaze/
+
+🟢 **LOW ALERTS** (12)
+   Routine update, no immediate action needed
+   • Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+     [MARKETS → GENERAL]
+     Source: MarketWatch
+     🔗 https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines
+   • Swiatek banks on Nadal's former coach to reignite her season
+     [POLITICS → GENERAL]
+     Source: CNA
+     🔗 https://www.channelnewsasia.com/sport/swiatek-banks-nadals-former-coach-reignite-her-season-6055601
+   • Vietnam's top leader To Lam arrives in China for first state visit
+     [POLITICS → GEOPOLITICS]
+     Source: CNA
+     🔗 https://www.channelnewsasia.com/asia/vietnam-president-lam-china-foreign-policy-geopolitics-6055416
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (1)
+      • 🟢 Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+        Source: MarketWatch
+        🔗 https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines
+
+**POLITICS** (9)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (4)
+      • 🟢 Swiatek banks on Nadal's former coach to reignite her season
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/sport/swiatek-banks-nadals-former-coach-reignite-her-season-6055601
+      • 🟢 South Korean celebrity couple Park Shin-hye and Choi Tae-joon expecting second child
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/entertainment/park-shin-hye-choi-tae-joon-second-child-6055536
+        On Tuesday (Apr 14),&nbsp;Park Shin-hye's agency announced that the&nbsp;Pinocchio star was expectin...
+   └─ GEOPOLITICS (4)
+      • 🟢 Vietnam's top leader To Lam arrives in China for first state visit
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/asia/vietnam-president-lam-china-foreign-policy-geopolitics-6055416
+        The 68-year-old assumed the presidency while retaining his role as Communist Party chief – a dual ma...
+      • 🟢 China's Xi says rule of law must be upheld for Middle East peace
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/east-asia/china-xi-iran-war-rule-law-middle-east-peace-6055541
+        The Chinese president vowed that China will play a "constructive role" in promoting peace talks in t...
+   └─ US POLITICS (1)
+      • 🟢 Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss
+        China and Russia have been vocal critics of the US-Israel war on Iran, an ally of both world powers....
+
+**TECH** (5)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (3)
+      • 🟢 China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'
+        Source: CNBC
+        🔗 https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html
+        The Chinese foreign ministry said only a "comprehensive ceasefire" would help ease the ongoing crisi...
+      • 🟢 World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss
+        Global agriculture is highly exposed to the blockage of waterways, risking higher commodity prices a...
+   └─ GENERAL (2)
+      • 🟢 Inertia moves to commercialize one of the world’s most elaborate science experiments
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/
+        Inertia has signed three agreements with the Lawrence Livermore National Lab, paving the way for the...
+      • 🟡 Backblaze has stopped backing up your data
+        Source: Hacker News
+        🔗 https://rareese.com/posts/backblaze/
+        Article URL: https://rareese.com/posts/backblaze/
+Comments URL: https://news.ycombinator.com/item?id...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 2 (13.3%)
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 12 (80.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them
+   https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines
+
+2. 🟢 Swiatek banks on Nadal's former coach to reignite her season
+   https://www.channelnewsasia.com/sport/swiatek-banks-nadals-former-coach-reignite-her-season-6055601
+
+3. 🟢 Vietnam's top leader To Lam arrives in China for first state visit
+   https://www.channelnewsasia.com/asia/vietnam-president-lam-china-foreign-policy-geopolitics-6055416
+
+4. 🟢 China's Xi says rule of law must be upheld for Middle East peace
+   https://www.channelnewsasia.com/east-asia/china-xi-iran-war-rule-law-middle-east-peace-6055541
+
+5. 🔴 South Korea's Lee warns Iran war to keep oil price high, orders quick aid rollout
+   https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-iran-war-high-oil-price-aid-rollout-6055511
+
+6. 🟢 South Korean celebrity couple Park Shin-hye and Choi Tae-joon expecting second child
+   https://www.channelnewsasia.com/entertainment/park-shin-hye-choi-tae-joon-second-child-6055536
+
+7. 🔴 The Iran war could cost the American taxpayer $1 trillion, says Harvard academic
+   https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html
+
+8. 🟢 China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'
+   https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html
+
+9. 🟢 Maradona’s childhood home becomes soup kitchen for those in need
+   https://www.aljazeera.com/gallery/2026/4/14/maradonas-childhood-home-now-a-soup-kitchen-for-the-needy?traffic_source=rss
+
+10. 🟢 Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade
+   https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss
+
+11. 🟢 Inertia moves to commercialize one of the world’s most elaborate science experiments
+   https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/
+
+12. 🟢 World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO
+   https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis?traffic_source=rss
+
+13. 🟢 An AI Vibe Coding Horror Story
+   https://www.tobru.ch/an-ai-vibe-coding-horror-story/
+
+14. 🟡 Backblaze has stopped backing up your data
+   https://rareese.com/posts/backblaze/
+
+15. 🟢 Carlos Queiroz named Ghana head coach before World Cup
+   https://www.aljazeera.com/sports/2026/4/14/carlos-queiroz-named-ghana-head-coach-before-world-cup?traffic_source=rss

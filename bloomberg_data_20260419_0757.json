@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-19T07:57:44.427504",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+      "published": "Wed, 8 Apr 2026 18:00:00 GMT",
+      "summary": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "d0c62e37e959233544fd541ede781ddf",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Nasdaq sets record highs as investors return to tech stocks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhobjRXRXdLOThQRU9OODRlaWY1THVFbmNRemdtd01aazd5M2RLN3BzWE5zLW1rbzlpZzdnUmdrb3FuSjltZ3NxTjJQMXZMX3RwNDBKb25fcEVNa0RVaDR1b3NGVld2QUFUcUl0V3V3NFhWLXZPdmNaYkNtQzlBU0FTUFd0eFhfcEZYUzRlbWJpeEhoQnhHbVgtVm1ndm8?oc=5",
+      "published": "Wed, 15 Apr 2026 20:50:48 GMT",
+      "summary": "Nasdaq sets record highs as investors return to tech stocks&nbsp;&nbsp;Reuters",
+      "source": "Reuters Markets",
+      "original_category": "finance",
+      "id": "489c06897cf96c0a09f18365ba7169d5",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "SEC Approves Exemptive Order and Proposed Rule Change to Permit Customer Cross-Margining in the U.S. Treasury Market",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market",
+      "published": "Wed, 15 Apr 2026 15:45:51 -0400",
+      "summary": "The Securities and Exchange Commission today issued a conditional exemptive order that permits customer cross-margining of cash market positions in U.S. Treasury securities cleared by a registered cle...",
+      "source": "SEC",
+      "original_category": "finance",
+      "id": "61a01d40af965998b8343311f91e3d59",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Pakistan pushes for second US-Iran talks and seeks 'guarantees' for Tehran - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ21yNE10MzNBTDBWVURBYnk2Mk9pa08tNE1TY2hiYmRvRHU4cnRGU19FQWsyZzN6Ry1YVm50OFFoQ0tybFl3Q1A0Wm80MW42amhreENJU01KZEpsNHBpS2IxMkJvN21uWXBIcHVUcG52Z0VreDNpdmZhd3pmQ2N6ZERwamRkTTczNjE3amRzSWlWWmxZUVloSFp6dFRrY0dHVnplUzZIWXVISFFJTFM0ZnZHN3NYODBQejN0RXVCclB5c24wWUg3OA?oc=5",
+      "published": "Wed, 15 Apr 2026 11:58:00 GMT",
+      "summary": "Pakistan pushes for second US-Iran talks and seeks 'guarantees' for Tehran&nbsp;&nbsp;Nikkei Asia",
+      "source": "Nikkei Asia",
+      "original_category": "geopolitics",
+      "id": "e993072c71d71a3463a5a49dd371b817",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "News & Comment - Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9id2s5bFN5NWdKZEJMNnE4bnpkdUxmZkNIYXNiV3JSLVZCYkhvcUN5WXpPSEx2SDVoS2JudzhsWVFzSXhhNTg3Zm5XcjJfQQ?oc=5",
+      "published": "Wed, 14 Jul 2021 13:05:23 GMT",
+      "summary": "News & Comment&nbsp;&nbsp;Royal United Services Institute (RUSI)",
+      "source": "RUSI",
+      "original_category": "geopolitics",
+      "id": "0081fa25b4daff8b1e0dee4722ee2c5c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
+      "published": "Wed, 08 Apr 2026 12:20:00 -0400",
+      "summary": "The Securities and Exchange Commission today announced that David Woodcock has been appointed Director of the Division of Enforcement, effective May 4, 2026. Mr. Woodcock is currently a partner in the...",
+      "source": "SEC",
+      "original_category": "finance",
+      "id": "812e28a0a2696999b2b685c283eb8c61",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "The Strait of Hormuz Problem: What \u2018Securing\u2019 the Waterway Actually Requires - Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFg0OFVPZHg2UWV5emw5bl9aSHFzZ3JNWHQ1eWJaZkkwMFVpVXYtSE5tZjNUY3ljLUZHeFotZlZVejNYNmZRTVBqZGplay1nTmRvUk9ZMHBiQlk1V1JDLXZNZnZVcWc2TmdMcllqSVlDNGlyMVNZMkZONWJadHpFenYzYU9DRVlxNVRONGVKNzVueHFBNXNrWC01UFBsNzRyMm1tMTdPUWN6M2c?oc=5",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "summary": "The Strait of Hormuz Problem: What \u2018Securing\u2019 the Waterway Actually Requires&nbsp;&nbsp;Royal United Services Institute (RUSI)",
+      "source": "RUSI",
+      "original_category": "geopolitics",
+      "id": "bb3bf4009c8e1b372e5e828f81cb2079",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Minutes of the Board\u2019s discount rate meetings on February 9 and March 18, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+      "published": "Tue, 14 Apr 2026 18:00:00 GMT",
+      "summary": "Minutes of the Board\u2019s discount rate meetings on February 9 and March 18, 2026",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "85094d6f58f4db20a8db5abcfcd642d4",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Higher oil prices, higher yields, no more rate cuts? No problem for US stocks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTmxNZkdMZ1JMUGZ1dlFfdG5lS3pJdmpsZ0RrN1dTUGNDaWtWdi1lQXlNSmNEMXJ4d2p3ZEJ5QkJpQ2xSeV9HZVJnSWNpR2ZaYy1TcTVEQ3BQUUR5VzRBTHNJRUlibGx4TGRvMmdkU0R6elBHd3dZWTF2RUxlOWp5UE1iUHpBNk5ZdmRULWVHWnRuSkc5eVZfRkx4bGE3akxkYlFmVmtBaTZTdUNab2FmQ3pRaUpaUQ?oc=5",
+      "published": "Tue, 14 Apr 2026 16:20:00 GMT",
+      "summary": "Higher oil prices, higher yields, no more rate cuts? No problem for US stocks&nbsp;&nbsp;Reuters",
+      "source": "Reuters Markets",
+      "original_category": "finance",
+      "id": "13f7a80fc344ad992e04533798c11e49",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "War is over for Wall Street: stocks, dollar and fear index unwind moves - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZl9kMnlqZzJWSEh1Yjc4SjdLNjI3ZVRxa0xvdmJPSUNFbDJHS0lWOGtWTEFSa1ZwWDA2VS0wNWZqaFN6eEFwUVlzYmE0QS10WklULWZpSFhxRUU0dmV5Vk9SRklkNlJvU09UT05MUmNCUWM2UV8xamZlTXhVSGQydjg4a2ZQTy1nTkJwRUpObDFLM1V1NTJDNEU2eDFwbWZlTFg0TkYxTmQxZw?oc=5",
+      "published": "Tue, 14 Apr 2026 15:11:00 GMT",
+      "summary": "War is over for Wall Street: stocks, dollar and fear index unwind moves&nbsp;&nbsp;Reuters",
+      "source": "Reuters Markets",
+      "original_category": "finance",
+      "id": "c2b8ca9f900641615a599b0b4ea1400c",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Next Fed Meeting: When It Is in April and What To Expect on Interest Rates - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDV5R1BSeU5PM24wQ01CYVJKMTVuUjZJX0c5czA2SnF0dFVTZDg0R09rZXNwaENfaWZoNGVpTHhGYUlhT1VqemthUDEzUHgxbWxhRF81QWZWRHp1MDdxNVhHWXVlV1BMSFFQQlM3SXFEMFNReDRQOW80STluUU92cjczYjA1WmhsWno2bmg2amZzVXpRSjdmQWw4Vi1oWXZ0QUJXeWZfUklpYnRzSmdKLQ?oc=5",
+      "published": "Tue, 14 Apr 2026 14:38:23 GMT",
+      "summary": "Next Fed Meeting: When It Is in April and What To Expect on Interest Rates&nbsp;&nbsp;Investopedia",
+      "source": "Central Banks",
+      "original_category": "finance",
+      "id": "50d7ce06dbcb0a63224e86c18d106632",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Sri Lanka\u2019s Bumpy Road to a Political Reset",
+      "link": "https://www.crisisgroup.org/rpt/asia-pacific/sri-lanka/356-sri-lankas-bumpy-road-political-reset",
+      "published": "Thursday, April 16, 2026 - 14:15",
+      "summary": "Twin elections in 2024 transformed Sri Lanka\u2019s political landscape, bringing to power a president and parliamentarians who pledged sweeping reforms. So far, however, the new government has made little...",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "3982bf539268784cdde45d1dd3ac999b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Prioritising Peace: What the UN Should Ask of Its Next Secretary-General",
+      "link": "https://www.crisisgroup.org/cmt/global/prioritising-peace-what-un-should-ask-its-next-secretary-general",
+      "published": "Thursday, April 16, 2026 - 12:08",
+      "summary": "The race to become the next UN Secretary-General is under way. Whoever gets the post will need to rebuild the organisation\u2019s geopolitical standing on matters of war and peace.",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "c00bd77742b0fdc993cc0f9b86fb282d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Pope\u2019s Visit Raises Hopes for Peace in Cameroon",
+      "link": "https://www.crisisgroup.org/anb/africa/cameroon/popes-visit-raises-hopes-peace-cameroon",
+      "published": "Thursday, April 16, 2026 - 03:14",
+      "summary": "Crisis Group expert Arrey E. Ntui assesses the mood surrounding Pope Leo\u2019s three-day visit to Cameroon, which includes a stop in the restive Anglophone regions",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "e1e912c1faccfeb6db2bf2829ffa2735",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with Cr\u00e9dit Agricole S.A. and Cr\u00e9dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm",
+      "published": "Thu, 9 Apr 2026 15:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Cr&eacute;dit Agricole S.A. and Cr&eacute;dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Lt...",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "42c1377c000139f64650a6b651cbac65",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 1,
+    "high": 0,
+    "medium": 1,
+    "low": 13
+  },
+  "category_summary": {
+    "MARKETS": 5,
+    "ECONOMY": 3,
+    "TECH": 2,
+    "POLITICS": 4,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

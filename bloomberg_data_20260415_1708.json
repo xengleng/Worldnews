@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-15T17:08:59.997370",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Shelvey ends playing career to manage UAE's Arabian Falcons",
+      "link": "https://www.channelnewsasia.com/sport/shelvey-ends-playing-career-manage-uaes-arabian-falcons-6058111",
+      "published": "Wed, 15 Apr 2026 16:46:10 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "981af0344d87e3d94aa0651c0b6f208c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "North Korea boosting ability to make nuclear arms: UN watchdog",
+      "link": "https://www.channelnewsasia.com/east-asia/north-korea-boosting-ability-nuclear-arms-iaea-grossi-6058041",
+      "published": "Wed, 15 Apr 2026 16:41:00 +0800",
+      "summary": "Asked whether Russia was assisting North Korea's nuclear development, IAEA chief Rafael Grossi said the agency had not seen \"anything in particular in that regard\".",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "6154e1917d9469b1622b28ebf531f569",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Japan refiners run at two-thirds capacity, awaiting crude from outside the Gulf",
+      "link": "https://www.channelnewsasia.com/business/japan-refiners-run-two-thirds-capacity-awaiting-crude-outside-gulf-6058021",
+      "published": "Wed, 15 Apr 2026 16:16:05 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "b48a98da5661491dbd3a423c1a327fe8",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Dollar nears six-week lows as hopes of Iran talks erase war premium",
+      "link": "https://www.channelnewsasia.com/business/dollar-nears-six-week-lows-hopes-iran-talks-erase-war-premium-6057086",
+      "published": "Wed, 15 Apr 2026 16:10:41 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "d54316a291b3ec7328baf44a05c695c8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Pakistan cenbank opens formal banking to licensed virtual asset service providers",
+      "link": "https://www.channelnewsasia.com/business/pakistan-cenbank-opens-formal-banking-licensed-virtual-asset-service-providers-6058001",
+      "published": "Wed, 15 Apr 2026 16:10:12 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "0edd49929a4dd43eb4f530177d376492",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump renews criticism of UK, saying it should \u2018drill, baby, drill\u2019 for North Sea oil",
+      "link": "https://www.cnbc.com/2026/04/15/trump-uk-north-sea-oil-drilling.html",
+      "published": "Wed, 15 Apr 2026 08:54:11 GMT",
+      "summary": "Trump's comments come at a time when the U.K. government has said the Iran war energy shock shows the need \u201cto get off the fossil fuel rollercoaster.\u201d",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "70dc9930c0653abebabedf84b92e4ee7",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Palestinian leader Barghouti endures \u2018violent\u2019 assaults in Israeli prisons",
+      "link": "https://www.aljazeera.com/news/2026/4/15/palestinian-leader-barghouti-endures-violent-assaults-in-israeli-prisons?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 08:42:11 +0000",
+      "summary": "Recent reports of prison brutality follow an attack last year that resulted in broken ribs and head injuries.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3e4f350179fd02efcba37c4ec3b8434d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 14%",
+      "link": "https://www.cnbc.com/2026/04/15/kering-stock-q1-earnings-gucci-sales-iran-war-middle-east-luxury.html",
+      "published": "Wed, 15 Apr 2026 08:41:14 GMT",
+      "summary": "Hermes said wholesale activity was \"significantly affected\" in the first quarter by lower sales to concession stores, particularly in the Middle East and in airports.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "a006e2961cf3a75328b6c1b6046bcd23",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "\u2018Food is unifying\u2019: How Lebanon\u2019s migrants are feeding the war-displaced",
+      "link": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 08:21:12 +0000",
+      "summary": "Often overlooked in Lebanon&#039;s society, the migrant community is filling the gaps of the state by feeding their own.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3e27a63d9af963c2fdb603e779a177dc",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "U.S. crude trades lower as possible Washington-Tehran talks raise hopes for Mideast peace deal",
+      "link": "https://www.cnbc.com/2026/04/15/oil-price-us-iran-talks-hormuz-trump.html",
+      "published": "Wed, 15 Apr 2026 08:11:29 GMT",
+      "summary": "Oil prices traded mixed as optimism grew that Iran may restart negotiations with the U.S. and Israel, easing tensions over the conflict that has disrupted the Strait of Hormuz.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b5b7c7985fdc9bdd1ff7c3dfd8a25586",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Magyar meets Hungarian president as Trump says next PM 'a good man'",
+      "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 08:05:57 GMT",
+      "summary": "The man who ended Viktor Orb\u00e1n's 16 years of continuous rule, P\u00e9ter Magyar, is calling for a speedy transfer of power.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "ff23d4e159a6f875f41ea06606fa9761",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Anna's Archive Loses $322M Spotify Piracy Case Without a Fight",
+      "link": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "published": "Wed, 15 Apr 2026 08:05:18 +0000",
+      "summary": "Article URL: https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/\nComments URL: https://news.ycombinator.com/item?id=47776035\nPoints: 42\n# Comments: 34",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "37bd217cf487ca2ad6e356d4d0a072f9",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Families across Sudan endure years of displacement, hunger, loss",
+      "link": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 08:02:22 +0000",
+      "summary": "More than nine million people remain displaced in Sudan, while nearly 29 million face acute hunger.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a19edff81071d83bec28fdb4db34aec2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "250 missing after migrant boat sinks in Indian Ocean",
+      "link": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 07:52:40 GMT",
+      "summary": "The trawler \"reportedly sank due to heavy winds, rough seas and overcrowding\", the United Nations said.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "211f8c2b0bef972e6f02e1ee7b205839",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Iran war: What is happening on day 47 of the US-Iran conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/15/iran-war-what-is-happening-on-day-47-of-the-us-iran-conflict?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 07:41:44 +0000",
+      "summary": "US President Donald Trump has signalled a possible second round of talks with Iran in the coming days.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "eb4bd08ee4a315213a46956ac17df4ae",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 4,
+    "high": 1,
+    "medium": 0,
+    "low": 10
+  },
+  "category_summary": {
+    "MARKETS": 0,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 11,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

@@ -1,0 +1,89 @@
+📰 **WORLDMONITOR NEWS UPDATE**
+Time: 2026-04-05 12:24 SGT
+Articles: 15 new items
+
+**ASIA**
+1. US rescues airman whose F-15 was downed in Iran, US officials say
+   Source: CNA
+
+2. Brazilian Oscar retires at 34 with cardiac issues
+   Source: CNA
+
+3. Afghan mother seeks justice after Pakistani bombing kills hundreds
+   Source: CNA
+   The Mar 16 attack hit a drug treatment centre and&nbsp;killed 411 people, according to Afghan officials.&nbsp;
+
+**TECH**
+4. AI that copied musical artist files copyright claim against that artist
+   Source: Hacker News
+   Article URL: https://twitter.com/VladTheInflator/status/2039577001531768906
+Comments URL: <a href="https://news.y...
+
+5. Show HN: mailtrim – find what's actually filling your Gmail inbox
+   Source: Hacker News
+   I always assumed Gmail bloat came from large attachments.                                                                                             ...
+
+6. Writing Lisp Is AI Resistant and I'm Sad
+   Source: Hacker News
+   Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/
+Comments URL: <a hr...
+
+**GEOPOLITICS**
+7. Iran says Iraqi ships can pass Strait of Hormuz as transits tick up
+   Source: Al Jazeera
+   Tehran says Iraq will face no restrictions in waterway, praising country&#039;s &#039;struggle&#039; against the US.
+
+8. Iran war live: Missing airman from downed jet ‘recovered’, US official says
+   Source: Al Jazeera
+   Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.
+
+9. Russian attack on Ukraine market kills five
+   Source: BBC World
+   A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.
+
+**FINANCE**
+10. ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock
+   Source: Yahoo Finance
+
+11. Microsoft Corporation (MSFT): Billionaire Steve Cohen Trims Position
+   Source: Yahoo Finance
+
+---
+🔗 **ALL ARTICLE LINKS:**
+
+1. US rescues airman whose F-15 was downed in Iran, US officials say
+   https://www.channelnewsasia.com/world/iran-war-f15-rescue-airman-pilot-6037286
+
+2. Brazilian Oscar retires at 34 with cardiac issues
+   https://www.channelnewsasia.com/sport/brazilian-oscar-retires-34-cardiac-issues-6037266
+
+3. Afghan mother seeks justice after Pakistani bombing kills hundreds
+   https://www.channelnewsasia.com/asia/afghanistan-pakistan-hospital-airstrike-bombing-6037211
+
+4. AI that copied musical artist files copyright claim against that artist
+   https://twitter.com/VladTheInflator/status/2039577001531768906
+
+5. Show HN: mailtrim – find what's actually filling your Gmail inbox
+   https://news.ycombinator.com/item?id=47645719
+
+6. Writing Lisp Is AI Resistant and I'm Sad
+   https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/
+
+7. Iran says Iraqi ships can pass Strait of Hormuz as transits tick up
+   https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss
+
+8. Iran war live: Missing airman from downed jet ‘recovered’, US official says
+   https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss
+
+9. Russian attack on Ukraine market kills five
+   https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss
+
+10. ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock
+   https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-210515294.html
+
+11. Microsoft Corporation (MSFT): Billionaire Steve Cohen Trims Position
+   https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-steve-210303332.html
+
+---
+Updates every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+Based on WorldMonitor feed selection

@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-06T13:01:00.940639",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 01:09:11 GMT",
+      "summary": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "6599de02e2ef75c431d2b746a2dcd98b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Jodar continues Spain's teenage tradition with ATP title in Morocco",
+      "link": "https://www.channelnewsasia.com/sport/jodar-continues-spains-teenage-tradition-atp-title-in-morocco-6038396",
+      "published": "Mon, 06 Apr 2026 12:46:16 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "4dfb7314deea85a4b7564046e8e233e1",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Singapore\u2019s first 3D concrete printed pedestrian bridge to be built in Jurong",
+      "link": "https://www.channelnewsasia.com/singapore/singapores-first-3d-concrete-printed-pedestrian-bridge-be-built-in-jurong-6033401",
+      "published": "Mon, 06 Apr 2026 12:00:00 +0800",
+      "summary": "The 10m-long bridge is part of efforts to use 3D concrete printing to improve construction productivity in labour-scarce Singapore.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "83f27fe2e6b58024db563739b865c2cf",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "K-pop girl group Mamamoo bringing 12th anniversary world tour to Singapore in July",
+      "link": "https://www.channelnewsasia.com/entertainment/mamamoo-singapore-concert-july-2026-6038186",
+      "published": "Mon, 06 Apr 2026 11:58:35 +0800",
+      "summary": "Mamamoo will perform in Singapore on Jul 31. Ticketing and venue details are yet to be announced.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "02a2760cf6c2e8a1512960c3619d2b35",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Rainie Yang fans left disgruntled after Taiwanese singer cancels Singapore concert second time in a row",
+      "link": "https://www.channelnewsasia.com/entertainment/rainie-yang-cancels-singapore-concert-2026-second-time-6038266",
+      "published": "Mon, 06 Apr 2026 11:41:38 +0800",
+      "summary": "On Friday (Apr 3), live event organiser&nbsp;FriedRice Entertainment announced that Taiwanese singer Rainie Yang's upcoming Singapore concert has been cancelled.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "eebfa5cdaf78bfdd55d1aea4c79a5ff5",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "AirAsia X to raise fares, trim capacity amid rising oil prices",
+      "link": "https://www.channelnewsasia.com/business/airasia-x-raise-fares-trim-capacity-amid-rising-oil-prices-6038301",
+      "published": "Mon, 06 Apr 2026 11:36:35 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "9f5aa12641ebd34b22a493c8829a1055",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Japan, South Korea stocks rise as investors assess Trump's Iran war comments, extended deadline",
+      "link": "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html",
+      "published": "Mon, 06 Apr 2026 04:54:28 GMT",
+      "summary": "In an expletive-filled social media post, Trump also vowed to bring \"Hell\" to the country after the U.S. forces rescued an American airman in Iran last week.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "88a644fd28b896830acc07631b38b918",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Winners of the 2026 Kokuyo Design Awards",
+      "link": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+      "published": "Mon, 06 Apr 2026 03:32:23 +0000",
+      "summary": "Article URL: https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/\nComments URL: https://news.ycombinator.com/item?id=47656682\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "eda30e3edb6abf7d43a77d23ef9f154e",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "link": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "published": "Mon, 06 Apr 2026 03:28:04 +0000",
+      "summary": "Article URL: https://github.com/mikf/gallery-dl/discussions/9304\nComments URL: https://news.ycombinator.com/item?id=47656659\nPoints: 71\n# Comments: 20",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "b797dffd82b1487a25a02669ece65361",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "link": "https://moonrf.com/",
+      "published": "Mon, 06 Apr 2026 03:22:42 +0000",
+      "summary": "Article URL: https://moonrf.com/\nComments URL: https://news.ycombinator.com/item?id=47656622\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "af26f56049a2d8750378798b5cf1aca6",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The 1987 game \"The Last Ninja\" was 40 kilobytes",
+      "link": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "published": "Mon, 06 Apr 2026 03:03:22 +0000",
+      "summary": "Article URL: https://twitter.com/exQUIZitely/status/2040777977521398151\nComments URL: https://news.ycombinator.com/item?id=47656501\nPoints: 16\n# Comments: 8",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "2f753d4f03dba727c0eab35d7be3b8b8",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "link": "https://github.com/kdave/btrfs-progs/issues/1107",
+      "published": "Mon, 06 Apr 2026 02:28:40 +0000",
+      "summary": "Article URL: https://github.com/kdave/btrfs-progs/issues/1107\nComments URL: https://news.ycombinator.com/item?id=47656303\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "d9514eea8fef2f5e79243057635f8dfc",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war live: Tehran rejects Trump\u2019s Hormuz deadline; 2 killed in Haifa",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
+      "published": "Mon, 06 Apr 2026 00:00:00 +0000",
+      "summary": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c152627977dcc4049bbaf88a73b21d4a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Arm Holdings (ARM) is a Winner, Says Jim Cramer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-winner-says-182752785.html",
+      "published": "2026-04-04T18:27:52Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "2fe43c73037669e8f581b2451bd40ab2",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Jim Cramer Thinks New Apple (AAPL) CFO Is Settling Well In His Role",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-apple-aapl-182741049.html",
+      "published": "2026-04-04T18:27:41Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "15605f078f3434c1f6524572a4748634",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 0,
+    "medium": 0,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 7,
+    "POLITICS": 5,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

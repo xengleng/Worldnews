@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260419_0825",
+  "executive_summary": "Global markets experience significant relief as geopolitical tensions ease, with Wall Street unwinding war-related positions. Tech stocks surge to new highs while oil prices and Treasury yields rise, challenging the assumption of imminent Federal Reserve rate cuts. Regulatory developments from the SEC signal continued enforcement priorities.",
+  "key_insights": [
+    {
+      "insight": "War is over for Wall Street: stocks, dollar and fear index unwind moves as geopolitical risk premium dissipates",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq sets record highs as investors return to tech stocks following easing of geopolitical tensions",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Higher oil prices, higher yields, and expectation of no rate cuts fail to dent US stock market momentum",
+      "asset_class": "equities/energy",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC Appoints David Woodcock as Director of Division of Enforcement, signaling continued regulatory focus",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "FOMC March 17-18, 2026 minutes provide insight into Fed thinking on monetary policy path",
+      "asset_class": "forex",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC approves exemptive order for customer cross-margining in U.S. Treasury market, enhancing clearing efficiency",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with major banks including Cr\u00e9dit Agricole and Goldman Sachs",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "US-Iran diplomatic talks supported by Pakistan may reduce oil supply disruption risks in Strait of Hormuz",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "April Fed meeting expectations suggest rates on hold amid resilient economic data",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Investopedia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Fed discount rate meeting minutes show regional bank perspectives on monetary conditions",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The Strait of Hormuz's critical role in global oil transit remains underappreciated by markets despite its significance for energy prices and Middle East stability.",
+  "url": "N/A"
+}

@@ -1,0 +1,521 @@
+{
+  "domain": "finance",
+  "timestamp": "20260417_0311",
+  "sgt_time": "2026-04-17 11:11 AM SGT",
+  "utc_time": "2026-04-17 03:11 UTC",
+  "total_items": 50,
+  "items": [
+    {
+      "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'",
+      "link": "https://www.cnbc.com/2026/04/16/trump-iran-war-predicts-end-soon.html",
+      "published": "2026-04-17 00:49",
+      "summary": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Trump nominates Erica Schwartz as CDC director amid turmoil around leadership, vaccine policy",
+      "link": "https://www.cnbc.com/2026/04/16/trump-nominates-erica-schwartz-as-cdc-director.html",
+      "published": "2026-04-16 22:39",
+      "summary": "The CDC has been going through turmoil and several leadership shakeups under HHS Secretary Robert F. Kennedy Jr.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Oil falls as Trump reiterates Iran war \u2018should\u2019 end soon and Israel-Lebanon truce lifts hopes",
+      "link": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
+      "published": "2026-04-17 00:57",
+      "summary": "Oil prices fell after Donald Trump said Israel and Lebanon had agreed to a 10-day ceasefire following talks in Washington.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Kevin Warsh wants to lead a scandal-ridden Fed. His wealth is a complication.",
+      "link": "https://www.cnbc.com/2026/04/16/fed-kevin-warsh-elizabeth-warren-financial-disclosures.html",
+      "published": "2026-04-16 20:12",
+      "summary": "Sen. Elizabeth Warren, D-Mass., is calling attention to potential issues in the Fed chair nominee's financial disclosures.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Trump says gas prices 'not very high' as most U.S. voters blame him for price spike",
+      "link": "https://www.cnbc.com/2026/04/16/trump-gas-prices-iran-war.html",
+      "published": "2026-04-16 20:51",
+      "summary": "Trump touted the rising stock market as he brushed off concerns that Americans are laboring under higher gas prices as a result of the Iran war.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Why the stock market is hitting records despite Iran war",
+      "link": "https://www.cnbc.com/2026/04/16/stocks-record-highs-iran-war.html",
+      "published": "2026-04-16 20:32",
+      "summary": "The S&amp;P 500 closed at an all-time high even with little apparent progress in a peace deal between the U.S. and Iran, and a continued oil-supply disruption.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "ICE agent charged with assault by Minnesota prosecutors, arrest warrant issued",
+      "link": "https://www.cnbc.com/2026/04/16/ice-agent-assault-charge-minnesota-minneapolis.html",
+      "published": "2026-04-17 02:57",
+      "summary": "Minnesota state prosecutors continue to investigation the killings of Renee Good and Alex Pretti by federal agents in Minneapolis.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency \u2018break-the-glass\u2019 plan if Treasury demand collapses - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX3cwV2tuZXM4cWFoT1h6dXRPNGExcGs2Uk5COEduaFZLTTJHQ0ZZdEhGZWlUQVBaY1BodjRXMGhpbVZneHdhUWZLODBmRF9TQllYQ2x0S2thQlZpSFR5ZThwc01TSi00V0NBZk9QTUJMUENXR2NBNWZUNUJlYXZxTVc3SWlJNVIxM0YzZkNqbk5OMXBkSXp0S0RwcXY4TzZtaHFRcmVCUWtkVjlMN3ZfakxGT19raU9kUm9sbmpGMDNaOFdJMDJIakdrcHo3cDd3VzhXT3dVVzRHUFc3ZGdfNm81RzdBZFhQNGw2V2VCY2lxNm8?oc=5",
+      "published": "2026-04-16 20:39",
+      "summary": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency \u2018break-the-glass\u2019 plan if Treasury demand collapses&nbsp;&nbsp;MarketWatch",
+      "source": "\"site:marketwatch.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Europe will run out of jet fuel in six weeks, warns IEA chief. Two carriers just cut flights from their schedules. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQm11c3NaQmdsenZHd1E2clM4NGNsMEtYY0libGVIc1Q1ZHBTWk1HNUVXNnEzb29vZW9FRnlnOHdLVUE3bTJoQUlCRFNpOEJITUxLUEJfRGxJSkRsTm9pLVNSRTFKd3dXanB5b3JHVlJISEpmVXN6ejBPdGRLQ1dIaWVkZGVnRkxlaVZ3Wk9ScWE0N3Z4bG5xNEZ2eW83VXhyb0ZhVTBzOHl1OFR2YTkwdEhjZ0I4S01GdGVuUUxHV3JpeThkRUZXM3dWVjB1alIzQmhxd1ItbDV1MG5za2tlS3ZyQnpSUHJBMFUwRTAzMTk?oc=5",
+      "published": "2026-04-16 15:02",
+      "summary": "Europe will run out of jet fuel in six weeks, warns IEA chief. Two carriers just cut flights from their schedules.&nbsp;&nbsp;MarketWatch",
+      "source": "\"site:marketwatch.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Asian Stocks May Fall on Concern War Will Drag On: Markets Wrap - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXV5a3c5VFdsZi1MdTVZSG5fZXNUeEJjaUtOQV83MGNzQXlFcjdpMk5NOC14bEY2SkRPU1YxdXFyVjNpZTA1Y0lmWWRWOEhqTmY2VmhUVmtSbGpsWjNfdURMSkxwd3J2VXFQYlhjTnp4Vm5sVWtObkQ1ZVFTeDktVXQ1bGlUbENTNm1Na3JSV2hlZUZC?oc=5",
+      "published": "2026-04-16 22:15",
+      "summary": "Asian Stocks May Fall on Concern War Will Drag On: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Aluminium in crisis: war, tariffs and a market running on empty - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWJSZnNWN1lyMWJyS1ZROUhaTWsyUHM5U3FjQkprdi0ybWkyeXhhUm5GWmlBajZMOElHQlE3cF9UTDBBczJRZzJJNS1ZZjF2TGVJLUtnVW5SelRsRUQ2c294WHY3MURhS1BuY3gyemJHb09GNFR3Y2M0NG9Jd3lFdEp6N00zc2dIeDNjY09JNXJhX3k4clo2QUpLU2s4V1RUSTkxYWJQVGE?oc=5",
+      "published": "2026-04-16 05:08",
+      "summary": "Aluminium in crisis: war, tariffs and a market running on empty&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "The Iran war has shattered oil's price compass - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXp3OFlRQU95N0Jxc3RRM0o1MEx4UWl4QTVKM3lDNWJnaUNlb2RaWVpTelVTUkdIYTBhTW9nS2NvTmF3eExxcG1mQWQwZjN6T1VIVHRpcTEza2s3aHk0NEp3MjRNbDl4dDViU3NrLWJtUXpFWDFhZnJsRTQwbXJRWTVrM0U0a2wxVkVIYkpyNG1xYThJb3h6YXc4T3RpZw?oc=5",
+      "published": "2026-04-16 06:10",
+      "summary": "The Iran war has shattered oil's price compass&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "S&P 500 closes at fresh record, recovering all losses since start of US-Iran war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2NRdUlXMXp1NDdUYm9Ga0VkSlVjSVVhclU3Q0psVUE4ZDM4M3Y0Y0Zfdlc3OHdyT3NMZ1ZkUEtLaUtaMHZXZFJuc1k0V2VOV0NZSS1jSGdNelZCWHNMTVAxWXRTMnN3bVBreUFWeFFNdFVRcHZnTFBYVlJ6QVd0M2dJRHpfZkpycE0zWndocWNKOVpMTWNWY1hXWTJuMWM?oc=5",
+      "published": "2026-04-15 20:27",
+      "summary": "S&amp;P 500 closes at fresh record, recovering all losses since start of US-Iran war&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Bitcoin eyes $90K as whales absorb 20x daily BTC supply in 30 days",
+      "link": "https://cointelegraph.com/news/bitcoin-eyes-dollar90k-as-whales-absorb-20x-daily-btc-supply-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-04-17 00:00",
+      "summary": "Bitcoin price has entered the breakout stage of a classic bullish reversal pattern and is now eyeing a run toward $90,000.",
+      "source": "Cointelegraph.com News",
+      "category": "crypto",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "The Iran war has shattered oil's price compass - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXp3OFlRQU95N0Jxc3RRM0o1MEx4UWl4QTVKM3lDNWJnaUNlb2RaWVpTelVTUkdIYTBhTW9nS2NvTmF3eExxcG1mQWQwZjN6T1VIVHRpcTEza2s3aHk0NEp3MjRNbDl4dDViU3NrLWJtUXpFWDFhZnJsRTQwbXJRWTVrM0U0a2wxVkVIYkpyNG1xYThJb3h6YXc4T3RpZw?oc=5",
+      "published": "2026-04-16 06:10",
+      "summary": "The Iran war has shattered oil's price compass&nbsp;&nbsp;Reuters",
+      "source": "\"(oil price OR OPEC OR crude oil OR WTI OR Brent)\" - Google News",
+      "category": "commodities",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "IEA Chief Says Oil, Gas Recovery Could Take Two Years After War Damage - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2I3bTZ3M3ZNSnNCb3FxYkZHMkMtX3BOYThoMmh3RmhXT0RoVldCUHFSSGlnZE1sTVlnTzBxcDVZOTJpdGczRk56V19xVTBqVjFzXzJuQUp5ZHoyTGVoLTZpOC1xaHB1WV9RdGxXcjV0ZnVDWjBoRnFsb19CT21XSHIzRWlHRHFzb0ZWam4ySXliQkxlMmtDSUF0bENZNnotUWI4SVp6bTh1SnFwLXY3NElKa0lydjluRnM0Qml1dFZyTHPSAcgBQVVfeXFMTUM5SkVfNG9LZXAwYjE1UmtLUFRkdC1XVFdVakx6NkJYdnQ5TlNac2kwWExHa2JSeTYyNTEySlpnQzRzMGYwRE16RmJXS3Y4ZW03LXFYbEVMMGE0b1dLeWpJXzQyYVdHNjd1SldaSmpDNHhla25JOGstRDZYVlNBN05iVHlIbGJkU1hvNEgzSGhlMkM3MkhOS2RvaG41ek51YXpMeWdCY0ZoZTI1bWJJQ293a3k1bG9YSWNsY1dteVVVaFBmRE91Q2M?oc=5",
+      "published": "2026-04-16 21:30",
+      "summary": "IEA Chief Says Oil, Gas Recovery Could Take Two Years After War Damage&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+      "source": "\"(oil price OR OPEC OR crude oil OR WTI OR Brent)\" - Google News",
+      "category": "commodities",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Singapore tightens monetary policy as Iran war fuels inflation risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0V3Tmc1RjNXTFRLYUxkSVZ6WFNCdGdWX1R3Zm9pNGVPVHJuRjFqZEhjWExGLUhNbXl0NEhVUGJ1T3YyQWtLUldfOFNIdS1VTUE2RklJakFSNlpYT1hNMnJEaVExWVktTFJ4aTI2TEs5ZGZGWmNOQ0FVaHdXRjJBeWVuZWZxNUx6SmRyZHFnb1NNUWZwRVVWR1d0cS1OWjlSWlpIYmNDLU9BMS1aT3V5aw?oc=5",
+      "published": "2026-04-14 00:20",
+      "summary": "Singapore tightens monetary policy as Iran war fuels inflation risks&nbsp;&nbsp;Reuters",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTdE1IejFQVEVhRkVUeTFVMUJzc2hnbEluQm5rQWZxb2tYYzRzSUE3bE02bVBhWGZRSDdMX3lXQnV6RktqRE8ybjBBdVc4UWVPZTVDUnZITVZBaENlTk9TVjl6NXk2eXlzRGhGbGJyVkpScnpuOHJHSEoyWWwyb1p2WE1RRkNrMkdidm83MVJkU2dYUjdNdDNaaFBfQdIBowFBVV95cUxQSEV1OFhFUlRLYk9vcWFKZGVONmpTREdmSmNwaV9BcDU0UC1fOWV1VF9OMG4xRnVwei1kMlB2YTJ4dFd0d0xkWkVxVUMwLTE1a0pnQVlBLXBsNkV2Sm0zV2RHU3NMeG5jVFpkcGU0S25PbVl6dFA5YTBmV0cyaFV5N21DTWpTM1pOZFk3ZWl0dzNoQmE1YTY1Mm1ma0FsVVF4SDlB?oc=5",
+      "published": "2026-03-19 07:00",
+      "summary": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'&nbsp;&nbsp;CNBC",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Will Norges Bank Raise Interest Rates Amid the Iran War? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDQ1NUwzRmVNdHVTVzdicDUtVVlueUdEQ2VWSWtjejZkYy1VZWhRdkVfY1EzNkZCcTJ3YUNpVmRqR2w3V2VpLWZWa2RfTGpBWUw4ZDBQenhpRnJFc1FjNXdNWDFWcWxQVTlxMEJ0LV9ZdUhGckcxVEhySldzREg5RWRfdHV2T2pjdFQybnpMMDhrbGl6YVhrUC1jMUtpUEhHM2FlUEhHenl4QU1Hbi1CekFEaks?oc=5",
+      "published": "2026-03-24 07:00",
+      "summary": "Will Norges Bank Raise Interest Rates Amid the Iran War?&nbsp;&nbsp;Morningstar",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Federal Reserve Maintains Rates and Watches Risks From Iran War - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXdQVGN0NlNHN0JKakpoZDZZUzlqcUo2ZS0xS25zX0RxLXIxMVpOYS01RHV1QnV2M19UWXZJVk5QNHlma2o3SEtuSzcyRzRfR3BqR0pBdloybnN5VTdWWC1WeWFDcERpOFZYQ1ZMcng2czJSSDVURWFaVTJfeWtTZEFwZG42Zw?oc=5",
+      "published": "2026-03-19 07:00",
+      "summary": "Federal Reserve Maintains Rates and Watches Risks From Iran War&nbsp;&nbsp;The New York Times",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Trump threatens to shred UK trade deal over Starmer\u2019s Iran war stance - E&E News by POLITICO",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmlZRk5EVGItNmxua1JJTXdmcy03blg4Q0hYdXNSYTRXX3dncHJzUnA2a0JDdFFWM3MyT1lxSUZJSkpSN2VTUWxaYkdmVW5ZWTAyYUk5eFptV1lqcEJtS2tLZlFQYksxUC1ldURHLWlidFZOV0RFYmw2ZG9kWVJNZmdoUk9YUjRILTlUUmU1V1haR05rNzlQY0lNMDFCTzFRU2dr?oc=5",
+      "published": "2026-04-16 16:40",
+      "summary": "Trump threatens to shred UK trade deal over Starmer\u2019s Iran war stance&nbsp;&nbsp;E&amp;E News by POLITICO",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - WTOK",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVE9WNmczbnZDaGczLVdQc3l6d183b09pTWxQTHo2RUZzWnFTeTRGV21DZVItOVcwRU1XbWkyalIxNW9YTVJ1RjVBQVlmb2dkek9ycmlybFlmTUhnUTFFT3IzcW5BUGJINWhHT0xDZDVKczJtclY3SHcyVnhtaTF0SGJEUlJyWTVvVGZNSHg5RjdBLUnSAacBQVVfeXFMTUM0SzlmTmd5VEJwV1g0RjhPXy00czdzaEt6RXhteFdXb0t5VDc0eEo4b1gtenM4bHZNelJuQ2ZucThtN2FsdWZYYUtmbDd1cUxKZ3k2c2NvOFhVUUxBWnNuNzBHZ2FSME9Nam9jckZSdnRmbTJHb0NOUmRMUk0xODVBVWVqeVNoTGZPTDQ2WEJWUWRVbHBqdVdMU2gxUkxFZFV0T1RDV1k?oc=5",
+      "published": "2026-04-16 17:54",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;WTOK",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - localnewslive.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXUzM09EazQ2eVRXR0tjUkJVOHRORG11SFVVMnFRUXBhZEdtREx0dlA5ck5IQ3cwSVhXSEtWdTFEOGExcnloeDIxbWtEdU9RaU9RWGtFaHpmeU5BMDVjTVNWN1NhS1dRSWx5X3RHRHBrSHdvV2YxOXVDTV9IcXF2cGtDNUpYNDJacWFyYzFxUnl5dy1WSHhCdW5BYUdVVVZCVUhqN1FZanJMdw?oc=5",
+      "published": "2026-04-16 19:35",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;localnewslive.com",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Trump's trade war with China in focus ahead of May summit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWdZTUNvd3VfbWx4djBBNjU0OGZlbE04dHRGUC1VaEw2Zl9uQUhfQnNzQzkzdVNPeEMxUk44bjFMSjFwajgyN0wzTGdTRDU2WUZTUzREQ1YyWnlMSzhpeU1hWDVUeUxwWG1MdzZoRHVmbGw2VTZRXzQzNDFLek9LOWJWQ0QtWU9JckhvbVZXSkxqc2Fpb0hnOHhXSHJXdlU?oc=5",
+      "published": "2026-04-05 07:00",
+      "summary": "Trump's trade war with China in focus ahead of May summit&nbsp;&nbsp;Reuters",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Africa Trade Insurer Seeks $500 million to Help With Iran War Cost Increase - Insurance Journal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZcU9GTjBtbk5oN2lRZWt4UEdNUGpLQ3JBM2VsbUQtYlpCMFZqa0dsUmhSQTdEMHNxQ0NVdlZ0ekJIM0lGa3VXQ01yODFUOFFNMjlfaGZIellZSnpQcnFoaHJXR2ZIZ3M3NUk5eXJ5dHlOQ0pCd1RyejRHRjZ5Zw?oc=5",
+      "published": "2026-04-16 07:56",
+      "summary": "Africa Trade Insurer Seeks $500 million to Help With Iran War Cost Increase&nbsp;&nbsp;Insurance Journal",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - Dakota News Now",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmFCQ2R5M3BzdzJXTFp2ak92RW1GdmMxWF9WQVY1UkpyM0EzT0ZXd3hWdGNWZUtJNkZYTXRZZ0tnZlBnQjJQWEhZQ0xmeHl1b0Z4M2lWT3p2SkxIVThXSi1JZjY3dlV6aWpsSmNBNUxHc2VTVnN1Y1gwUjRQazE4OUpnZmt5TDA3c1RHSGlRaWJzY2FYTHN6VWF6WG1DMXFjOS1OMUVsZw?oc=5",
+      "published": "2026-04-16 17:47",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;Dakota News Now",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Already under financial pressure, farmers squeezed further by tariffs and Iran war - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEhKR1VxUnhicmJkV2laLUZZa3BIWlgySW5XcldUWjFwakw4VVd1dzdyQnM0N1VUQnluc0w1U0hrbDgyMlNuTTl0bTZIN3NIMlVvLVhxTHQyY2NtcWpLWkRuX2xicmZSV0ltc2JkbHQ4ODFNT0J6Z1ZDUEJGcklMQkNJX3hkN3FEckx6cWcyQkI3dFZtdUJTVlVmbjB4b29WbHAwMVByWHR2QVE4cktySjJTUWxTbFpT?oc=5",
+      "published": "2026-04-13 18:25",
+      "summary": "Already under financial pressure, farmers squeezed further by tariffs and Iran war&nbsp;&nbsp;PBS",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWRGOWVUVkRTMzZIVVRZekxaMDdZRGtfeU5xMlBubUxwWm9RaTFrdy1NaFIyZzU0WmwxM3JXRHp4dWRKZzZuVUcwMTZ4aThDdUFpSEtnbV9ObGEtdUFmajNZYlF3V0l5MDd6aVFXTEZYWnRhbnFvbGVxcFFNOWRXWkZOYnRYU2VaSURBR1RLalZIbWdmSXFacXJCYUJGTFJTa1E?oc=5",
+      "published": "2026-04-16 17:47",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;FOX5 Vegas",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Carry trade: War-driven gains question durability \u2013 Commerzbank - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlNEYnpQUmFaeHhYYzZyQnhXcmRRRDNiQjAwcVZ5RzlRQ2psSWV6X1dkNGhraTZjYkdpQTBlT0RiTDhBaUJUbzdZOGdrTGJCZDhvUW5IWGg0c2VPWkhmVmZ5eFhZUkNaaHkwVzVqUnowenhZZ1FNZV9NNHZ5Nk0zeEhWa0lQQThvdXlJWG9fNWxGMlpXWFlCdlY3eElLQ1ZPYlRsa2hn?oc=5",
+      "published": "2026-04-16 18:38",
+      "summary": "Carry trade: War-driven gains question durability \u2013 Commerzbank&nbsp;&nbsp;FXStreet",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - WSAW",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmZNTnd6M1h6a2ZxRm93aUpZQTFkWEVXbDhLeVB3SHdHRmlXUFFHR29MRDVHT3Y5dklzNGY1SDhvOVI0b256M3o3YWpZUW1EZDJCVW1MMlFEUGpyVVRmRG1MWmR4SmxIS0RWQU5Cb0VNOGlPXzNWTWVlWWpzbUV3THRubWppdU9pMzA4Q0ZqSHdyRTJvR04xOUxVWQ?oc=5",
+      "published": "2026-04-16 17:47",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;WSAW",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - WBKO",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUJWeFBpMVJsRy1xdFMtYU9RSDFBbFFxdDFncUgycldicUs0SWl5OF9EeUZwamhVb3hRTTBWVUhqc0l1bjdWbnRMb2Q1dlBOR3JCdnI1MVZia2M3Ql9lOFRBaFZGRjVSRTVrMmpMNXlpRHNpVjZsV3dlXzZ3dWdBNC1hR3lxSE1ydXM1R0ZNTUF1Y1VRMGd6OHREUQ?oc=5",
+      "published": "2026-04-16 17:47",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;WBKO",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Iran threatens gulf trade as Trump claims war is 'very close' to being over - Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzBaNEFRZ0lkc2Zic09PNXlaT3Qwc2sxdlFUOEZIeFBxdU1XLVRxTjBNbXF0eTlDSjFhNVF3UktxYV9QLXI3cDNQc25BYU94MTYxRHk5dGVYWFRXYXpXSUlvSFMzX0ozU1o4eTR0V3BtX1F4MDIzNWtxMnBFV1Rsd1BSUkJnTlNESEhFeFpRZ3B3MDhNNmttclY0RXpuV2x2SVVPTUlyaF9aVGgyWUh2UnRQRVZuR3VsdGc?oc=5",
+      "published": "2026-04-16 11:00",
+      "summary": "Iran threatens gulf trade as Trump claims war is 'very close' to being over&nbsp;&nbsp;Atlanta News First",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "LA Ports\u2019 March Imports Hold Steady Amid Tariff, War Turmoil - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXBPNU5veW0xTkFLVUpWOGxfX0tELVZJWXEwMUNEeWFCNkZCQi11RmstVEZGZnhvUzc5TU5La3lNQXlCbEcyVmdaYVpfVDJ2Ukh3Vy1iSWNzOXIyN0RvWHhRdFVFcGhRUUN1SWFOZ29hajlndUZ1ajM1WFpNN0JVZ2hVNDZWN1RSTTlHNEhKMmt1RWJFYVZPelZnWlBOZmNQWTcxUlBmR29FUmFIdkE?oc=5",
+      "published": "2026-04-15 17:05",
+      "summary": "LA Ports\u2019 March Imports Hold Steady Amid Tariff, War Turmoil&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82OFBZX2F2d3YyOGlvRFlMeE9wWDVEYWRta2lMNVhncEt5V191SE1XMGtVdjNleTBZQ0VKY0luTWUxSTRNTGRBdDUzdU9WTEJOazg1bFo2OV9UUQ?oc=5",
+      "published": "2026-04-15 15:27",
+      "summary": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war&nbsp;&nbsp;BBC",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. naval blockade cuts Iran trade amid war, Pentagon says - WWNY-TV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZEdxcDVhOVRTV1M4aVBIVjlJdlExSFhiY3l0dDQtLTF6RzFqVGtFekg2UlZHSUFGd05QWngxZGNQQUdweGN1cGtoVU9DbVVDeVBSMDhUSmV3Z1E2VzJhV1F4MEdTYU9nbGRZdzFIOTZmcVdOOHFuTUd2c1EwMzl2WGVGUHIzTDZVMmFJb1M0bGhYZUNjVEtSQnlpcW53QQ?oc=5",
+      "published": "2026-04-16 17:47",
+      "summary": "U.S. naval blockade cuts Iran trade amid war, Pentagon says&nbsp;&nbsp;WWNY-TV",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "SEC Announces Enforcement Results for Fiscal Year 2025",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-34",
+      "published": "2026-04-07 19:48",
+      "summary": "The Securities and Exchange Commission today announced enforcement results for the fiscal year that ended on September 30, 2025.Central to an effective enforcement program is determining which cases to bring and responsibly stewarding Commission\u2026",
+      "source": "Press Releases",
+      "category": "regulation",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release",
+      "published": "2026-04-16T00:20",
+      "summary": "The AI company\u2019s own experts warned Mythos could hack the systems beneath most modern computing. Banks and government agencies are racing to gauge the threat.",
+      "source": "Bloomberg",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "First Look At What A Night Stalker MV-75 Cheyenne Will Look Like - The War Zone",
+      "link": "http://www.twz.com/air/first-look-at-what-a-night-stalker-mv-75-cheyenne-will-look-like",
+      "published": "2026-04-15T23:19",
+      "summary": "A new rendering shows an MV-75 with special operations-specific features like a radar, other sensors, and in-flight refueling capability.",
+      "source": "Twz.com",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Spirit Airlines at Risk of Liquidation as Fuel Costs Bite - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/spirit-airlines-at-risk-of-facing-liquidation-as-fuel-costs-bite",
+      "published": "2026-04-15T21:18",
+      "summary": "Spirit Aviation Holdings Inc. is at risk of being liquidated as rising jet fuel prices spurred by the US war with Iran further squeeze the bankrupt budget carrier\u2019s finances, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "'Fed's balancing act is getting trickier': Wall Street strategists reassess central bank's rate cut path - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUFrdnAzajZMWnJiMUlLWGdpbWFQcEVMaHBOY1ZYdjlrQVM1Z1ZMWFByY2M1a0UzVnVDSTBVSkpkT1ZaYmhVcWo3cVRQeVhHRG5Mb05PdEt2bldtZzkzVlBRS1doT1JGUV8tTU0xU2JWTTc2TGRhRlc0b0JZUGl2Q0h5akEyMnhmRTRhRC1iWURRU2JTTS1QbEc4ZXVZa01odHlhY0xKMjY5bmFzbTIwMGNnenBhX0VtbFM1MDl4OU9vVDRwOTU1QmJkUTV1eUJLaGNKNnJYYW5JZ3FSV0E?oc=5",
+      "published": "2026-03-20 07:00",
+      "summary": "'Fed's balancing act is getting trickier': Wall Street strategists reassess central bank's rate cut path&nbsp;&nbsp;Yahoo Finance",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "It's Tax Day. You still have time to file an IRS tax extension.",
+      "link": "https://finance.yahoo.com/personal-finance/taxes/article/its-tax-day-you-still-have-time-to-file-an-irs-tax-extension-220004581.html",
+      "published": "2024-02-13 22:00",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "category": "markets",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "A $285 Million Crypto Hack and Falling Yields Rock DeFi Industry - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWhuRlo5aEl1U0FsdWFLZFIzMWs5ajl2V1FGWklyT3Z6WTdEcmd2blJ4Z0M0dGYxLUZudXg4NWZQS1NqNzdFQ1A3VUl6MEVaLTh1Xy1FOXM5b0hXTW1NNjNDVVZCeU9WWnlOOUdUZy0wZHJzZlFuQlJwSVg1XzVJZXFHTmNJalNVZE4xbzhSYms0TUZ2WWxnaDNLVG53VXJ6MkpxQTdQeXFRYm8tdzhhOVE0YUg?oc=5",
+      "published": "2026-04-16 16:54",
+      "summary": "A $285 Million Crypto Hack and Falling Yields Rock DeFi Industry&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack",
+      "link": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-04-17 01:35",
+      "summary": "Circle was accused of aiding and abetting the conversion of the stolen funds and negligence after it did not freeze funds stolen from the Drift Protocol in April.",
+      "source": "Cointelegraph.com News",
+      "category": "crypto",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Oil prices dip as Israel-Lebanon ceasefire eases geopolitical tensions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWxmbWhXSU1EWVY4eW1JdUxERVhxSFQ5ZU1qVWZsUnJiazlZQ0hGT0dWaU5zeGJGTzdOelA1ZGxvYkNwTGVJaS16bUdhcHNKTkJPX2VkV0w1a0FnQ0dsTHFMbFhwSThLb1ZuTnhrNmV1M1NHNGU1VlhYMjZVYjJRYTlUVzlLN0JCdWQwQUMwWGM2dVpUOXl2elBHTzNKdlk?oc=5",
+      "published": "2026-04-17 01:32",
+      "summary": "Oil prices dip as Israel-Lebanon ceasefire eases geopolitical tensions&nbsp;&nbsp;Crypto Briefing",
+      "source": "\"(oil price OR OPEC OR crude oil OR WTI OR Brent)\" - Google News",
+      "category": "commodities",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Bucking expectations, central bank cuts interest rate despite inflationary pressures - Mexico News Daily",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVobUdzRkRGbnNzUzNZeDRXUzBzYTdlVzZna0xGeUFyeVo5TENDQUxGZ0ZhQzNkZWIza1FsQlJXaWN1U0FVNmxkVDZrRWhTaHlIbjZPMnRzaEhhQ1NvcVBvOFo1Sm9nejdWdWpydzJrSTFMRUJVeGhkYmNaNWEtUTdPWW4teldIUDBSNGZMOUJBYW5OS0l4Qk9mQnJiRmhMVGZqM1c5dEFBdE8zYktFQS1YZFB1dXpqMEMtbkRn?oc=5",
+      "published": "2026-03-26 07:00",
+      "summary": "Bucking expectations, central bank cuts interest rate despite inflationary pressures&nbsp;&nbsp;Mexico News Daily",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Annual inflation up to 2.6% in the euro area - European Commission",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNHQ5ZjJXaGtVazUwVFVldnFSVExoekxNeGIwenVyNDJDc0xaMHpGQTZfMjFUY19xZlVqdTRIZ3Z6amJrZHFDOEh4ZDQ2dTdqM2lZVy15bldFd2hRVDNJb205YkVpYUJTcDZJMmxvMEZSZlhqcl9RaXRWTHdBa2s?oc=5",
+      "published": "2026-04-16 09:08",
+      "summary": "Annual inflation up to 2.6% in the euro area&nbsp;&nbsp;European Commission",
+      "source": "\"(CPI OR inflation OR GDP OR jobs report)\" - Google News",
+      "category": "economic",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Netflix stock sinks after streamer reiterates guidance, says Reed Hastings to exit board",
+      "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
+      "published": "2026-04-17 02:22",
+      "summary": "Netflix beat expectations for Q1 revenue and reported a big jump in earnings per share thanks in part to a termination fee related to its proposed WBD deal.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Asia markets open lower as fragile Middle East ceasefire tempers sentiment",
+      "link": "https://www.cnbc.com/2026/04/17/asia-markets-today-nikkei225-hang-seng-sensex-asx-ceasefire-oil.html",
+      "published": "2026-04-17 01:56",
+      "summary": "Asia-Pacific markets open lower Friday as an Israel-Lebanon ceasefire tempered risk appetite, even after Wall Street closed at fresh record highs.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company",
+      "link": "https://www.cnbc.com/2026/04/16/minnesota-boundary-waters-mining-congress.html",
+      "published": "2026-04-16 20:51",
+      "summary": "The vote to allow mining near the protected wilderness area came over the objection of Democrats and two Republicans.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "35% of Gen Z homebuyers are single women, research shows. Here\u2019s why they need an estate plan",
+      "link": "https://www.cnbc.com/2026/04/16/gen-z-homebuyers-single-women-estate-plan.html",
+      "published": "2026-04-16 14:22",
+      "summary": "Despite purchasing what might now be their biggest asset, women are less likely than men to have any estate planning documents in place.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "LOW"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "count": 15
+    },
+    {
+      "name": "Yahoo Finance",
+      "count": 15
+    },
+    {
+      "name": "MarketWatch",
+      "count": 15
+    },
+    {
+      "name": "Bloomberg Markets",
+      "count": 15
+    },
+    {
+      "name": "Reuters Markets",
+      "count": 15
+    },
+    {
+      "name": "Federal Reserve",
+      "count": 15
+    },
+    {
+      "name": "CoinDesk",
+      "count": 15
+    },
+    {
+      "name": "Cointelegraph",
+      "count": 15
+    },
+    {
+      "name": "Oil & Gas",
+      "count": 15
+    },
+    {
+      "name": "Gold & Metals",
+      "count": 15
+    },
+    {
+      "name": "Central Bank Rates",
+      "count": 15
+    },
+    {
+      "name": "Economic Data",
+      "count": 15
+    },
+    {
+      "name": "Trade & Tariffs",
+      "count": 15
+    },
+    {
+      "name": "SEC",
+      "count": 15
+    },
+    {
+      "name": "NewsAPI Business",
+      "count": 14
+    }
+  ]
+}

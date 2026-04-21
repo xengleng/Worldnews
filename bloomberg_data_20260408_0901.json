@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-08T09:01:15.876565",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Bank of Korea to hold rates at 2.50% as war-driven uncertainty persists: Reuters poll",
+      "link": "https://www.channelnewsasia.com/business/bank-korea-hold-rates-250-war-driven-uncertainty-persists-reuters-poll-6042486",
+      "published": "Wed, 08 Apr 2026 08:37:37 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "f84773bc8559481ebe985c36ce0432c1",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Gold extends gains as Trump pauses Iran attacks for two weeks",
+      "link": "https://www.channelnewsasia.com/business/gold-prices-trump-us-iran-war-ceasefire-two-week-6042456",
+      "published": "Wed, 08 Apr 2026 08:27:00 +0800",
+      "summary": "Gold, which started the year on a strong note, has fallen more than 8 per cent since the Iran war began on Feb 28.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "fd42f498aaf91143d96b7bbc5762840c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "CK Hutchison's Panama unit files arbitration against Maersk over ports takeover",
+      "link": "https://www.channelnewsasia.com/business/ck-hutchisons-panama-unit-files-arbitration-against-maersk-over-ports-takeover-6042441",
+      "published": "Wed, 08 Apr 2026 08:09:26 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2c8a745604c5308e3ecc2614e7f1c28e",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump agrees to suspend bombing of Iran for 2 weeks if Tehran completely reopens Strait of Hormuz",
+      "link": "https://www.channelnewsasia.com/world/trump-iran-war-ceasefire-strait-hormuz-pakistan-6038491",
+      "published": "Wed, 08 Apr 2026 07:29:41 +0800",
+      "summary": "Iran says talks with the US will begin on Friday (Apr 10) in Pakistan's capital Islamabad.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "d53480cc408b4c1915b53b7e896b6e40",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "These women give blind, ageing and terminally ill pets a home \u2013 when no one else will",
+      "link": "https://www.channelnewsasia.com/women/women-adopt-senior-sick-pets-singapore-6020576",
+      "published": "Wed, 08 Apr 2026 07:18:00 +0800",
+      "summary": "While many adopters seek puppies and kittens, these four women chose the opposite \u2013 giving homes to blind, ageing and toothless dogs and cats with cancer and dementia, and loving them through their fi...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "70474e7efe88bb7a3d19745e320384df",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
+      "link": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
+      "published": "Wed, 08 Apr 2026 00:45:50 GMT",
+      "summary": "Asia-Pacific markets opened higher after President\u00a0Donald Trump\u00a0said he agreed to suspend\u00a0planned attacks on Iranian infrastructure\u00a0for two weeks.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "717f33688565bf620a873e715c3efa29",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Oil slides after US and Iran agree to conditional two-week ceasefire",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 00:45:50 GMT",
+      "summary": "Trump announced the deal not long before a deadline for a Tuesday evening ultimatum for Iran was reached.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "9e86c54b998fb3315d57ca187569631f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 00:45:08 GMT",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "8c16b104427e1349001fb0bbf1a38c13",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 00:37:00 GMT",
+      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "9ea9c606e2ac13a915688b8f4e1498b2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
+      "link": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
+      "published": "Wed, 08 Apr 2026 00:16:36 GMT",
+      "summary": "President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minister Shehbaz Sharif.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "c22b85d2809b52984c0812dcd96a86cc",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "US, Iran say they have agreed to a two-week ceasefire",
+      "link": "https://apnews.com/live/iran-war-israel-trump-04-07-2026",
+      "published": "Wed, 08 Apr 2026 00:16:22 +0000",
+      "summary": "Article URL: https://apnews.com/live/iran-war-israel-trump-04-07-2026\nComments URL: https://news.ycombinator.com/item?id=47683033\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "16896c2a4ee1e530f2a9448cf8d0681e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz",
+      "link": "https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html",
+      "published": "Wed, 08 Apr 2026 00:10:28 GMT",
+      "summary": "Pakistan Prime Minister Shehbaz Sharif had asked Trump for a two-week delay of his Iran deadline, and for the Strait of Hormuz to open for the same period.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "a06d5963959e084e503d3df0ae30643c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "White House confirms two-week suspension of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 00:06:56 +0000",
+      "summary": "The White House has confirmed the US has agreed to suspend all bombing and military attacks on Iran for two weeks.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "bc914eb00011e112609867f85743023d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups",
+      "link": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+      "published": "Tue, 07 Apr 2026 23:37:42 GMT",
+      "summary": "Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic and Stripe.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "da2781cf25a0eaebae1041674ff0f0b3",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Xilem \u2013 An experimental Rust native UI framework",
+      "link": "https://github.com/linebender/xilem",
+      "published": "Tue, 07 Apr 2026 23:36:15 +0000",
+      "summary": "Article URL: https://github.com/linebender/xilem\nComments URL: https://news.ycombinator.com/item?id=47682719\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "cc93b79149d6e29a8f71564dc1d3b034",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 9,
+    "high": 1,
+    "medium": 0,
+    "low": 5
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 11,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

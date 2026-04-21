@@ -1,0 +1,24 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260417_2205",
+  "executive_summary": "Active wildfires are occurring in Alachua County, Florida, near Gainesville, with a 400-acre wildfire forcing road closures and requiring firefighter response. No significant climate system disruptions or major environmental policy developments are reported today.",
+  "key_insights": [
+    {
+      "insight": "400-acre wildfire burns near Gainesville airport; State Road 26 closed",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Gainesville Sun - Wildfire News",
+      "url": "N/A"
+    },
+    {
+      "insight": "Firefighters battle wildfire off State Road 26 in Alachua County",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Mainstreet Daily News Gainesville - Wildfire News",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Wildfire season typically intensifies in April-May across the Southern US, but real-time wildfire monitoring data and smoke/health impact information are largely underreported in general news feeds.",
+  "url": "N/A"
+}

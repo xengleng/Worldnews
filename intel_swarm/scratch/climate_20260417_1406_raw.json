@@ -1,0 +1,488 @@
+{
+  "domain": "climate",
+  "timestamp": "20260417_1406",
+  "sgt_time": "2026-04-17 10:06 PM SGT",
+  "utc_time": "2026-04-17 14:06 UTC",
+  "total_items": 50,
+  "items": [
+    {
+      "title": "Wisconsin will see warmer, wetter weather \u2014 and more extremes, report finds - WPR",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3lGQkxjMmFIWm1rMUV4MndvZF9MWTd2YjV5ZzNCd3VtcklhekpKajU3bmVTVkR3SEdRa3Vkd2NkOTdoa3VhQkZHUGJLdG9POFFvY25ab1VKZDM1MnZJUGtQX3ZJM2JaVmN6TzFlVXU4R3NoRmtiVmpCSkJKTUFyZGV5OU9IbHZCVmV3?oc=5",
+      "published": "2026-04-16 10:03",
+      "summary": "Wisconsin will see warmer, wetter weather \u2014 and more extremes, report finds&nbsp;&nbsp;WPR",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Flood warning for northern Lower Michigan through Sunday night - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWlRQ0tvMVVXUzlrUHdTbEtxVWM2alpuS1JDbDdVM21sUTBCcmtCT0FPeFlWbnN5WVctbV9aTWRJWWRvdTg2QU5ZamtEVnJ5ak9wVXZvcGlGTnVyZWlURVJxSFI0eGNTMEJaZzFaRWs5eFJVdXdZQ3RFeE9YUGhjMmc5S2NubW1Ha2ZSMGM4eXdWU1dtMXNyNmhiLUYxMng2eWppOVpud0NIR191VUdnNWdwd1hnX3NYTGJBQ2otanlLZm9iMVcwWUhpcHJYczBnTEtvXzg5WWRxUQ?oc=5",
+      "published": "2026-04-17 09:37",
+      "summary": "Flood warning for northern Lower Michigan through Sunday night&nbsp;&nbsp;The Detroit News",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "At least 30 Wisconsin counties remain under flood warnings Thursday - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM2VwWFdlU0FEc0xMMFM3c3NBdVdxdjFreEk3WGMyWjZuLTFZZC01bUotWUJPQjkzbnBxTFV5V0daaE5TbGVLRWNiSzFRZDVsTFEySncxMzdzRFpiS0lSeWlubkRRZEp6QmFDc1RxVHB6cmRKTHVCUXM1eFZ0Z2NWWDhLYi1jTGVZVWJMWmU1c3dyWmVhVWdyYTdnN1pkTW9vNFlRVmk1anJhREF0bFNtdjB1TDVyZllQRTlkZlZHT203QTJpd0pTS1NMRQ?oc=5",
+      "published": "2026-04-16 22:46",
+      "summary": "At least 30 Wisconsin counties remain under flood warnings Thursday&nbsp;&nbsp;Milwaukee Journal Sentinel",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Flood warnings in effect across Wisconsin due to heavy rainfall - WPR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bcm44SXBYU21ya2JPY3pUUHE3eDNPbklob0NiZnllM3hVTzRaSmw5NVNibUlnRG43TUxiOWtEcjRJcGFvS0oxTDd6b2FyOG81dnd4MUlGUTI3TS1rNWlnRHdpMTIxOGdQOWJ1bjBJdXFrQzFVaS1Mai1PZw?oc=5",
+      "published": "2026-04-16 15:49",
+      "summary": "Flood warnings in effect across Wisconsin due to heavy rainfall&nbsp;&nbsp;WPR",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Gravity follows Newton and Einstein's rules, even at cosmic scales - Phys.org",
+      "link": "https://phys.org/news/2026-04-gravity-newton-einstein-cosmic-scales.html",
+      "published": "2026-04-15T23:40",
+      "summary": "Gravity, as most people understand it, is the familiar force that pulls a falling apple toward Earth. But for astronomers and theoretical physicists, it is also a vexing invisible architect that guides the shape and evolution of the largest cosmic structures \u2026",
+      "source": "Phys.Org",
+      "category": "climate",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Storms, floods and empty greenhouses: how extreme weather is disrupting organic supply in Southern Europe - FreshPlaza",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWJZcS1XSVVYOHc0M185dzRsQ2ozak5UVG1TNmxaRlZmV2pBbHlwQzMzSFdRZU9rdHktOVlKdF9mczdQNTZpcTZ5amVBTkdRYXppc3lUZEt3YTlIQUVMUzcxd05ERTkxSkN4Qnh2MUZnSnhyVkloWmY5RE44RnlONlhQVXMtX1FUTFRCbDlmcTZMVy1WLTdSWC02a0JBZnU2YWtWRkFnak42T09NUzRkYmpGZ1RQUEZEUExtMXNBUl96SV9jdkVRMlJ5cGhFSFdyQW9mOXRMaW5Kd1N5QkcxbktNYUF2Nk4zRTF4YWxOVXRmeVU?oc=5",
+      "published": "2026-04-17 12:45",
+      "summary": "Storms, floods and empty greenhouses: how extreme weather is disrupting organic supply in Southern Europe&nbsp;&nbsp;FreshPlaza",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Flooding has Michigan \u2018in crisis mode now,\u2019 Gretchen Whitmer says - Bridge Michigan",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDlLM2ZZQThBSDEzSGZpNVVoU2xLN0ZCT3FWMzVHTGZ2c0xUNUZiOG9kZnJnU2VlYVV6RFpycUpLUDdEWkZaRWx2WnBnT1NPRE9CMlJUcnZhNS1PNUdvRVh4RE15UTRSVENSbFhYU2RyYnRDYWNYMi1TR25CbmJHOUdJNGNvMUstdUFaMGUycElyRjJwVnA1dU9OTWpGRVZsYnNlelN5ZDdyazlYV0dFMQ?oc=5",
+      "published": "2026-04-16 22:05",
+      "summary": "Flooding has Michigan \u2018in crisis mode now,\u2019 Gretchen Whitmer says&nbsp;&nbsp;Bridge Michigan",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Michigan Flooding: Dozens of Counties Under State of Emergency Amid Dam Risks, Health Concerns - Direct Relief",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnNLQ3JjQmJLaF9jNEdVbzlNbHpIa2xIT1RORUhkNy1VRjdiRmxJcWFRcXdIdW1rZk9fcS1HSENyWmFQb3N1SmxiUHBWcjF4WlJZVGdvR2w5NGJGLWc2ek9yM0kyTlM2OVZRclFGS3I1M2VyUVFjcjVGdFRTekJmZG1KbHZNV1hmaWQ4?oc=5",
+      "published": "2026-04-16 22:01",
+      "summary": "Michigan Flooding: Dozens of Counties Under State of Emergency Amid Dam Risks, Health Concerns&nbsp;&nbsp;Direct Relief",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Severe Weather, Including Threat Of Strong Tornadoes And Flooding Rain, Forecast Friday In Plains, Midwest - The Weather Channel",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0dHUHI1RVhsSFprcTN3NlhHZ1I3TGktZHBUWWpfMUJkQ3B4dlkxeGNPdXUyRjhmMkMtcElXY0p6VVVhczBaTHkxYWVqdVNmaTJiV2o4RGZ5cWNjNWRyS1dOZFczZUJyRUREZlNhRjlvZE1ka1E3b1pURndTeDFic0JiQXZwTFJhRVl0amVzWmJhTzJ3dVlGUE0yejJLWW40VnE0?oc=5",
+      "published": "2026-04-17 13:39",
+      "summary": "Severe Weather, Including Threat Of Strong Tornadoes And Flooding Rain, Forecast Friday In Plains, Midwest&nbsp;&nbsp;The Weather Channel",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "List of roads and highways closed due to flooding - WBAY",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yMjd2T2tST1h1NEozbThtaXhoUUZjazhaVFNaZWduYkJkbkR2Sy1idm9WUV83QnB1MEJqd2ZKVGhuVGg4dlZzZjhOVXM3Q3lPNVlGbXpBTDFXRTVwWWZOWlo5NmVnak5MZGp5b0dIbno2WW1FSXdjVmZtbHM?oc=5",
+      "published": "2026-04-17 09:13",
+      "summary": "List of roads and highways closed due to flooding&nbsp;&nbsp;WBAY",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Drivers Stranded as Flooding Closes Major Highway in Milwaukee - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2ptNVh6NFFVTy1EcjNWUy1MME1fYXF0aUw1dXVUUlhYeW1yX0xrNll5cld0WHFSWjNVaDVpQlROZWVaT05yeHY5bzY0TVRyVFdFS0FVa3R5MGtHdl9HZGw1MVo5TzU5ZEUtcVpHZjUyOU1raG9lUUFDWktXSmZLNEU1TDRKUk5aREl2TA?oc=5",
+      "published": "2026-04-16 20:53",
+      "summary": "Drivers Stranded as Flooding Closes Major Highway in Milwaukee&nbsp;&nbsp;The New York Times",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "WATCH: Drone footage reveals jaw-dropping extent of flooding in Michigan - FOX Weather",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSi1qbkdHOVFmM2tkdDlOdk1mMUFuNUtSYzFUMDU4eTB6TmJsQzdKSnhNSktqM1JGa2NlWnRsMjlCT0hyZ01KXzUtamxYdk5wZE5DQ2Ntdno4dVdtTE05eUdhN2VtMkx5UWtBR205Ujh0T1ZZLW1wdll5bXRmYmFUNV9JSkRaT0Y4ZmdRSE1zQ3VmNVV2d2tsX0xqVzFiUEczYloyaWRIWlFWR01VbjM4NEhpazhyel9lc3R3SEZ3RWhnenhB0gHKAUFVX3lxTFBLa3hiQW9UOUpsNmFRWDZ0dGM5LTg3RHNJLW1NS2ZadEwwUVN4YmJyRFZTajAzSHRpWi1zZUNLOTRYSkpDdkI4TE5WazRqbGdhUlZTdW9Qb3FWWEpSUkEyWFlvbTltNVpucmtoSFhXX3BVaklaNTFVNUtYc2RJVDZCTmoyVUJ0dHhBU01TOU85R1pEUGppcXpaRUJBSFRIWW1EOVBXYTdha0h2NWpjYXllWEU4N0Z6M3ZUc3ZSelRlU3E2cVdtbWc1MlE?oc=5",
+      "published": "2026-04-16 23:08",
+      "summary": "WATCH: Drone footage reveals jaw-dropping extent of flooding in Michigan&nbsp;&nbsp;FOX Weather",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Mecosta County declares local state of emergency as rivers flood homes, roads - Big Rapids Pioneer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmpXNkszRUU5VTgtdmhFdkp3SllMOGZ4b09odmt5cFpuQXQyOGxBVTBodGxNdmRoR0RieGVOOU0zVjlwRzVIQ0JGQzBzUmJfR0pRRWJ6LTg1NlNRbGRQekpTODZUV1FFc09BNUtuZHVJV3FtVExiSlVxcWlfUkl6bmFOMGdYX2ZJRzF1Q0xYNGwxdGRjblExY1dKZ1RlUFE?oc=5",
+      "published": "2026-04-17 00:50",
+      "summary": "Mecosta County declares local state of emergency as rivers flood homes, roads&nbsp;&nbsp;Big Rapids Pioneer",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Black Lake flooding devastates homes as Cheboygan County residents are urged to self-evacuate - ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0RiWkNucGVrR2hpR2haWnFNb2FJMnJvSncyZDd1dG91ZnMybFJpYXZDMGctZm5SX0Q2UWs5aVEtTEluNzhqclNoQTh1dl9jc2hXZk85VlY5VFAxWS1QMkdKbjFVTmZLV2FvQ0dmMXRuZmttaTlteTBydDNwWFJPVm9VOW1wMmhXbTFwZTdVN1BXZl9IRTN3c3lpMlJMSVltbF9lMjhVVzBKV1JvZ1Y0Y0ZLeWR2TFVFSFpZUzdsb1FGajZRblpzenN5cFZZMkR1SjFPcEpuT3p1cE5qYnJucQ?oc=5",
+      "published": "2026-04-16 23:38",
+      "summary": "Black Lake flooding devastates homes as Cheboygan County residents are urged to self-evacuate&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Flooded Northeast Wisconsin communities brace for more rain - WLUK",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPb1RGYW9pOURSdXVpY0dERzZOX1BpUHVNak9kZmZWWlVjTWl0N0ZKNGt0ODVXdmtDTzFZc0ZvdElGaUg1enBzU1hkei1VMllYaVQtYkROcU8tS1pNb3BNbmFzemJid2Zlcjg3NC1BM3pPSXhIWjh2MnBMMExHMmdBSlVGRlBmaDktcksyMnZaZXVWU3RwUFNMZ3JGT0VhWGFkckJMQWhvTXB3SUZBUXREZlUxRGQ4cndyTkE4RG1felpxTXlOWW9UcDU5YkdMY1c4NGRqRkRmVWJGbTB3c0NLSGZzN1NPa3dLbjhHVGVvRVY4QS1ndWdyS3NGRW56WkV0NHpOZTNjN1JxanBRYk5sRURiRGVENHRPVC1wWA?oc=5",
+      "published": "2026-04-17 13:32",
+      "summary": "Flooded Northeast Wisconsin communities brace for more rain&nbsp;&nbsp;WLUK",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Drone footage captured the extent of dramatic flooding in parts of Michigan. At least 14 bridges across eight Michigan counties have closed or failed as of Thursday afternoon, April 16, due to recent flooding, according to a Department of Transportation spokes - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSN0tkcy1rOU1EVnd6R2pfNWJud2hmMlFXQWRxS3NIZGlqZG1MbC0yY1BqUGxVMWFjaWxhX3BHWWlFYTBYWU1tZzV4eFhCWG1wakZFYmRB?oc=5",
+      "published": "2026-04-16 23:53",
+      "summary": "Drone footage captured the extent of dramatic flooding in parts of Michigan. At least 14 bridges across eight Michigan counties have closed or failed as of Thursday afternoon, April 16, due to recent flooding, according to a Department of Transportation spokes&nbsp;&nbsp;instagram.com",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Drone footage captured the extent of dramatic flooding in parts of Michigan. At least 14 bridges across eight Michigan counties have closed or failed as of Thursday afternoon, April 16, due to recent flooding, according to a Department of Transportation spokes - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNTZzcVQ3Mk1uVHZHT3RaeHphTG9iSEpDbHpiYVdTbm4wNTNNWVM1Tm90OWhkY0lIdmlEMjVISk0yVDh1U0NTQ3lub2stOTZ1TDJZYjJIMTB2VGNtbkVuQzdZY2g4SVJERV8xUk4wRkJkWW95TnRNUkFEQXdOeTVGanpRMW5PU3Q5c1hGbWcxc2xKY1E3allSbFpiQm5oaWdQdERFVThIczJlRHpHOHJFYVhrT0dpR3ZqbXJCZjJMdmNRWGh3eUJ3YWNjWjJvcGFOeGd5cGh5clc0SXJVSGdj?oc=5",
+      "published": "2026-04-16 23:52",
+      "summary": "Drone footage captured the extent of dramatic flooding in parts of Michigan. At least 14 bridges across eight Michigan counties have closed or failed as of Thursday afternoon, April 16, due to recent flooding, according to a Department of Transportation spokes&nbsp;&nbsp;Facebook",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Are Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame. - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUDBENHJUVml3Zzl2V1EzOUtPeHlweWJXcU1mUFc1Q3ZXYlJQRDBsNi1rcmxnbFF4STh5bDlSMVRvYnJYU1E1dXNIMTVoeGNOZ0tTRk1kZnJTOUVnME9WZ2o3blp6VWluUXRWTmxpU1c3cld5MzBCeHJLM0dnYkhhblJFbkdFdzlCazlBVjBtTE4?oc=5",
+      "published": "2026-04-16 18:43",
+      "summary": "Are Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame.&nbsp;&nbsp;Mother Jones",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Extreme weather is getting a boost from climate change | EDF - Environmental Defense Fund",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqaFZXMTZ2Q1UzbVZidld3cnowQVN5U3VIRFNJaFZfQ1FLTGE5a1hLTy1mS3kzaF9HRnY0NElTSE11NFQ5WGRYdG9KQUJ0MWJTV3NfRmdjTHBzVGhRSFFuaXAxeHNxVks5RVVhTkFsMA?oc=5",
+      "published": "2026-02-27 08:00",
+      "summary": "Extreme weather is getting a boost from climate change | EDF&nbsp;&nbsp;Environmental Defense Fund",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "The heat is on: are we doing enough to prepare for climate change? - Abdul Latif Jameel",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVc1RmkzbUZ6N3plaXhxcURsY25Ibkl0aEFTZE40aFR2WEdGa29zeEd0YTExMVBURXJKWXVUaU96WmxmNE5UUHhHZzdzRWhtZERHZDhYX1lsdUJxYmdPUWZIalBtRWN3MDdlT2ZUaHM0OHhMY2dLOEh3dTRnTk5ta3RPazlxQVg3VWJUYjNDMm1xU2NEbVlhLVFRVU9ENzN1OE9sLTRyZVlnQk9CTHc?oc=5",
+      "published": "2026-04-15 12:09",
+      "summary": "The heat is on: are we doing enough to prepare for climate change?&nbsp;&nbsp;Abdul Latif Jameel",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Is a super El Ni\u00f1o imminent, and what could the impacts be? - New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlpSOXpDS2Y0VHJEMjBtbEFKSTZKN2FiR1ZFOFA1dXU1S2FjUjZvTl9fTTRCQzhhVzhSMWdpUGxVUXY4NnhiLTc5QTEtbGdnYTJ5RG90MWptRU9VWmw2QTBPMGY4NWFlMXJ5Q3ZjYVppV3BnaE1WOE1KTlFUWmlDLUhPb3JkVHZFYkhKVHJESFQ5Q1lBVU5SS1hRTTRtUFdTb2lLNEZB?oc=5",
+      "published": "2026-04-14 19:00",
+      "summary": "Is a super El Ni\u00f1o imminent, and what could the impacts be?&nbsp;&nbsp;New Scientist",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Mapped: How climate change affects extreme weather around the world - Carbon Brief",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUQ4aXhCZWxfbGkzdG9GSjRYWVBGNm1JYi1kU1JlclgyY3EtS3JkTFJTUml3WTNQZ2h6ODZjRlh3Y0pRdmhHVW9iUzFRejlvWVIzZXZZc1NhazJQd19veDRQYlVoUXNQNkV1bEQ1VWJxN3ZmaTllU09zZk5sRnU4TG1CVm9leHRPYWZsV2hFQTlHa3VfUTE2bjZydw?oc=5",
+      "published": "2026-03-18 07:00",
+      "summary": "Mapped: How climate change affects extreme weather around the world&nbsp;&nbsp;Carbon Brief",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Climate Resilience and Transport: Can Inland Waterways Adapt to Extreme Weather? - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU094OG41VERGd2J1RzBBMkdQSkFlYkJQTEY2X3VJd2ctSkMzeW13VVdOS1M0Mjk3NVVhU2dNekdLX09ZR0ZjZFRiTEtLQldjblp0dDRBZXlsZVNDQ3NCRGVVd2RQMUNpam15UzI4eWYyNjA2eDZaa3pZYk15TWV6dGlvRDFncjZ6cmliZjBuWHprTDFBeG0tYWFvTdIBmgFBVV95cUxOMGVIVmVvRTNYQ3g0YzUzYmNLdGpyZjg4dnZ0UUtSSHROUGtwRU9JY2UwaEZ5ajMxclJpVkVESlFDUXZuX1ZkbjFjblpTVGNCQWM0Qy1WU0puSjZ4VDlDTk5HOEo5dGNwUjJMQXltdnRZaVh4dlZ2MnRiVVNPcmlDNTg1M0RpTU9aNFRTSFlVZGQ2ZG81VFZhUURn?oc=5",
+      "published": "2026-04-16 18:47",
+      "summary": "Climate Resilience and Transport: Can Inland Waterways Adapt to Extreme Weather?&nbsp;&nbsp;Modern Ghana",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "The Southwest smashing heat records in March 'is what climate change looks like' - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazdkbHNlN3dUVXdpWXJLYXBhOEl0ZEhvSXF0S0d5ZUstVm5YMXBIYlJURTFMRVlHRHQ2ZFp6SjZ5R1MxcFcwald2SVBsZmsyYk5MN00yaW45RkdQUDNNbWEzSEtGVWdfSllsR0p3OXlGSUVyc0JsT3pQb09NUzB6eWlzNW53R1l0WXBCWlBVdjFnYnJHVXFBUndPZ3h3My1KWUYxX1hqZ0RkdjhfZ0xrakdwZnZaUQ?oc=5",
+      "published": "2026-03-20 07:00",
+      "summary": "The Southwest smashing heat records in March 'is what climate change looks like'&nbsp;&nbsp;PBS",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNME1VSU1YRkFaemFfUTgwNllOTF9VSzdvNWVVbFBNcEtyN29FRkdGVjRZVTQyZXVYU0JSZjRyTHRKLUo1TExJbnpreldLdVR4ekIwNWlRZHcyVXJhckx1d0t1REFTbDFNblpmVHBwZUlRNURwUnZIYXdtUTVHZktOTmJPQnpPNDliYU9haHFlSWxwSGt1U2NIWmNOUTdGc2lCUlJseS1pVVh4N045dVJ3d1BXaUhlYmM?oc=5",
+      "published": "2026-03-23 07:00",
+      "summary": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data&nbsp;&nbsp;The New York Times",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Record-shattering March temperatures in Western North America virtually impossible without climate change - World Weather Attribution",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYmE1cmE0M0lPb2x4N1lsSkNtOVBOZXBMV3prbjlnOXUyUFdUTWhDdVBmOTZpdzVoNDFXdnN5Uld2TnJ0NWczVllxWWtxbUdid3VnS2tWVFltYk0wVGZSeXkteXU4d2lXVDVPOEVHcDZ6cmNpRGhBdGZGUzZNVHpkS1hpZU9jU1V5MVd5dUs0VU5PbXZlY3FTZl9PRWFYYWlJYXJ6UHQ4SmlfOE1mTjdPbmUtcWpEYzd6MnpZZTNfTGFyWGNrTlUzaTJPZjlJUHo3TnZDS09xazM3cVItSEVV?oc=5",
+      "published": "2026-03-20 07:00",
+      "summary": "Record-shattering March temperatures in Western North America virtually impossible without climate change&nbsp;&nbsp;World Weather Attribution",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "How do we know the role of climate change in weather events? Attribution science. - Climate Central",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80Zk5vdHJiRWt6NXhKNE5QaVh0T2VPZUhDTnR5eExJdnhBTm9fZGRCc3pSUW9OcGhXYVpNaS1sb3JjOHM3Q25USmZrRjVLTDN2UTIxQTFSM1FOTWtmamRSYkRtSlFPdWplNk02MjNlX2gwdFNNSlkwRUZn?oc=5",
+      "published": "2025-12-03 08:00",
+      "summary": "How do we know the role of climate change in weather events? Attribution science.&nbsp;&nbsp;Climate Central",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "2025 Third-Highest Year for Billion-Dollar Weather and Climate Disasters in US - Earth.Org",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGFqeXA1aUFmck9md1UzOXNUSjEyZjFQcHA1aGRmSmVURjVpQzBvM3JudlZ2aEhVZkNvWDlUZUdHdE9ZbXZoNmZ5TFluWG1jN0ZNOUx4RHNYaUpVY0hQU0RUay1BWGxxbWF0WjhHME1yQ2JpRVliRkhtT1lrUThQZW15b0l2SDhDRDVkWV9aNTRwUmNBb3hoOXJYYW9WUQ?oc=5",
+      "published": "2026-01-09 08:00",
+      "summary": "2025 Third-Highest Year for Billion-Dollar Weather and Climate Disasters in US&nbsp;&nbsp;Earth.Org",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Study: TV news coverage of severe weather can boost support for climate action across the political aisle - University of Southern California",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45UTFXX3J6S0tWM2FuRUlLUmh5dFBtaW10SVlRVmxJaEFqc0NuX05HT2FBeG8xWXQ0TU9Xa01XdjJveGtYZk40TlB0cUVmMEVtWTU1RjdLdXRjcUlNZjdSY3ZJV2tVRmIwOFc5Tzd6ZFNCZElmQ2pvTDV4MA?oc=5",
+      "published": "2026-03-18 07:00",
+      "summary": "Study: TV news coverage of severe weather can boost support for climate action across the political aisle&nbsp;&nbsp;University of Southern California",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Adapting for extreme weather in an environmentally responsible way - Environment America",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1Fmem9YR0FNSklSbHBYVkxpOHg4N3FXQ2FMeHd3alBFMG94T1BoRG1ONXZZUjhxcHhxdmFBWkFMV1c4V2xjQ2FJY2RaVDBmV3Y1aHhQZGpHY3F0VHVhN2dMMUJCY2dWV0NoNnZwTUJ3dlFwUGJUMXZ6aWxYQlc5ekVBRUN6RUZzNlNkSXI0dXhqd0p3amliUG5ialYtd0NZUkxkRzVibWNRa21mc0NNTFBGRTM?oc=5",
+      "published": "2026-02-06 08:00",
+      "summary": "Adapting for extreme weather in an environmentally responsible way&nbsp;&nbsp;Environment America",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Mmag - place",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/place",
+      "published": "time",
+      "summary": "Location: place, Depth: depthkm",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M5.68 - \"20 km ESE of Silver Springs",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"20 km ESE of Silver Springs",
+      "published": "2026-04-14T01:29:12.123Z",
+      "summary": "Location: \"20 km ESE of Silver Springs, Depth: 5km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M4.59 - \"1 km SE of Boulder Creek",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"1 km SE of Boulder Creek",
+      "published": "2026-04-02T08:41:25.520Z",
+      "summary": "Location: \"1 km SE of Boulder Creek, Depth: 10.43km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M7.4 - \"126 km WNW of Ternate",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"126 km WNW of Ternate",
+      "published": "2026-04-01T22:48:13.172Z",
+      "summary": "Location: \"126 km WNW of Ternate, Depth: 35km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M7.3 - \"48 km ENE of Luganville",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"48 km ENE of Luganville",
+      "published": "2026-03-30T08:44:13.823Z",
+      "summary": "Location: \"48 km ENE of Luganville, Depth: 121.28km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "UPDATE: 450 acres burning in Cherokee National Forest - Local 3 News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVRXY3hvT1pOWmhBVG02Z1N1Nkl2MmJQT0NpS1Z1dklaVDIzUUJXUnQ1b1dDcWlUU19yOVhmRDVoS3VCVFZSdTJOLXhqVklfOGs2WGpNZ3I1Q1BzTGR3Zk5hcndtV3Fvcmc2dmRUMExVQms0aDg2R29IdnllejNtY0hyMGVzWUxEZG9VZkpyOFhNNk1NQ1U0UmtRanNWVjMwamNMZEhubU9KdThZTzBnRTRXVWxPTTgwREcxUk1MbllWZXdDcGRkUGJEMll4N2dJbzgtbmJURQ?oc=5",
+      "published": "2026-04-16 18:11",
+      "summary": "UPDATE: 450 acres burning in Cherokee National Forest&nbsp;&nbsp;Local 3 News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Forest Service chief briefs lawmakers on fire season, reorganization - E&E News by POLITICO",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWNDLUpjUGo5a2w5dEduYkVMUEp2VWU5TF9iZmFCSEJ3eW1GZmE1RlJRYk92Q29JRWQzMWZEWGkxLUQwRlhseXFNX1BqM2ZfSDhZS295RV9mOEZxdlhzSHhRakxhTmQ1YUFaRkw3VjFQdlNfbHk0YXIxSTZOTHBSOXBYTl9jOF9DRWpIclprWHRNeFRmcnpocHdXT3BPYkU0MGc?oc=5",
+      "published": "2026-04-17 10:11",
+      "summary": "Forest Service chief briefs lawmakers on fire season, reorganization&nbsp;&nbsp;E&amp;E News by POLITICO",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Historic drought fuels large wildfire near Gainesville Regional Airport - Gainesville Sun",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1JtWlQ5elc4Ync1UERxU05XU2FwenIwMC1xVTlXY3VBVDc5c0VMZlJ0TDJ5LTZncW9ITDFWT0gxeUZWS01XUjNyQkMxb0pCMDhpbXgzdTJvSU9iWXdpU2ctMlF3OFItNDNfMWVZc2ozUnZ6Q3JNRDF2aS1hOWtsQ2c3cHdqNUgyc3pWYVdzMk9JTTJJU3Q0ZDZJS18xZ1daRi1LU2xDeTRwVDE0RGdJUDNjNWhVd2dkYWliS3JmWV84THVBa1JFdnpWVjdyd1N4REtRUUV1UQ?oc=5",
+      "published": "2026-04-16 19:20",
+      "summary": "Historic drought fuels large wildfire near Gainesville Regional Airport&nbsp;&nbsp;Gainesville Sun",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Gainesville wildfire nearly one-third contained after 4-hour response - The Independent Florida Alligator",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFUlU0SUxlUVdOZHM5eEEwQ3Bfd1RaTVNhQm5DdTB3bkM3bU50MHcyR2FTSlRWYUc5S2FUMzI5N0ROY05HdVdkRXJRMUJOU2FSaTFQaHJ0aTh6cTczb1dSemg0MjBjSW9YYVE?oc=5",
+      "published": "2026-04-16 01:17",
+      "summary": "Gainesville wildfire nearly one-third contained after 4-hour response&nbsp;&nbsp;The Independent Florida Alligator",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Firefighters gaining control over Picayune Strand State Forest fire - Naples Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXRzVTk3RmxyUzJFT1R2VEtJMjBZd2t6TjA1VktGQXR0ZG5JUGNQYkhWSkRKcm1hMXVlSHhQTWVGQVVIT181OVBlREFlUC1CVWJhUlNIRnV3elRBX0RrSmd4a3M2b291OTBSZW5fWVQ0UkFyaFZ1VzV5c3BtQ0Fza2xaNXRhekVlVFNuTmQ3d1gyLXBLQS1PZnpzdkRGRWYyb053Y0l2YnZGT19kUkF4WmdkY0pVdG53a2JXN3pZbGJiaE5MZzhfTXFxekU2R1RGbVdjRjJiS3RCcUFFUXdQNVJaWG4zVHU2eXVrZXlYSGp5Zw?oc=5",
+      "published": "2026-04-15 00:48",
+      "summary": "Firefighters gaining control over Picayune Strand State Forest fire&nbsp;&nbsp;Naples Daily News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Wildfire reported in Macon County, within the Nantahala National Forest - WLOS",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdFdpVU1rRl9odnpyRVJraHJSa3Z2VnRjZE84bDFGRGtaQUlmUnRPZzM5SjZSX0tmUVFDSzhqZm5DVEVhcHdTMWNKZW01RXRIRERScWszejdLVi1FS3R6cFVWaEJrTWdmX0I4Z3FUTkdhTU5jNHE0UE9zUk1LNVZLM1JwXzNQZXNjZ2tUcXNyZXV4U3Q2bk1KWDc4T2hqY1pHQVc0cllicUM1OWVOWG9Mb3F6NzBER1VuZmN5c2VfQ01BVjR3OUg4UWdZSC1nai1Vd2xUWU12cmJwY2RISmpvT0RyRm9zNWxQaFF6Ng?oc=5",
+      "published": "2026-04-17 02:14",
+      "summary": "Wildfire reported in Macon County, within the Nantahala National Forest&nbsp;&nbsp;WLOS",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Campfires restricted to designated sites in the Black Hills Forest Fire protection district - Tri-State Livestock News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkU3YnkyUE9vVUpsakFEQ1ZZTlNyaE5zQnBnNGRrcUJpT3RLTU91ZWUtWDBybzViR1JJRkVXODBqQlNqMndLUS1Xcl95OXpxS3B5U3AzQXdreFZ1OEdlbEdHaEFsMmF6Q2FtSzRqcEt2dWJxZk9faGFBTHRxQWFPR0tYUGQtaF90akt5M1BSUE9JekEydnFFWXFRRmpTdVRkSW03bVhldDUxVm9XRFRmT2NGamRCMEhsTkE?oc=5",
+      "published": "2026-04-17 03:32",
+      "summary": "Campfires restricted to designated sites in the Black Hills Forest Fire protection district&nbsp;&nbsp;Tri-State Livestock News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Long County Fire Department battles large wildfire Thursday afternoon - WTOC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDFQR1J1eXZDUkhTWlc2MUctWHJzdkh5ZUJxNXFqMm1qRF9RWU5HQ1lFVFktc1FuWnh2TF9tRUs5ZlZUbTdqd3F3b0xUNEtOZjNKdXFKTlhnZ3pUOFFmdHJuZm1YZTRYR1E1TUJyLW5hQ3FITjVhZVRobTVVeHpZLXRqTTM4WUp3Qks4Rjg2MldiSVZnQ3FrUFQtMGtwRmZObXBvag?oc=5",
+      "published": "2026-04-17 08:45",
+      "summary": "Long County Fire Department battles large wildfire Thursday afternoon&nbsp;&nbsp;WTOC",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Fire near Colorado-New Mexico border reaches more than 1,000 acres - Colorado Newsline",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanNxLUpsOE1paGZrc0tYUUdZLVoyVmpXOEp0VGRHMFJoY0Q1SlNlWUdOTkpsOGtORmljQ3htdWllU0dZUkJFbWdEVFEzbm1hWVdiNkNEVk5QYXVlNlRjb1YySFdBa2E1M3FKX2N0RHA0aHdwUndNc1hkVDlwUG5CbkR3?oc=5",
+      "published": "2026-04-16 19:20",
+      "summary": "Fire near Colorado-New Mexico border reaches more than 1,000 acres&nbsp;&nbsp;Colorado Newsline",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "San Diego Fire-Rescue conducts large-scale wildfire training exercise - cbs8.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcC1VN0FmOHpqVHBjMEhPTFJPX0NZdWNtNTRaTVhFNFBWb213S0lYQWlzRE5ISkc5MjZ1Qk00cThQN2ZhN0VRZmlrNVpqSmo2cm9EN2dwSGxrOUNvUkMwSGlKVzVRbGtMSEt0TXlRSnhjS0pubnZRZUhWQkRKaDl3clEtYUlkV0ttMEh3Q29zU0M4X2g2cGdSZFhXX0VQNHJoa3RRVmZmdmhESUNLdFpmclBRZWdHaFdsVFhzZV9laHpDeDg5R25jYw?oc=5",
+      "published": "2026-04-17 00:13",
+      "summary": "San Diego Fire-Rescue conducts large-scale wildfire training exercise&nbsp;&nbsp;cbs8.com",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Lake Crabtree County Park reopens following brush fire - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmVrcHp0SDl3ZlZ3dlA4bU9KVVhWWVdPRHJLWGpmQjA1amtSZFBtSUF6ZmpYUmVBUFJPVHFLaURYN2p5dDVJT195aWl0RWVRUmlOZVFxNUR6U25VWkItdG5sYUxqY0RXTGVfRDVsQlFFNDdoQ3otV2VpWGNWZmM1U2lpY2hac2xadW1iQ0lOTGs?oc=5",
+      "published": "2026-04-17 04:29",
+      "summary": "Lake Crabtree County Park reopens following brush fire&nbsp;&nbsp;WRAL",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Fire officials urge early action by homeowners as wildfire season looms - Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUWwwM1hvdFZCdjFjZV9YODNxdEt4M3dMZ0l6dnNSYmVTNnhSemJ5UV9XRVQwMW9zRFE0NkpmVzVjc1hZd3hkdnB2VUNVS2NnUm9yQUZJX3pDMGFhb3pVSGMzS1VlamtjT2RNckdXRVloSnJsOF9wR1cyc0lqVjFKRFBzaE9qb2pUUzFETkFWdWJiVjROaFIxZnNDbDB1Q0dhRDJUX0c5OEM4WllsaDZ1RHI5RFMzclVQWmNYLTRiNnF0c0VOZ25VQ2pJazFNaVVFdTFRZXdSNkdmUzBvZjJ4bWlR?oc=5",
+      "published": "2026-04-17 01:20",
+      "summary": "Fire officials urge early action by homeowners as wildfire season looms&nbsp;&nbsp;Central Oregon Daily",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "State Forest Fire Service Gives Grants and Clears Fire and Fuel Breaks Before Fire Season Ramps Up - Pine Barrens Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3BMVGlpSUg5bk9SLVk1Q2pHVlBpc0hPTFdzSVRub3BXOUFTSGQ0WFFkamY1LWxtaUpqM0x3aUZWeFAwbHhmOW5lY1BtVTBZWFJTdlVuaHZHWVF1NXhVVEJRSDc2alJrYzZQUnVxQXoxcTRtY3JpX0YyVFZoS1pfbDh6RU5KeU9uYnRvdjFlQkdKekZ3aldUMlllaXNreGJ5RGl6a1Q4RG50VHBWaXozWnJWZFdHQUlWNGV5NDVGLUUwQ3ZrZlV4WXZHcTdYeGF3T18xcFZYTnJ0aUtxOHhlSXRLc3p1eXlNa0wwcUlvQUxCdw?oc=5",
+      "published": "2026-04-17 07:07",
+      "summary": "State Forest Fire Service Gives Grants and Clears Fire and Fuel Breaks Before Fire Season Ramps Up&nbsp;&nbsp;Pine Barrens Tribune",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "McCreary County forest fire grows to nearly 1,000 acres - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTTEtVFd3ajJ2RlhzV2RqZzFXdVU4eVNDUTd0Yk9oT2xJQ0ExTEJkdXl0UHliaFdYU0VTNzRZMmRrNGdya3FtU043VS1PV0lvVmlRc0JkU0o2OTdYaTBKZHhkbWpxbzVZcVFSbEh0U0Jhc29EeEdxRWJabXdmVE5fdXIxelowZDcwVWlpbDJTVHlFX2PSAacBQVVfeXFMTnRFTS1HN3NXSUlLODJyc05TeVFYS0ZYc3BVSkVLMlIyWlFoelZoR1JRd3dnVzkxRUxnSG5wZEFaT3BXOW9zMnAwZDREdTFGT2xhZDBVZVVUQ3hFTWw3dTJpdXFpTFpOdVFaUGh4VXBJblctM3RMbkd4NjVOeUVqemJVVkJJQUMtckRvQWFEb29RMy1VRFd4aXNkaWl3T0Nrb2Vib1FzMWs?oc=5",
+      "published": "2026-04-14 16:17",
+      "summary": "McCreary County forest fire grows to nearly 1,000 acres&nbsp;&nbsp;WKYT",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "100-acre brush fire under control in Suffolk - 13newsnow.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdDhnS2NUQ3VoWERaMXJrMTJJRDhEX0hEQ1dCTzF2Vi02dkIxQnByZ2g3Z1R2UmxOMWFBMHpmcDFSMTZkX3lDdXlYOWEtV05kcjFMYUt3d1FiMW1zVE5WaFgtbjRzeUtxTWpESUhyUHhhOTQycTBxY0g1bGk2ZFM5czloaTRsckw0Q2g4UHRGYWZJVmRTMmpkemphdmhRdFYzVFNnR0I4aHF1M0hPaUxXc0tFaDRDNWNpRG9TeUpGN2JnUEJkckZ0VzBlTVc5RHFGandzY29sT2I4dnhrT0FNa01pRkhEYnZDZlFNVGh1SmNxRGhLeEdTNTZOZkpUMmgzOFE?oc=5",
+      "published": "2026-04-16 23:56",
+      "summary": "100-acre brush fire under control in Suffolk&nbsp;&nbsp;13newsnow.com",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Climate News",
+      "count": 15
+    },
+    {
+      "name": "ReliefWeb",
+      "count": 0
+    },
+    {
+      "name": "USGS Earthquakes",
+      "count": 9
+    },
+    {
+      "name": "WHO",
+      "count": 0
+    },
+    {
+      "name": "Wildfire News",
+      "count": 15
+    },
+    {
+      "name": "Flood News",
+      "count": 15
+    },
+    {
+      "name": "Drought News",
+      "count": 15
+    },
+    {
+      "name": "NewsAPI Science",
+      "count": 14
+    }
+  ]
+}

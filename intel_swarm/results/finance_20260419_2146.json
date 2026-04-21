@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260419_2146",
+  "executive_summary": "Markets experienced significant unwinding as geopolitical tensions ease, with Wall Street equities, the dollar, and volatility measures normalizing from war-related premiums. The SEC's enforcement leadership change and cross-margining rule modification signal potential shifts in regulatory approach, while Federal Reserve communications confirm a cautious stance on rate adjustments.",
+  "key_insights": [
+    {
+      "insight": "War is over for Wall Street: stocks, dollar and fear index unwind moves",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "Reuters Markets"
+    },
+    {
+      "insight": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "SEC"
+    },
+    {
+      "insight": "Nasdaq sets record highs as investors return to tech stocks",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "Reuters Markets"
+    },
+    {
+      "insight": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "Federal Reserve"
+    },
+    {
+      "insight": "SEC Approves Exemptive Order to Permit Customer Cross-Margining in U.S. Treasury Market",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "SEC"
+    },
+    {
+      "insight": "Higher oil prices, higher yields, no more rate cuts - US stocks resilient",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "Reuters Markets"
+    },
+    {
+      "insight": "Minutes of the Board's discount rate meetings on February 9 and March 18, 2026",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "Federal Reserve"
+    },
+    {
+      "insight": "Pakistan pushes for second US-Iran talks and seeks guarantees for Tehran",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "Nikkei Asia"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with major banks including Cr\u00e9dit Agricole and Goldman Sachs",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "Federal Reserve"
+    },
+    {
+      "insight": "Next Fed Meeting expectations on interest rates in April 2026",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "Investopedia",
+      "url": "Central Banks"
+    }
+  ],
+  "blind_spot": "The termination of Federal Reserve enforcement actions against major international banks (Cr\u00e9dit Agricole, Mega International Commercial Bank, Goldman Sachs) represents a significant de-regulatory signal that may not receive adequate market attention but could affect trading behavior and risk appetite in global banking sectors.",
+  "url": "Federal Reserve"
+}

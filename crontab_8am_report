@@ -1,0 +1,10 @@
+# Daily 8 AM Report with RAG Integration
+0 8 * * * cd /home/yeoel/.openclaw/workspace && /usr/bin/python daily_report_with_rag.py >> memory/report_log.txt 2>&1
+
+# Optional: Send report via Telegram/email (if configured)
+# 5 8 * * * cd /home/yeoel/.openclaw/workspace && ./send_report.sh
+
+# RAG knowledge base update (2 AM daily)
+0 2 * * * cd /home/yeoel/.openclaw/workspace && ./rag_daily_update.sh >> memory/rag_update_log.txt 2>&1
+
+# Heartbeat will also update RAG every 12 hours

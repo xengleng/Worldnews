@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-13T09:01:13.493846",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+      "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 22:57:22 GMT",
+      "summary": "The conflict is now a test of wills - Iran\u2019s capacity to absorb strikes versus Trump\u2019s tolerance for the war's costs.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "4614c8d2f3d8e190143f9e4aaf1b51ea",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Peter Magyar says his election win has \u2018liberated Hungary\u2019 from Orban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 22:38:42 +0000",
+      "summary": "Peter Magyar has won Hungary\u2019s election, defeating longtime nationalist leader Viktor Orban.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "fd0c8505bea165e46845bed079b49d6c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "ELECTIONS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
+      "link": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
+      "published": "Sun, 12 Apr 2026 22:22:21 GMT",
+      "summary": "President Donald Trump said he ordered the U.S. Navy to find and interdict any ship in international waters that has paid a toll to Iran to transit the strait.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "f400cfdafcb2c3dd235be33513641044",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+      "link": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
+      "published": "Sun, 12 Apr 2026 22:19:12 GMT",
+      "summary": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "a36d7620338d29dc7d54cd6d6846997e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "These are people Israel killed in Lebanon on a single day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 21:44:00 +0000",
+      "summary": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "8851830a9fd99e802600e19b1efe834d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "published": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "7f544e145d7c2f1dbb68865c9af1c4fb",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Eric Swalwell exits California governor race after sex assault allegations",
+      "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 21:12:55 +0000",
+      "summary": "Democratic representative suspends campaign after media reports detailed alleged accounts of sexual assault.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "bd3d0587d5a3cde8f30494f3310bd01d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "c6abb4d9c0fd7aff356152a0919b37b0",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "SOFTWARE",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Civilians feared killed after reports of air strike on Nigerian market",
+      "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 18:11:04 GMT",
+      "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "41f8772482a91d91ba7bc41371918159",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "X says it\u2019s reducing payments to clickbait accounts",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "published": "Sun, 12 Apr 2026 17:02:20 +0000",
+      "summary": "X is cutting back on payments to accounts that are \u201cflooding the timeline\u201d with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "ba5bcee127ee3ef4101f4df5aa05c29f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "link": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "published": "Sun, 12 Apr 2026 16:06:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "5c09526aceab0215829d7ec73832482f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "Sun, 12 Apr 2026 15:07:08 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "0b5252fc18b61cc7fd076495a089bf63",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Rose buoyed by Masters support despite another near miss",
+      "link": "https://www.channelnewsasia.com/sport/rose-buoyed-masters-support-despite-another-near-miss-6052391",
+      "published": "Mon, 13 Apr 2026 08:38:03 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a75de7de2bbaeb351f4e57c89040aca6",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Justin Bieber reconnects with fans in Coachella headline comeback set",
+      "link": "https://www.channelnewsasia.com/entertainment/justin-bieber-coachella-2026-6052346",
+      "published": "Mon, 13 Apr 2026 08:29:00 +0800",
+      "summary": "The pop superstar returned to the stage on Saturday night (Apr 11) to headline the second day of Coachella.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ade0ced7dd929f7feba7a48b17d8f5cc",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Dollar strengthens as peace talks falter, US blockade of Iran's ports to begin",
+      "link": "https://www.channelnewsasia.com/business/us-iran-war-dollar-strengthens-asia-stocks-markets-6052331",
+      "published": "Mon, 13 Apr 2026 08:15:00 +0800",
+      "summary": "US President Donald Trump said on Sunday that the US Navy would start blockading the Strait of Hormuz after marathon talks with Iran failed to reach a deal to end the war.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "0f545a29562359171d7f050da683e70a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 1,
+    "medium": 0,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 6,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

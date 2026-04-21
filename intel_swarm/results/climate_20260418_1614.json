@@ -1,0 +1,24 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260418_1614",
+  "executive_summary": "A significant 400-acre wildfire near Gainesville airport in Florida has prompted road closures and firefighter deployment. This represents an active wildfire event requiring monitoring for potential escalation amid dry conditions.",
+  "key_insights": [
+    {
+      "insight": "400-acre wildfire burning near Gainesville airport with State Road 26 closed",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Gainesville Sun",
+      "url": "N/A"
+    },
+    {
+      "insight": "Firefighters actively battling wildfire off State Road 26 in Alachua County",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Mainstreet Daily News Gainesville",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Multiple concurrent wildfire events across the southeastern United States during current dry season conditions remain underreported, with focus remaining on financial and geopolitical news.",
+  "url": "N/A"
+}

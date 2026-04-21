@@ -1,0 +1,173 @@
+{
+  "agent": "finance",
+  "timestamp": "20260420_2333",
+  "run_ts_utc": "2026-04-20T23:33:59.837207Z",
+  "insights": [
+    {
+      "headline": "Kevin Warsh nominated as Fed Chair; pledges to 'stay in lane'",
+      "summary": "Kevin Warsh, President Trump's nominee to lead the Federal Reserve, has committed to maintaining Fed independence while prioritising inflation fighting. Warsh — described as the first 'tech bro' Fed chair with close ties to Silicon Valley titans — is seen as a key catalyst for Treasury bond markets. Markets are closely watching his congressional testimony for signals on rate policy.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC", "MarketWatch", "Bloomberg"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html",
+        "https://www.cnbc.com/2026/04/20/fed-silicon-valley-kevin-warsh.html",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2J6eGZjYklpeEltZFhBRlRhaURzY3Z4Y21nekhVbk9WZ3JCTFZKTFV0UVB5WGQtb0FkV3dCVXFGbW9HN3k3amMzSHVyVmNIdWZWRENFNzFjSVowWFNnWXpabzFneTRkMzhGNFpfemVkUG1BQ245aXQ2WXhFQ0lHNzBrX19ib19fbmpKRzQwWVNxVXR1ZUVhNDdSLTFEV1ptTndMNnhXM09sbjVWdzlMMVRSdw?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Oil prices surge as US-Iran standoff escalates around Strait of Hormuz",
+      "summary": "Crude oil prices jumped sharply after the US and Iran attacked commercial ships in the Strait of Hormuz, pushing oil toward $90/barrel. The world's largest physical oil trader warned of months of price volatility. Ship traffic briefly rose then slowed as commercial vessels became cautious. Jet fuel shortages are beginning to threaten European summer travel.",
+      "category": "commodities",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNBC", "OilPrice.com", "NBC News"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/19/oil-price-iran-war-strait-hormuz-tanker.html",
+        "https://news.google.com/rss/articles/CBMigFBVV95cUxOVG81YVFPenU4RDJxTTFmS0Q4VHhsUFlldGNSbXNlenFlQ2FkLW9hb0hMaGU5Mk02SWUxQ3BsTnFGZ1JIVzY4R0JRMy1BZWlua01DSlU3MVljM0RxbTdCQkEwTy12MHJteERQaFU1MTVmWVMtZmpoUlJHbVNpLUhjRmp6bWQ3WmpreTQ2OVJVemYwaXI5a2tVSEdXd0xsMFFiM1RLVUpaTTlmemsybU95V1hVa0dtaDV2R1BYanNpY1FQRWF50gHKAUFVX3lxTE9LTkFfdXBMbDlvdkNKWDFjRmpHMFkwaUdlajV2Y2lqVk90RHRJUzA2ZFdlT1NsWUdPNFg0YVBWZW5vVXQxTHpYTU91Q01mU2E3T0lQRXVWTy1aQ3lrSi10UF8zLWhneWExemZNOHE5UWVodG11M3FyaEQ5UlZGSWZtbnV5NXprZmxrM2hDVFgwN01za01ReE1Od1ZvLVhuVlZWTGdXOWlPb1hhTnpVZ2hucUM4R0xmWjdNWi15R0lzTG1Pdll1NXJCR2c?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGNIc09VeXBDZGhfVUNEd25aRl9tQ2RYcVhLYWJuNC00OXBwSWQteE9wWjQ2U1k3SG9rdTczUV9ibDhqMndvYk5xNGFJOU56QlJSR2V2Q1BJODRYemhLNF9OZEtxVXJ6Z1FQZDM2TDNHeXhNZkpzZTExU19TY3phLUFBWnRWcktsV1JUMm92NnEzZERnWk42QzBMV21QRTA?oc=5"
+      ],
+      "published": "2026-04-19 to 2026-04-20"
+    },
+    {
+      "headline": "Iran war shock drives inflation higher; rate cuts shelved",
+      "summary": "Inflation jumped on the Iran war shock, with Canada's annual CPI rising to 2.4% driven by gasoline costs. Economists say rate cuts would be on the table if not for the Iran conflict. However, there are few signs yet of spreading price hikes beyond energy. The BOJ's April rate hike hopes have dimmed, with markets collectively betting on a June window.",
+      "category": "economic",
+      "alert_level": "CRITICAL",
+      "source_names": ["BNN Bloomberg", "Reuters", "Financial Post"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaERfRkp0eEFOLXZBN3RaQURKaHdPNjFpVDhPdHBDSGpXbUlKQ1VTMTJaY2ZMRF9yS1N4R1FYMTA2dVF6ZXE5SEktV3BoQ2I0dW9HQmhRaXJMV1Z5UmtTZW1ER0FLUjl0c1hzeDRtOVVHSnUwZFFBNzlhM21TUDhObjZwUEQ4b2ZHTm5nS2F2VDJkcnEtck8zdXFzamRaWXJvbmF2SldjRVRfQlhpR1RRUTRRMWZCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjZQNGM0VU1oVzZNSGRhQzN5UlNwQS0ydXFKcFNBNWtFVXRtY3BjQnprRmU3UHU2c3RVem5zVkJvcHpwejRPYVktcFlCXzZDVEZVS1JBOTVMNGJ1QVJ4VmxfWURvYlZuTTBYdGRDMjNZRHRhX09mSXZnU2NJV2k4RkVSeEptVnF4UFpVaS05R3hqVUg2dDQ2WWkzbTlraUZQYXd1WlZGRVRXZG8tVmc?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRSkxOYmltcnd1N0VOWllKcEhFMnZMUklGNHBZMWthalQ4aWlEZng3YVhtaUw2UmJLLXNKRTJlLXMyMVNyRjJYSGdNRzQ3NmtUQVdSZlk2TVc5RHUtRVVacFhTTDdwejlCUnBmbjY1VFJUNGVZeEZzaQ?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "BofA warns equity markets too optimistic; 20-year low risk premium",
+      "summary": "Bank of America's Rainier Raedler warned that equity markets are too optimistic, with risk premiums at a 20-year low. One company is responsible for half of all S&P 500 earnings revisions since the Iran war began. Bond bulls are looking to Kevin Warsh for the next leg of the rally.",
+      "category": "markets",
+      "alert_level": "CRITICAL",
+      "source_names": ["Bloomberg", "MarketWatch"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamdqdllMRy1FV3ItdDBxUl9XRndNQjBGa0REb1ZkMTI1UGRpYmxmZWV4SWgwRmVzS3dMVzN4ZEdEa0NBdDFGbmQ0NUhjX2pQeGxQYngyRUhkbnRIYWpscFM1NENpS0wya2VidEFDQVhaZmFuTUg2QTBzdkl0NlI0U1R2aVlLYlViclVvV3BMUTNoLUtYZ3Z2ZHJiNS1fS0RpSDhfaVloS0VVbjl0N0hCX2QwalVSU2hIOHdoN2JJb2VhLUI3T3dMZ2xKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcWZaZGtNZHZPX0NJazFaMFZtMzFpWDhnZGNjZEFuM1FOUm11ZjJudFNuQXVVYk43M3BTbkpEN3E2SEtYSjFlYXZZakttTUxpeFhxdVBuVXE2UlQyZnBKR1hCeTFrUXVWVk0zdGtLRXRaMU00RXlRT2dsWnlSSzA4eDA0MUdvQjdaY1hTUWdYalNkWnNOaURCQ3RaR2p5czdVMTZvZEM5UDkyRnFyUlZBQlZIV1NqSFZSZEtxbUZQMFVlcV9taXNabllBX3FlZ0paTHM2NVY3bl9HRU03bDIwSlFZZV9TN0k?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Bitcoin gains 3% as stocks shrug US-Iran war threat; DeFi loses $14B after KelpDAO hack",
+      "summary": "Bitcoin rose nearly 3% as US markets opened despite Iran war tensions, though analysts attributed much of the strength to Strategy (formerly MicroStrategy). Ethereum whales opened $90M in long bets eyeing $3.2K. However, DeFi suffered a $14 billion exodus following the KelpDAO hack, while Bitcoin bounced back above $76,000.",
+      "category": "crypto",
+      "alert_level": "CRITICAL",
+      "source_names": ["Cointelegraph", "CoinDesk"],
+      "source_urls": [
+        "https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops",
+        "https://cointelegraph.com/news/ethereum-whale-opens-90m-long-bets-eth-price-chart-eyes-3-2k",
+        "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "UAE may turn to yuan or other currencies if dollar reserves run low",
+      "summary": "UAE officials warned they may be forced to use the yuan or other currencies if they run low on dollars — a significant signal of dollar reserve diversification pressures. Meanwhile, a seized Iranian cargo ship (operated by China's Orient Overseas) highlights the sanctions evasion risks and China trade links.",
+      "category": "trade",
+      "alert_level": "HIGH",
+      "source_names": ["Fortune", "Seeking Alpha"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU1DRVZ4bVFKdEtGYVNKd01mRE9VWnhvVjVOUnI4V1l4M2lzMnBDcjZ1OWdISkNjZnpXcEpkNGN5bVVkOC0tdTA1Slh0Y1NVa2dUNC1WUmlvWVhPOUQ4QkcwbkNPbWxJWVdhRFpUMGVIZkR3bDluX2FfUkZIOXVpOXd0eVpvdG9HcTFIMzV0X2lFWUZtaDRNY2ZoTlh4ZHJfZkxOMnlkeGhYdDB0U1g0alhGdw?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3Q5MjFBRDR0NzlnbDBzTUs3MGs4NENkdnZTOGx0czRoeDgzN1dYMjNkZk9CbFhzNzcyX1ZjUzBMcWZUbjJmVjB1YmFhcm5DNTgtMTFGWnctTnZqRTNMYzNPc2Zzc0tsa01SSGhablJuZEdUOWJ3VWV6Q0lxamcwQnozQXg5YmNSVnpaTWwydnlRRzd5V1lMM0RVX2owYjAtXzN0VFhfZThuRUhD?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Wall Street edges down; Middle Eastern markets fall on Iran tensions",
+      "summary": "Wall Street closed slightly lower as US-Iran tensions renewed. The S&P 500 gave back part of its record-breaking rally. Middle Eastern stock markets fell across the board. Markets whipsawed as investors were warned they were misreading news about the Iran war.",
+      "category": "markets",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC", "Reuters"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjU2TlFwQnBjVlAzdFJFUENydUg2ZmFkc3dtVnRtOHhfZDVKNkN6SnZzdE9iOG45Mm01UUJnbVU4RHFjNUFZMVlicFZwMks0OTNOMDFiQWZfM3BfZm1tSVNRakg4ZWh6REtwNVRIQ1NLOGhSMDA5VE5nM3FGRTFkXy14Q09HZ0VNc0ZuQVNPRmZ3TE14UkhvbnNJTmliTlR4RWVn?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEY4d0RkZ09wcjNud1JOSm1JNy01ay1FcE1NRnd0OTZnb3BkbHMwVzRaTlk2bUJhVkpKbVZ3TTU4X19YREdCQ2sxUGZRRXE3bXdtZnk2dVV6SGpyU3BaRThVYk4zY1MtMGFXUlprWUNKMEtKUWQybDBMbFhVa1pmSUZFdVJCVjFmNmdUXzlNaHcxWjg3VDdpd3BTUQ?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "US tariff refund portal opens; Walmart and Target in line for billions",
+      "summary": "The US government launched its tariff refund claims-filing portal on Monday, with major retailers like Walmart and Target potentially due billions in tariff refunds. Hyundai announced plans to accelerate US production to mitigate tariff profit impact. Meanwhile, emerging market currencies fell as US-Iran tensions resurfaced.",
+      "category": "trade",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC", "Al Jazeera", "Bloomberg"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU90aENoZFhOUGRxZmpMRVhrYTd1RE9iQjNvdVMxQ0RzYk0xNHpNQW5SMWs0ZnlmNDJRZHhxZndSVURLRzR0RU9TaHllVzEwSGZMUmYyanEyeFRGMXBpWnNJa1JuYjBQMHZtMWZHMjhWOUdUcHRCYW1fSHpXRW1sVWRHNlcwZ0dJLUtCZWRsTmFWMi1VM19kMTFQOGp2ODBQMGFCZTQxb1F2d2VJM19F0gG0AUFVX3lxTE9IVGxSRzhKT2t0R0pxLXVzcjBMa0JLSFB3cy1tQUJlNkJGZXRZNGZiSXNzX2hhZVJCYTBZMDVCVnZ1RFpFQ181YWxNVHU0cnVVbEk3WHpmN2Y2eXQ1NVBoNTdRc3pXOUNKejJHM044Rk9wWWVwOXc3WkZrLUZpTGI5ZFJSVlRPZUxrNmFvenZPSVdERWdwbXV3UTFzNS1kSkZ2OFZwZVNBRFhrWXdJSWFCSFBYbA?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Iran sanctions enforcement: extradition and sonar smuggling cases",
+      "summary": "An Iranian citizen was extradited to Seattle for allegedly violating trade sanctions through China. Separately, another Iranian was extradited to face 2014 smuggling charges related to illegal export of military sonar gear. These cases highlight ongoing enforcement of Iran sanctions despite the active war.",
+      "category": "trade",
+      "alert_level": "HIGH",
+      "source_names": ["MyNorthwest.com", "KOMO", "Washington Post"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwOEtjZHE4a2hJd2RNSlFQWGJuRGlrTHBpNUpvMWxxY1M0dWhfYVBINzRhblpKUWMyc1NlZ1VUTmk2b0ZXSnowaVA5YjZzVzlBbmFVWThoczRWaHNWXzRKcHVkdlJyekl6Y1pnSDNuTW9PT25YeTcxYQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSFZlR1VmMG9FS2NJX3p5eXV1c3JXLU9oQTlsdUp6ZkExX2wtX3RSdTBXMlR1NVlUSk91c1RnNVV1YktSalduZmZMMVVMZnVjV25NZjYyRFZXY3RpcjlFNEFmcC1zYV9mNEVPa3p3YUFWUW5ia0J0RURSaW5jZHlLVmo3RzZBSmRTbkVPSnpSdV9oV2d6QU5peE1abFF5c1NLdlB4OXVBNlJDRGoyck14em5ZRGVtdGRrckpZVWJhdWFoc3VicjlQaGxxRFdiM1c0eFZDRE5jR3o1dmxfNkZjZHNrN3A2N18yNExfVWJvUXd3OE9hSFhzQ2pJTlZxc1dETnJHTS1NQkFkVk5WbFhzSTZXRWxfWjF1MHpmbVU1UnZidHN6UWFtWlJiNlp3UWVnelFCckNMdVo5N1h3?oc=5"
+      ],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Gold rebounds as US-Iran tensions flare again; IMF warns US debt eroding Treasury safety premium",
+      "summary": "Gold rebounded early on renewed US-Iranian tensions while silver stayed flat. Separately, the IMF warned that the explosion of US debt is wiping out the 'safety premium' of Treasury bonds — Treasuries now offer higher yield than synthetic-dollar equivalents for hedged G10 sovereign bonds.",
+      "category": "commodities",
+      "alert_level": "MEDIUM",
+      "source_names": ["Yahoo Finance", "Fortune"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxPcE5hSHJGMFI0R19xcjRuZ1o2eldFLTl0OWFvdmtaLWdBVW0xSlVTYkZZMFAxVThELTNzUGZGbGpUdWZjMWRLNXpvQTY0MW5yNTdJaU5VTWk3VzVZaFk2NTkwV1pUcTJMWk5RVzhoeXJpMGkteVU5a0E4Q1VtZVlRLXZMdHJtSlpsTEhadldfVnhEWF96S2pHT3gxd0ZfUDZzZUFtcURQWE5SVUo1eWkySV9neFE1MUo3ZVdoWUlWa2hFNFBZS0V3ZldCUC1XaWdWSmVQQlZIb1VWZThkajZscGpDWFJ2Q1FldFhOX3MxeHZLRE5VRWdLU0tGdDRUSGtXaTliVWNtbFJ3Nms5YThKR2gzMHpLYk9fNC1XMVlWSzdkbUU?oc=5",
+        "https://fortune.com/2026/04/19/us-debt-explosion-safety-premium-treasury-bonds-convenience-yield-imf/"
+      ],
+      "published": "2026-04-20"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "AI trade continues fuelling market to record highs despite Iran war (Yahoo Finance)",
+      "Bond bulls looking to Warsh for next rally leg (Bloomberg)",
+      "Bitcoin bulls avoided correction as US markets opened (Cointelegraph)",
+      "Tariff refunds could mean billions for major retailers (CNBC)"
+    ],
+    "negative": [
+      "BofA's Raedler: equity markets too optimistic amid 20-year low risk premium (Bloomberg)",
+      "IMF: US debt explosion erasing Treasury safety premium (Fortune)",
+      "World's biggest physical oil trader warns of months of price volatility (OilPrice.com)",
+      "Economists warn Iran war impact will hurt US even after conflict ends — inflation persists (FT)",
+      "Jet fuel shortages could threaten European summer vacations (Washington Post)"
+    ],
+    "sources": [
+      "Bank of America (Rainier Raedler)",
+      "Yahoo Finance",
+      "Bloomberg Markets",
+      "Fortune / IMF",
+      "Financial Times",
+      "The Washington Post",
+      "OilPrice.com"
+    ]
+  },
+  "patterns": [
+    "Kevin Warsh Fed nomination dominates financial news cycle — markets pricing in his policy trajectory",
+    "US-Iran Hormuz standoff is the primary risk-off catalyst driving oil, currencies, and bond markets",
+    "AI/meme-stock momentum persists even amid geopolitical risk, suggesting selective risk appetite",
+    "One company (implied: Strategy/MicroStrategy) driving half of S&P 500 earnings revisions — concentration risk",
+    "Dollar diversification signals emerging: UAE flagging potential shift to yuan if dollars run short",
+    "Inflation shock from Iran war contained so far — energy-driven but not yet broad-based",
+    "DeFi sector showing fragility — $14B KelpDAO hack triggers mass exodus even as crypto prices rise"
+  ],
+  "blind_spots": [
+    "Limited reporting on China-Russia axis positioning amid US-Iran escalation — potential energy arbitrage or diplomatic shifts",
+    "European energy infrastructure resilience not covered — jet fuel shortage narrative focuses on travel, not industrial preparedness",
+    "No coverage of India-Russia energy trade dynamics despite India being a major oil buyer",
+    "Domestic US energy production response to oil price surge — shale output acceleration/reaction not in feed",
+    "Taiwan strait stability overlooked — semiconductor supply chain exposure to Middle East logistics disruption",
+    "No reporting on sovereign wealth fund reallocation decisions — institutional positioning ahead of Warsh testimony",
+    "Retail investor sentiment data absent — retail positioning ahead of key Fed chair confirmation unknown"
+  ]
+}

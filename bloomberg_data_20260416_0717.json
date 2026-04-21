@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-16T07:17:13.278623",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+      "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+      "published": "Wed, 15 Apr 2026 22:44:26 +0000",
+      "summary": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "01b1f01a9c51327b3240953c68cbd715",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Spirit Airlines could liquidate as early as this week, sources say",
+      "link": "https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html",
+      "published": "Wed, 15 Apr 2026 22:30:57 GMT",
+      "summary": "The carrier is facing the added challenge of a spike in the price of fuel. Fuel is airlines' biggest expense after labor.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "5283ae3eb642edd2ad0f179a41bc6da2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The Rise of the Em-Dash in Hacker News Comments",
+      "link": "https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/",
+      "published": "Wed, 15 Apr 2026 22:29:40 +0000",
+      "summary": "Article URL: https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/\nComments URL: https://news.ycombinator.com/item?id=47786183\nPoints: 13\n# Comments: 18",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "f38417b286d2d2b14fad9b9534796f51",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "CYBERSECURITY",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "I made a terminal pager",
+      "link": "https://theleo.zone/posts/pager/",
+      "published": "Wed, 15 Apr 2026 22:27:54 +0000",
+      "summary": "Article URL: https://theleo.zone/posts/pager/\nComments URL: https://news.ycombinator.com/item?id=47786164\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "6e98744b178cf7a5231eef8d49ee155d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling",
+      "link": "https://www.bbc.com/news/technology-39576394",
+      "published": "Wed, 15 Apr 2026 22:05:44 +0000",
+      "summary": "Article URL: https://www.bbc.com/news/technology-39576394\nComments URL: https://news.ycombinator.com/item?id=47785948\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "cf9b84981242938eae0daa8d980ab962",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Ford EV and tech chief leaving automaker",
+      "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "published": "Wed, 15 Apr 2026 21:52:05 +0000",
+      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "f69e75cea7e27fe3d72a42d651ef9dbb",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "published": "Wed, 15 Apr 2026 21:48:18 +0000",
+      "summary": "Article URL: https://www.mcdonalds.co.jp/en/menu/burger/\nComments URL: https://news.ycombinator.com/item?id=47785738\nPoints: 115\n# Comments: 44",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "ca01c57b4a216ab5381a71292f09f423",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Brazil\u2019s police open a probe into presidential candidate Flavio Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:45:31 +0000",
+      "summary": "Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug trafficking.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a6409c48abe0ba59c4885884a46f8df8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Wait, could they still actually break up Live Nation?",
+      "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "published": "Wed, 15 Apr 2026 21:38:09 +0000",
+      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "4ff53a031f8e329883b1536b44f627d5",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Hacker News CLI",
+      "link": "https://pythonhosted.org/hackernews-cli/commands.html",
+      "published": "Wed, 15 Apr 2026 21:35:38 +0000",
+      "summary": "Article URL: https://pythonhosted.org/hackernews-cli/commands.html\nComments URL: https://news.ycombinator.com/item?id=47785582\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "c59a5acf5982f302bf348b67121532fb",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "CYBERSECURITY",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
+      "link": "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:31:04 +0000",
+      "summary": "Luis Diaz and Michael Olise score late goals in Munich to give Bayern a dramatic 6-4 aggregate win over Real Madrid.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a182ce0481ff98d0f056249fa73a0836",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US jury finds Ticketmaster and Live Nation had anticompetitive monopoly",
+      "link": "https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:28:59 +0000",
+      "summary": "The verdict could cost Live Nation and Ticketmaster hundreds of millions of dollars.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "5f7b6ddc665f0284402883e73efc07b2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 21:10:14 GMT",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "f83f01ba8fd4c90194fa21a51a7c0f25",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Could the EU\u2019s alliance with Israel soon change?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:09:55 +0000",
+      "summary": "A European Union petition is on track to trigger a formal review of the EU-Israel Association Agreement.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3b11a9e0f9393ac752ff3714c3ee2562",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel appoints first ambassador to Somaliland",
+      "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
+      "published": "Wed, 15 Apr 2026 21:05:27 +0000",
+      "summary": "The decision comes months after Israel became the first country to recognise the territory, in a widely condemned move.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "16df3f6270c59413c12e8b485a98b666",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 1,
+    "low": 14
+  },
+  "category_summary": {
+    "MARKETS": 0,
+    "ECONOMY": 0,
+    "TECH": 8,
+    "POLITICS": 6,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

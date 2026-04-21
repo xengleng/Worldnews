@@ -1,0 +1,158 @@
+{
+  "agent": "finance",
+  "timestamp": "20260414_1305",
+  "run_ts_utc": "2026-04-14T13:06:21.975347Z",
+  "insights": [
+    {
+      "headline": "US-Iran ceasefire talks spark market rally; dollar retreats toward pre-war levels",
+      "summary": "Stocks rose and the dollar slipped toward pre-war levels as hopes grew for a negotiated resolution to the US-Iran conflict. Vice President JD Vance said the next steps depend on Tehran. Oil fell as the IEA predicted demand destruction will spread and fresh Iran talks gained momentum. Citadel Securities noted extreme war risks are ebbing.",
+      "category": "markets",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters", "Bloomberg", "CNBC"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmhRTmVMQUVCRTFCTjNOZ25hYVZuN1NiNTc4SVpxQ001VGR4ZFM0TzJqUHQ4S0E0ZXg4YVBZeGE3c2FZTnkxU2JHeXFBOWpRU2RRdzdRUFZQTnhjTFlOTE5FRVdwc3FidUo3RDR4MHRCV25Od1Y3ekRDa2hWYVlKcHEyaw?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T1FSX0NzQlRpYjNPQU1rbkVBa2M5RnB0NjdoUjhfb0gxUUlmTG1LSlRyN21UMmF1Y0RtZnZzdXZoMnVxSlFWYVQxaFRCZ3dqSF9VcW8zeUJjUTNsMERURWJmQkhvd3JFUFUyR2ZORTJyMDJncGpOWWpGVQ?oc=5",
+        "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html"
+      ],
+      "published": "2026-04-14 01:36"
+    },
+    {
+      "headline": "PPI inflation surprise: wholesale prices rose only 0.5% in March vs 1.1% expected",
+      "summary": "The producer price index rose just 0.5% in March, far below the Dow Jones consensus estimate of 1.1%, even as the Iran war impacted energy costs. The surprise disinflation at the wholesale level contrasts with March CPI which surged to 3.3% on war-driven energy prices. The data raises questions about the pass-through of oil shocks to producer prices.",
+      "category": "economic",
+      "alert_level": "HIGH",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html"],
+      "published": "2026-04-14 13:04"
+    },
+    {
+      "headline": "Iran war tab for US taxpayers: Harvard academic estimates $1 trillion and climbing",
+      "summary": "A Harvard academic estimates the Iran war could cost American taxpayers $1 trillion, with the figure potentially rising far higher as efforts for a lasting settlement have so far proved unsuccessful. The cost estimate adds to pressure on an already strained federal budget amid elevated inflation.",
+      "category": "fiscal",
+      "alert_level": "HIGH",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/14/iran-war-cost-us-taxpayer-trillion-harvard.html"],
+      "published": "2026-04-14 13:03"
+    },
+    {
+      "headline": "Treasury Secretary Bessent flips, now says Fed can wait on rate cuts amid oil surge",
+      "summary": "Bessent reversed his prior position that the Fed should hasten rate cuts, now saying it is acceptable for the Fed to wait given the oil surge driven by the Iran conflict. His previous stance had called rate reductions 'the only ingredient missing' for stronger economic growth, creating a notable policy contradiction.",
+      "category": "centralbanks",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"],
+      "published": "2026-04-14 12:54"
+    },
+    {
+      "headline": "JPMorgan tops estimates, Dimon warns of 'increasingly complex set of risks'",
+      "summary": "JPMorgan beat Wall Street expectations in Q1 2026, with CEO Jamie Dimon calling the economy resilient while simultaneously flagging an 'increasingly complex set of risks' across global markets. Citigroup also beat estimates with its best quarterly revenue in a decade and a 56% YoY EPS jump, boosted by fixed income gains.",
+      "category": "banking",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC", "Yahoo Finance"],
+      "source_urls": [
+        "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
+        "https://finance.yahoo.com/markets/article/jpmorgan-and-other-big-banks-see-profits-rise-as-dimon-warns-of-increasingly-complex-set-of-risks-105717454.html",
+        "https://www.cnbc.com/2026/04/14/citigroup-c-earnings-1q-2026.html"
+      ],
+      "published": "2026-04-14 12:29"
+    },
+    {
+      "headline": "Stock and bond markets flashing recession warning — every recession since 1970 preceded by same signal",
+      "summary": "Both stock and bond markets are simultaneously flashing a warning signal that has preceded every US recession since 1970. The inverted yield curve and other fixed-income signals are reasserting themselves as the Iran war disrupts typical market correlations. Investors face a historically reliable pre-recession indicator alongside active geopolitical shock.",
+      "category": "markets",
+      "alert_level": "HIGH",
+      "source_names": ["Yahoo Finance"],
+      "source_urls": ["https://finance.yahoo.com/markets/stocks/articles/stock-bond-markets-flashing-warning-125000328.html"],
+      "published": "2026-04-14 12:50"
+    },
+    {
+      "headline": "Oil falls as IEA predicts demand destruction to spread; Iran talks optimism grows",
+      "summary": "Oil prices fell as the IEA predicted demand destruction will spread beyond current hotspots, compounding hopes for fresh US-Iran negotiations. Vice President JD Vance indicated the next steps in peace efforts now rest with Tehran, signaling potential de-escalation. Markets are pricing partial resolution of the Hormuz blockade risk.",
+      "category": "commodities",
+      "alert_level": "MEDIUM",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html"],
+      "published": "2026-04-14 12:43"
+    },
+    {
+      "headline": "Amazon to acquire Globalstar for $11.5 billion to boost LEO satellite internet vs SpaceX",
+      "summary": "Amazon announced the acquisition of Globalstar for approximately $11.5 billion, aimed at accelerating its satellite internet business to compete directly with Elon Musk's SpaceX Starlink. The deal underscores the intensifying competition in low-Earth orbit broadband infrastructure beyond the terrestrial telecom sector.",
+      "category": "markets",
+      "alert_level": "LOW",
+      "source_names": ["CNBC"],
+      "source_urls": ["https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html"],
+      "published": "2026-04-14 13:04"
+    },
+    {
+      "headline": "Deutsche Börse invests $200 million in Kraken as institutional crypto demand grows",
+      "summary": "Deutsche Börse committed $200 million to invest in Kraken's parent company Payward for a fully diluted stake of 1.5%, subject to regulatory approval. The investment signals continued institutional appetite for regulated crypto infrastructure in Europe and represents a notable bridge between traditional finance and digital assets.",
+      "category": "crypto",
+      "alert_level": "LOW",
+      "source_names": ["Cointelegraph"],
+      "source_urls": ["https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"],
+      "published": "2026-04-14 11:18"
+    },
+    {
+      "headline": "Midwest farmers and global agriculture sector squeezed by tariffs and Iran war simultaneously",
+      "summary": "Farmers already under financial pressure from prior trade disputes are being further squeezed by tariffs and the Iran war's disruption of agricultural supply chains and export markets. The dual stress on US agriculture contrasts with Mexico emerging as a beneficiary of the US-China trade war, gaining manufacturing investment as companies diversify away from China.",
+      "category": "trade",
+      "alert_level": "MEDIUM",
+      "source_names": ["PBS", "South China Morning Post", "Mexico News Daily"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEhKR1VxUnhicmJkV2laLUZZa3BIWlgySW5XcldUWjFwakw4VVd1dzdyQnM0N1VUQnluc0w1U0hrbDgyMlNuTTl0bTZIN3NIMlVvLVhxTHQyY2NtcWpLWkRuX2xicmZSV0ltc2JkbHQ4ODFNT0J6Z1ZDUEJGcklMQkNJX3hkN3FEckx6cWcyQkI3dFZtdUJTVlVmbjB4b29WbHAwMVByWHR2QVE4cktySjJTUWxTbFpT?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmg3TDlvMlBfTURXM2ZRY2NlN25fVFFaRElwbXRGOE9OZEtad1ByY21kRFZfRkN3bkZJeHFTVlc0TFdtMmJTdllrUkttclhfYTV0cVpUSFhDUWhzMm45bjdHUHZkSTBtdUhrd24wVU1CQlRkME9KU0p0d21NX25xMEtVdjRscWpVLW1mRHZGbW1QYi1hOFhLakgzV1hhUC1wZXpxYTVNSWRsRmdZZEo2M3NqeGRheTMyZHQ2TW9MWmNqYXNOU1g0SNIByAFBVV95cUxNcVU3cV82eVVkYUNuQ0dCWGRkaXpWcGpwWFp1TXNCdTM2czVQcnROWi0xay1PU0hTQzRZSEV3QUFLNE1lLWhLNFFKUDE0M00waFFfTXczVjhnM3RoZ0xUTkNkNlBpZ0swWXJLNktRWHpRcFo2aUtqeWxPMEU5OTd0QjlmYzd2a3pDaFhzdW1lU0pkXzlBbGRsay1ybmo3dHVBYkN0TzRsUTZSSXFEcWh4RW1sdThadUk2Z01JSGRFT0FfZkgwU3BKMQ?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GaFhueExiVm5vWUxmVEVhWGVndWx5VktlRTROQm4xUHlVRVB0OXNIalpydEJYcnBpZ0p2X2FTX2tlbWY3X0dQTkx1dkw3ZmF4Qk16cmVBVnVjbnBleS1hOFBQZ1hLbWZxRjNNS1FQb2I?oc=5"
+      ],
+      "published": "2026-04-13"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Citadel Securities sees extreme risks of the Iran war ebbing, supporting a market rally",
+      "Soft PPI (0.5% vs 1.1% expected) suggests inflation may be peaking despite oil shock",
+      "US-Iran ceasefire talks signal potential de-escalation and relief for risk assets",
+      "JPMorgan and Citigroup Q1 earnings beat, with Citi posting best revenue in a decade",
+      "Record-low inflation cushioning emerging markets from oil shock (Bloomberg)",
+      "Ether holders back in profit as ETH targets $3,000 rally (Cointelegraph)"
+    ],
+    "negative": [
+      "Harvard academic estimates Iran war could cost US taxpayers $1 trillion",
+      "Jamie Dimon warns of 'increasingly complex set of risks' across global markets",
+      "Stock and bond markets flashing warning that preceded every recession since 1970",
+      "IEA predicts Iran war demand destruction will spread, pressuring global growth",
+      "China's export engine stutters as Iran war chills global demand (Reuters)",
+      "March CPI surged to 3.3% driven by Iran war energy costs; expected to worsen",
+      "Protracted Iran war narrows Bank of Japan's rate hike options",
+      "US Midwest farmers squeezed simultaneously by tariffs and Iran war supply disruptions"
+    ],
+    "sources": [
+      "Jamie Dimon, CEO, JPMorgan Chase",
+      "Kevin Warsh, Nominee for Federal Reserve Chair",
+      "Harvard Academic (unnamed), via CNBC",
+      "IEA (International Energy Agency)",
+      "Treasury Secretary Bessent",
+      "Vice President JD Vance",
+      "Citadel Securities analysts"
+    ]
+  },
+  "patterns": [
+    "US-Iran war has displaced US-China tariffs as the dominant market risk driver — dollar-VIX correlation reasserted as war risk overwrites tariff regime",
+    "Ceasefire diplomacy in early April is creating a bifurcated market: risk-on assets rallying while oil retreats on demand destruction fears",
+    "Recession warning signals (stock-bond spread) are reasserting despite equity markets near-term optimism from ceasefire talks",
+    "Inflation data is contradictory: PPI soft (0.5% vs 1.1% expected) but CPI hot (3.3%), suggesting energy price pass-through is uneven across supply chain",
+    "Tariff impact is being amplified by Iran war simultaneously, particularly hurting US agriculture and manufacturing export sectors",
+    "Central banks in emerging markets (Mexico cutting rates) and developed markets (BOJ constrained) are diverging in their policy responses to the Iran shock",
+    "Recession indicators are historically reliable but geopolitical resolution could override traditional signals — unprecedented combined scenario",
+    "Tesla and Amazon pursuing major corporate moves (Delaware to Texas jurisdiction, Globalstar acquisition) in a period of maximum uncertainty"
+  ],
+  "blind_spots": [
+    "No coverage of the specific military situation in the Persian Gulf/Hormuz — blockade mechanics and duration are a black box for markets",
+    "Iran's economic resilience or collapse threshold is not being assessed — how long can Iran sustain war economy?",
+    "Humanitarian/diplomatic dimension largely absent: Pope Leo vs Trump public dispute on Iran war is underreported for its economic knock-on effects",
+    "Currency reserve implications not addressed: if Iran war disrupts petrodollar flows, what happens to dollar hegemony dynamics?",
+    "No coverage of specific sanctions efficacy — whether sanctions on Iran are achieving their stated goals or simply enriching black markets",
+    "European exposure to a prolonged Iran war is underreported — Europe's energy vulnerability post-Russian gas crisis is not front of mind in this dataset",
+    "The Amazon/Globalstar deal at $11.5B stands out as a positive corporate story but is almost lost amid geopolitical noise",
+    "Crypto market dynamics (ETH targeting $3K, Kraken institutional investment) are treated as separate from macro, but could be correlated with dollar weakness"
+  ]
+}

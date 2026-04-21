@@ -1,0 +1,146 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-06 15:00 SGT
+Articles Analyzed: 10
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (3)
+   Market-moving event, immediate attention required
+   • At least 14 people killed in Israeli strikes across Lebanon
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+   • Pope warns world is becoming ‘indifferent’ to violence
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+   • Most Investors Build Their Portfolio Backwards. Here's the Right Order.
+     [MARKETS → GENERAL]
+     Source: Yahoo Finance
+
+🟠 **HIGH ALERTS** (1)
+   Significant event, consider action
+   • Iranian missile strikes industrial area in southern Israel
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What February’s Data Is Telling Us.
+     [TECH → AI]
+     Source: Yahoo Finance
+
+🟢 **LOW ALERTS** (5)
+   Routine update, no immediate action needed
+   • Hungary alleges plot to blow up gas pipeline ahead of election
+     [ENERGY → OIL & GAS]
+     Source: BBC World
+   • The Melanesian: Dark-skinned people with blonde hair region of Oceania
+     [TECH → AI]
+     Source: Hacker News
+   • Codex is switching to API pricing based usage for all users
+     [TECH → GENERAL]
+     Source: Hacker News
+   • Computational Physics (2nd Edition)
+     [TECH → GENERAL]
+     Source: Hacker News
+   • The bond market is helping resolve the Fed's interest rate dilemma
+     [ECONOMY → CENTRAL BANKS]
+     Source: Yahoo Finance
+
+📊 **CATEGORIZED NEWS**
+
+**ECONOMY** (1)
+   Macroeconomic data, central banks, policy, indicators
+   └─ CENTRAL BANKS (1)
+      • 🟢 The bond market is helping resolve the Fed's interest rate dilemma
+        Source: Yahoo Finance
+
+**ENERGY** (1)
+   Oil, gas, renewables, utilities, energy policy
+   └─ OIL & GAS (1)
+      • 🟢 Hungary alleges plot to blow up gas pipeline ahead of election
+        Source: BBC World
+        The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (1)
+      • 🔴 Most Investors Build Their Portfolio Backwards. Here's the Right Order.
+        Source: Yahoo Finance
+
+**POLITICS** (3)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (2)
+      • 🔴 At least 14 people killed in Israeli strikes across Lebanon
+        Source: Al Jazeera
+        Hezbollah fires projectiles at northern Israel while Israeli troops push deeper into southern Lebanon.
+      • 🔴 Pope warns world is becoming ‘indifferent’ to violence
+        Source: Al Jazeera
+        Pope Leo XIV used his first Easter mass at the Vatican to urge global leaders to "choose peace".
+   └─ GEOPOLITICS (1)
+      • 🟠 Iranian missile strikes industrial area in southern Israel
+        Source: Al Jazeera
+        Video captured the moment an Iranian missile hit the Ramat Hovav industrial area in southern Israel.
+
+**TECH** (4)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (2)
+      • 🟢 The Melanesian: Dark-skinned people with blonde hair region of Oceania
+        Source: Hacker News
+        Article URL: https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/
+        Comments URL: https://news.ycombinator.com/item?id=47650962
+      • 🟡 The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What February's Data Is Telling Us.
+        Source: Yahoo Finance
+   └─ GENERAL (2)
+      • 🟢 Codex is switching to API pricing based usage for all users
+        Source: Hacker News
+        Article URL: https://help.openai.com/en/articles/20001106-codex-rate-card
+        Comments URL: https://news.ycombinator.com/item?id=47650726
+      • 🟢 Computational Physics (2nd Edition)
+        Source: Hacker News
+        Article URL: https://websites.umich.edu/~mejn/cp2/
+        Comments URL: https://news.ycombinator.com/item?id=47650502
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 10
+🔴 CRITICAL: 3 (30.0%)
+🟠 HIGH: 1 (10.0%)
+🟡 MEDIUM: 1 (10.0%)
+🟢 LOW: 5 (50.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Hungary alleges plot to blow up gas pipeline ahead of election
+   https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss
+
+2. 🟢 The Melanesian: Dark-skinned people with blonde hair region of Oceania
+   https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/
+
+3. 🔴 At least 14 people killed in Israeli strikes across Lebanon
+   https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss
+
+4. 🔴 Pope warns world is becoming 'indifferent' to violence
+   https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss
+
+5. 🟠 Iranian missile strikes industrial area in southern Israel
+   https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss
+
+6. 🟢 Codex is switching to API pricing based usage for all users
+   https://help.openai.com/en/articles/20001106-codex-rate-card
+
+7. 🟢 Computational Physics (2nd Edition)
+   https://websites.umich.edu/~mejn/cp2/
+
+8. 🔴 Most Investors Build Their Portfolio Backwards. Here's the Right Order.
+   https://finance.yahoo.com/markets/stocks/articles/most-investors-build-portfolio-backwards-163500004.html
+
+9. 🟡 The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What February's Data Is Telling Us.
+   https://finance.yahoo.com/economy/articles/two-materials-predict-freight-demand-155839352.html
+
+10. 🟢 The bond market is helping resolve the Fed's interest rate dilemma
+   https://finance.yahoo.com/economy/article/the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html

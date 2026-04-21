@@ -1,0 +1,127 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260419_2147",
+  "executive_summary": "Pakistan is actively mediating between the US and Iran for a second round of talks amid heightened concerns over Strait of Hormuz security. Sri Lanka pursues political reset while Cameroon sees renewed peace hopes following the Pope's visit. Central bank enforcement actions conclude as major market volatility subsides.",
+  "key_insights": [
+    {
+      "insight": "Pakistan seeks to facilitate second round of US-Iran nuclear talks, requesting guarantees for Tehran's participation",
+      "location": "South Asia/Middle East",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strait of Hormuz security challenges intensify amid regional tensions and maritime threats",
+      "location": "Persian Gulf",
+      "actors": [
+        "Iran",
+        "US Naval Forces",
+        "Regional Allies"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues difficult political transition and governance reforms following economic crisis",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition Parties",
+        "IMF"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope Francis's visit generates momentum for peace dialogue and reconciliation in Cameroon",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroon Government",
+        "Separalist Groups"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "UN prepares priorities for next Secretary-General focusing on peacekeeping and multilateral reform",
+      "location": "Global/United Nations",
+      "actors": [
+        "United Nations",
+        "Member States",
+        "Security Council"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve concludes enforcement actions against major international banks",
+      "location": "United States/International",
+      "actors": [
+        "Federal Reserve",
+        "Cr\u00e9dit Agricole",
+        "Goldman Sachs",
+        "Mega International Commercial Bank"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC appoints new Enforcement Director signaling potential regulatory priorities shift",
+      "location": "United States",
+      "actors": [
+        "SEC",
+        "David Woodcock"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Post-war market normalization sees stocks surge, dollar stabilize, and volatility indices decline",
+      "location": "Global Financial Markets",
+      "actors": [
+        "Global Investors",
+        "Central Banks"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq reaches record highs as technology sector attracts renewed investor interest",
+      "location": "United States/Technology Sector",
+      "actors": [
+        "Tech Companies",
+        "Institutional Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve March FOMC minutes indicate cautious approach to further rate adjustments",
+      "location": "United States",
+      "actors": [
+        "Federal Reserve",
+        "FOMC Members"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "While US-Iran indirect negotiations receive coverage, the parallel escalation of Iran's nuclear program advances with limited international attention, potentially reaching critical thresholds.",
+  "url": "N/A"
+}

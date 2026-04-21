@@ -1,0 +1,120 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260416_0955",
+  "executive_summary": "The most critical geopolitical development today is President Trump's announcement that the Iran war is 'close to over,' potentially reshaping Middle East dynamics and oil markets. Meanwhile, policymakers warn that financial markets are dangerously underpricing the economic consequences of ongoing global conflicts, suggesting systemic risk miscalculation.",
+  "key_insights": [
+    {
+      "insight": "Trump declares Iran war 'close to over,' S&P 500 hits record high while oil markets remain volatile",
+      "location": "Middle East/Iran",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are too complacent about the economic costs of ongoing wars",
+      "location": "Global",
+      "actors": [
+        "Global Policymakers",
+        "Financial Markets"
+      ],
+      "alert_level": "HIGH",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian group, indicating hybrid warfare escalation against Western infrastructure",
+      "location": "Sweden",
+      "actors": [
+        "Sweden",
+        "Russia",
+        "Pro-Russian Groups"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "US investigates suspicious oil trades made before Trump policy pivots, suggesting potential market manipulation",
+      "location": "United States/Global",
+      "actors": [
+        "United States",
+        "Oil Traders"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment declining toward AI and data centers as Anthropic and OpenAI pursue IPOs",
+      "location": "United States/Global",
+      "actors": [
+        "Anthropic",
+        "OpenAI",
+        "Public"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire incident at Shenzhen facility for test/scrapped vehicles, raising concerns about EV battery safety",
+      "location": "China/Shenzhen",
+      "actors": [
+        "China",
+        "BYD"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit, potentially impacting industrial supply chains",
+      "location": "Global",
+      "actors": [
+        "Silver Producers",
+        "Industrial Consumers"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "El Salvador enacts law allowing life sentences for minors as young as 12",
+      "location": "El Salvador",
+      "actors": [
+        "El Salvador Government"
+      ],
+      "alert_level": "LOW",
+      "source": "Al Jazeera",
+      "url": "N/A"
+    },
+    {
+      "insight": "Ye postpones Marseille concert amid French authorities seeking performance ban",
+      "location": "France",
+      "actors": [
+        "France",
+        "Ye (Kanye West)"
+      ],
+      "alert_level": "LOW",
+      "source": "CNA",
+      "url": "N/A"
+    },
+    {
+      "insight": "Emerging markets investment pioneer Mark Mobius passes away at 89",
+      "location": "Global",
+      "actors": [
+        "Mark Mobius"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The targeting of Swedish critical infrastructure by pro-Russian actors may signal an expansion of hybrid warfare tactics across Nordic and Baltic states that could be part of a coordinated campaign not yet fully appreciated by Western intelligence communities.",
+  "url": "N/A"
+}

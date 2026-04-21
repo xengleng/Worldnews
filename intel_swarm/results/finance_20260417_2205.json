@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260417_2205",
+  "executive_summary": "Global markets hit record highs with the S&P 500 reaching unprecedented levels as geopolitical tensions ease with Iran's war seemingly winding down. However, policymakers warn that markets are dangerously underestimating the cumulative economic damage from ongoing conflicts, while investor sentiment shifts against AI and data center investments ahead of major tech IPOs.",
+  "key_insights": [
+    {
+      "insight": "S&P 500 reaches all-time record high as Trump signals Iran conflict near resolution, causing oil volatility",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are dangerously complacent about the economic toll of ongoing wars globally",
+      "asset_class": "bonds",
+      "alert_level": "HIGH",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI prepare IPOs while tech spending continues",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US authorities investigating suspicious oil trades made before major Trump policy pivots",
+      "asset_class": "commodities",
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver markets facing sixth consecutive annual deficit, supporting precious metals rally",
+      "asset_class": "commodities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Bank of America stock traders achieve record performance driven by market momentum",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Legendary emerging markets investor Mark Mobius passes away at 89",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power infrastructure targeted by pro-Russian cyber attacks",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Chinese EV maker BYD reports fire incident at Shenzhen test facility",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Futu Securities innovates with coffee shop branches adapting to client lifestyle changes",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "SCMP",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The rapid normalization of geopolitical risk premiums in equity markets, particularly the surge to record highs on hopes of Iran conflict resolution, may mask underlying structural vulnerabilities in corporate earnings and global supply chains that haven't fully priced in prolonged trade disruptions.",
+  "url": "N/A"
+}

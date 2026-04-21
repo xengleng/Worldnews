@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260416_1008",
+  "executive_summary": "Global equity markets reached new highs with the S&P 500 hitting a record as geopolitical tensions around Iran show signs of easing, yet policymakers warn that markets are dangerously underestimating the economic costs of ongoing conflicts. Meanwhile, commodity markets face continued supply constraints with silver marking its sixth consecutive annual deficit.",
+  "key_insights": [
+    {
+      "insight": "S&P 500 hits record high while oil markets remain volatile as Trump signals Iran war 'close to over'",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are too complacent about the economic toll of ongoing geopolitical conflicts",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "US investigating suspicious oil trades made before Trump policy pivots - potential market manipulation",
+      "asset_class": "energy",
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market poised for sixth consecutive annual deficit, indicating sustained supply constraints",
+      "asset_class": "commodities",
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data center investments ahead of Anthropic and OpenAI IPOs",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "BofA stock traders achieve record performance fueled by momentum trading strategies",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian cyber group, highlighting infrastructure vulnerability",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Reuters World",
+      "url": "N/A"
+    },
+    {
+      "insight": "China's BYD reports fire incident at Shenzhen garage for test and scrapped vehicles",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Mark Mobius, renowned emerging markets investor, passes away at age 89",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Futu Securities adapts business model opening coffee shops in branches to attract younger clients",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "SCMP",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The ongoing de-dollarization trends in BRICS nations and potential shifts in reserve currency holdings remain underreported despite growing geopolitical fractures that could accelerate alternative currency adoption.",
+  "url": "N/A"
+}

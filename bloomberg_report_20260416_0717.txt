@@ -1,0 +1,149 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-16 07:17 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • Israel appoints first ambassador to Somaliland
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+     🔗 https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss
+
+🟢 **LOW ALERTS** (14)
+   Routine update, no immediate action needed
+   • Amazon-backed X-energy files to raise up to $800M in IPO
+     [ENERGY → GENERAL]
+     Source: TechCrunch
+     🔗 https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/
+   • Spirit Airlines could liquidate as early as this week, sources say
+     [TECH → AI]
+     Source: CNBC
+     🔗 https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html
+   • The Rise of the Em-Dash in Hacker News Comments
+     [TECH → CYBERSECURITY]
+     Source: Hacker News
+     🔗 https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+
+📊 **CATEGORIZED NEWS**
+
+**ENERGY** (1)
+   Oil, gas, renewables, utilities, energy policy
+   └─ GENERAL (1)
+      • 🟢 Amazon-backed X-energy files to raise up to $800M in IPO
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/
+        Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offe...
+
+**POLITICS** (6)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (4)
+      • 🟢 Brazil’s police open a probe into presidential candidate Flavio Bolsonaro
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss
+        Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug ...
+      • 🟢 Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss
+        Luis Diaz and Michael Olise score late goals in Munich to give Bayern a dramatic 6-4 aggregate win o...
+   └─ US POLITICS (2)
+      • 🟢 US jury finds Ticketmaster and Live Nation had anticompetitive monopoly
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss
+        The verdict could cost Live Nation and Ticketmaster hundreds of millions of dollars....
+      • 🟢 Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done
+        Source: BBC World
+        🔗 https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss
+        The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a retur...
+
+**TECH** (8)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (2)
+      • 🟢 Spirit Airlines could liquidate as early as this week, sources say
+        Source: CNBC
+        🔗 https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html
+        The carrier is facing the added challenge of a spike in the price of fuel. Fuel is airlines' biggest...
+      • 🟢 Wait, could they still actually break up Live Nation?
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/
+        A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came...
+   └─ CYBERSECURITY (2)
+      • 🟢 The Rise of the Em-Dash in Hacker News Comments
+        Source: Hacker News
+        🔗 https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+        Article URL: https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments...
+      • 🟢 Hacker News CLI
+        Source: Hacker News
+        🔗 https://pythonhosted.org/hackernews-cli/commands.html
+        Article URL: https://pythonhosted.org/hackernews-cli/commands.html
+Comments URL: https://news.ycombi...
+   └─ GENERAL (4)
+      • 🟢 I made a terminal pager
+        Source: Hacker News
+        🔗 https://theleo.zone/posts/pager/
+        Article URL: https://theleo.zone/posts/pager/
+Comments URL: https://news.ycombinator.com/item?id=477...
+      • 🟢 Ohio prison inmates 'built computers and hid them in ceiling
+        Source: Hacker News
+        🔗 https://www.bbc.com/news/technology-39576394
+        Article URL: https://www.bbc.com/news/technology-39576394
+Comments URL: https://news.ycombinator.com...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 14 (93.3%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Amazon-backed X-energy files to raise up to $800M in IPO
+   https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/
+
+2. 🟢 Spirit Airlines could liquidate as early as this week, sources say
+   https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html
+
+3. 🟢 The Rise of the Em-Dash in Hacker News Comments
+   https://boazsobrado.com/blog/2026/04/15/the-rise-of-the-em-dash-in-hacker-news-comments/
+
+4. 🟢 I made a terminal pager
+   https://theleo.zone/posts/pager/
+
+5. 🟢 Ohio prison inmates 'built computers and hid them in ceiling
+   https://www.bbc.com/news/technology-39576394
+
+6. 🟢 Ford EV and tech chief leaving automaker
+   https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/
+
+7. 🟢 The buns in McDonald's Japan's burger photos are all slightly askew
+   https://www.mcdonalds.co.jp/en/menu/burger/
+
+8. 🟢 Brazil’s police open a probe into presidential candidate Flavio Bolsonaro
+   https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss
+
+9. 🟢 Wait, could they still actually break up Live Nation?
+   https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/
+
+10. 🟢 Hacker News CLI
+   https://pythonhosted.org/hackernews-cli/commands.html
+
+11. 🟢 Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals
+   https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss
+
+12. 🟢 US jury finds Ticketmaster and Live Nation had anticompetitive monopoly
+   https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss
+
+13. 🟢 Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done
+   https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss
+
+14. 🟢 Could the EU’s alliance with Israel soon change?
+   https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss
+
+15. 🟡 Israel appoints first ambassador to Somaliland
+   https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss

@@ -1,0 +1,75 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-05 12:26 SGT
+Articles Analyzed: 22
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (4)
+   Market-moving event, immediate attention required
+   • Iran war live: Missing airman from downed jet ‘recovered’, US official says
+     [POLITICS → US POLITICS]
+   • Russian attack on Ukraine market kills five
+     [POLITICS → GEOPOLITICS]
+   • Iran war live: Missing airman from downed jet ‘recovered’, US official says
+     [POLITICS → US POLITICS]
+
+🟢 **LOW ALERTS** (18)
+   Routine update, no immediate action needed
+   • US rescues airman whose F-15 was downed in Iran, US officials say
+     [POLITICS → US POLITICS]
+   • Brazilian Oscar retires at 34 with cardiac issues
+     [POLITICS → GENERAL]
+   • Afghan mother seeks justice after Pakistani bombing kills hundreds
+     [POLITICS → GENERAL]
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (4)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ EQUITIES (2)
+      • 🟢 ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock
+        Source: Yahoo Finance
+      • 🟢 ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock
+        Source: 
+   └─ GENERAL (2)
+      • 🟢 Brazilian Oscar retires at 34 with cardiac issues
+        Source: 
+      • 🟢 Afghan mother seeks justice after Pakistani bombing kills hundreds
+        Source: 
+
+**POLITICS** (10)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (2)
+      • 🟢 Brazilian Oscar retires at 34 with cardiac issues
+        Source: CNA
+      • 🟢 Afghan mother seeks justice after Pakistani bombing kills hundreds
+        Source: CNA
+   └─ GEOPOLITICS (4)
+      • 🟢 Iran says Iraqi ships can pass Strait of Hormuz as transits tick up
+        Source: Al Jazeera
+      • 🔴 Russian attack on Ukraine market kills five
+        Source: BBC World
+   └─ US POLITICS (4)
+      • 🟢 US rescues airman whose F-15 was downed in Iran, US officials say
+        Source: CNA
+      • 🔴 Iran war live: Missing airman from downed jet ‘recovered’, US official says
+        Source: Al Jazeera
+
+**TECH** (8)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (8)
+      • 🟢 AI that copied musical artist files copyright claim against that artist
+        Source: Hacker News
+      • 🟢 Show HN: mailtrim – find what's actually filling your Gmail inbox
+        Source: Hacker News
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 22
+🔴 CRITICAL: 4 (18.2%)
+🟢 LOW: 18 (81.8%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)

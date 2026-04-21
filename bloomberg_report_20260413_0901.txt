@@ -1,0 +1,164 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-13 09:01 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • These are people Israel killed in Lebanon on a single day
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+     🔗 https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss
+   • Civilians feared killed after reports of air strike on Nigerian market
+     [MARKETS → GENERAL]
+     Source: BBC World
+     🔗 https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss
+
+🟠 **HIGH ALERTS** (1)
+   Significant event, consider action
+   • Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail
+     [POLITICS → GEOPOLITICS]
+     Source: CNBC
+     🔗 https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html
+
+🟢 **LOW ALERTS** (12)
+   Routine update, no immediate action needed
+   • Trump's blockade threat raises risks and leaves predicaments unchanged
+     [TECH → AI]
+     Source: BBC World
+     🔗 https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss
+   • Peter Magyar says his election win has ‘liberated Hungary’ from Orban
+     [POLITICS → ELECTIONS]
+     Source: Al Jazeera
+     🔗 https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss
+   • Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail
+     [POLITICS → US POLITICS]
+     Source: CNBC
+     🔗 https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (1)
+      • 🔴 Civilians feared killed after reports of air strike on Nigerian market
+        Source: BBC World
+        🔗 https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss
+        The Nigerian Air Force has not addressed reports it struck a village market while targeting militant...
+
+**POLITICS** (8)
+   Government, elections, legislation, geopolitical events
+   └─ ELECTIONS (1)
+      • 🟢 Peter Magyar says his election win has ‘liberated Hungary’ from Orban
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss
+        Peter Magyar has won Hungary’s election, defeating longtime nationalist leader Viktor Orban....
+   └─ GENERAL (4)
+      • 🔴 These are people Israel killed in Lebanon on a single day
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss
+        In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8....
+      • 🟢 Eric Swalwell exits California governor race after sex assault allegations
+        Source: Al Jazeera
+        🔗 https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss
+        Democratic representative suspends campaign after media reports detailed alleged accounts of sexual ...
+   └─ GEOPOLITICS (1)
+      • 🟠 Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail
+        Source: CNBC
+        🔗 https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html
+        President Donald Trump said he ordered the U.S. Navy to find and interdict any ship in international...
+   └─ US POLITICS (2)
+      • 🟢 Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail
+        Source: CNBC
+        🔗 https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html
+        Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically whi...
+      • 🟢 Dollar strengthens as peace talks falter, US blockade of Iran's ports to begin
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/business/us-iran-war-dollar-strengthens-asia-stocks-markets-6052331
+        US President Donald Trump said on Sunday that the US Navy would start blockading the Strait of Hormu...
+
+**TECH** (6)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (3)
+      • 🟢 Trump's blockade threat raises risks and leaves predicaments unchanged
+        Source: BBC World
+        🔗 https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss
+        The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for...
+      • 🟢 X says it’s reducing payments to clickbait accounts
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/
+        X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-...
+   └─ GENERAL (2)
+      • 🟢 Trump officials may be encouraging banks to test Anthropic’s Mythos model
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
+        The report is particularly surprising since the Department of Defense recently declared Anthropic a ...
+      • 🟢 TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/
+        Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev...
+   └─ SOFTWARE (1)
+      • 🟢 Apple reportedly testing four designs for upcoming smart glasses
+        Source: TechCrunch
+        🔗 https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
+        These glasses are a step back from an ambitious plan that once called for Apple to launch a variety ...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 2 (13.3%)
+🟠 HIGH: 1 (6.7%)
+🟢 LOW: 12 (80.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Trump's blockade threat raises risks and leaves predicaments unchanged
+   https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss
+
+2. 🟢 Peter Magyar says his election win has ‘liberated Hungary’ from Orban
+   https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss
+
+3. 🟠 Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail
+   https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html
+
+4. 🟢 Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail
+   https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html
+
+5. 🔴 These are people Israel killed in Lebanon on a single day
+   https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss
+
+6. 🟢 Trump officials may be encouraging banks to test Anthropic’s Mythos model
+   https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
+
+7. 🟢 Eric Swalwell exits California governor race after sex assault allegations
+   https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss
+
+8. 🟢 Apple reportedly testing four designs for upcoming smart glasses
+   https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/
+
+9. 🔴 Civilians feared killed after reports of air strike on Nigerian market
+   https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss
+
+10. 🟢 X says it’s reducing payments to clickbait accounts
+   https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/
+
+11. 🟢 TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?
+   https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/
+
+12. 🟢 From LLMs to hallucinations, here’s a simple guide to common AI terms
+   https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+
+13. 🟢 Rose buoyed by Masters support despite another near miss
+   https://www.channelnewsasia.com/sport/rose-buoyed-masters-support-despite-another-near-miss-6052391
+
+14. 🟢 Justin Bieber reconnects with fans in Coachella headline comeback set
+   https://www.channelnewsasia.com/entertainment/justin-bieber-coachella-2026-6052346
+
+15. 🟢 Dollar strengthens as peace talks falter, US blockade of Iran's ports to begin
+   https://www.channelnewsasia.com/business/us-iran-war-dollar-strengthens-asia-stocks-markets-6052331

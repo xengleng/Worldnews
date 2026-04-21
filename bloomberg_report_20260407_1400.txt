@@ -1,0 +1,131 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-07 14:00 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (3)
+   Market-moving event, immediate attention required
+   • Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges
+     [POLITICS → US POLITICS]
+     Source: CNBC
+   • ‘Why would Iran agree to a ceasefire given US and Israeli track record?’
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+   • ‘They want to create a rift’: Israeli attacks deepen Lebanon fissures
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+
+🟠 **HIGH ALERTS** (1)
+   Significant event, consider action
+   • Trump’s threat to strike Iran’s power plants looms
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+
+🟢 **LOW ALERTS** (11)
+   Routine update, no immediate action needed
+   • Malaysia border laws to apply in designated areas of Singapore’s RTS Link station under proposed law
+     [POLITICS → LEGISLATION]
+     Source: CNA
+   • FAQ: What can I do with my Singtel special discounted shares?
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Singtel special discounted shares to be transferred to holders' CDP accounts; CPF withdrawal conditions to be waived
+     [TECH → AI]
+     Source: CNA
+
+📊 **CATEGORIZED NEWS**
+
+**POLITICS** (7)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (3)
+      • 🟢 FAQ: What can I do with my Singtel special discounted shares?
+        Source: CNA
+        Here’s what you need to know about the transfer of Singtel special discounted shares to the holders'...
+      • 🟢 Artemis II astronauts break record for farthest human travel from Earth
+        Source: Al Jazeera
+        Four astronauts from NASA’s Artemis II mission have broken the record for the farthest human travel ...
+   └─ LEGISLATION (1)
+      • 🟢 Malaysia border laws to apply in designated areas of Singapore’s RTS Link station under proposed law
+        Source: CNA
+        Malaysian preclearance officers will have certain protections and immunities when performing officia...
+   └─ US POLITICS (3)
+      • 🔴 Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges
+        Source: CNBC
+        Crude prices extended gains after Trump repeated the Tuesday deadline for escalating attacks on Iran...
+      • 🟠 Trump’s threat to strike Iran’s power plants looms
+        Source: Al Jazeera
+        US President Donald Trump said ‘Tuesday will be power plant day’ in a vulgar post on social media....
+
+**TECH** (8)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (7)
+      • 🟢 Singtel special discounted shares to be transferred to holders' CDP accounts; CPF withdrawal conditions to be waived
+        Source: CNA
+        The special discounted shares were issued in 1993 when Singtel was first listed on the Singapore mai...
+      • 🟢 BOJ to raise rates by July on mounting price pressure, ex-board member says
+        Source: CNA
+   └─ GENERAL (1)
+      • 🟢 People Love to Work Hard
+        Source: Hacker News
+        Article URL: https://www.anildash.com/2026/04/06/people-love-to-work-hard/
+Comments URL: https://new...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 3 (20.0%)
+🟠 HIGH: 1 (6.7%)
+🟢 LOW: 11 (73.3%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Malaysia border laws to apply in designated areas of Singapore’s RTS Link station under proposed law
+   https://www.channelnewsasia.com/singapore/malaysia-rts-link-johor-bahru-border-law-mha-6038771
+
+2. 🟢 FAQ: What can I do with my Singtel special discounted shares?
+   https://www.channelnewsasia.com/singapore/singtel-sds-withdraw-cpf-cdp-account-6039466
+
+3. 🟢 Singtel special discounted shares to be transferred to holders' CDP accounts; CPF withdrawal conditions to be waived
+   https://www.channelnewsasia.com/singapore/withdraw-cpf-singtel-special-discounted-shares-cdp-account-6039446
+
+4. 🟢 BOJ to raise rates by July on mounting price pressure, ex-board member says
+   https://www.channelnewsasia.com/business/boj-raise-rates-july-mounting-price-pressure-ex-board-member-says-6040481
+
+5. 🟢 Singapore to prepare 10,000 students for future shaped by autonomous ‘physical AI’
+   https://www.channelnewsasia.com/singapore/10000-students-training-autonomous-physical-artificial-intelligence-6040186
+
+6. 🔴 Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges
+   https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html
+
+7. 🟢 AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost
+   https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/
+
+8. 🟢 China is winning one AI race, the US another - but either might pull ahead
+   https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss
+
+9. 🟢 People Love to Work Hard
+   https://www.anildash.com/2026/04/06/people-love-to-work-hard/
+
+10. 🟠 Trump’s threat to strike Iran’s power plants looms
+   https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss
+
+11. 🔴 ‘Why would Iran agree to a ceasefire given US and Israeli track record?’
+   https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss
+
+12. 🟢 AI design platform Picsart launches a creator monetization program
+   https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/
+
+13. 🟢 Samsung shares rise after profit seen jumping 8-fold on AI chip boom
+   https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html
+
+14. 🟢 Artemis II astronauts break record for farthest human travel from Earth
+   https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss
+
+15. 🔴 ‘They want to create a rift’: Israeli attacks deepen Lebanon fissures
+   https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss

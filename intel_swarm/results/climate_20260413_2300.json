@@ -1,0 +1,186 @@
+{
+  "agent": "climate",
+  "timestamp": "20260413_2300",
+  "run_ts_utc": "2026-04-13T23:01:41.032015Z",
+  "insights": [
+    {
+      "headline": "Super Typhoon Sinlaku threatens US Pacific islands as Earth's strongest 2026 cyclone",
+      "summary": "Category 5 Super Typhoon Sinlaku, the second-strongest typhoon so early in the year, is approaching US Northern Marianas Islands and Guam. Disaster relief organizations have activated emergency operations as the storm could bring significant impacts to remote US territories.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": [
+        "The Guardian",
+        "The Weather Channel",
+        "Yale Climate Connections"
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlZtZ0pqSHNOTzZNR2pHbkFrVmJLNGtOampPZFRfa1BIeWVBcXZHcWs4VFJoTVNqRkdtQzJZZXZSZzdWMkxrUUplRjhyWjVMZF9ncjkxNmt0b1oycnJlQTFtaGlyYjJ1MmhzWUs1ZU13UmhnVEZyNEY1amtwcnpIUGMzZ0h5VFV3M3VjLWE5QmFTVXE4?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHVmZ3YxbTdxeTNVcFV4UWZ2Z3lqYVhJMGFHVk5iby1pcU5KYWRDWWJzc0NCdDhYYzI3UHdsa1dNSmROUzY2N0psUUhOVWhkczlDeklTN255NGtmYTJMOVYwNGZaU3B5dkUwaVdIVUs5ZkdNODRRWjZYZndxbjZFY05WZXpwWlRPQUdxay1WSFllMFlpNDA2STc2Nms4Q0FlRGpHbXc2TnZXcmtGMkY0?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaTlyTE91MUhVbl9KaTQ2Sk9NVWhrem1lVXY2aVQwN3hQU1FyNXZRcnplcHhhNXlUbm5IQWtnc2RnSm5tYzAteDFjUFNoLVNkS09GekRQeF80UHFRdUtCZHI5S0l5N19oRko2VEdhdW1PYzhSZlZnZXZGQzVkdFVGREc5SjgzSGNHVmpycDFmOTdOQmFYQ3p4R0JGN0k2OHRrd3hjNEQ0Qzd1MTlXS3BENkUydGQ4TzVnc3c?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Michigan flooding endangers dams, forces road closures across northern regions",
+      "summary": "Heavy rainfall has triggered widespread flooding in Michigan, threatening Cheboygan and Mio dams with potential failure. Emergency responders are dealing with multiple road closures and rising waters as flood conditions worsen across central and northern Michigan.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": [
+        "Bridge Michigan",
+        "The Detroit News",
+        "MLive.com"
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEx1cGZzbG02VXJuX1Z3emRVS0tOZWxCT2xfejhBWlRnbTkxNjVLY05FX1A3c3FHMWYtNmtuRGVvcmlxTHlOZ0xQUFhuTkxjWmhJdk93UW01LWgyNDI1VU13YkRoNFFTVm9DYy0wenhKdDVCRnVFNGtlNG1hY2NmeHplLXNRT1lFUmI4b19NM21BV1BsLXhaUjYwc0oya2pVTW5oTDVDS01NWWlu?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd3lZUEFGQVFTZnBwWnNUUkxSYmU2N0ExM0Y1RnBHdFFrelZ2UXpkRDd3RmpQSWU5cHFrdDZodjlEVEI4SUtJM3p6akVCMjRiWnVqUTNNY21oYkRrU2x4cHpmN0hNX2YxUHBTbVhlWGJ5NmdKQ2phWEVsdlE0S3ZOcl9lR2pkOXVqZ3R0OUd5WnlBTk1HTXZQM3dSV0pac0Rra1llTUJYeDRNY0RSOE1IVG1kT0owRmg0MEV1V1NMaGo3MlZqLUNCQm9EbHpqbFgzZ05uZ0tjYk9xdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEQxbzBFb3ZHLVpyVEk1NDFPX0hVbDkyUjA5Z3BNeHdyM2p4dTZPU3Z5c3REQlNpaEI4bmR2TGNwOXlEdTc0RHkwdTFDWVZXa1hmeFh5N0dlUE1nbE1FOTlQVEttZjg4SGw0LUQwbVdCRE5YU2lPMXhia3FrdFZ4dDg5NE9nb1FGb0VpQmh5bjRKQUxnQ3k5QjdYaXY5bTQ5dnfSAbYBQVVfeXFMTzNwc2FGc2dlY2o5NGNfd3JEYTMzSU5aMXBCWWxITVgtclRnVl9fTVhjd1BtZ1c1ZHZOaU1wN2ZHVUh0aThzc1RqMDhEX256Ym9FSHhLR09Sa0xTQ2hNT0l4TlFUdGNwZFozLTdJZ2JBc0xvWDFrZE5wV2NON3hSTUpIN19mbmJzd3VNOWRDQ3FSUFZSQkFXVXY5TFNlX3JqUVV6N2lvcGhOWFhVczhfWFhGYk9ad2c?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Florida wildfires force evacuations as Picayune Strand fires grow to 605 acres",
+      "summary": "Multiple wildfires in Florida's Picayune Strand State Forest have expanded rapidly, with the largest reaching 605 acres and prompting evacuations in Collier County. Firefighters are battling several blazes across the state amid dry conditions and elevated fire risks.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": [
+        "Naples Daily News",
+        "WINK News",
+        "Gulf Coast News and Weather"
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGxfT3lGbkljZm1YSnk1RW9Vd1FuQlZNV1p0X3Z2ZTVaaVRNU1dOODVyMHFNNHBaLTRqZ0RxS3MzLWszWWlrOXFfdUNBcVZEWnU4VjdZaHQ2QU50ZnNNdW9Ydm51VTB2LTRhamR3bjdONnIzNDhaZkowbTVHQk16YWNWN2VjNEhmaGhGZ2lpaWFkSjJhOEFobjBpY0DpbGlkWGt0eFBZQV9Td1BoZjkxYTlXQmxoVUFSUWJEMG5SMzNBZVdXaWZrWm9WTUlUMFdOUW4wU2hpaw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPelNmZklZRzFvMnA4UVdTSEFqdHM4TW9XVGFVQnBBMWttVHp5ODBTZU1yN3I5NVFGMzZ4dkFFOG1OMGRXbmdUb2A2dGRVRVprdlJuRFlrRElyTV9saTJpVHRBTzh5eFJtekU4ZlpnRXVmd19zSmlLMGhVTFBrT1JPY2pjd0pLdzVnUjd0NkJ0NjBpTFZwUmpZM3I4bVB6X1BwT2t5a01LQTd0Q0RpWTI3RE5YMEFqb0xkQk5ITThJRWF6YTNxQW1TT2JXREZEY3VkWkliQnllczM1R1BpSXl2V0hiRy16djJlXzhOQzFrZ0J4TXVFQnc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzdwcW8wUzZTWDczNFd3YndvMWRoeHkyVko4UUFweHdnZkY2SWlJOU5QY24ybmxlYmx1ZTBLb1FjazZ5dlBtRllSUEZUWXFaTExMUDdpbWhTbU9kRkwwYWRKbERQYUlOTUlkLUl6ZUYtWmR2ZXAxVlVlNWFqQ29uQ2tZdFJYMXdxNlVEelRwT1E2UDhaNGVIeU5COVV4ODFULTZRa0htUQ?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Advanced weather forecasting could reduce heat-related mortality as climate warms",
+      "summary": "Improved weather prediction technology shows potential to significantly reduce deaths from extreme heat events, which are becoming more frequent and intense due to climate change. Better forecasting could enable earlier warnings and more effective community preparedness measures.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": [
+        "Phys.org"
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2aWVUR1B4dW8yOC11SUJJbno5TUNkbHVmb3lvLUZDWjZoYjlxbDRhUmZ2c3Zzd1lyM0s0WlFvbUk2aGZsNzhXRi1fMlhJZkFXS0FOQkxheXBxQ3dzRGJmNzVvOHpDTVRM?oc=5"
+      ],
+      "published": "2026-04-13 19:00"
+    },
+    {
+      "headline": "Climate scientists monitor potential 'super El Ni\u00f1o' with global weather implications",
+      "summary": "Researchers are tracking the possible development of a 'super El Ni\u00f1o' climate pattern that could disrupt weather systems worldwide. Such an event might intensify extreme weather phenomena and have significant impacts on global temperature and precipitation patterns.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": [
+        "The Guardian",
+        "National Geographic"
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE10STVjWEdqREVEeUNmT3Q3U2I5azhab29hbHRuRmNpWVRVc2hiOFFqVDJtVENvZmZiMklpakZqZUtFZVFOMXhxbEZTV19rcTgyd1d0R2xfWTlRVkhjalBkMkJBTEluQ0FhVTRJUGpmel83TmhXYjJ6NQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMl9FVi1URHA0VUZKcVByY1Z2blBjdVIxVEYxNDhFNXZPZUVCSVhCeTFMRnlwZVlYdGJaSmNKSDZBdWpDMVR2Q0NqbmdXYU5DN3VsajBWaVJMUUtmcjN0Vll2TFE3eDRSVWVqLWhRZXVrMVJQUUNjQ1hySldXVUlxWXUyV3F2RVVzN75SNUZ4TFJST0ZmLVlJ?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Texas A&M Forest Service enhances wildland fire dispatch center - AgriLife Today",
+      "summary": "Texas A&amp;M Forest Service enhances wildland fire dispatch center...",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": [
+        "\"(wildfire OR bushfire OR forest fire)\""
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xpdC1xd3VMZkRzcXZyR2kyNGJQZmt5NE9Fd1B5UlZTUXBPUFY1NG9fbF9EbkRVTGl5bzV0YklNSTNUWDNTajUxMHJTdzZlaEhGQXc2UjNPaDlxd1ZOc3J1NF85THNGcFh5VzhnT0ROaXliY0ZXSHFGUUtCdHhqeEp1NjZZTFROeHg5c19BU0NvMGNKaHBEeFE3QUhzSFdBdGdURnlSYmw?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Wildfire grows to 250 acres in Scott County - WCYB",
+      "summary": "Wildfire grows to 250 acres in Scott County...",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": [
+        "\"(wildfire OR bushfire OR forest fire)\""
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZXoyek9FNmh5eXpLX1RSaU1xQnRqTXFqWDRQRm12MkdvQkRLcm5LcldJcUxGUmVqWUJJLURxY3FGaVllaFNOd3pnY2g0UnBtUVQ5emhFUVF5ZFRCeFhzdTlNOFpvblpDYVlibWtwLXdYUWFVZEJkcw?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "UPDATE: U.S. and Georgia Forestry crews continue battling White County wildfire - AccessWDUN",
+      "summary": "UPDATE: U.S. and Georgia Forestry crews continue battling White County wildfire...",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": [
+        "\"(wildfire OR bushfire OR forest fire)\""
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSThzWUJRdFlOOE5sYUw5Q1Z1OGhwWTRwT29mYjhfZjMtRkxiUUtKazdNUExiMU9WckVnemtWSjI2RTVqX044LWdwaDhRUkZMQTFqem5JajRjYy1pT3hxMmtRLS12MEluZGdCa2FNOF9CNTRVam42MGhzei1XZWNMbFpKRlppLU91N1U4RG9lWWw4Z3dDUmduSExR?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "30-acre woods fire in Randolph County now under control, NC Forest Service officials say - WXII",
+      "summary": "30-acre woods fire in Randolph County now under control, NC Forest Service officials say...",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": [
+        "\"(wildfire OR bushfire OR forest fire)\""
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FdHczZnpydVc0YXBDYUJQNnA2Tlg3dlRrZGREaDBWSXFfYjk0OUtRSGdnd29OZ2NZM3hUcHo3MDd0elF1ZTQ5Q3pBX3Z2V0doVW5JdzNKSm1EdmxicFljaXNZZDZmc0VCdzlYa0tQdlgzN3E4?oc=5"
+      ],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Alabama under statewide 'Fire Alert' as drought and low humidity raise wildfire risk - WBMA",
+      "summary": "Alabama under statewide 'Fire Alert' as drought and low humidity raise wildfire risk...",
+      "category": "disasters",
+      "alert_level": "LOW",
+      "source_names": [
+        "\"(wildfire OR bushfire OR forest fire)\""
+      ],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRDZGcEx5d2oyLVF1aTFoRHZuWDQwUWJJSzZkVVA1V1N2NFNFdUx4dGNVWkdLTXZHUVpPNDhvbXBycHNyTGVCeldvcWh1YndxYnFWV2YtcUVCVExSYndmTzgzRDJCQU8yckI0OHhwVlpRcV9aaUhPSTZWbV9Xa1FYMW03Z3IyYnMwZm1ONk5FeUNDU3Atemc2OHlPVmg1TXhocjFiaXhWWEhacmEtTEg2amczOGFldkJQcVRnREVVbDh6Zw?oc=5"
+      ],
+      "published": "2026-04-13"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Improved weather forecasting technology could save lives from heat deaths",
+      "Enhanced wildfire response systems being deployed (Texas A&M Forest Service)",
+      "Disaster relief organizations activating for typhoon response (Team Rubicon)",
+      "Better climate modeling helps predict extreme weather events earlier"
+    ],
+    "negative": [
+      "Extreme weather driving insurance rates up for farmers (Iowa roundtable)",
+      "Climate change increasing disaster risks globally",
+      "\"Super El Ni\u00f1o\" could bring more extreme weather patterns",
+      "Multiple simultaneous disasters straining emergency response resources"
+    ],
+    "sources": [
+      "Phys.org",
+      "The Des Moines Register",
+      "The Guardian",
+      "AgriLife Today",
+      "Team Rubicon"
+    ]
+  },
+  "patterns": [
+    "Multiple simultaneous disasters: typhoon in Pacific, flooding in Michigan, wildfires in Florida",
+    "US-focused impacts: All major events affecting US territories/states",
+    "Climate attribution: Many articles link extreme weather to climate change",
+    "Adaptation focus: Emphasis on forecasting, preparedness, and response systems",
+    "Economic impacts: Insurance costs rising due to increased extreme weather"
+  ],
+  "blind_spots": [
+    "Limited international coverage (mostly US-focused)",
+    "No major drought reports despite drought category in sources",
+    "Minimal coverage of climate policy or international agreements",
+    "Limited economic impact analysis beyond insurance rates",
+    "No coverage of renewable energy transition or mitigation efforts"
+  ]
+}

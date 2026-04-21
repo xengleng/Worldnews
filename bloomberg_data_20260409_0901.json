@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-09T09:01:09.695019",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Automatic registration for US Military draft to begin in December",
+      "link": "https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/",
+      "published": "Wed, 08 Apr 2026 23:53:07 +0000",
+      "summary": "Article URL: https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/\nComments URL: https://news.ycombinator.com/item?id=47697670\nPoints: 31\n# Comments: 34",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "f521b8c8d90c8c354af2f8e3e820705d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+      "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+      "published": "Wed, 08 Apr 2026 23:52:04 GMT",
+      "summary": "A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "883b61da4f33154772f377d27f88c883",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "\u2018Israel must be restrained for US-Iran ceasefire to hold\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 23:39:52 +0000",
+      "summary": "Former US counterterrorism chief Joe Kent had warned Israel could \u2018sabotage\u2019 the US-Iran ceasefire.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "c7f6ba277e93737af1eeb7017e20dc76",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
+      "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 22:49:22 +0000",
+      "summary": "Drug dealer who supplied dose that eventually led to Perry&#039;s death in 2023 pleaded guilty to five felony drug counts.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "2d9b3445020b13f6944159982c4ef034",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 22:46:58 GMT",
+      "summary": "A legal order seeking the golfer's medications - including dosage and warnings about driving on pill bottles - will be issued later this month, court record shows.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "d5fafd189c5ee2de1a8ac740b929b9e8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
+      "link": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
+      "published": "Wed, 08 Apr 2026 22:45:08 GMT",
+      "summary": "The two-week ceasefire agreement between the U.S. and Iran appeared at risk of unraveling less than a day after it was announced.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "6d95e9249619defb77126d5ac1fbdfda",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Americans question Trump\u2019s instinct on Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 21:59:51 +0000",
+      "summary": "Americans are split on whether to trust Donald Trump&#039;s instinct-driven approach to the Iran conflict.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "df30ba873205d6e1335637dfb01ac9d7",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+      "link": "https://thales.me/posts/why-i-built-snapstate/",
+      "published": "Wed, 08 Apr 2026 21:53:36 +0000",
+      "summary": "Article URL: https://thales.me/posts/why-i-built-snapstate/\nComments URL: https://news.ycombinator.com/item?id=47696760\nPoints: 14\n# Comments: 21",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "b07fe3068a3a6d25c09c90dd8c39e8cc",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "WireGuard VPN developer can\u2019t ship software updates after Microsoft locks account",
+      "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+      "published": "Wed, 08 Apr 2026 21:50:41 +0000",
+      "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "079065995577765a82e618306db12c57",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "SOFTWARE",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "JD Vance says Iran would be \u2018dumb\u2019 to let talks collapse over Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss",
+      "published": "Wed, 08 Apr 2026 21:50:36 +0000",
+      "summary": "The US vice president says Iran had a &#039;legitimate misunderstanding&#039; about Lebanon&#039;s inclusion in this week&#039;s ceasefire.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "61b9653d9ecca4dd9d6fd80e8ef74e94",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Show HN: Is Hormuz open yet?",
+      "link": "https://www.ishormuzopenyet.com/",
+      "published": "Wed, 08 Apr 2026 21:33:06 +0000",
+      "summary": "I built this because I was interested in the data. Didn't fully get it to what I wanted, but thought I'd share it nonetheless. Maybe someone has better data sources they could share!Turns out live shi...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "673d782883b8de50a156108033826566",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "published": "Wed, 08 Apr 2026 21:19:07 +0000",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "2517309160f489b1e03ff48bd4b21b75",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 21:10:14 GMT",
+      "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, historians say.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "74da6a4a8f6019401b3df372a8820e94",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "b25b04cbf90cbd789d9d4ff02d0bf6e2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+      "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+      "published": "Wed, 08 Apr 2026 21:00:00 +0000",
+      "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "8d1d0c161cccf91377f8345a8fb172f3",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 6,
+    "high": 0,
+    "medium": 1,
+    "low": 8
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 6,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

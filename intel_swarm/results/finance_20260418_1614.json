@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260418_1614",
+  "executive_summary": "S&P 500 reaches record highs amid choppy oil markets as Trump signals Iran war may be nearing resolution, while policymakers warn that markets remain dangerously complacent about the economic toll of ongoing geopolitical conflicts. The AI sector faces mounting public skepticism as major players like Anthropic and OpenAI prepare for potential IPOs despite continued massive capital spending.",
+  "key_insights": [
+    {
+      "insight": "S&P 500 hits record high while oil markets remain volatile following Trump's comments that the Iran war is 'close to over'",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are too blas\u00e9 about the economic toll of war, suggesting systemic underpricing of geopolitical risk",
+      "asset_class": "multiple",
+      "alert_level": "HIGH",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire incident at Shenzhen garage for test and scrapped cars, raising questions about EV safety standards",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI prepare for IPO listings while tech spending continues to escalate",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US authorities investigating suspicious oil trades made prior to Trump's policy pivots, suggesting potential market manipulation",
+      "asset_class": "commodities",
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit, indicating sustained structural supply shortage",
+      "asset_class": "commodities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Bank of America stock traders achieve record performance driven by momentum strategies",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Mark Mobius, legendary emerging markets investor, passes away at age 89",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian group, highlighting critical infrastructure vulnerability",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Futu Securities launches lifestyle-focused coffee shop branches, signaling shift in retail brokerage distribution models",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "SCMP",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The suspicious oil trades investigation reveals potential front-running or insider trading ahead of major policy announcements, highlighting gaps in market surveillance that could undermine investor confidence in U.S. oil markets.",
+  "url": "N/A"
+}

@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-07T09:53:52.466842",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Inside the digital regulatory ecosystem powering Singapore\u2019s new builds",
+      "link": "https://www.channelnewsasia.com/brand-studio/inside-digital-regulatory-ecosystem-powering-singapores-new-builds-6033266",
+      "published": "Tue, 07 Apr 2026 09:40:00 +0800",
+      "summary": "Corenet X streamlines approvals across key agencies, enabling earlier coordination, clearer feedback and faster project delivery.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a645aaacf4e16896928aaf77f2d08c1c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Building more sustainable AI-ready digital infrastructure",
+      "link": "https://www.channelnewsasia.com/advertorial/building-more-sustainable-ai-ready-digital-infrastructure-6027376",
+      "published": "Tue, 07 Apr 2026 09:30:00 +0800",
+      "summary": "Bridge Data Centres is advancing renewable energy solutions and deploying innovative technologies to power the growth of the AI economy.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "82ea9bc7c44c9ce49c2377a21ef26f5d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Brazilian government blacklists Chinese automaker BYD for labour violations",
+      "link": "https://www.channelnewsasia.com/business/brazilian-government-blacklists-chinese-automaker-byd-labour-violations-6039921",
+      "published": "Tue, 07 Apr 2026 09:03:00 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a9d700ca3973c20c6e098b3e89844cc2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Tiger Woods on players' minds as Masters week begins",
+      "link": "https://www.channelnewsasia.com/sport/tiger-woods-players-minds-masters-week-begins-6039916",
+      "published": "Tue, 07 Apr 2026 09:00:46 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "0d964954b89487a291dea481c035a7a9",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Japan February household spending falls 1.8% year-on-year",
+      "link": "https://www.channelnewsasia.com/business/japan-february-household-spending-falls-18-year-year-6039841",
+      "published": "Tue, 07 Apr 2026 07:44:57 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a5ebd25c1583f8cc826a45712be2cf18",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Oil prices rise as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges",
+      "link": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+      "published": "Tue, 07 Apr 2026 01:44:20 GMT",
+      "summary": "Crude prices ticked higher after Trump repeated the Tuesday deadline for escalating attacks on Iran's power plants and bridges.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "d9217f6971d6a93bf8967abac9d36841",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Asia-Pacific markets rise as investors assess Trump's mixed messaging on Iran war",
+      "link": "https://www.cnbc.com/2026/04/07/asia-pacific-markets-toda-kospi-nikkei225-nifty50.html",
+      "published": "Tue, 07 Apr 2026 01:39:18 GMT",
+      "summary": "Trump renewed threats on targeting Iran's civilian infrastructure if a peace deal is not reached in less than 24 hours, while signaling Iranian leadership is negotiating in earnest.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "7180a90f2dceb43a382caba9e9113cbf",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Vance heads to Budapest to shore up Orban\u2019s support before Sunday vote",
+      "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 01:18:59 +0000",
+      "summary": "US vice president&#039;s Budapest trip highlights US-Hungary far-right alignment as Orban faces toughest electoral challenge.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "41873fe1e01d40fea91d74901f9950ca",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "ELECTIONS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Solod \u2013 A Subset of Go That Translates to C",
+      "link": "https://github.com/solod-dev/solod",
+      "published": "Tue, 07 Apr 2026 00:48:01 +0000",
+      "summary": "Article URL: https://github.com/solod-dev/solod\nComments URL: https://news.ycombinator.com/item?id=47669337\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "f18e8b5ac00a9487fcd63a5747c22c50",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 00:00:00 +0000",
+      "summary": "Defense Secretary Pete Hegseth says US forces are carrying out more strikes on Iran than any day since start of war.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "7f87bdb6a68bdcfba4e39193a681524e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "After 20 years I turned off Google Adsense for my websites",
+      "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "published": "Mon, 06 Apr 2026 23:23:28 +0000",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm\nComments URL: https://news.ycombinator.com/item?id=47668727\nPoints: 101\n# Comm...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "36a781f5f9b846c0803bf7c4d04a1448",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+      "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "published": "Mon, 06 Apr 2026 23:16:27 +0000",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18\nComments URL: https://news.ycombinator.com/item?id=47668658\nPoints: 37\n# Comments: 6",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "6b6bd3d761bb092fffed90803a61f948",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "5ad20b5a100fb6394b163bf6d09e2c40",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+      "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 21:55:50 GMT",
+      "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "6f13eba12fce816ca1d01924a738d53a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published": "Mon, 06 Apr 2026 21:54:26 +0000",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "ceaf8d86b0cc5c45a84f65f3b324d1a1",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 4,
+    "high": 0,
+    "medium": 0,
+    "low": 11
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 4,
+    "POLITICS": 10,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

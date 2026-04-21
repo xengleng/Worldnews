@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-04-06T01:00:46.022242",
+  "articles_analyzed": 10,
+  "categorized_articles": [
+    {
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 16:38:06 GMT",
+      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "150d384c2bb3412f57e104ade6872701",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The Melanesian: Dark-skinned people with blonde hair region of Oceania",
+      "link": "https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/",
+      "published": "Sun, 05 Apr 2026 16:21:51 +0000",
+      "summary": "Article URL: https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/\nComments URL: https://news.ycombinator.com/item?id=47650962\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "1094ab0d964f5966799dca60def56f77",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "At least 14 people killed in Israeli strikes across Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 16:15:14 +0000",
+      "summary": "Hezbollah fires projectiles at northern Israel while Israeli troops push deeper into southern Lebanon.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "fd4aa7f19e710b954a6188fbee5371e2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Pope warns world is becoming \u2018indifferent\u2019 to violence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 16:11:13 +0000",
+      "summary": "Pope Leo XIV used his first Easter mass at the Vatican to urge global leaders to \u201cchoose peace\u201d.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "3d9c47cba07beed113656fe488bd202f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Iranian missile strikes industrial area in southern Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 16:06:15 +0000",
+      "summary": "Video captured the moment an Iranian missile hit the Ramat Hovav industrial area in southern Israel.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "7587c0f6fe8b3192475ec35d2a61e743",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Codex is switching to API pricing based usage for all users",
+      "link": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "published": "Sun, 05 Apr 2026 15:58:08 +0000",
+      "summary": "Article URL: https://help.openai.com/en/articles/20001106-codex-rate-card\nComments URL: https://news.ycombinator.com/item?id=47650726\nPoints: 29\n# Comments: 16",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "bc6d9780fd14ef76a7998e71ae0015dc",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Computational Physics (2nd Edition)",
+      "link": "https://websites.umich.edu/~mejn/cp2/",
+      "published": "Sun, 05 Apr 2026 15:38:18 +0000",
+      "summary": "Article URL: https://websites.umich.edu/~mejn/cp2/\nComments URL: https://news.ycombinator.com/item?id=47650502\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "3bde38fb77c815a5abf034aae7f1cc66",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Most Investors Build Their Portfolio Backwards. Here's the Right Order.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/most-investors-build-portfolio-backwards-163500004.html",
+      "published": "2026-04-05T16:35:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "c05f2c7b63d740251467a001c7003221",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What February\u2019s Data Is Telling Us.",
+      "link": "https://finance.yahoo.com/economy/articles/two-materials-predict-freight-demand-155839352.html",
+      "published": "2026-04-05T15:58:39Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "b6cddfee24e31ccce81e3f6a55c839c2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "The bond market is helping resolve the Fed's interest rate dilemma",
+      "link": "https://finance.yahoo.com/economy/article/the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html",
+      "published": "2026-04-01T10:30:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "ddc40e927993a251320beb28dd72fb2c",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 1,
+    "medium": 1,
+    "low": 5
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 1,
+    "TECH": 4,
+    "POLITICS": 3,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

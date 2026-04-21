@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-07T18:00:37.784621",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Can surgery used to treat fluid accumulation help with Alzheimer\u2019s? A Singapore trial is exploring this possibility",
+      "link": "https://www.channelnewsasia.com/wellness/alzheimers-treatment-lymphatic-bypass-trial-singapore-6040791",
+      "published": "Tue, 07 Apr 2026 17:46:00 +0800",
+      "summary": "Early results from a small clinical trial at Changi General Hospital suggest the technique could lead to improvements in memory, mood and cognition.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2714c6d19d9d2d239dba4eb87f646d78",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Maguire signs Manchester United contract extension",
+      "link": "https://www.channelnewsasia.com/sport/maguire-signs-manchester-united-contract-extension-6040946",
+      "published": "Tue, 07 Apr 2026 17:38:03 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "38df185f2867ba245bc21bc41979b29b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Sri Lanka unveils US$320 million subsidy to offset energy costs",
+      "link": "https://www.channelnewsasia.com/asia/sri-lanka-unveils-us320-million-subsidy-offset-energy-costs-6040926",
+      "published": "Tue, 07 Apr 2026 17:32:49 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ddc739bbfe7b77db132ff1febccc7616",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Japan sees weakening economic momentum, early signs of war-induced pain",
+      "link": "https://www.channelnewsasia.com/business/japan-sees-weakening-economic-momentum-early-signs-war-induced-pain-6040921",
+      "published": "Tue, 07 Apr 2026 17:25:14 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "1f8bffbd913e657a1c5b7a1826c67d9d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Oil prices rally, stocks edge up after Trump's latest Iran threat",
+      "link": "https://www.channelnewsasia.com/business/oil-prices-rally-stocks-edge-up-after-trumps-latest-iran-threat-6040036",
+      "published": "Tue, 07 Apr 2026 17:20:53 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "03f009ec7eb1b7909378b0ca26915e98",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "JD Vance arrives in Hungary to back Orb\u00e1n's re-election bid",
+      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 09:55:07 GMT",
+      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "a51346188098cc3abb29b4d6f9424439",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "ELECTIONS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war upends spring housing market. Here's what real estate agents are seeing",
+      "link": "https://www.cnbc.com/2026/04/07/cnbc-housing-market-survey-iran-war-spring-housing.html",
+      "published": "Tue, 07 Apr 2026 09:53:35 GMT",
+      "summary": "Home buyers in the first quarter were more concerned about the economy and mortgage rates than they were about home prices, CNBC's Housing Market Survey found.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "1c6413d1b317381071198a9d70890034",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "USA striker Patrick Agyemang\u2019s World Cup in doubt after stretcher exit",
+      "link": "https://www.aljazeera.com/sports/2026/4/7/usa-striker-patrick-agyemangs-world-cup-in-doubt-after-stretcher-exit?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 09:28:26 +0000",
+      "summary": "Agyemang looked emotional as he was stretchered off after an awkward fall during an English Championship game.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "9675306ce67f050fdba6dbf37dc182f9",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Los Angeles Stadium workers urge FIFA to bar ICE from World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 09:17:20 +0000",
+      "summary": "A workers&#039; union at the World Cup venue has asked FIFA to keep ICE agents away from the venue to alleviate their fears.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "a2e169f518a2b876154d29d5dde8334c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "\u2018Military action is not an effective means to pursue nonproliferation\u2019",
+      "link": "https://www.aljazeera.com/video/quotable/2026/4/7/military-action-is-not-an-effective-means-to-pursue-nonproliferation?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 09:13:20 +0000",
+      "summary": "&#039;We\u2019re now seeing very concerning strikes on nuclear facilities in Iran that risk further radioactive contamination.&#039;",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "2b2a1300042a644d1c1c9a91502ab8d2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "\u2018All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy",
+      "link": "https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html",
+      "published": "Tue, 07 Apr 2026 09:06:55 GMT",
+      "summary": "",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "364eae653ffd69d577e3f8d97e4c84e8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Trump and Hegseth invoke God and religion in Iran war press conference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-and-hegseth-invoke-god-and-religion-in-iran-war-press-conference?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 09:03:32 +0000",
+      "summary": "Trump believes God backs US in Iran war, Hegseth compares airman&#039;s rescue to Jesus&#039; resurrection",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "8d35bed84d1bfdd3a990becf9eb6a3dc",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "JD Vance heads to Hungary to support Viktor Orb\u00e1n ahead of high-stakes election",
+      "link": "https://www.cnbc.com/2026/04/07/jd-vance-visits-hungary-viktor-orban-trump-russia-eu.html",
+      "published": "Tue, 07 Apr 2026 08:59:33 GMT",
+      "summary": "Viktor Orb\u00e1n has said the EU is a greater threat to Hungary than Russia. As an election defeat looms, U.S. Vice President JD Vance is visiting to support him.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "4d7504124cbaf650350de0532ae383e3",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Universal Music stock rises 13% after Pershing Square's $64 billion takeover proposal",
+      "link": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
+      "published": "Tue, 07 Apr 2026 08:57:56 GMT",
+      "summary": "Bill Ackman's Pershing Square said Universal Music's stock price has \"languished\" due to a range of issues that can be addressed with the merger.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "5c8527e1e3cc3cf507ff56faad2b2509",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran releases on bail Japan national jailed amid antigovernment protests",
+      "link": "https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 08:44:05 +0000",
+      "summary": "The person released is believed to be Japanese broadcaster NHK&#039;s Tehran bureau chief, Shinnosuke Kawashima.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "7082451a168f15f68756cfa994661a50",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 4,
+    "high": 3,
+    "medium": 0,
+    "low": 8
+  },
+  "category_summary": {
+    "MARKETS": 2,
+    "ECONOMY": 0,
+    "TECH": 1,
+    "POLITICS": 11,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

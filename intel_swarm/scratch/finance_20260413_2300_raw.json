@@ -1,0 +1,517 @@
+{
+  "domain": "finance",
+  "timestamp": "20260413_2300",
+  "sgt_time": "2026-04-14 07:00 AM SGT",
+  "utc_time": "2026-04-13 23:00 UTC",
+  "total_items": 50,
+  "items": [
+    {
+      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
+      "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+      "published": "2026-04-13 18:52",
+      "summary": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Fed nominee Warsh clears a hurdle to Senate hearing",
+      "link": "https://www.cnbc.com/2026/04/13/fed-chair-nominee-kevin-warsh-senate-confirmation-hearing.html",
+      "published": "2026-04-13 20:32",
+      "summary": "Kevin Warsh submitted required ethics paperwork to the Senate Monday.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Oracle expands Bloom Energy deal days after receiving $400 million stock warrant",
+      "link": "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html",
+      "published": "2026-04-13 22:32",
+      "summary": "Last week Oracle received a warrant to buy nearly $400 million in Bloom Energy's stock, which jumped on Monday after the companies announced an expanded deal.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Oracle pops nearly 13%, leading bounce back rally in software stocks",
+      "link": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+      "published": "2026-04-13 22:38",
+      "summary": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "The Iran war is compounding California's energy crunch",
+      "link": "https://www.cnbc.com/2026/04/13/the-iran-war-is-compounding-californias-energy-crunch.html",
+      "published": "2026-04-13 19:51",
+      "summary": "While the United States leans into its domestic crude oil production, one state is being left out to dry, California.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
+      "link": "https://www.cnbc.com/2026/04/13/blackrock-raises-view-on-us-stocks-on-belief-that-war-is-over-profits-are-up.html",
+      "published": "2026-04-13 18:36",
+      "summary": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Middle East oil production plunges due to Iran war, OPEC data shows",
+      "link": "https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html",
+      "published": "2026-04-13 15:35",
+      "summary": "The Gulf Arab states have cut production because they are unable to export through the Strait of Hormuz due to the war.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Pope Leo says 'I have no fear of the Trump administration' after president blasts pontiff",
+      "link": "https://www.cnbc.com/2026/04/12/trump-pope-leo-catholic-church-iran.html",
+      "published": "2026-04-13 18:05",
+      "summary": "Pope Leo has condemned the war against Iran by the United States and Israel, drawing the ire of President Donald Trump.",
+      "source": "US Top News and Analysis",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Citadel Securities Sees Market Rally as Extreme Risks of War Ebb - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW1nUkVzSkxBaFlSX3lYbzRRTjhwYnlMdUROYUtxUHVMMFQxcERyejJuN2tQOVdaT1V5Ymd0ak1IN2ZfT29NU1NkMUhZMW1iZTZJX2dEbENQdTh5VE9RUVVaWmNia25xZkFmTHRhQUR6QVJrMjVQOVlQLXBsZzJlbFVoX2dMdm5DTlJnRFRkTVdHU1BnZnFsSmJxOTFiRlU0dzZRUXNfNWNyNnZESldhYUYwUGdEZw?oc=5",
+      "published": "2026-04-13 15:13",
+      "summary": "Citadel Securities Sees Market Rally as Extreme Risks of War Ebb&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "BlackRock Pivots Back to US Stocks With Strategists Seeing Iran War \u2018Contained\u2019 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTNaekFmcmVpeElXd21CbHUyWWFqOHNIVW9GaURHRmhNLWlNd014WkppcmY3dUdIdUVlUFZJd3ozZ0drT1RzU2RFRF8xdEg4QndrdC1QaHZyOG1PMEUyNk9FM2x3VFhsdXNWNkFzVDBEQzhiN2I5YVFSLUdYSGlTVU9LZ1poZXpsX1VBUC1Na191ZDlmZFNPQ0FvejVHMEFQbzFCbHVWRmN2TE1ieHZpYVZaZXFocC02cFE?oc=5",
+      "published": "2026-04-13 19:18",
+      "summary": "BlackRock Pivots Back to US Stocks With Strategists Seeing Iran War \u2018Contained\u2019&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Two Traders Convicted in Paris Over a $23 Million Insider Coup - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFZGZVhnOERfLXNUSmpzcktzUjhzLXhYaXBrSHdOUGRjS3FoQVVLMTZLeHRkTElSMDJVbHR5bGcwaUk5Z0twcjVqOTFhUHVxRUc5Wi1nbXBlaUNzQzQ2Z3FhNHJEQTNFQWZFUlE3ZThhYTdwbDNNVUNjVTZQTlpPQU52ampfOGcxS0NCMENYZEE5VVloU0tLYklFRUhVUWVKRkhTQ3FEWTFBVVBiWXF3SUp3?oc=5",
+      "published": "2026-04-13 16:19",
+      "summary": "Two Traders Convicted in Paris Over a $23 Million Insider Coup&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Morgan Stanley Says Earnings Shield S&P 500 From Iran War - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3dBM1lFM2N5OW5kY2lDYVdwSmNfZXJvXzQ3S0RhaUJuQXhiY092cTV2c0RXUGJNRXQzQko1SzVFZjlHZ0Ixdnc4V2c5bXliMlBtRTItRFM1YVpJNVg2WGluVE8zVUhmUkVlbnpwbXVaR2djb000aURHYnpoZERBVkhaaXA0YVBTQ3pCQ0VvZGx3QWNvY2JuODE2REpPWUl5aTlGeW9sRU1zTzBC?oc=5",
+      "published": "2026-04-13 12:10",
+      "summary": "Morgan Stanley Says Earnings Shield S&amp;P 500 From Iran War&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T1FSX0NzQlRpYjNPQU1rbkVBa2M5RnB0NjdoUjhfb0gxUUlmTG1LSlRyN21UMmF1Y0RtZnZzdXZoMnVxSlFWYVQxaFRCZ3dqSF9VcW8zeUJjUTNsMERURWJmQkhvd3JFUFUyR2ZORTJyMDJncGpOWWpGVQ?oc=5",
+      "published": "2026-04-13 22:31",
+      "summary": "Trading Day: US stocks gain, dollar dips on hopes for Iran war negotiations&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Iran war weighs on global economy as IMF meeting starts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JDdVhEa1FKcjhXb09Sb25lVnpsXzk5WlZlcDJnZVpMTHdmbGVnZ2h4OXA0TDVxV3EzTVdfbGFNTTFJc0cwZlJmTHpBVDc3aW5hS0JseXJLT2d0cmVTNEhxMmdHSmMwSmRPazN5dGVxeHNMVGtQYnZkOFdFQnNQc2FqX0RjTnVEZkJSQ2ExMXJNa3Y4aV9DbUV5ZERJUUk?oc=5",
+      "published": "2026-04-13 15:01",
+      "summary": "Iran war weighs on global economy as IMF meeting starts&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Protracted Iran war narrows BOJ's rate hike options - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaU81Sy1iZEZ0cjZrM2NvOUZtQnpaSERLUFNERTF6Q0ZJVV85NHAxeVBhaWlhUXRqOFB5N2N0b2VubXZCTUpiRWxWR2g3TktuVVhlRUdfaFpUTlZod1VpaHVST0lrbGtEN3FoOEF0bXVqLVRaUGFMUEpHQU5UQWthT0oxMW1Eekl6SmdzUVBicXJCWE5RbkhVZ0xZNnhGMGR6blFSWTVuWmk?oc=5",
+      "published": "2026-04-12 23:47",
+      "summary": "Protracted Iran war narrows BOJ's rate hike options&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. SEC says software allowing crypto wallet transactions not considered broker",
+      "link": "https://www.coindesk.com/policy/2026/04/13/u-s-sec-says-software-allowing-crypto-wallet-transactions-aren-t-considered-brokers",
+      "published": "2026-04-13 17:17",
+      "summary": "",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "category": "crypto",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Bitmine's Tom Lee calls ether 'the wartime store of value' as holdings hit 4.87 million tokens",
+      "link": "https://www.coindesk.com/markets/2026/04/13/bitmine-s-tom-lee-calls-ether-the-wartime-store-of-value-as-holdings-hit-4-87-million-eth",
+      "published": "2026-04-13 13:19",
+      "summary": "",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "category": "crypto",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Bitmine ramps up Ether buys, pushes holdings toward 5% of total supply",
+      "link": "https://cointelegraph.com/news/bitmine-ramps-up-ether-buys-pushes-holdings-toward-5-of-total-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-04-13 20:23",
+      "summary": "While others refrain from boosting their Ether holdings, Bitmine's latest purchase gives it ownership of about 4% of total supply as the company expands its staking strategy.",
+      "source": "Cointelegraph.com News",
+      "category": "crypto",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Bitcoin bounces to $72.5K as markets react to US Strait of Hormuz blockade",
+      "link": "https://cointelegraph.com/news/bitcoin-bounces-to-dollar72-5k-as-markets-react-to-us-strait-of-hormuz-blockade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-04-13 16:47",
+      "summary": "Bitcoin rallied to $72,500 as US stocks reacted to US efforts to blockade the Strait of Hormuz. Despite the rebound, BTC traders warned that a price correction remains a risk.",
+      "source": "Cointelegraph.com News",
+      "category": "crypto",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Middle East oil production plunges due to Iran war, OPEC data shows - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaU1lFRkN3RC1ibklkZkMtNGdCWThhb3lkMlhwTTdfcVZrV0pKdE9Qa193RmZkZHY5SU51TUxiTlZJRXNmUmNhT3ZjelFsaW9GU1FtLURyNURkb3pQRlhDTFFzZms3QUozSlZna1g0M2VUcWFEOGJVYy1lZUVMdw?oc=5",
+      "published": "2026-04-13 14:44",
+      "summary": "Middle East oil production plunges due to Iran war, OPEC data shows&nbsp;&nbsp;CNBC",
+      "source": "\"(oil price OR OPEC OR crude oil OR WTI OR Brent)\" - Google News",
+      "category": "commodities",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "US stocks rally and return to where they were before the US-Iran war - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
+      "published": "2026-04-13 20:52",
+      "summary": "US stocks rally and return to where they were before the US-Iran war&nbsp;&nbsp;AP News",
+      "source": "\"(oil price OR OPEC OR crude oil OR WTI OR Brent)\" - Google News",
+      "category": "commodities",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Gold-Silver Ratio rises to 63.7: Which precious metal should you pick amid rising US-Iran war tensions? - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQc3VEdWZlejBPMkVpWlJNNFBsNVZNeDV5bk0tVl9xOEw1NjQyZzZQZUhmWkVLTTVUQ3FSSkF4X1h3YjhCYzhuU0R2VnZwNzBBTU1xOEJTbmM0eWF2ZVZ6MFVNaFJUMWZlX0kwUkVCRHBMMHdETHFLNjhpTUhsTVl1NnJva0xsekxubHhEODl2RTJoZWR1N3I0Q0p6ckIxT19rSmtPOWx3alFGZDg1R3JPNFMzd1luR184UW5zcFdxYy0wQkQwVVVRUWhmNUtGVGR2MWRNTTE0UVZnYzNMaG8xXzlwUUcycWJqV01HTGVxSmFWUE5ldno0TEJNM29pNzVJdHZQQ1RQOFBOMFHSAZACQVVfeXFMUEFfbUtZZks2a2NCMlluMzZ2UWNKOE1NYmFOc0FfVmpLLXV0Nkw5QkF3SG9qZEszVkNvOTJSUE13dVdpS3N1cE1Jd3h3UjBFRHVqMWkxZGM5YWhMV2Z5Z2QyMjVzS3BOak1QeV9CRk9KdDc5ZEd3ZlhOanQ4MDBtbF94cC1ueU1TTWJDLThyUGJ3bWktZFBacWNpbWJ3Rlk2X3p6UnZmejhMNlNQd3g2YjlTNmgwZy1rdm5pb1BuQURIMDE2aHEwV0NUNzlYVGVhSGpxalZyeHNoYmg3YzctckVNdTZybU1PMC13cDhQaXI2T0M3YVZrcHdXWWpULWVWSzd6LVJfaHNwTXhxaEVlMUk?oc=5",
+      "published": "2026-04-13 07:34",
+      "summary": "Gold-Silver Ratio rises to 63.7: Which precious metal should you pick amid rising US-Iran war tensions?&nbsp;&nbsp;Mint",
+      "source": "\"(gold price OR silver price OR copper OR precious metals)\" - Google News",
+      "category": "commodities",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Protracted Iran war narrows BOJ's rate hike options - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaU81Sy1iZEZ0cjZrM2NvOUZtQnpaSERLUFNERTF6Q0ZJVV85NHAxeVBhaWlhUXRqOFB5N2N0b2VubXZCTUpiRWxWR2g3TktuVVhlRUdfaFpUTlZod1VpaHVST0lrbGtEN3FoOEF0bXVqLVRaUGFMUEpHQU5UQWthT0oxMW1Eekl6SmdzUVBicXJCWE5RbkhVZ0xZNnhGMGR6blFSWTVuWmk?oc=5",
+      "published": "2026-04-12 23:47",
+      "summary": "Protracted Iran war narrows BOJ's rate hike options&nbsp;&nbsp;Reuters",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Fed\u2019s Inflation Woes Preceded the War With Iran - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQ0tfS2ZZTG04YU9aM2ptQ2ltN2llbzd0VTg3QWhHUnd5Q1ZxUDZldG15SGMtVjkwOC0wS2plcV9RZHViOGIzSUdWRnZGT0dGRkxmSVEtTk1zOXV1QWFna3pVdHU2RHN2VVRFZDB6MkY0aG5WMzB5SGZndVZhNWs?oc=5",
+      "published": "2026-04-09 09:03",
+      "summary": "Fed\u2019s Inflation Woes Preceded the War With Iran&nbsp;&nbsp;The New York Times",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhTdE1IejFQVEVhRkVUeTFVMUJzc2hnbEluQm5rQWZxb2tYYzRzSUE3bE02bVBhWGZRSDdMX3lXQnV6RktqRE8ybjBBdVc4UWVPZTVDUnZITVZBaENlTk9TVjl6NXk2eXlzRGhGbGJyVkpScnpuOHJHSEoyWWwyb1p2WE1RRkNrMkdidm83MVJkU2dYUjdNdDNaaFBfQdIBowFBVV95cUxQSEV1OFhFUlRLYk9vcWFKZGVONmpTREdmSmNwaV9BcDU0UC1fOWV1VF9OMG4xRnVwei1kMlB2YTJ4dFd0d0xkWkVxVUMwLTE1a0pnQVlBLXBsNkV2Sm0zV2RHU3NMeG5jVFpkcGU0S25PbVl6dFA5YTBmV0cyaFV5N21DTWpTM1pOZFk3ZWl0dzNoQmE1YTY1Mm1ma0FsVVF4SDlB?oc=5",
+      "published": "2026-03-19 07:00",
+      "summary": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'&nbsp;&nbsp;CNBC",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Federal Reserve Maintains Rates and Watches Risks From Iran War - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXdQVGN0NlNHN0JKakpoZDZZUzlqcUo2ZS0xS25zX0RxLXIxMVpOYS01RHV1QnV2M19UWXZJVk5QNHlma2o3SEtuSzcyRzRfR3BqR0pBdloybnN5VTdWWC1WeWFDcERpOFZYQ1ZMcng2czJSSDVURWFaVTJfeWtTZEFwZG42Zw?oc=5",
+      "published": "2026-03-19 07:00",
+      "summary": "Federal Reserve Maintains Rates and Watches Risks From Iran War&nbsp;&nbsp;The New York Times",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "CPI report shows inflation surged in March as Iran war drove up energy costs - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEhTX080Q1U3akxBT1VZbHZQME1PckFQaDlfVXRtTzY2ZUNHX2JBczVkMWFFREN1ZkRjaWFheXY2eFJBMzNxbTRFU0JSclJzU0RiQ0F1T3dPZkduMmpfMG9DeWhCR2FEU3BQdzFrUUszU1VKeGFQbU14TElLQTJZajNQMUlnaGdZV3fSAY8BQVVfeXFMTXpha3lfZEJVNGM3RHFwcm1DV1kzWFJ3TDhTTjRNbkt2RG1KTFZ4ZFp0ZDVwM0xtdjZ5eTV4azVUS0EyeTdxc2NXbjZhRFpCSlZzUDVFX2ZBZ0ZVd0lSMjRtS3Y5MUU1TkNPd0NBTHVzLVdqZUZjZi0wU2ZkanlaTDBVcXdjUVIzY1BDbGM2VjQ?oc=5",
+      "published": "2026-04-10 12:32",
+      "summary": "CPI report shows inflation surged in March as Iran war drove up energy costs&nbsp;&nbsp;CBS News",
+      "source": "\"(CPI OR inflation OR GDP OR jobs report)\" - Google News",
+      "category": "economic",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Consumer prices jumped 0.9% in March as Iran war sent gas prices soaring - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2ZVNEJuSjRXWERBY05rT1BYdHpIcnhkMnJ0UGxIM0RpS0dPYzdWOHZEOW84bUVKYWtkRWhoY2xOVlFvMWFQY2V3MlVnQ0pfc0JKa0daR19oUFdLMzAzMDUtdEZ2aU5nc0FZanFlTFVRZ0Y5TjJQeE8wdVNxcUhQOWJvV0FiN2pCVlg4X295UllYNTBsRnpoX1Rn?oc=5",
+      "published": "2026-04-10 13:48",
+      "summary": "Consumer prices jumped 0.9% in March as Iran war sent gas prices soaring&nbsp;&nbsp;NBC News",
+      "source": "\"(CPI OR inflation OR GDP OR jobs report)\" - Google News",
+      "category": "economic",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "No-See-Um Risk as Trump declares a Global Trade War. Good Grief! - Blain's Morning Porridge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2pWUnkwZ3NnMm1Zd1pPUW10VXNDY085MHE3TGYtelVuUmJDQ3FHX0VIZEtOeHhmYTlBaS01Qi1jWFlfazJHdU5iaVVYLWF6eVhVWEZEd1VUTnpOemRaQ2RjMmVnSEVUMUYzellCc2dBWjA5WVdVWUlydHNBM05yUU9ueDlBdVNoclhPOExhTUdvSlY2OFgwWmd6bF9fNklMYktjWm13aVk?oc=5",
+      "published": "2026-04-13 07:03",
+      "summary": "No-See-Um Risk as Trump declares a Global Trade War. Good Grief!&nbsp;&nbsp;Blain's Morning Porridge",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Takeaways from AP and Lee's report on how soybean farmers were impacted by tariffs, Iran war - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUjl1Ym5SWjdtR3BaOGxOYTBwTjBOMS1kbkR6QXpjRS1TTFdoTmNvM2VvR1NQNW1jTTMyUzFTUzU0a2tVS1dRZWpDVGZKemFNcGxIcldRclBibUxELW5YMTE0cGw5ZWNFM0tyRmxKSUhnYXhHbnNLYURJNWpCRlF3MlEtSnhLOXNidVA3MEE0NmVjdWRiMUpTbVp4NHFXc1lIRHFtMlA5Yk1vbnVrcFh4WU5USFJMWU5keHlJNWtPRDNfM3NKcE9mNTg0R1k2aG9UZUJwTC1zZ2pqLU9scDEtbk9pMlJaemdlVU9oMkpvTHM?oc=5",
+      "published": "2026-04-13 22:18",
+      "summary": "Takeaways from AP and Lee's report on how soybean farmers were impacted by tariffs, Iran war&nbsp;&nbsp;The Washington Post",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "San Antonio Catholics react as Trump, Pope Leo trade barbs over Iran war - WOAI",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWY2c0lFSXI2Y25QTGNTRnhnbGpnVTY0eGJscWRmRHJYTUg3aU9TbGU1cUx0U3RjOGRtSW9kU21xQXNmeVJkLU9Sb25QT0ZwTWI0Z2pxRXUtV0tLNlpUSzNmdGJXM0ZpRk80MGM2T0twRXNGdGdyUE9mOEJDNjRENWN3SUJKbGxfT1pMUTQxVU9EN1o2dGdsMzIxZHJPNUYxc0V1ZFNwcVNTcEtWMmRF?oc=5",
+      "published": "2026-04-13 21:34",
+      "summary": "San Antonio Catholics react as Trump, Pope Leo trade barbs over Iran war&nbsp;&nbsp;WOAI",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "How to trade the market amid the Iran war and earnings season - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDNRN0xCOWMwNlVuVGQ4RkZGR092ZkRfejE4eVRLWS10VzNtVDJQVl93WTVlbDB4R2h5WkhLNmp3MGd4YnhjYVJGUVhYaWk5NVBoaXVuZ3Nsb2NaQU9HZ2pJakF5WWR4RnZ5TnpxN3JTTU5xSFNiZ2lQeTlUZkRZUWZkNzFtQXZHLV9hcFE0SXRsTTJKZkkyUEJNM05lZ01aZFBhR2hDZw?oc=5",
+      "published": "2026-04-13 16:42",
+      "summary": "How to trade the market amid the Iran war and earnings season&nbsp;&nbsp;CNBC",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Midwest farmers squeezed by war and trade policy - FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSDctU01yZ3BZRVpVaDBrazc0VmZkd3JVV1VwOTNiU0lwWWtTMnJ1eTlybGxBRFN6NjFONGlvWUpwNVg1Qjl4cDd5Mjd1dkxXMHRiekpENkVPYXc4aUhKUmFzeGnSAWpBVV95cUxOODNTc215N1JMX09xemM5Vmh0S0NhTmJzRkZCTS1hWld3Z2J5WGJMamFFU3RkRHpURW9OUXliRF9BdnI1Rkx6dEk2NWk4MU81Qm5ZdEtsdUExaDdJU2QtY0RfZDN4dnNfSzZR?oc=5",
+      "published": "2026-04-13 18:44",
+      "summary": "Midwest farmers squeezed by war and trade policy&nbsp;&nbsp;FOX 5 Atlanta",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Earnings outlooks strong despite Iran war, tariff threats, says CIO - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1V0bkthT0tHUzdZUWpKNGctZEdFeDVoRXJwcUg2QUxEcTYwWkdCMWNJVkxJbEcxdDhueFJZZkFqSVFNcjhLOVBDWV83dmVqQnA0ZWZhRHl0c3FrbC02bFpuS0Yyc0lVVmY4bEpQOGxwdWdMTnN3czRNTVRFdEFwNFVrNHVZYWxJeUZ5TA?oc=5",
+      "published": "2026-04-13 20:18",
+      "summary": "Earnings outlooks strong despite Iran war, tariff threats, says CIO&nbsp;&nbsp;Yahoo Finance",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "War, Trade, and Rates: What\u2019s Moving Markets Now - cheddar.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjdzZVJRYS00RnNnYzRBR2x2YnA1c0lTb0VvbVVyZDZzYzFkbmN6N2JlM3hqeDRoelY2LTZlTGN2aUtTY2VQMlNDZ2hPQ211R0M3aS1kRDFkZllmb1ZCSzZDcEdxVDNoRUZXSEQ1OEd5Ums5eF9ubWpQZ29NVldlUg?oc=5",
+      "published": "2026-04-13 13:52",
+      "summary": "War, Trade, and Rates: What\u2019s Moving Markets Now&nbsp;&nbsp;cheddar.com",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "US-China Trade War Tracker - The US-China Business Council",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zbUFIUjlzUzdhYWV2UHdCZnVkUkRSYkw1WlZIRGNrb0locTNmVUpnOFpqNFRNaWpHbkw3NmV0Sy10UHdKbUJrLXpybTUtVXkxa0xsVmdZNWdKSjEza0M3NjRHcVEtZzc0YmhNTg?oc=5",
+      "published": "2026-04-09 07:00",
+      "summary": "US-China Trade War Tracker&nbsp;&nbsp;The US-China Business Council",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Negotiating a win-win end to the lose-lose US-China trade war over technology and critical minerals - Peterson Institute for International Economics",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdtVWJfUWVMUnFhSjJpSUJVU0xxLU1jSG4tR3hVN3hQb21RbmxhSWYxV25mSllubFFZLWFiel8wR3hrVXM5VVE1Z3BiR2RHdGszWHRCR0RQNWpOYmdvN2dUZ2c4ZzcxcFUweWJNak5ZVW1RRFFmUjF3RGJhcWt4cnZrMGhqNzBFdUFSRGU3YTdFZ0hpbmVLRUsycng5ZWxYTGVNempsTFlXUGY3WU5LRw?oc=5",
+      "published": "2026-03-23 07:00",
+      "summary": "Negotiating a win-win end to the lose-lose US-China trade war over technology and critical minerals&nbsp;&nbsp;Peterson Institute for International Economics",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Midwest soybean farmers squeezed further by tariffs, Iran war - nxsmediawire.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0FJcWg1Yk1oNElsVmJzcWdudGpPNDdfbENOYUdEcWlJMUliRUUzZ3BMMFJrNi1iZW9Hb0R5WDVlYlZFRmxGaTJtN0NkeGRwN2xWYzJTcFJLUElaWE9oWG5hYkNfRlVLbm80WmxIX191QU9ULVF2NXk5UEVEd3I4NnIwUDMtOHVLWjRweVhsTHpBUzVsN2toNXFLUdIBoAFBVV95cUxNbVhsN0E2Q3h1QkVjV2ZjRlBvX1RQUUwyQndiUlpQblBoc0EtcHBYVU4weE5CVUdCZW0xYkwzaWpfbUZXR05wTWYzWTFaWXB0M2lyaW9RdWRYZnRYSHZTdjlESEdJNzFwSUNWTlJHWmJMYkY5RVRTek9pa2E1S3FwckY2LXNYMmhDeTJqVHl2eVdPRWIyMUxVeWE4ZXZpX051?oc=5",
+      "published": "2026-04-13 14:18",
+      "summary": "Midwest soybean farmers squeezed further by tariffs, Iran war&nbsp;&nbsp;nxsmediawire.com",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Farmers Squeezed by Tariffs, Iran War, and Rising Costs - National Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTlFdFpOSmwwYm5Oa1FBRjZFMHRSX2VSZkNQcUhxYlVjbjFvSUs1OGhRdUFNRGVycUZTTHlLOUhhY2FkSjRjN0F6Y2FtWFU0anItV3FwSVVmWVhUMnFXRnBKMnhRZHFCUWpMT21sTm9TU0RhbUgxQkVYYVRWUUNibXR4TlZBUUJiY0J0bXNacjhvWFh1SG1ycmVlLXJQQzRReUtuNXhodnhNbkFF?oc=5",
+      "published": "2026-04-13 18:58",
+      "summary": "Farmers Squeezed by Tariffs, Iran War, and Rising Costs&nbsp;&nbsp;National Today",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Watch Iran War: Tehran Threatens Gulf Ports and Calls US Blockade Illegal | The Opening Trade 4/13/2026 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0EtZUdGVmpET3ZNZWM5RVAwWEFKVThZUEpXUk5sYmhoUG5ROFpJS1pZVnBFaU9mdkdfV1E4NEhhNU9NMW13NnlVeENZSVJRVFNIcWRqaGxUZWcwM1YweUc3R2s0NlZJYlJ0eDgycDBLVmt3Y2s3S1I3RGd2ZEd6RWNQaWNpSlI1T1E?oc=5",
+      "published": "2026-04-13 00:00",
+      "summary": "Watch Iran War: Tehran Threatens Gulf Ports and Calls US Blockade Illegal | The Opening Trade 4/13/2026&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "SEC Announces Enforcement Results for Fiscal Year 2025",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-34",
+      "published": "2026-04-07 19:48",
+      "summary": "The Securities and Exchange Commission today announced enforcement results for the fiscal year that ended on September 30, 2025.Central to an effective enforcement program is determining which cases to bring and responsibly stewarding Commission\u2026",
+      "source": "Press Releases",
+      "category": "regulation",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "published": "2026-03-18 07:00",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty&nbsp;&nbsp;U.S. Bank",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "How Iran, Suffering Under Sanctions, Diversified Its Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS25kZi1BU2dPMmpZM0J6NTdRN1RyNXJ5OXdxQUNpMzlXVE5mYmVma2pLVy1NMDg4VUNtM29lbThuR2lDbDdvRTNsb2FRS0s2aE9zM0tNZzVjUlpaM1JnMTJfWXlua0U3SERTN0czODJQRUJRQ2dxc2tzR19wTm9iWUtoODljMkZBNkJV?oc=5",
+      "published": "2026-04-13 15:30",
+      "summary": "How Iran, Suffering Under Sanctions, Diversified Its Economy&nbsp;&nbsp;The New York Times",
+      "source": "\"(tariff OR trade war OR sanctions)\" - Google News",
+      "category": "trade",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Record-Low Inflation Cushions Emerging Markets\u2019 Oil Shock - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnZlQ2NOSHVxVFI5a1FJQUVVY29iUktOMmQ1a3dlbzM5QzN3cWVyNVNGWDZIVjg0cnY5TmRNMUFiOG5zbDFpdWZWNjBUdGJHSnRXcmw1MHpBcEc5MVNodHpReVBKcmx5YWo3UW9qZFpWSkhPYkFNZGZBODJDclkxSlRNWjRiN2hfdUZZUG9kRkRodW9namJCejhDdjZraEs2WnpNZ29JNWticTQ?oc=5",
+      "published": "2026-04-13 14:48",
+      "summary": "Record-Low Inflation Cushions Emerging Markets\u2019 Oil Shock&nbsp;&nbsp;Bloomberg.com",
+      "source": "\"site:bloomberg.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "China's Victory Giant seeks $2.2 billion from Hong Kong listing amid Iran tensions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHpfVmlzZEJLYXQ3QUNyZ0FhVVlZX1RSVGlUeUF0b2ZidFV2YkVqRjF2ZXk4ZmJrMkxwYXloOFRCb0FnMEl1RXhxRzMxZVcyVk1kRkhjQ2doZFZPVEwxY2NVaE1zbXlHQnYzSTV2STJQcWZoUzh3aXVpWjhRNGJsNWN1ajRwSGllT2psUHAtV2dvUkYyeDk0dWp0QlRXc3NvUy1ybmp1c0pUMnRxZndIWVFySnhVd01uMFpWV21UWFRVREdZTnVaend3?oc=5",
+      "published": "2026-04-12 23:53",
+      "summary": "China's Victory Giant seeks $2.2 billion from Hong Kong listing amid Iran tensions&nbsp;&nbsp;Reuters",
+      "source": "\"site:reuters.com markets\" - Google News",
+      "category": "markets",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Circle CEO says he won\u2019t freeze USDC without a court order even as hackers walk away with millions",
+      "link": "https://www.coindesk.com/business/2026/04/13/circle-ceo-says-he-won-t-freeze-usdc-without-a-court-order-even-as-hackers-walk-away-with-millions",
+      "published": "2026-04-13 15:37",
+      "summary": "",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "category": "crypto",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Gold and silver prices today, Monday, April 13: Gold and silver open lower then rebound after inflation report and blockade threat - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbVIxc1djeXRzVUNBVF9lNGZaYVo2akotellpNkJ2YzVWVWI3OUFGUVczYWpUWldrQWliZ2UyTzFYb0hueWlpMDJ0OFUyTnRCQ1ByWU1NOTFPNlJtTzhVWHpJYmtRdGJ2RDdlVnJ6b1pxb1NadGRXcUNic1BnVFRMdU9leGNHTGYzZnMzOTIwU21ZR2ZPY19DenZpZnNRTE5lelJ3ZU5ROHJpY1FHaGVNLVNpOFdVMEZRckkyX1ZfbGRjT2F4cUwzTktuTE1QbWlhdmYxd2pHTkNFeVFDV1BoRW9ENHBsY1lTM21EMnUwa3loaE9qQkh5VHBkejRRc2JZTWR1SVRUcHp1dmlMZkE2dTJnQkliZWR4YjRUY09ib08tNlA3a1hKYk9aTQ?oc=5",
+      "published": "2026-04-13 11:10",
+      "summary": "Gold and silver prices today, Monday, April 13: Gold and silver open lower then rebound after inflation report and blockade threat&nbsp;&nbsp;Yahoo Finance",
+      "source": "\"(gold price OR silver price OR copper OR precious metals)\" - Google News",
+      "category": "commodities",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Silver builds strong base around $70, upside depends on inflation\u2014Amplify ETFs - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkxkdkhna2Zrc0EyalV5ZkJxZ1JFbm1zR1RWLTNNZ3hmUTBqVDVJWlMxWlhUTEwwRkpLOGJDVEZUOUJXbkoxelhXeGdpZ2gyZUg2ODRZRDFxcWRIVWZ6cG5VdHRySVpxbUhmTTRKMkpWQXBuNmtNTi1BSHZmNzJBdFFIQkl5OWhTWHBYaTdPOUZxU0pjR1ZaX08teHM2bml6NWpYZ3gwZnczY0lBSFFvaGVpbTFhTUJ6N0xv?oc=5",
+      "published": "2026-04-13 21:56",
+      "summary": "Silver builds strong base around $70, upside depends on inflation\u2014Amplify ETFs&nbsp;&nbsp;KITCO",
+      "source": "\"(gold price OR silver price OR copper OR precious metals)\" - Google News",
+      "category": "commodities",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Price pressure on gold, silver, on inflation worries - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1JNek5YUHJRdENpTXM5YmE1MDlGQUNRX3ZkS2lmZ0RiQWUza21XTHVuWVdBR1NVZXpSdVhvNlM2ak9JS3pFODNJX2RYbUE3dGJPT0p6czlzdDFYMklnQkpiX09uR2YyYjN4TzRWQ1M2Z2tfS2l2OHVSVUpfLTZrZVQ4RXljVXVRZ1E4NUdURzhUZGtv?oc=5",
+      "published": "2026-04-13 12:42",
+      "summary": "Price pressure on gold, silver, on inflation worries&nbsp;&nbsp;KITCO",
+      "source": "\"(gold price OR silver price OR copper OR precious metals)\" - Google News",
+      "category": "commodities",
+      "alert_level": "MEDIUM"
+    },
+    {
+      "title": "Bucking expectations, central bank cuts interest rate despite inflationary pressures - Mexico News Daily",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVobUdzRkRGbnNzUzNZeDRXUzBzYTdlVzZna0xGeUFyeVo5TENDQUxGZ0ZhQzNkZWIza1FsQlJXaWN1U0FVNmxkVDZrRWhTaHlIbjZPMnRzaEhhQ1NvcVBvOFo1Sm9nejdWdWpydzJrSTFMRUJVeGhkYmNaNWEtUTdPWW4teldIUDBSNGZMOUJBYW5OS0l4Qk9mQnJiRmhMVGZqM1c5dEFBdE8zYktFQS1YZFB1dXpqMEMtbkRn?oc=5",
+      "published": "2026-03-26 07:00",
+      "summary": "Bucking expectations, central bank cuts interest rate despite inflationary pressures&nbsp;&nbsp;Mexico News Daily",
+      "source": "\"(central bank OR interest rate OR rate decision)\" - Google News",
+      "category": "centralbanks",
+      "alert_level": "MEDIUM"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "count": 15
+    },
+    {
+      "name": "Yahoo Finance",
+      "count": 15
+    },
+    {
+      "name": "MarketWatch",
+      "count": 15
+    },
+    {
+      "name": "Bloomberg Markets",
+      "count": 15
+    },
+    {
+      "name": "Reuters Markets",
+      "count": 15
+    },
+    {
+      "name": "Federal Reserve",
+      "count": 15
+    },
+    {
+      "name": "CoinDesk",
+      "count": 15
+    },
+    {
+      "name": "Cointelegraph",
+      "count": 15
+    },
+    {
+      "name": "Oil & Gas",
+      "count": 15
+    },
+    {
+      "name": "Gold & Metals",
+      "count": 15
+    },
+    {
+      "name": "Central Bank Rates",
+      "count": 15
+    },
+    {
+      "name": "Economic Data",
+      "count": 15
+    },
+    {
+      "name": "Trade & Tariffs",
+      "count": 15
+    },
+    {
+      "name": "SEC",
+      "count": 15
+    }
+  ]
+}

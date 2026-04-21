@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-21T07:30:39.844521",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+      "published": "Wed, 8 Apr 2026 18:00:00 GMT",
+      "summary": "Minutes of the Federal Open Market Committee, March 17\u201318, 2026",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "d0c62e37e959233544fd541ede781ddf",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Nasdaq sets record highs as investors return to tech stocks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhobjRXRXdLOThQRU9OODRlaWY1THVFbmNRemdtd01aazd5M2RLN3BzWE5zLW1rbzlpZzdnUmdrb3FuSjltZ3NxTjJQMXZMX3RwNDBKb25fcEVNa0RVaDR1b3NGVld2QUFUcUl0V3V3NFhWLXZPdmNaYkNtQzlBU0FTUFd0eFhfcEZYUzRlbWJpeEhoQnhHbVgtVm1ndm8?oc=5",
+      "published": "Wed, 15 Apr 2026 20:50:48 GMT",
+      "summary": "Nasdaq sets record highs as investors return to tech stocks&nbsp;&nbsp;Reuters",
+      "source": "Reuters Markets",
+      "original_category": "finance",
+      "id": "489c06897cf96c0a09f18365ba7169d5",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "SEC Approves Exemptive Order and Proposed Rule Change to Permit Customer Cross-Margining in the U.S. Treasury Market",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market",
+      "published": "Wed, 15 Apr 2026 15:45:51 -0400",
+      "summary": "The Securities and Exchange Commission today issued a conditional exemptive order that permits customer cross-margining of cash market positions in U.S. Treasury securities cleared by a registered cle...",
+      "source": "SEC",
+      "original_category": "finance",
+      "id": "61a01d40af965998b8343311f91e3d59",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "RUSI Reflects: The Reality of an Extended Closure of the Strait of Hormuz - Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFkTy12WExNT1JUbmpMRzg3SThxcks2eXVaMUdiS01KWUtRZzU4XzAzeXNFdXhWUlFtZlRRUUw1NHVGbzhRcnpjcDNoejZTXzdJRnN5dm9BVTFIMnNyMlNpMFVkRGlRRDVBRG9NTXRvUjdpSXo0UDIxTW5pemhKdWxpdnJiZkVvWDBPcU9JczVlaHhYeUhLUU84Z01Hc2ZSTFJUNEJXdklVQQ?oc=5",
+      "published": "Wed, 08 Apr 2026 15:27:46 GMT",
+      "summary": "RUSI Reflects: The Reality of an Extended Closure of the Strait of Hormuz&nbsp;&nbsp;Royal United Services Institute (RUSI)",
+      "source": "RUSI",
+      "original_category": "geopolitics",
+      "id": "3dbf312e9b75e2d86f08387f8ad75da4",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The Strait of Hormuz Problem: What \u2018Securing\u2019 the Waterway Actually Requires - Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFg0OFVPZHg2UWV5emw5bl9aSHFzZ3JNWHQ1eWJaZkkwMFVpVXYtSE5tZjNUY3ljLUZHeFotZlZVejNYNmZRTVBqZGplay1nTmRvUk9ZMHBiQlk1V1JDLXZNZnZVcWc2TmdMcllqSVlDNGlyMVNZMkZONWJadHpFenYzYU9DRVlxNVRONGVKNzVueHFBNXNrWC01UFBsNzRyMm1tMTdPUWN6M2c?oc=5",
+      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "summary": "The Strait of Hormuz Problem: What \u2018Securing\u2019 the Waterway Actually Requires&nbsp;&nbsp;Royal United Services Institute (RUSI)",
+      "source": "RUSI",
+      "original_category": "geopolitics",
+      "id": "bb3bf4009c8e1b372e5e828f81cb2079",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "A beginner\u2019s guide to buying pre-owned luxury watches: Risks and tips",
+      "link": "https://www.channelnewsasia.com/style-beauty/buying-preowned-luxury-watches-6040716",
+      "published": "Tue, 21 Apr 2026 07:25:10 +0800",
+      "summary": "Thinking of purchasing your first pre-owned timepiece? The secondary market has plenty of interesting choices but also many risks \u2013&nbsp;here\u2019s how experienced collectors navigate it.",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "811b857aae1737c7338b21f72c59fbde",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Bloating, fatigue, constipation: The colorectal cancer symptoms women often dismiss",
+      "link": "https://www.channelnewsasia.com/women/colon-cancer-women-symptoms-missed-6042991",
+      "published": "Tue, 21 Apr 2026 07:15:55 +0800",
+      "summary": "Colorectal cancer is the second most common cancer among women in Singapore \u2013 but its warning signs are often mistaken for other health conditions and screening is frequently overlooked. From subtle s...",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "12f68bd7a03698e9c713c41150c2f061",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Snap names Doug Hott as new CFO",
+      "link": "https://www.channelnewsasia.com/business/snap-names-doug-hott-new-cfo-6069336",
+      "published": "Tue, 21 Apr 2026 06:46:52 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "9d6ce1677185d6ed27320decbe528317",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US crude futures fall as investors reassess US-Iran risks ahead of ceasefire deadline",
+      "link": "https://www.channelnewsasia.com/business/us-crude-futures-fall-investors-reassess-us-iran-risks-ahead-ceasefire-deadline-6069311",
+      "published": "Tue, 21 Apr 2026 06:22:58 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "656d1309ba45b30f0a5566676ee3091a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Luxury brands are under pressure as the post-pandemic boom fades",
+      "link": "https://www.channelnewsasia.com/obsessions/luxury-brands-under-pressure-6067061",
+      "published": "Tue, 21 Apr 2026 06:11:59 +0800",
+      "summary": "From slowing Chinese demand to war-related disruption and rising resistance to high prices, the luxury industry is being forced to rethink how it grows.",
+      "source": "CNA",
+      "original_category": "geopolitics",
+      "id": "190eaacb614ca80f93921da147b4cff0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Minutes of the Board\u2019s discount rate meetings on February 9 and March 18, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+      "published": "Tue, 14 Apr 2026 18:00:00 GMT",
+      "summary": "Minutes of the Board\u2019s discount rate meetings on February 9 and March 18, 2026",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "85094d6f58f4db20a8db5abcfcd642d4",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Sri Lanka\u2019s Bumpy Road to a Political Reset",
+      "link": "https://www.crisisgroup.org/rpt/asia-pacific/sri-lanka/356-sri-lankas-bumpy-road-political-reset",
+      "published": "Thursday, April 16, 2026 - 14:15",
+      "summary": "Twin elections in 2024 transformed Sri Lanka\u2019s political landscape, bringing to power a president and parliamentarians who pledged sweeping reforms. So far, however, the new government has made little...",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "3982bf539268784cdde45d1dd3ac999b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Prioritising Peace: What the UN Should Ask of Its Next Secretary-General",
+      "link": "https://www.crisisgroup.org/cmt/global/prioritising-peace-what-un-should-ask-its-next-secretary-general",
+      "published": "Thursday, April 16, 2026 - 12:08",
+      "summary": "The race to become the next UN Secretary-General is under way. Whoever gets the post will need to rebuild the organisation\u2019s geopolitical standing on matters of war and peace.",
+      "source": "Crisis Group",
+      "original_category": "geopolitics",
+      "id": "c00bd77742b0fdc993cc0f9b86fb282d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with Cr\u00e9dit Agricole S.A. and Cr\u00e9dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm",
+      "published": "Thu, 9 Apr 2026 15:00:00 GMT",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Cr&eacute;dit Agricole S.A. and Cr&eacute;dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Lt...",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "42c1377c000139f64650a6b651cbac65",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm",
+      "published": "Thu, 16 Apr 2026 15:00:00 GMT",
+      "summary": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
+      "source": "Federal Reserve",
+      "original_category": "finance",
+      "id": "23dd4861e9529eae6f226856f31dea57",
+      "bloomberg_category": "ECONOMY",
+      "bloomberg_subcategory": "CENTRAL BANKS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 15
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 3,
+    "TECH": 2,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

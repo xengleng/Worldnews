@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260419_2139",
+  "executive_summary": "Wall Street celebrates as the war-driven market volatility unwinds with stocks, dollar, and fear indices normalizing. Nasdaq reaches record highs while investors rotate back into tech stocks, defying concerns over higher oil prices and yields amid an uncertain Fed rate path.",
+  "key_insights": [
+    {
+      "insight": "War is over for Wall Street: stocks, dollar and fear index unwind moves - Market volatility normalizes as geopolitical tensions ease",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC Appoints David Woodcock as Director of the Division of Enforcement - Leadership change in enforcement division",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq sets record highs as investors return to tech stocks - Tech sector rally continues amid market optimism",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Higher oil prices, higher yields, no more rate cuts - US stocks demonstrate resilience despite headwinds",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Minutes of the Federal Open Market Committee, March 17-18, 2026 - Fed policy deliberations signal cautious approach",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC Approves Exemptive Order for Customer Cross-Margining in U.S. Treasury Market - Regulatory change for Treasury market participants",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with Cr\u00e9dit Agricole, Mega International Commercial Bank, and Goldman Sachs - Major regulatory relief for banks",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve Board discount rate meeting minutes on February 9 and March 18, 2026 - Fed signaling on monetary policy",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Next Fed Meeting in April - Interest rate expectations amid uncertain economic outlook",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Investopedia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pakistan pushes for second US-Iran talks and seeks guarantees for Tehran - Geopolitical risk factor for energy markets",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "SEC enforcement leadership change under David Woodcock may signal intensified regulatory scrutiny on financial institutions, yet this development received lower visibility compared to market movements.",
+  "url": "N/A"
+}

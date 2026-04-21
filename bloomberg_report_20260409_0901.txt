@@ -1,0 +1,147 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-09 09:01 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (6)
+   Market-moving event, immediate attention required
+   • ‘Israel must be restrained for US-Iran ceasefire to hold’
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+   • U.S. has violated ceasefire agreement, Iran parliamentary speaker says
+     [POLITICS → GEOPOLITICS]
+     Source: CNBC
+   • Americans question Trump’s instinct on Iran war
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions
+     [MARKETS → GENERAL]
+     Source: TechCrunch
+
+🟢 **LOW ALERTS** (8)
+   Routine update, no immediate action needed
+   • Automatic registration for US Military draft to begin in December
+     [TECH → GENERAL]
+     Source: Hacker News
+   • Anthropic loses appeals court bid to temporarily block Pentagon blacklisting
+     [MARKETS → GENERAL]
+     Source: CNBC
+   • Woman given 15 years for role supplying drugs linked to Matthew Perry death
+     [POLITICS → GENERAL]
+     Source: Al Jazeera
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (2)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (2)
+      • 🟢 Anthropic loses appeals court bid to temporarily block Pentagon blacklisting
+        Source: CNBC
+        A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of ...
+      • 🟡 Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions
+        Source: TechCrunch
+        Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, ...
+
+**POLITICS** (7)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (3)
+      • 🟢 Woman given 15 years for role supplying drugs linked to Matthew Perry death
+        Source: Al Jazeera
+        Drug dealer who supplied dose that eventually led to Perry&#039;s death in 2023 pleaded guilty to fi...
+      • 🟢 Prosecutors seek Tiger Woods' prescription drug records after Florida arrest
+        Source: BBC World
+        A legal order seeking the golfer's medications - including dosage and warnings about driving on pill...
+   └─ GEOPOLITICS (3)
+      • 🔴 ‘Israel must be restrained for US-Iran ceasefire to hold’
+        Source: Al Jazeera
+        Former US counterterrorism chief Joe Kent had warned Israel could ‘sabotage’ the US-Iran ceasefire....
+      • 🔴 U.S. has violated ceasefire agreement, Iran parliamentary speaker says
+        Source: CNBC
+        The two-week ceasefire agreement between the U.S. and Iran appeared at risk of unraveling less than ...
+   └─ US POLITICS (1)
+      • 🔴 Americans question Trump’s instinct on Iran war
+        Source: Al Jazeera
+        Americans are split on whether to trust Donald Trump&#039;s instinct-driven approach to the Iran con...
+
+**TECH** (6)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (1)
+      • 🟢 AI agent Poke makes setting up automations as easy as sending a text
+        Source: TechCrunch
+        Poke brings AI agents to everyday users via text message by handling tasks and automations without c...
+   └─ GENERAL (4)
+      • 🟢 Automatic registration for US Military draft to begin in December
+        Source: Hacker News
+        Article URL: https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/
+Comme...
+      • 🟢 Show HN: Tired of logic in useEffect, I built a class-based React state manager
+        Source: Hacker News
+        Article URL: https://thales.me/posts/why-i-built-snapstate/
+Comments URL: https://news.ycombinator.c...
+   └─ SOFTWARE (1)
+      • 🔴 WireGuard VPN developer can’t ship software updates after Microsoft locks account
+        Source: TechCrunch
+        The popular open source VPN maker is the second high-profile developer to say Microsoft locked his a...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 6 (40.0%)
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 8 (53.3%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Automatic registration for US Military draft to begin in December
+   https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/
+
+2. 🟢 Anthropic loses appeals court bid to temporarily block Pentagon blacklisting
+   https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html
+
+3. 🔴 ‘Israel must be restrained for US-Iran ceasefire to hold’
+   https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss
+
+4. 🟢 Woman given 15 years for role supplying drugs linked to Matthew Perry death
+   https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss
+
+5. 🟢 Prosecutors seek Tiger Woods' prescription drug records after Florida arrest
+   https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss
+
+6. 🔴 U.S. has violated ceasefire agreement, Iran parliamentary speaker says
+   https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html
+
+7. 🔴 Americans question Trump’s instinct on Iran war
+   https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss
+
+8. 🟢 Show HN: Tired of logic in useEffect, I built a class-based React state manager
+   https://thales.me/posts/why-i-built-snapstate/
+
+9. 🔴 WireGuard VPN developer can’t ship software updates after Microsoft locks account
+   https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/
+
+10. 🟢 JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon
+   https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss
+
+11. 🟢 Show HN: Is Hormuz open yet?
+   https://www.ishormuzopenyet.com/
+
+12. 🔴 A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage
+   https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/
+
+13. 🔴 He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case
+   https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss
+
+14. 🟢 AI agent Poke makes setting up automations as easy as sending a text
+   https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
+
+15. 🟡 Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions
+   https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/

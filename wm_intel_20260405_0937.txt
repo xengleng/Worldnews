@@ -1,0 +1,104 @@
+📰 **WORLDMONITOR INTELLIGENCE UPDATE**
+Time: 2026-04-05 09:37 SGT
+Articles: 18 new items (threat-classified)
+
+## GEOPOLITICS NEWS
+🔴 **US satellite firm Planet Labs announces blackout on war on Iran images**
+   Source: Al Jazeera (Tier 1)
+   Threat: CRITICAL • Score: 89/100
+   Company says move amid US-Israel war on Iran comes after a request from the US government.
+   Link: https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss
+
+🔵 **Man charged over fatal shooting of baby in pram in New York**
+   Source: BBC World (Tier 1)
+   Threat: INFO • Score: 47/100
+   Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.
+   Link: https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss
+
+## ASIA NEWS
+🔴 **Trump, Israel pressure Iran ahead of deadline as search continues for missing US airman**
+   Source: CNA (Tier 1)
+   Threat: CRITICAL • Score: 89/100
+   US President Donald&nbsp;Trump&nbsp;says Iran has 48 hours to open the Strait of Hormuz or face attacks.
+   Link: https://www.channelnewsasia.com/world/war-iran-deadline-trump-israel-pressure-6037021
+
+🔵 **Chinese surveillance rolled out in Africa: ZTE, Hikvision, Huawei at the helm - scmp.com**
+   Source: South China Morning Post (Tier 1)
+   Threat: INFO • Score: 37/100
+   Chinese surveillance rolled out in Africa: ZTE, Hikvision, Huawei at the helm&nbsp;&nbsp;scmp.com
+   Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0hVb2w0Q0FUNzR2TTB2TTNJc3YxX0JxVUFnd1JKcVlEY1lyR3U2RWhCTjluU3lDcV9WXzdnLXMtelFWME55NUE3ZEFIREpKRGFTUXVVRkJqN1hXZzZ2cnRMZjRXM2xVMm10VkQ3RXVYdFR6UG0waVFYUk1Dc2JlTWNPT3BSakZpemt1b2lFUzFLS0hiYTRnY0RQdGVmWWM2MXZIRnR5RXl2TWxWMTE5SkdPWXgtbWQ0cG1QTkFpZ1YyVUtrdUwtMzJnUdIBywFBVV95cUxQaE5kNEpQbnZSelNsUXUzbE40LXhadXRlczY1YkJIQWdhT0FlSnpfQnU3d0VjdkVGbDVzQ2hCUkNWeFd0VE40WXQ3YTVqXzZFNUtycTJhUVk2aXA3MnhlcjdNM053OGxFT3dwXzl3eDMzOXpITVRiQ2UzR2o5TjZaSWRtWXd2R0JaZW9aLUR6TVVIUGVHRjVYOU9HUU9ULWpzTFh5ZmYxc3YzTUJCSHJTMm1ERm9od1BEMjdVaDEyaHpxU0tRT3FEMEx4RQ?oc=5
+
+🔵 **Global plastic recycling stalls at under 10%**
+   Source: Nikkei Asia (Tier 1)
+   Threat: INFO • Score: 31/100
+   Link: https://asia.nikkei.com/spotlight/datawatch/global-plastic-recycling-stalls-at-under-10
+
+🔵 **Iran points finger at Saudis and UAE after Chinese-made drone was shot down - scmp.com**
+   Source: South China Morning Post (Tier 1)
+   Threat: INFO • Score: 31/100
+   Iran points finger at Saudis and UAE after Chinese-made drone was shot down&nbsp;&nbsp;scmp.com
+   Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTE1uNnJpdTdISElwWk1HQW45N3I0UjVSMGl5UU1yV29wTVZySGtoV0wtdHFHb0VGeTBhVVlQUGk5RFhmMU5ybW9QamZVR2RYRGduLTZZYmk4MTJjZFZ6UXZXd3BEMHpxXzNBZm5fTVJxamVibEZyQjVacWozUmtNTmZ6Z1E4Zkg5elNqSExtNHpCcUsycU40V3h1TU02NnotQlc5RWswVXI5MldPeG5JdnlGNUZ6YnQwSnBLNEYzdXQ5WUVxUUh5U19wV3NjZl9RZFHSAdIBQVVfeXFMTmJmTk5ZM3NpSmtMX2J3RjRlNHEyc29mZDJhTGNaNXBiY3dxc3A4TWFyU3VOaDZsQlpDSkdiNkJxS0k3VVJlbU5WeGdWR1RQT2Y0YWZZNkZrdWpRVjZPdlBDdlBjTnJ1MWI1SGRzQ0FaM1Z2QW1EaE1iT2tWZnNmSFlYaUwxYWx2ekRQNFI1V0s0Wjh2WTcyWE8yN21FWUlJZGRpOWNhRmR0SVhubkVWd3F5TzRDd2thdXRsYVFEcHRoOEVEeUJMa1pycnoteUNLRWNn?oc=5
+
+## FINANCE NEWS
+🔴 **Gold Gives Back Late Gains After War Rhetoric Shift and Strong Jobs Data**
+   Source: Yahoo Finance (Tier 1)
+   Threat: CRITICAL • Score: 70/100
+   Link: https://finance.yahoo.com/markets/commodities/articles/gold-gives-back-gains-war-185357364.html
+
+🔵 **Average ETF Lifespan Collapses With Wall Street Antsy for Scale**
+   Source: Yahoo Finance (Tier 1)
+   Threat: INFO • Score: 30/100
+   Link: https://finance.yahoo.com/markets/options/articles/average-etf-lifespan-collapses-wall-185634317.html
+
+🔵 **AI Play Trane Technologies Aces DOE Tech Challenge, Gets IBD Rating Upgrade**
+   Source: Yahoo Finance (Tier 1)
+   Threat: INFO • Score: 30/100
+   Link: https://www.investors.com/news/trane-technologies-shows-rising-price-performance/?src=A00220&yptr=yahoo
+
+🔵 **Crypto Languishes As Oil Prices Soar**
+   Source: Yahoo Finance (Tier 1)
+   Threat: INFO • Score: 30/100
+   Link: https://finance.yahoo.com/markets/crypto/articles/crypto-languishes-oil-prices-soar-191100353.html
+
+## TECH NEWS
+🔵 **Evacuation of U.S. troops from Mideast base sends community groups scrambling**
+   Source: Hacker News (Tier 1)
+   Threat: INFO • Score: 49/100
+   Article URL: https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops
+Comments URL: https://news.ycombinator.com/item?id=47645095
+Points: 5
+# Comments: 0
+   Link: https://www.npr.org/2026/04/03/nx-s1-5770491/evacuation-bahrain-norfolk-troops
+
+🔵 **Shooting down ideas is not a skill**
+   Source: Hacker News (Tier 1)
+   Threat: INFO • Score: 49/100
+   Article URL: https://scottlawsonbc.com/post/shooting-down-ideas
+Comments URL: https://news.ycombinator.com/item?id=47645037
+Points: 59
+# Comments: 35
+   Link: https://scottlawsonbc.com/post/shooting-down-ideas
+
+🔵 **Advice to Young People, the Lies I Tell Myself (2024)**
+   Source: Hacker News (Tier 1)
+   Threat: INFO • Score: 47/100
+   Article URL: https://jxnl.co/writing/2024/06/01/advice-to-young-people/
+Comments URL: https://news.ycombinator.com/item?id=47644566
+Points: 19
+# Comments: 5
+   Link: https://jxnl.co/writing/2024/06/01/advice-to-young-people/
+
+🔵 **Anthropic makes the case for anthropomorphizing AI in ‘unsettling’ research paper - Mashable**
+   Source: AI News (Tier 2)
+   Threat: INFO • Score: 23/100
+   Anthropic makes the case for anthropomorphizing AI in ‘unsettling’ research paper&nbsp;&nbsp;Mashable
+   Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3NnMFFTbWtEUVJnVVhCRTI1cllJajlBb1dueG93ZWtrS2txbDJkallYQkRkTGF4TTVxd28yRXcyNF96RmR4NHo1R1J3T19EQ2IwVHlpN1JXSzZlV0QxUVhQdkJKTFl1YUdza1VVWUNraEVWN2VoanFia25TQTh2b3lfVGtaZ3NkYm8wbnVWbEFldWFYWXVnR0JwNXlaUjVHNmc?oc=5
+
+---
+**THREAT SUMMARY:**
+• CRITICAL: 3 articles
+• INFO: 15 articles
+
+**SCHEDULE:** Updates every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+**SOURCE:** WorldMonitor feed selection with threat classification
+**TIERS:** Tier 1 = Major news orgs, Tier 2 = Specialized sources

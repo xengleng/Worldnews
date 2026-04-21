@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-04-05T12:28:42.028624",
+  "articles_analyzed": 3,
+  "categorized_articles": [
+    {
+      "title": "Fixing length does the trick for Rajasthan spinner Bishnoi",
+      "link": "https://www.channelnewsasia.com/sport/fixing-length-does-trick-rajasthan-spinner-bishnoi-6037346",
+      "published": "Sun, 05 Apr 2026 12:20:11 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "a2f985843501f8e5eb970fe49b4c97e5",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-64bad7c0?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-04-03T21:02:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "c7e3874d8c307d83c3b7196817239187",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Edo period rest stop remakes itself for 21st century globe-trotters",
+      "link": "https://asia.nikkei.com/business/travel-leisure/edo-period-rest-stop-remakes-itself-for-21st-century-globe-trotters",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "original_category": "asia",
+      "id": "6f9f09589c04735c81224e91eda98d43",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 3
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 0,
+    "POLITICS": 2,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

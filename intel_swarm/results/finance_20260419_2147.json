@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260419_2147",
+  "executive_summary": "Global markets experience relief rally with Wall Street unwinding war-related positioning as stocks, dollar, and fear indices normalize. Tech stocks lead with Nasdaq setting new records while higher oil prices and yields fail to dent US equity momentum amid reduced rate cut expectations.",
+  "key_insights": [
+    {
+      "insight": "Wall Street war premium unwinds completely - stocks rally, dollar normalizes, and fear index drops sharply as geopolitical risk premium dissipates",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq reaches record highs as investors rotate back into technology stocks, signaling renewed confidence in growth sector",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC appoints David Woodcock as Director of Division of Enforcement, signaling potential intensification of regulatory enforcement actions",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US stocks resilient despite higher oil prices and yields - markets price out further Fed rate cuts amid inflation persistence",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC approves cross-margining in US Treasury market, fundamentally altering margin requirements and liquidity dynamics",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions with Cr\u00e9dit Agricole, Mega International Commercial Bank, and Goldman Sachs, resolving legacy compliance issues",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Fed FOMC minutes reveal March 2026 policy discussions, providing insight into rate path and quantitative tightening considerations",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pakistan seeks guarantees for second US-Iran talks, reducing Middle East geopolitical risk premium and easing energy supply concerns",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Strait of Hormuz security concerns persist despite diplomatic progress, maintaining tail risk for global oil supply and shipping",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "RUSI",
+      "url": "N/A"
+    },
+    {
+      "insight": "Fed discount rate meeting minutes show board assessment of financial conditions and regional bank stability",
+      "asset_class": "bonds",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Federal Reserve appears to be winding down enforcement era with major bank settlements, potentially signaling shift in regulatory focus from enforcement to innovation and digital asset integration, which could reshape competitive landscape for traditional banks.",
+  "url": "N/A"
+}

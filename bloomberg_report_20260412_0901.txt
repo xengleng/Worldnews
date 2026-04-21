@@ -1,0 +1,125 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-12 09:01 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (3)
+   Market-moving event, immediate attention required
+   • Israel PM Netanyahu says war succeeded in 'crushing' Iran nuclear, missile programmes
+     [POLITICS → GEOPOLITICS]
+     Source: CNA
+   • Iran war live: Historic face-to-face talks with US continue in Islamabad
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+   • How bond market's private credit crisis fears are playing out in fixed-income ETFs
+     [MARKETS → FIXED INCOME]
+     Source: CNBC
+
+🟢 **LOW ALERTS** (12)
+   Routine update, no immediate action needed
+   • McIlroy's Masters cruise hits the skids at Amen Corner
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Union Berlin name Eta as interim manager following Baumgart exit
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Young one round from biggest win of his life at the Masters
+     [POLITICS → GENERAL]
+     Source: CNA
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ FIXED INCOME (1)
+      • 🔴 How bond market's private credit crisis fears are playing out in fixed-income ETFs
+        Source: CNBC
+        Fears of a private credit crisis arrived just as the growing and less transparent bond market was be...
+
+**POLITICS** (13)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (8)
+      • 🟢 McIlroy's Masters cruise hits the skids at Amen Corner
+        Source: CNA
+      • 🟢 Union Berlin name Eta as interim manager following Baumgart exit
+        Source: CNA
+   └─ GEOPOLITICS (2)
+      • 🔴 Israel PM Netanyahu says war succeeded in 'crushing' Iran nuclear, missile programmes
+        Source: CNA
+        Netanyahu says Lebanon had approached Israel regarding a potential peace deal and he had given his a...
+      • 🟢 U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday
+        Source: CNBC
+        Two American warships transited through the Strait of Hormuz for the first time since the start of t...
+   └─ US POLITICS (3)
+      • 🟢 Why this disillusioned Trump voter spends hours searching Epstein files
+        Source: BBC World
+        Many who support the president have expressed frustration with how Trump's former attorney general P...
+      • 🔴 Iran war live: Historic face-to-face talks with US continue in Islamabad
+        Source: Al Jazeera
+        Iran and US continue direct talks in Islamabad, with the Strait of Hormuz believed to be a key stick...
+
+**TECH** (1)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (1)
+      • 🟢 Prosecutor probes abuse claims against California governor candidate Swalwell
+        Source: BBC World
+        The high-profile Democrat, a leading contender in California's governor race, has firmly denied the ...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 3 (20.0%)
+🟢 LOW: 12 (80.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 McIlroy's Masters cruise hits the skids at Amen Corner
+   https://www.channelnewsasia.com/sport/mcilroys-masters-cruise-hits-skids-amen-corner-6051306
+
+2. 🟢 Union Berlin name Eta as interim manager following Baumgart exit
+   https://www.channelnewsasia.com/sport/union-berlin-name-eta-interim-manager-following-baumgart-exit-6051311
+
+3. 🟢 Young one round from biggest win of his life at the Masters
+   https://www.channelnewsasia.com/sport/young-one-round-biggest-win-his-life-masters-6051301
+
+4. 🔴 Israel PM Netanyahu says war succeeded in 'crushing' Iran nuclear, missile programmes
+   https://www.channelnewsasia.com/world/israel-pm-netanyahu-says-war-succeeded-in-crushing-iran-nuclear-missile-programmes-6051291
+
+5. 🟢 What 'trauma bonding' really means – and why it’s often misunderstood
+   https://www.channelnewsasia.com/wellness/trauma-bond-6012151
+
+6. 🟢 Why this disillusioned Trump voter spends hours searching Epstein files
+   https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss
+
+7. 🟢 Israel reprimands Spanish diplomat over detonation of Netanyahu effigy
+   https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss
+
+8. 🔴 Iran war live: Historic face-to-face talks with US continue in Islamabad
+   https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss
+
+9. 🟢 U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday
+   https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html
+
+10. 🟢 Hungarians decide whether to end 16 years of Orbán rule and elect rival
+   https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss
+
+11. 🟢 Prosecutor probes abuse claims against California governor candidate Swalwell
+   https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss
+
+12. 🟢 Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua
+   https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua?traffic_source=rss
+
+13. 🟢 US President Trump says US ‘wins’ regardless of how Iran talks go
+   https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss
+
+14. 🔴 How bond market's private credit crisis fears are playing out in fixed-income ETFs
+   https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html
+
+15. 🟢 'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston
+   https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss

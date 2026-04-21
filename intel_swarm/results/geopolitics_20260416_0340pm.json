@@ -1,0 +1,5 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "<think>\nThe user wants me to act as a Geopolitical Intelligence Analyst and identify the 10 most significant geopolitical developments from the provided news data. However, I notice that the news data section contains:\n\n```\n{news_data}\n```\n\nThis is a placeholder - there's no actual news data provide",
+  "_raw": "<think>\nThe user wants me to act as a Geopolitical Intelligence Analyst and identify the 10 most significant geopolitical developments from the provided news data. However, I notice that the news data"
+}

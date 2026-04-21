@@ -1,0 +1,152 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260414_0600",
+  "run_ts_utc": "2026-04-14T06:00:46.336051Z",
+  "insights": [
+    {
+      "headline": "US imposes naval blockade on Iranian ports in Strait of Hormuz after failed talks",
+      "summary": "The US military has begun blocking ships from Iranian ports following unsuccessful peace negotiations, escalating tensions in the vital oil transit corridor. This move risks upending the fragile ceasefire with Tehran and has already caused energy prices to spike by over 10% in the past month.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Reuters", "Foreign Policy", "Al Jazeera"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5",
+        "https://foreignpolicy.com/2026/04/13/us-military-blockade-iran-ports-strait-hormuz-trump-pope-leo-nato/",
+        "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"
+      ],
+      "published": "2026-04-12 22:33"
+    },
+    {
+      "headline": "Hungary's political shift: Orbán's defeat opens path for EU Ukraine support",
+      "summary": "Viktor Orbán's Fidesz party lost Hungary's election, removing a major obstacle to EU military aid for Ukraine. The new prime minister, Péter Magyar, has signaled he would tell Putin to stop the Ukraine war if called, marking a significant foreign policy shift for Hungary.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News", "Foreign Policy", "Crisis Group"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+        "https://foreignpolicy.com/2026/04/12/why-viktor-orbans-fidesz-party-lost/",
+        "https://www.crisisgroup.org/anb/europe/hungary-ukraine/orbans-defeat-lifts-block-eu-support-ukraine-frictions-remain"
+      ],
+      "published": "2026-04-13 21:28"
+    },
+    {
+      "headline": "Middle East war casts shadow over IMF/World Bank meetings as global economy suffers",
+      "summary": "The economic shock of the Iran war is dominating discussions at IMF and World Bank meetings, with World Bank chief warning of a looming jobs crisis even after the war ends. The conflict has shattered Gulf states' economic models and continues to disrupt global trade.",
+      "category": "economics",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters", "Foreign Policy"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3JDdVhEa1FKcjhXb09Sb25lVnpsXzk5WlZlcDJnZVpMTHdmbGVnZ2h4OXA0TDVxV3EzTVdfbGFNTTFJc0cwZlJmTHpBVDc3aW5hS0JseXJLT2d0cmVTNEhxMmdHSmMwSmRPazN5dGVxeHNMVGtQYnZkOFdFQnNQc2FqX0RjTnVEZkJSQ2ExMXJNa3Y4aV9DbUV5ZERJUUk?oc=5",
+        "https://foreignpolicy.com/2026/04/10/gulf-states-iran-war-united-arab-emirates-saudi-arabia-qatar-strikes-us-israel/"
+      ],
+      "published": "2026-04-13 15:01"
+    },
+    {
+      "headline": "Sudan humanitarian crisis worsens: Three babies born into war every minute",
+      "summary": "Sudan's civil war has reached catastrophic levels with three babies being born into conflict conditions every minute. The nearly three-year war has devastated the country, with risks of long-term partition and regional spillover growing despite international diplomatic efforts.",
+      "category": "africa",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "Crisis Group"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+        "https://www.crisisgroup.org/brf/africa/sudan-egypt-saudi-arabia-united-arab-emirates-united-states/b211-divided-sudan-elusive-peace"
+      ],
+      "published": "2026-04-14 04:52"
+    },
+    {
+      "headline": "US-Indonesia sign major defense agreement amid Asia-Pacific tensions",
+      "summary": "The United States and Indonesia have signed a 'major' defense cooperation agreement, with reports indicating the US is seeking overflight access for military planes. This comes as Asia faces air travel turbulence due to jet fuel shortages exacerbated by the Iran war.",
+      "category": "asia",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera", "SCMP"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss",
+        "https://www.scmp.com/economy/global-economy/article/3349928/asia-air-travel-faces-turbulence-iran-war-exposes-jet-fuel-vulnerability?utm_source=rss_feed"
+      ],
+      "published": "2026-04-14 05:10"
+    },
+    {
+      "headline": "Russian cyber operations target Microsoft Office tokens via router vulnerabilities",
+      "summary": "Russian military intelligence hackers are exploiting known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users. This state-backed campaign represents a significant escalation in cyber espionage capabilities targeting Western infrastructure.",
+      "category": "cyber",
+      "alert_level": "HIGH",
+      "source_names": ["Krebs on Security"],
+      "source_urls": [
+        "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/"
+      ],
+      "published": "2026-04-07 17:02"
+    },
+    {
+      "headline": "Asia air travel faces crisis as Iran war exposes jet fuel vulnerability",
+      "summary": "Jet fuel shortages and surging prices are forcing flight cancellations across the Asia-Pacific region. The squeeze could intensify after the US began controlling oil shipments through the Strait of Hormuz, with Qantas warning of a A$3.1-3.3 billion fuel bill for second half 2026.",
+      "category": "economics",
+      "alert_level": "MEDIUM",
+      "source_names": ["SCMP", "Channel News Asia"],
+      "source_urls": [
+        "https://www.scmp.com/economy/global-economy/article/3349928/asia-air-travel-faces-turbulence-iran-war-exposes-jet-fuel-vulnerability?utm_source=rss_feed",
+        "https://www.channelnewsasia.com/business/australia-qantas-warns-big-bill-higher-jet-fuel-prices-6055011"
+      ],
+      "published": "2026-04-14 02:00"
+    },
+    {
+      "headline": "Anti-war protests escalate in US with arrests in New York over Israel weapon sales",
+      "summary": "Approximately 100 anti-war protesters were arrested in New York during a sit-in demanding an end to US arms sales to Israel. The protests reflect growing domestic opposition to US foreign policy in the Middle East amid the ongoing Iran conflict.",
+      "category": "politics",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss"
+      ],
+      "published": "2026-04-14 02:13"
+    },
+    {
+      "headline": "China-Russia coordination deepens as Lavrov visits Beijing to discuss Middle East war",
+      "summary": "Russian Foreign Minister Sergei Lavrov has visited China to discuss the Middle East war, signaling continued strategic coordination between Moscow and Beijing. The visit comes as China's export engine stutters due to the Iran war wiping out AI-driven economic gains.",
+      "category": "asia",
+      "alert_level": "MEDIUM",
+      "source_names": ["Channel News Asia"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/world/russia-china-foreign-minister-sergei-lavrov-visit-middle-east-war-iran-ukraine-6055181"
+      ],
+      "published": "2026-04-14 05:24"
+    },
+    {
+      "headline": "Super Typhoon Sinlaku threatens Northern Mariana Islands and Guam",
+      "summary": "Super Typhoon Sinlaku is bearing down on the Northern Mariana Islands and Guam, bringing dangerous conditions to the region. While the storm is weakening as it heads toward Guam, it represents a significant climate-related threat in the Pacific theater.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam?traffic_source=rss"
+      ],
+      "published": "2026-04-14 04:08"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Hungary's political shift could strengthen EU unity on Ukraine support",
+      "US-Indonesia defense agreement enhances regional security architecture",
+      "Growing anti-war protests may pressure US to reconsider Middle East policy"
+    ],
+    "negative": [
+      "US blockade of Iranian ports risks escalating conflict and disrupting global oil markets",
+      "Iran war has weakened US strategic position while enabling China and Russia to advance regional influence",
+      "Sudan's humanitarian crisis shows no signs of abating with partition risks growing"
+    ],
+    "sources": ["Foreign Policy", "Defense One", "Crisis Group", "Reuters"]
+  },
+  "patterns": [
+    "Multiple conflicts (Iran, Sudan, Ukraine) creating interconnected economic and security crises",
+    "Great power competition intensifying with US-China-Russia maneuvering in multiple theaters",
+    "Energy security emerging as critical vulnerability across Asia-Pacific region",
+    "Domestic political pressures influencing foreign policy decisions in multiple democracies",
+    "Cyber warfare becoming increasingly integrated with conventional military operations"
+  ],
+  "blind_spots": [
+    "Limited coverage of African conflicts beyond Sudan (Sahel region, DRC, Ethiopia)",
+    "Underreporting of climate change impacts on geopolitical stability",
+    "Insufficient analysis of economic warfare dimensions (sanctions, trade restrictions)",
+    "Lack of focus on Latin American geopolitical developments",
+    "Minimal coverage of space domain competition and militarization"
+  ]
+}

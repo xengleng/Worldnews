@@ -1,0 +1,5 @@
+# Daily RAG update at 2 AM
+0 2 * * * cd /home/yeoel/.openclaw/workspace && ./rag_daily_update.sh
+
+# Optional: also run every 6 hours for more frequent updates
+# 0 */6 * * * cd /home/yeoel/.openclaw/workspace && ./rag_daily_update.sh

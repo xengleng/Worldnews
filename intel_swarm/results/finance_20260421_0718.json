@@ -1,0 +1,81 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260421_0718",
+  "executive_summary": "Global markets experience significant relief as geopolitical tensions ease following the end of the Ukraine-Russia conflict, driving stocks to new highs while the dollar and fear indicators unwind sharply. Federal Reserve regulatory actions and SEC enforcement leadership changes signal ongoing oversight of financial institutions.",
+  "key_insights": [
+    {
+      "insight": "War is over for Wall Street: stocks, dollar and fear index unwind moves",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq sets record highs as investors return to tech stocks",
+      "asset_class": "equities",
+      "alert_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC appoints David Woodcock as Director of Division of Enforcement, signaling heightened regulatory oversight",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Fed terminates enforcement actions with Cr\u00e9dit Agricole, Mega International Commercial Bank, and Goldman Sachs",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC approves customer cross-margining in U.S. Treasury market, changing margin requirements",
+      "asset_class": "bonds",
+      "alert_level": "MEDIUM",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Higher oil prices and yields fail to dampen US stocks despite pause in rate cuts",
+      "asset_class": "commodities",
+      "alert_level": "MEDIUM",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "FOMC minutes March 17-18, 2026 reveal Fed policy stance",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Discount rate meeting minutes February 9 and March 18, 2026",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pakistan seeks guarantees for second US-Iran talks amid Strait of Hormuz concerns",
+      "asset_class": "energy",
+      "alert_level": "LOW",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "April Fed meeting expectations show no imminent rate cuts",
+      "asset_class": "forex",
+      "alert_level": "LOW",
+      "source": "Investopedia",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Federal Reserve discount rate meeting discussions reveal internal debate on monetary policy direction that may not be fully priced in by markets",
+  "url": "N/A"
+}

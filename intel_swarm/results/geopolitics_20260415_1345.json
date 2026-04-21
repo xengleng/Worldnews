@@ -1,0 +1,156 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260415_1345",
+  "run_ts_utc": "2026-04-15T13:47:27.313085506Z",
+  "insights": [
+    {
+      "headline": "Iran threatens to block Red Sea if US naval blockade continues; Hormuz ceasefire fraying fast",
+      "summary": "Iran's military warned on April 15 that a continued US naval blockade would be treated as a violation of the ceasefire, raising the prospect of Tehran blocking the Red Sea — a move that would sever a critical global shipping lane. Commentary from Singapore and from Crisis Group analysts confirms the Strait of Hormuz remains the single most economically sensitive chokepoint in the world, with both US and Iranian blockades already restricting traffic.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Channel News Asia", "Crisis Group", "South China Morning Post"],
+      "source_urls": [
+        "https://www.channelnewsasia.com/world/iran-war-block-red-sea-us-naval-blockade-hormuz-6058576",
+        "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-tolls-law-transit-passage-singapore-6057921",
+        "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz"
+      ],
+      "published": "2026-04-15 12:13"
+    },
+    {
+      "headline": "Keir Starmer refuses to back Trump's Iran war, defying trade deal pressure",
+      "summary": "UK Prime Minister Keir Starmer explicitly rejected pressure from President Trump to support the US-Israeli war on Iran, saying he is 'not going to yield.' The warning came amid escalating trade threats, with Trump suggesting the US-UK trade deal 'can always be changed.' This represents a significant transatlantic fracture over the Iran conflict, joining a broader pattern of European refusal to participate militarily.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/cdxdd7ddzgdo"],
+      "published": "2026-04-15 13:25"
+    },
+    {
+      "headline": "Dollar erases war premium, nears six-week lows on Iran ceasefire/talks optimism",
+      "summary": "The US dollar fell to near six-week lows on April 15 as markets priced in hopes of progress on Iran negotiations, effectively erasing the risk premium built in during the active combat phase. This market signal suggests investors believe the ceasefire may hold or that talks are credible — though this optimism is fragile given the Red Sea/Hormuz threats.",
+      "category": "economy",
+      "alert_level": "MEDIUM",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXJWd1FqeEcwWUNKR2d0Q3lKMWNWN1NPUDNibTFjaTJfRjdiNVBoZ3plM0pGc3VDU1pyYXdBVnE1dElUSjNkNVdyOWM0YkdrN3JFbV9FR0NRODF1ZmpjYUMzNzM3M0tuTmMxMTNOYlFHRlYxSTNfODJPcWpQRS1FMFVLcVZ4RHhRTXN3V21vUGFXcWx6czdlZUNKeUptOERRQnV6M1ZZRzQ0VHdHMDNKQlgyUQ?oc=5"],
+      "published": "2026-04-15 01:12"
+    },
+    {
+      "headline": "IMF warns Iran war could tip world into recession; sees global oil shortfall this year",
+      "summary": "The IMF issued its sharpest warning yet on the Iran war's global economic fallout, explicitly forecasting that the conflict could tip the world into recession and projecting a global oil shortfall for 2026. The Fund also cut its broader growth outlook, saying the world is already 'drifting toward a more adverse scenario.' World Bank President Ajay Banga separately announced up to $100 billion in emergency funds for war-affected countries.",
+      "category": "economy",
+      "alert_level": "CRITICAL",
+      "source_names": ["IMF via Reuters", "CNN"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmNiNzBrS0RzczdCcVIwbHZiUkpaZEZhM05IU2FFbWFjX21ZdlA1ampGV1lfM1lwX1l4SnM3dVY0VHBtLUdMY3ZneFpVVkVIbFNTVUllWHZUSDBKdUhpa1pWT3NVMGdSeFRaMFdENHlWc1prUFVma0JXZEhGSmtJaHl5MFRhX001QklYcEpxczltLUNfQXlETUdPNXNlTEhGTTVEand1WVg3QUF3R2Z3a2xMa1I5SXlIc1QwdmFB?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDh6dUwwNFNNRnhRS1Fhd1VadXAyRldtTWEwbU9fakdvVlZlakRUb3Z0WVNTbzBCX3hkUlA3VzRacUFFbEhlcXRENGd0LU9ReXBicmdaMTU4eXJhV0FPZDhIbXF4aWlyc0NQNWxhbHQ2a0p1MHllZXFTZUI1VTE1U200Ylc?oc=5"
+      ],
+      "published": "2026-04-15 06:18"
+    },
+    {
+      "headline": "North Korea rapidly expanding nuclear weapons capacity — IAEA chief",
+      "summary": "The IAEA's chief Rafael Grossi warned that North Korea has made 'very serious' advances in nuclear weapons production, including probable addition of a new uranium enrichment facility, with rapid increases in operations at the Yongbyon complex. This parallel nuclear crisis — happening simultaneously with the Iran war — is flagged as underreported relative to its gravity.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera", "South China Morning Post"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/15/north-korea-boosting-ability-to-make-nuclear-arms-iaea",
+        "https://www.scmp.com/news/asia/east-asia/article/3350206/un-watchdog-warns-north-korea-boosting-nuclear-weapons-capacity?utm_source=rss_feed"
+      ],
+      "published": "2026-04-15 09:03"
+    },
+    {
+      "headline": "Fertiliser shortages from Iran war threaten developing nations; Kenya fuel prices spike sharply",
+      "summary": "A UN agency warned that fertiliser shortages caused by the Iran war are a key concern for the developing world, threatening food security across Africa and South Asia. Kenya's diesel prices have already risen by a record margin despite a VAT reduction, illustrating how the conflict's economic shockwaves are hitting the world's most vulnerable hardest and fastest.",
+      "category": "economy",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters", "BBC News"],
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEtTakxtZGl1by0tX3JuSk5sLXNNVXJEdVRIXzJHb1BndmJsNy1rWl9YVlhqdU5tT1RnbzdsTjdWS3BqRUJ0dVJZRUVabDJtbjRJOUpGT1EtRHEzMGEtUkdsZXRCbExsTkZ3NWo3WXM4N1l3eWk2V0YyakFnZm5CbVJrYmpndGF6X1dQU3VXWnNyUncySEJJUjZHZEpSUWhhdUZXNkxBb3BHeTE5VFFwSFg0QVJIdGJaeWRJRkdR?oc=5",
+        "https://www.bbc.com/news/articles/cgrlll7qgdzo"
+      ],
+      "published": "2026-04-15 09:06"
+    },
+    {
+      "headline": "US allies won't join Trump's Iran war — but can't escape the economic fallout",
+      "summary": "A CNN analysis outlines how America's European and Asian allies have collectively refused to join the US-Israeli military campaign against Iran, yet face severe economic consequences through energy price shocks, supply chain disruptions, and commodity shortages. This creates a structural tension: non-participation provides no protection from war effects, and allied governments must manage domestic discontent without the geopolitical benefits of alliance solidarity.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["CNN"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUZVcUNVTm5wN1cyS25ielNiWlA2T2NqQm4tVEZES0FzNlFQVGNFTkdGajJIZ09nMWRIdEVnQTVVS1laWUlrbjQ5X0RpZ2pKd29iM1I5c3Ryd2VqOV83ZnVxSERHSl9lbWQ3dmx6MjRXallNYlFTcDBjTTdpcHR2WnRCUFpjZTBYa25HNHBDWHQ?oc=5"],
+      "published": "2026-04-15 04:00"
+    },
+    {
+      "headline": "Orbán's election defeat lifts EU block on Ukraine support — but Hungary's Russia ties persist",
+      "summary": "Hungary's electoral defeat removes Viktor Orbán as the primary EU roadblock to military and financial support for Ukraine, potentially unlocking a significant shift in European policy. Crisis Group experts note that while Orbán's loss is real, Russian hybrid-influence operations in Europe are structural and will not stop with one election result — the tactics are described as 'beatable but not gone.'",
+      "category": "europe",
+      "alert_level": "MEDIUM",
+      "source_names": ["Crisis Group", "Defense One"],
+      "source_urls": [
+        "https://www.crisisgroup.org/anb/europe/hungary-ukraine/orbans-defeat-lifts-block-eu-support-ukraine-frictions-remain",
+        "https://www.defenseone.com/threats/2026/04/orbans-loss-wont-stop-russian-influence-campaigns-it-shows-theyre-beatable/412849/"
+      ],
+      "published": "2026-04-14 22:20"
+    },
+    {
+      "headline": "US-China oil dispute: US accuses China of hoarding; data suggests Beijing facing its own supply pressures",
+      "summary": "US Treasury Secretary Scott Bessent accused China of 'hoarding' oil to undermine global energy security during the Iran conflict. However, import and inventory data reviewed by SCMP suggest Beijing is facing its own supply constraints from the Hormuz disruption, complicating the US narrative and pointing to a more complex real-picture of global oil markets than official recriminations suggest.",
+      "category": "asia",
+      "alert_level": "MEDIUM",
+      "source_names": ["South China Morning Post"],
+      "source_urls": ["https://www.scmp.com/economy/global-economy/article/3350180/us-officials-claim-china-hoarding-oil-what-does-data-say?utm_source=rss_feed"],
+      "published": "2026-04-15 13:30"
+    },
+    {
+      "headline": "Lebanon on edge as Israel launches strikes despite diplomatic push; Hezbollah lawmaker warns of internal division",
+      "summary": "Israel launched fresh deadly strikes in Lebanon on April 15 despite an active diplomatic push to negotiate, drawing sharp anger from Hezbollah-affiliated politicians who condemned talks with Israel as wrong and warned of deepening internal Lebanese divisions. The simultaneous military and diplomatic tracks in Lebanon mirror the contradictory signals coming from the Iran ceasefire, suggesting parallel instability across multiple fronts.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive?traffic_source=rss"],
+      "published": "2026-04-15 11:52"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Dollar weakening to six-week lows signals markets are pricing in credible Iran ceasefire or talks progress — a genuine de-escalation signal",
+      "Orbán's defeat removes a key EU spoiler for Ukraine support, potentially unlocking significant European military and financial assistance",
+      "Analysts note China's Q1 GDP looks 'solid' — the Iran war may not trigger the stimulus response some feared, suggesting economic resilience",
+      "World Bank's $100 billion commitment signals the international financial system is mobilising resources at scale for war-affected states"
+    ],
+    "negative": [
+      "IMF warns world is already 'drifting toward a more adverse scenario' — the Iran war may only be the start of a broader deterioration",
+      "Crisis Group analysts see the US-Iran ceasefire as structurally fragile, following grim historical precedent where truces focus on stopping violence without addressing root causes",
+      "Defense One analysts argue the Iran war has already weakened US strategic position globally, enabling China and Russia to expand regional influence",
+      "Fertiliser shortages caused by the Iran conflict are a 'key worry' for developing nations, with food security impacts that will outlast the shooting war",
+      "US allies cannot escape the economic fallout of the Iran war even by refusing to participate — energy and commodity shocks are structural and global",
+      "Israel's multi-front fighting — against Hamas, Hezbollah, and Iran simultaneously — is visibly taxing its military, economy, and US relationship"
+    ],
+    "sources": [
+      "IMF World Economic Outlook (April 14, 2026)",
+      "Crisis Group analysts: Lisa Musiol (EU Affairs), Yasmine Farouk, Chris Newton, Ali Vaez (Hormuz), Lucian Kim (Hungary/Ukraine)",
+      "Foreign Policy analysts",
+      "Defense One military and policy experts",
+      "Rafael Grossi, IAEA Director General",
+      "SCMP economic analysts",
+      "Tara Davenport, NUS Centre for International Law"
+    ]
+  },
+  "patterns": [
+    "The US-Israel-Iran war is the dominant structural variable — nearly every story (economic, diplomatic, humanitarian, military) connects back to it as either cause or amplifier",
+    "Europe is in structural bind: refusing to participate militarily while absorbing all economic shockwaves — a pattern producing domestic political strain without strategic agency",
+    "Dollar as ceasefire proxy: the currency's movement is now a real-time signal of market confidence in Iran talks vs. risk-of-conflict pricing",
+    "Ceasefire fragility is a cross-cutting theme — multiple sources (Crisis Group, SCMP, Al Jazeera) independently flag that pauses in fighting without political resolution are historically short-lived",
+    "African and developing-world impacts are arriving fast and visibly — Kenya fuel price spike, fertiliser shortages, Sudan's humanitarian crisis deepening — suggesting the human cost is outpacing diplomatic attention",
+    "China and Russia are absent as named actors in most coverage despite being structurally important beneficiaries of US overextension — a significant coverage gap",
+    "North Korea's nuclear escalation is running in parallel to Iran coverage with almost no cross-referencing — these two nuclear crises are treated as separate rather than connected stories"
+  ],
+  "blind_spots": [
+    "Sudan's civil war — entering its fourth year with famine, 13 million displaced, and mass atrocities — is severely underreported relative to its scale of human suffering; it is being 'abandoned' by global media attention as the Middle East dominates coverage",
+    "Sub-Saharan Africa's direct economic exposure to the Strait of Hormuz disruption is almost entirely missing from coverage — Kenya is the sole data point, but Senegal, Nigeria, South Africa, and others face identical fuel and commodity shocks",
+    "China's actual strategic calculus — how Beijing is managing its relationship with Washington while securing its own energy supply — is largely opaque; coverage focuses on US accusations of hoarding rather than Chinese government decision-making",
+    "Domestic Iranian political dynamics are absent — no coverage of internal Iranian debate about continuing resistance vs. accepting a ceasefire, which may be as important as external military pressure in determining outcomes",
+    "Russia's role in the Iran war context (weapons supply, diplomatic cover, energy market manipulation) is barely examined despite Russia's direct interest in prolonging US overextension in the Middle East",
+    "The nuclear dimensionality of the Iran war — Israeli nuclear ambiguity vs. Iranian programme — receives only one Al Jazeera analysis piece, despite the existential stakes",
+    "Climate-fragility nexus: no coverage of how the Iran war's disruption of Red Sea shipping and Hormuz affects already climate-stressed food systems in the Horn of Africa and South Asia"
+  ]
+}

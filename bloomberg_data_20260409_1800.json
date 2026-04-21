@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-09T18:00:25.858502",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Personal assistant pleads guilty to swindling $10M from Salomon Brothers partner, wife",
+      "link": "https://www.cnbc.com/2026/04/08/new-york-fraud-personal-assistant-elderly.html",
+      "published": "Wed, 08 Apr 2026 23:07:10 GMT",
+      "summary": "New York resident Catalina Corona spent millions of dollars she stole on products from Louis Vuitton, Cartier and Gucci, and as well on Apple merchandise.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "e395b038c72bde9a9574d581880f9153",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Constellation Brands, U.S. maker of Modelo and Corona, withdraws 2028 guidance due to uncertainty",
+      "link": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html",
+      "published": "Wed, 08 Apr 2026 22:48:45 GMT",
+      "summary": "Constellation Brands withdrew its previously issued fiscal 2028 outlook on Wednesday and reported \"subdued\" demand across its categories.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "441b723ff1f42e72f6bfb7a16104dcb5",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "999bfe3e5b7e9d7ba6b4e9a525f71b98",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Horse racing-Champion Nick Rockett ruled out of Grand National",
+      "link": "https://www.channelnewsasia.com/sport/horse-racing-champion-nick-rockett-ruled-out-grand-national-6046396",
+      "published": "Thu, 09 Apr 2026 17:52:48 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2331c552c4b6b73f21d4d4c039dd8c59",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "'Devastated': Police corporal tells court how he shot dead Ulu Tiram attacker after seeing colleagues killed",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-ulu-tiram-police-station-terrorist-attack-johor-6046131",
+      "published": "Thu, 09 Apr 2026 17:41:37 +0800",
+      "summary": "Johor police officer Mohd Khairul Azhar Abbi Paisa was testifying as the first prosecution witness on the opening day of the trial of five family members of the alleged attacker Radin Luqman Radin Imr...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "044f95c729ce0c7097b7b5596a935f09",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "CNA Explains: With rising energy costs, how much can an energy-efficient home appliance save you?",
+      "link": "https://www.channelnewsasia.com/singapore/cna-explains-rising-energy-electricity-costs-climate-voucher-6046066",
+      "published": "Thu, 09 Apr 2026 17:41:21 +0800",
+      "summary": "How much can you save with an energy-efficient appliance? Should you switch if your appliance is still in good working order? CNA breaks it down for you.&nbsp;",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2e8b4441bc9d50799e905eb3598579e2",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Verstappen's race engineer Lambiase to leave Red Bull for McLaren",
+      "link": "https://www.channelnewsasia.com/sport/verstappens-race-engineer-lambiase-leave-red-bull-mclaren-6046371",
+      "published": "Thu, 09 Apr 2026 17:32:17 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "8c73ffb7fa132aad9c770727e7a15c24",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Leverkusen in battle for top-four spot as Dortmund look to next season",
+      "link": "https://www.channelnewsasia.com/sport/leverkusen-in-battle-top-four-spot-dortmund-look-next-season-6046321",
+      "published": "Thu, 09 Apr 2026 17:11:12 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "59f34ff5f917034c05f45201ead99845",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 09:29:04 +0000",
+      "summary": "Lebanon bears the brunt and US-Iran truce at risk as Israel claims killing of a close aide to Hezbollah&#039;s leader.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "5535c89867d46f5b3afee8aeb61b6443",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "The war on Iran: Nobody won, everyone paid",
+      "link": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 09:27:05 +0000",
+      "summary": "The US-Israeli campaign has failed to achieve its goals. Iran has been badly hit, and the Gulf is paying the bill too.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "f35dfc3288cdc3a1679ace71e2e510d8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Can global supply chains recover from the Iran war?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 09:25:19 +0000",
+      "summary": "Conflict upends flow of critical raw materials for manufacturing, aviation and technology.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "8674144eefe7f4129766816c7dd84bc5",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Creating the Futurescape for the Fifth Element",
+      "link": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+      "published": "Thu, 09 Apr 2026 09:11:37 +0000",
+      "summary": "Article URL: https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element\nComments URL: https://news.ycombinator.com/item?id=47701100\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "ebf8db1625a3856f52bab0395f8d2f6e",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire",
+      "link": "https://www.cnbc.com/2026/04/09/uk-cooper-iran-war-strait-of-hormuz-tolls-lebanon-israel-ceasefire.html",
+      "published": "Thu, 09 Apr 2026 09:04:03 GMT",
+      "summary": "In an annual foreign policy speech, Cooper is expected to say that shipping must be toll-free through the strategically vital Strait of Hormuz.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b59878416e582327a0a2c23168881892",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Ukraine\u2019s veterans\u2019 theatre turns war wounds into catharsis",
+      "link": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 08:57:27 +0000",
+      "summary": "Wounded soldiers, wives and widows workshop ideas and stage plays in Kyiv, bringing the audience to tears.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "d124d335cfe58c9d0044890fd9e1d3f2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Record animal sacrifice attempts at Al-Aqsa prompt status quo fears",
+      "link": "https://www.aljazeera.com/features/2026/4/9/record-animal-sacrifice-attempts-at-al-aqsa-spark-status-quo-fears?traffic_source=rss",
+      "published": "Thu, 09 Apr 2026 08:53:59 +0000",
+      "summary": "Record attempts by Israeli settlers to smuggle sacrifices into Al-Aqsa Mosque mark unprecedented escalation since 1967.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "5860259455b9e8c1f23ef13b6dd8e0b0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 6,
+    "high": 0,
+    "medium": 0,
+    "low": 9
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 3,
+    "POLITICS": 10,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

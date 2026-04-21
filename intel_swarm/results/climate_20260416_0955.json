@@ -1,0 +1,24 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260416_0955",
+  "executive_summary": "A 400-acre wildfire near Gainesville, Florida has prompted road closures and firefighter response, representing the most significant climate-related disaster in today's news cycle. Climate and environmental news remains largely absent from mainstream reporting, with economic and geopolitical stories dominating headlines.",
+  "key_insights": [
+    {
+      "insight": "400-acre wildfire burning near Gainesville airport, State Road 26 closed",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Gainesville Sun",
+      "url": "https://www.gainesvillesun.com"
+    },
+    {
+      "insight": "Firefighters battling wildfire off State Road 26 in Alachua County",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "MEDIUM",
+      "source": "Mainstreet Daily News Gainesville",
+      "url": "https://www.mainstreetdailynews.com"
+    }
+  ],
+  "blind_spot": "Wildfire season preparedness and vegetation fire risk assessments in the southeastern United States are significantly underreported despite increasing wildfire frequency and intensity linked to climate change. No coverage of climate policy developments, extreme heat events, or environmental justice issues in vulnerable regions.",
+  "url": "N/A"
+}

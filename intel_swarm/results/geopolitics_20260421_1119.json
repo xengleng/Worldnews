@@ -1,0 +1,140 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260421_1119",
+  "run_ts_utc": "2026-04-21T11:20:24.831077Z",
+  "insights": [
+    {
+      "headline": "Japan on high alert for 'huge' second quake after magnitude 7.7 tremor",
+      "summary": "Japan's meteorological agency has warned another, stronger earthquake may hit in the next week after Monday's magnitude 7.7 quake off the coast. Northeast Japan escaped relatively unscathed, but residents are advised to stay alert as it is too early to tell whether Monday's tremor was the main shock or a precursor to a far larger one.",
+      "category": "asia",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News", "SCMP"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/czd7m7d699do",
+        "https://www.scmp.com/week-asia/health-environment/article/3350881/japan-escapes-worst-magnitude-77-quake-experts-warn-potential-bigger-one"
+      ],
+      "published": "2026-04-21"
+    },
+    {
+      "headline": "US-Israel war on Iran: Day 53 — diplomatic efforts stalled, Tehran rejects pressure talks",
+      "summary": "On day 53 of the US-Israel conflict with Iran, diplomatic efforts to end the war have stalled. Tehran has rejected talks under pressure. A deal to end the Iran war appeared close, but then Trump started posting on social media, derailing negotiations. The conflict continues with no resolution in sight.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Al Jazeera"],
+      "source_urls": ["https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict"],
+      "published": "2026-04-21"
+    },
+    {
+      "headline": "Airlines about to run out of jet fuel due to Iran war — supply chain at breaking point",
+      "summary": "The US-Israel war on Iran has disrupted global jet fuel supply chains so severely that airlines are on the verge of running out. The conflict has pushed up aviation fuel costs and created logistical bottlenecks that threaten to ground flights across multiple regions.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["CNN"],
+      "source_urls": ["https://www.cnn.com/2026/04/20/world/middleeast/iran-war-jet-fuel/index.html"],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Iran war wreaking havoc on sulfur and fertilizer supply chains — 'King of Chemicals' disrupted",
+      "summary": "The Iran conflict is disrupting an obscure but critical sector: sulfur and sulfuric acid production that feeds into fertilizer, mining, and chemical industries worldwide. The 'King of Chemicals' supply chain disruption poses risks to global food production and industrial processes.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/17/iran-war-sulfur-supply-chain-sulfuric-acid-fertilizer-mining/"],
+      "published": "2026-04-17"
+    },
+    {
+      "headline": "China warns US must show 'sincerity' on Iran, calls Japan's nuclear discussions 'dangerous'",
+      "summary": "China's latest National Report on the Implementation of the Treaty on the Non-Proliferation of Nuclear Weapons called on the United States to show 'sincerity' in resolving the Iranian nuclear issue, while simultaneously warning about Japan's discussion of possessing nuclear weapons as 'dangerous'. This signals Beijing's effort to position itself as a responsible nuclear actor while deflecting pressure.",
+      "category": "asia",
+      "alert_level": "HIGH",
+      "source_names": ["SCMP"],
+      "source_urls": ["https://www.scmp.com/news/china/military/article/3350877/china-calls-us-sincerity-iran-and-warns-japans-dangerous-nuclear-ambitions"],
+      "published": "2026-04-21"
+    },
+    {
+      "headline": "Some in MAGA questioning Trump assassination attempt — conspiracy theories spread within movement",
+      "summary": "Segments of the MAGA movement are publicly questioning whether the attempted assassination on Trump was genuine or staged. This signals deepening paranoia within the base and potential instability around a major domestic security incident, with conspiracy theories gaining traction among supporters.",
+      "category": "politics",
+      "alert_level": "HIGH",
+      "source_names": ["CNN"],
+      "source_urls": ["https://www.cnn.com/2026/04/20/politics/trump-assassination-attempt-maga-questions/index.html"],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Tigray party moves to restore pre-war administration, threatening Ethiopia peace agreement",
+      "summary": "The Tigray party has announced plans to restore the pre-war administration, a move that jeopardizes the peace agreement in northern Ethiopia. This represents a major setback for regional stability in the Horn of Africa and raises the risk of renewed hostilities.",
+      "category": "africa",
+      "alert_level": "HIGH",
+      "source_names": ["Reuters"],
+      "source_urls": ["https://www.reuters.com/world/africa/tigray-party-restore-pre-war-administration-jeopardising-northern-ethiopia-peace-2026-04-20/"],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Iraq declares neutrality in US-Israel-Iran war but unable to stay out of the fray",
+      "summary": "Despite declaring neutrality in the US-Israel war with Iran, Baghdad has been unable to keep Iraq out of the conflict. The war is harming Iraq's body politic and squeezing its economy. Crisis Group expert Lahib Higel explains how Iraq is being dragged into a war it sought to avoid.",
+      "category": "middleeast",
+      "alert_level": "HIGH",
+      "source_names": ["International Crisis Group"],
+      "source_urls": ["https://www.crisisgroup.org/qna/middle-east-north-africa/iraq-iran-united-states-israelpalestine/iraq-vice"],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "World paying price for America's Iran war — global south bears disproportionate cost",
+      "summary": "The Iran conflict is hurting American consumers, but it is far more devastating for people in the global south. Energy price spikes, supply chain disruptions, and economic instability disproportionately affect developing nations already struggling with debt and food insecurity.",
+      "category": "middleeast",
+      "alert_level": "MEDIUM",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/20/trump-iran-war-energy-prices-stocks-ai-asia-africa/"],
+      "published": "2026-04-20"
+    },
+    {
+      "headline": "Strategic aftershocks of Trump's Iran war to outlast the fighting — long-term consequences",
+      "summary": "Foreign Policy analysis argues the consequences of the US-Israel-Iran conflict will be felt long after the fighting ends. The war is reshaping alliances, disrupting global supply chains, and altering the strategic balance in the Middle East and beyond.",
+      "category": "middleeast",
+      "alert_level": "MEDIUM",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/"],
+      "published": "2026-04-20"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Clean electricity met all new global electricity demand in 2025, curbing fossil fuel growth for the first time — a sign the energy transition is accelerating despite geopolitical headwinds (Ember think tank via Al Jazeera)",
+      "Ukraine's green reconstruction plan offers a pathway to build back better, with environmentally and geopolitically sustainable development (Foreign Policy)",
+      "China's economy beats expectations despite the Iran war, suggesting structural resilience (Al Jazeera)"
+    ],
+    "negative": [
+      "The Iran war is causing disproportionate devastation to the global south through energy price spikes and supply chain disruptions (Foreign Policy)",
+      "Airlines are on the verge of running out of jet fuel due to Iran war disruptions, threatening aviation globally",
+      "Japan faces a credible risk of a much larger earthquake in the coming week after Monday's magnitude 7.7 tremor",
+      "The 'King of Chemicals' — sulfur/sulfuric acid supply chain — is being disrupted by the Iran war, threatening fertilizer and food production worldwide",
+      "Pro-Iran hackers are increasing cyberattacks on critical infrastructure globally, with the Los Angeles Metro already targeted"
+    ],
+    "sources": [
+      "Ember (climate think tank)",
+      "Foreign Policy",
+      "Al Jazeera",
+      "International Crisis Group",
+      "Defense One",
+      "Royal United Services Institute (RUSI)"
+    ]
+  },
+  "patterns": [
+    "The US-Israel-Iran war dominates all coverage threads — it connects jet fuel shortages, chemical supply chains, Iraq's neutrality problem, and China's strategic positioning into one coherent narrative",
+    "Japan is simultaneously facing a natural disaster risk (major earthquake warning) and a geopolitical one (China warning about Japan's nuclear ambitions), creating compounding crises",
+    "All major sources (BBC, Reuters, CNN, Al Jazeera, Foreign Policy, SCMP) are converging on the Iran war as the dominant geopolitical event, cross-validating its significance",
+    "China is positioning itself as a diplomatic mediator on Iran while simultaneously warning about US and Japanese nuclear policies — a dual messaging strategy",
+    "Clean energy momentum is being reported alongside Iran war disruptions — suggesting the conflict may inadvertently accelerate energy transition by exposing fossil fuel supply chain vulnerabilities",
+    "Sudan's war (now entering its fourth year) is severely underreported relative to its scale of humanitarian suffering",
+    "Russia-Ukraine conflict has effectively disappeared from mainstream geopolitics coverage despite being an active ongoing war"
+  ],
+  "blind_spots": [
+    "Sudan's war — entering its fourth year with devastating humanitarian consequences — receives minimal coverage despite being one of the world's worst ongoing humanitarian crises (BBC Africa had only 2 items in this collection)",
+    "Russia-Ukraine conflict: active kinetic war almost completely absent from this news cycle, representing a major blind spot given the conflict's ongoing nature and global significance",
+    "Southeast Asia crises: Myanmar civil war, Philippines political instability, and other regional conflicts receive cursory treatment compared to headline Middle East coverage",
+    "Pro-Iran cyber offensive scope: while Defense One reports on Iranian hackers targeting LA Metro, the broader global campaign against critical infrastructure — water, power, financial systems — in allied nations is undercovered",
+    "Sri Lanka's political reset has stalled despite 2024 elections promising sweeping reforms — the domestic governance crisis receives almost no international coverage",
+    "Africa's compounding crises: Sudan, Sahel region, and Congo basin conflicts are systematically underreported relative to Middle East coverage",
+    "Japan's nuclear policy shift: China's warning about Japan's discussions on nuclear weapons possession is significant but receives limited independent analysis in Western media"
+  ]
+}

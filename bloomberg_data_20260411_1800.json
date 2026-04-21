@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-04-11T18:00:31.862147",
+  "articles_analyzed": 3,
+  "categorized_articles": [
+    {
+      "title": "Cathay Pacific to cut flights from mid-May to end-June as jet fuel prices surge",
+      "link": "https://www.channelnewsasia.com/business/cathay-pacific-cut-flights-mid-may-end-june-jet-fuel-prices-surge-6050626",
+      "published": "Sat, 11 Apr 2026 17:34:22 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "264d42eda266016c72ecd42d63759d84",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Japan to Release More Oil Amid Supply Crunch",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/japan-release-more-oil-amid-073000530.html",
+      "published": "2026-04-10T07:30:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "9d80b5c3e16e3916bcf42e2100294b28",
+      "bloomberg_category": "ENERGY",
+      "bloomberg_subcategory": "OIL & GAS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Raiffeisen Takeover Target Addiko Gets Higher Offer From Slovenia\u2019s NLB",
+      "link": "https://www.wsj.com/finance/banking/raiffeisen-takeover-target-addiko-gets-higher-offer-from-slovenias-nlb-c4cca391?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-04-10T06:56:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "3ed476f725e2051ef04c962863eb5c5d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 0,
+    "high": 1,
+    "medium": 0,
+    "low": 2
+  },
+  "category_summary": {
+    "MARKETS": 0,
+    "ECONOMY": 0,
+    "TECH": 1,
+    "POLITICS": 1,
+    "CORPORATE": 0,
+    "ENERGY": 1
+  }
+}

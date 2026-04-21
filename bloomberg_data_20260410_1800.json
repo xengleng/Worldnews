@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-10T18:00:47.715816",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "U.S. Postal Service seeks hike in price of first-class mail stamps to 82 cents in July",
+      "link": "https://www.cnbc.com/2026/04/09/us-postal-service-mail-stamps-price.html",
+      "published": "Thu, 09 Apr 2026 20:45:16 GMT",
+      "summary": "The USPS is facing a severe financial crisis and could run out of money early in 2027. The agency has proposed hiking stamp prices along with other measures.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b20f4706eb6ba2a215eb1a16246730ac",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Automatic U.S. military draft registration planned by December, filing shows",
+      "link": "https://www.cnbc.com/2026/04/09/military-draft-registration-automatic-iran-war.html",
+      "published": "Thu, 09 Apr 2026 20:03:59 GMT",
+      "summary": "The proposed timetable for automatic military draft registration came weeks after the U.S. and Israel launched a war against Iran.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "5ded5f9ad010a04835eebc3fa89224e6",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Liverpool boss Slot says club support strong as fans prepare Anfield protest",
+      "link": "https://www.channelnewsasia.com/sport/liverpool-boss-slot-says-club-support-strong-fans-prepare-anfield-protest-6048951",
+      "published": "Fri, 10 Apr 2026 17:46:01 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "60eb9d75906b9a02313c55b10a44f14c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Pet grooming association working on clearer standards, certification framework by mid-2026",
+      "link": "https://www.channelnewsasia.com/singapore/pet-grooming-industry-guidelines-association-proposed-framework-6048731",
+      "published": "Fri, 10 Apr 2026 17:44:48 +0800",
+      "summary": "Concerns over safety have grown following recent high-profile incidents of pets dying at grooming salons.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "43ae26bcc1ea3183d29366bc55c425e1",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Japan downgrades 'intimidating' China as ties sour",
+      "link": "https://www.channelnewsasia.com/east-asia/japan-china-ties-downgrade-tensions-6048896",
+      "published": "Fri, 10 Apr 2026 17:31:28 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ef339e2af1bbf1bebce8b7170d239dad",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Fury insists he's still the man to beat on return to the ring",
+      "link": "https://www.channelnewsasia.com/sport/fury-insists-hes-still-man-beat-return-ring-6048916",
+      "published": "Fri, 10 Apr 2026 17:28:03 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "5685d6da81a3a11998a34090a7da6388",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Hong Kong grants first stablecoin licences to StanChart joint venture, HSBC",
+      "link": "https://www.channelnewsasia.com/business/hong-kong-grants-first-stablecoin-licences-stanchart-joint-venture-hsbc-6048891",
+      "published": "Fri, 10 Apr 2026 17:21:36 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "491c1264d6fa6ba3ce52f7e00505b538",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Six months into \u2018ceasefire\u2019, Gaza suffers under persistent Israeli attacks",
+      "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 09:36:31 +0000",
+      "summary": "Gaza&#039;s devastation grows as over 72,000 people killed and 172,000 injured amid Israeli violations of US-brokered truce.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "65e44e2e7222f6118c2b0bc2042c294c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "U.S. oil climbs above $100 as U.S.-Iran ceasefire fails to boost tanker traffic via Strait of Hormuz",
+      "link": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
+      "published": "Fri, 10 Apr 2026 09:34:11 GMT",
+      "summary": "U.S. President Donald Trump on Thursday warned Iran to \"stop now\" if it was charging tankers to transit the Strait of Hormuz.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "ba24c53e2fba4872e7557badd3b71661",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Torpedo-like object discovered by Indonesian fisherman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 09:15:55 +0000",
+      "summary": "A fisherman in Indonesia discovered a torpedo-like object near the Lombok Strait, a waterway between Bali and Lombok.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "f4ab7666aff6d325c7ebad97772db37e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Scientists invented a fake disease. AI told people it was real",
+      "link": "https://www.nature.com/articles/d41586-026-01100-y",
+      "published": "Fri, 10 Apr 2026 08:44:37 +0000",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01100-y\nComments URL: https://news.ycombinator.com/item?id=47715291\nPoints: 29\n# Comments: 13",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "46636323ae80ce8fb0223360b8c3d9d0",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Djibouti votes as long-time leader seeks sixth presidential term",
+      "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 08:30:59 +0000",
+      "summary": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "db84dbd82bf3bd423208f76e61f84b87",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "ELECTIONS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
+      "link": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 08:27:42 +0000",
+      "summary": "A Middle Eastern country has for the first time single-handedly checked the war-making capabilities of the US and Israel",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "0daf01528f60c926fb7cc017515d9611",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Zero-build privacy policies with Astro",
+      "link": "https://www.openpolicy.sh/blog/no-build-astro",
+      "published": "Fri, 10 Apr 2026 08:13:38 +0000",
+      "summary": "Article URL: https://www.openpolicy.sh/blog/no-build-astro\nComments URL: https://news.ycombinator.com/item?id=47715088\nPoints: 5\n# Comments: 4",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "864ff57a2b577d377449e03212f127e2",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong",
+      "link": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
+      "published": "Fri, 10 Apr 2026 08:13:07 GMT",
+      "summary": "TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "30eee00b4ad19b6aeaa99a8d15134561",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 2,
+    "medium": 0,
+    "low": 10
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 4,
+    "POLITICS": 10,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -1,0 +1,99 @@
+📰 **WORLDMONITOR INTELLIGENCE UPDATE**
+Time: 2026-04-05 08:47 SGT
+Articles: 20 new items (threat-classified)
+
+## GEOPOLITICS NEWS
+🔴 **Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex**
+   Source: Al Jazeera (Tier 1)
+   Threat: CRITICAL • Score: 89/100
+   Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.
+   Link: https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss
+
+🔴 **Russian attack on Ukraine market kills five**
+   Source: BBC World (Tier 1)
+   Threat: CRITICAL • Score: 83/100
+   A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.
+   Link: https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss
+
+🔴 **US military jets hit in Iran war are the first shot down by enemy fire in over 20 years - AP News**
+   Source: AP News (Tier 1)
+   Threat: CRITICAL • Score: 79/100
+   US military jets hit in Iran war are the first shot down by enemy fire in over 20 years&nbsp;&nbsp;AP News
+   Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPeXZxRkV1UFR0bGxqaU0tNzRZeklTR0pHaTRPdFVJS0hfeTRlemVGZnREeFJhMWFZUjRqLW5uZm5IMVYyVEpDY183cUtXa1pUT01iYm4zS1JFYXgyck5rQjhrQzh5a3hyeE44N090UlA4dVFaQk1tYmNTT21RaWFsU3A3QndyS0ZnaEVDdEpiNTBNNnN3UFY3VV9uREQ?oc=5
+
+🔴 **Trump’s go-it-alone certainty confronts the uncertainties of war - AP News**
+   Source: AP News (Tier 1)
+   Threat: CRITICAL • Score: 76/100
+   Trump’s go-it-alone certainty confronts the uncertainties of war&nbsp;&nbsp;AP News
+   Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE56SDhzZjdaVVlDUmNZTm5YQW44NVI4b3k1MFBuQlI3aFZDVDlhdUxQZ3dHajZHNzR5V09ucU0yTEVQSEZtTERmUEg2TWdyRl9oMFR6Y0Y0XzhlZHEzR2Y2MWNTa09GcGhpN09QWmtIZHN1VHNpRUFDc3NfOXJxd0tuVHM0NHJWYTItRVJ0SGdjU19uYWhRX2ZsOA?oc=5
+
+## FINANCE NEWS
+🔴 **Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies**
+   Source: CNBC (Tier 1)
+   Threat: CRITICAL • Score: 87/100
+   The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.
+   Link: https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html
+
+🔴 **The shadowy group claiming attacks around Europe**
+   Source: Financial Times (Tier 1)
+   Threat: CRITICAL • Score: 79/100
+   Ashab al-Yamin, which uses Iran-linked Telegram channels, has taken responsibility for assaults on ambulances, a synagogue and banks
+   Link: https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540
+
+🔴 **Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course**
+   Source: CNBC (Tier 1)
+   Threat: CRITICAL • Score: 76/100
+   A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it.
+   Link: https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html
+
+🔴 **U.S.-Iran war 'tax' begins to hit American businesses and consumers**
+   Source: CNBC (Tier 1)
+   Threat: CRITICAL • Score: 76/100
+   A U.S.-Iran war 'tax' is beginning to hit consumers as diesel and jet fuel prices rise and stress business profitability, and there is no relief in sight.
+   Link: https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html
+
+## SINGAPORE NEWS
+🔴 **Pilot initiative to be expanded to keep seniors active, socially connected to their communities**
+   Source: Straits Times Singapore (Tier 1)
+   Threat: CRITICAL • Score: 78/100
+   The PA initiative Neighbourhood Kakis rewards seniors who do simple tasks in their communities.
+   Link: https://www.straitstimes.com/singapore/pilot-initiative-to-be-expanded-to-keep-seniors-active-socially-connected-to-their-communities
+
+## TECH NEWS
+🔴 **After fighting malware for decades, this cybersecurity veteran is now hacking drones**
+   Source: TechCrunch (Tier 1)
+   Threat: CRITICAL • Score: 76/100
+   Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now worki...
+   Link: https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/
+
+🔴 **OpenClaw gives users yet another reason to be freaked out about security**
+   Source: Ars Technica (Tier 1)
+   Threat: CRITICAL • Score: 70/100
+   The viral AI agentic tool let attackers silently gain admin unauthenticated access.
+   Link: https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+
+🔴 **New Rowhammer attacks give complete control of machines running Nvidia GPUs**
+   Source: Ars Technica (Tier 1)
+   Threat: CRITICAL • Score: 70/100
+   GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.
+   Link: https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/
+
+🔴 **Google bumps up Q Day deadline to 2029, far sooner than previously thought**
+   Source: Ars Technica (Tier 1)
+   Threat: CRITICAL • Score: 70/100
+   Company warns entire industry to move off RSA and EC more quickly.
+   Link: https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/
+
+## ASIA NEWS
+🔴 **Pakistan drastically hikes fuel prices despite mediator role in Iran war**
+   Source: Nikkei Asia (Tier 1)
+   Threat: CRITICAL • Score: 71/100
+   Link: https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-drastically-hikes-fuel-prices-despite-mediator-role-in-iran-war
+
+---
+**THREAT SUMMARY:**
+• CRITICAL: 20 articles
+
+**SCHEDULE:** Updates every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+**SOURCE:** WorldMonitor feed selection with threat classification
+**TIERS:** Tier 1 = Major news orgs, Tier 2 = Specialized sources

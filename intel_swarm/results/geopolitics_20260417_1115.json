@@ -1,0 +1,128 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260417_1115",
+  "executive_summary": "Trump's declaration that the Iran war is 'close to over' sends global markets to record highs while policymakers warn investors are underestimating war's economic toll. Pro-Russian cyberattacks target Swedish critical infrastructure, highlighting escalating hybrid warfare threats across Europe.",
+  "key_insights": [
+    {
+      "insight": "Trump declares Iran war 'close to over' as S&P 500 hits record high and oil markets remain volatile",
+      "location": "United States/Iran/Middle East",
+      "actors": [
+        "United States",
+        "Iran",
+        "Trump Administration"
+      ],
+      "alert_level": "CRIT",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are underestimating the economic toll of ongoing global conflicts",
+      "location": "Global",
+      "actors": [
+        "International Monetary Fund",
+        "World Bank",
+        "Central Banks"
+      ],
+      "alert_level": "CRIT",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power plant targeted by pro-Russian cyber/physical attack in 2025",
+      "location": "Sweden",
+      "actors": [
+        "Russia",
+        "Pro-Russian Hacktivist Group",
+        "Swedish Government"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters World",
+      "url": "N/A"
+    },
+    {
+      "insight": "US launches probe into suspicious oil trades made before Trump's policy pivots",
+      "location": "United States",
+      "actors": [
+        "United States Government",
+        "Commodity Traders",
+        "Trump Administration"
+      ],
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI pursue IPOs",
+      "location": "United States/Global",
+      "actors": [
+        "Anthropic",
+        "OpenAI",
+        "Tech Investors",
+        "Public"
+      ],
+      "alert_level": "MED",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "China's BYD reports fire incident at Shenzhen garage for test and scrapped vehicles",
+      "location": "China",
+      "actors": [
+        "BYD",
+        "Chinese Government",
+        "Electric Vehicle Industry"
+      ],
+      "alert_level": "MED",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit",
+      "location": "Global",
+      "actors": [
+        "Silver Miners",
+        "Industrial Consumers",
+        "Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "El Salvador enacts law allowing life sentences for minors as young as 12",
+      "location": "El Salvador",
+      "actors": [
+        "El Salvador Government",
+        "Human Rights Organizations"
+      ],
+      "alert_level": "LOW",
+      "source": "Al Jazeera",
+      "url": "N/A"
+    },
+    {
+      "insight": "BofA stock traders achieve record performance driven by market momentum",
+      "location": "United States",
+      "actors": [
+        "Bank of America",
+        "Wall Street Traders"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Mark Mobius, pioneering emerging markets investor, passes away at 89",
+      "location": "Global Emerging Markets",
+      "actors": [
+        "Mark Mobius",
+        "Emerging Market Funds"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Rising anti-tech sentiment and regulatory pushback against AI/data center expansion in Western democracies represents a shifting political landscape that could reshape tech-industry geopolitics and transatlantic regulatory alignment.",
+  "url": "N/A"
+}

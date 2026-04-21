@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-04-05T13:00:24.610404",
+  "articles_analyzed": 10,
+  "categorized_articles": [
+    {
+      "title": "Price calls for Shields fight after beating Pineiro",
+      "link": "https://www.channelnewsasia.com/sport/price-calls-shields-fight-after-beating-pineiro-6037366",
+      "published": "Sun, 05 Apr 2026 12:32:17 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "341c257ee82e145e90a033b68376df1a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Britain woos expansion effort by Anthropic after US defence clash, FT says",
+      "link": "https://www.channelnewsasia.com/business/britain-woos-expansion-effort-anthropic-after-us-defence-clash-ft-says-6037361",
+      "published": "Sun, 05 Apr 2026 12:31:10 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "c47b0932e78ba3502818b910c18862b9",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US rescues F-15 crew member downed in Iran, US officials say",
+      "link": "https://www.channelnewsasia.com/world/iran-war-f15-rescue-airman-pilot-6037286",
+      "published": "Sun, 05 Apr 2026 12:09:00 +0800",
+      "summary": "The airman was the second member of a two-person crew of an F-15 that Iran said on Friday was brought down by its air defences.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ae00f63e18e4a5f2b65440ed209514c5",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Shooting down ideas is not a skill",
+      "link": "https://scottlawsonbc.com/post/shooting-down-ideas",
+      "published": "Sun, 05 Apr 2026 00:42:42 +0000",
+      "summary": "Article URL: https://scottlawsonbc.com/post/shooting-down-ideas\nComments URL: https://news.ycombinator.com/item?id=47645037\nPoints: 123\n# Comments: 116",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "c59c9fe203dc028e748663bdd3e02647",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "The man who became one of India's greatest stage queens",
+      "link": "https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Apr 2026 22:20:51 GMT",
+      "summary": "Chapal Bhaduri was Bengal\u2019s biggest stage queen - until women arrived and the spotlight moved on.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "81e4d86e385c7b8fd4204c97aad767d0",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-billionaire-214456500.html",
+      "published": "2026-04-03T21:44:56Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "a01f93c55d791a2f626ad7024eb69b0a",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "EQUITIES",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html",
+      "published": "2026-04-03T21:42:58Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "54b9e89cd7f3774f2d57d586e0e39858",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Credo Technology (CRDO): Billionaire Steve Cohen Continues to Be Bullish",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-billionaire-steve-214111813.html",
+      "published": "2026-04-03T21:41:11Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "b6df1ff35986af43dc113a634989f67f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump's Speech Skipped 'Ceasefire' And 'Peace', Leaving Polymarket Traders Who Bet Against These Words Profiting Big Time",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/trumps-speech-skipped-ceasefire-peace-213121542.html",
+      "published": "2026-04-03T21:31:21Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "25a35c7463a0dff19191c41d7a5824bc",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Best cash-out refinance mortgage lenders of April 2026",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/best-cash-out-refinance-lenders-134200722.html",
+      "published": "2024-11-01T13:42:00Z",
+      "summary": "",
+      "source": "Yahoo Finance",
+      "original_category": "finance",
+      "id": "5b0abb0428a456cabe953e71dd066424",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 1,
+    "medium": 0,
+    "low": 7
+  },
+  "category_summary": {
+    "MARKETS": 3,
+    "ECONOMY": 0,
+    "TECH": 4,
+    "POLITICS": 3,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260419_2146",
+  "executive_summary": "Diplomatic efforts involving Pakistan-mediated US-Iran talks and Strait of Hormuz security concerns represent the most significant geopolitical developments today. Sri Lanka's political reset and the Pope's Cameroon visit offer emerging opportunities for peace and stability in Africa and South Asia.",
+  "key_insights": [
+    {
+      "insight": "Pakistan actively seeking to facilitate second round of US-Iran negotiations, requesting security guarantees for Tehran",
+      "location": "Iran/Pakistan/United States",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Analysis of Strait of Hormuz maritime security requirements amid ongoing regional tensions",
+      "location": "Persian Gulf/Strait of Hormuz",
+      "actors": [
+        "Iran",
+        "United States",
+        "Regional Gulf States"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues political reset process following economic crisis, facing challenges in governance restoration",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition Parties",
+        "International Monetary Fund"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "United Nations preparing priorities for next Secretary-General selection process",
+      "location": "Global/United Nations",
+      "actors": [
+        "United Nations",
+        "Member States"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope Francis visit to Cameroon generates optimism for peace and reconciliation efforts in region",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroon Government",
+        "Regional Armed Groups"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve monetary policy uncertainty with higher oil prices and yields limiting rate cut prospects",
+      "location": "United States/Global",
+      "actors": [
+        "Federal Reserve",
+        "Oil Producers",
+        "Global Markets"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Market fear index unwinds and normalizes following previous volatility period",
+      "location": "Global Financial Markets",
+      "actors": [
+        "Financial Markets",
+        "Central Banks"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC enforcement leadership change with appointment of new Division Director",
+      "location": "United States",
+      "actors": [
+        "SEC",
+        "Corporate Entities"
+      ],
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq reaches record highs reflecting investor confidence in technology sector",
+      "location": "United States/Global",
+      "actors": [
+        "Technology Companies",
+        "Global Investors"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve terminates enforcement actions against major international banks",
+      "location": "United States/France/Taiwan",
+      "actors": [
+        "Federal Reserve",
+        "Cr\u00e9dit Agricole",
+        "Goldman Sachs",
+        "Mega International Commercial Bank"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Rising tensions in the Strait of Hormuz receive limited mainstream coverage despite significant implications for global energy security and potential US-Iran confrontations",
+  "url": "N/A"
+}

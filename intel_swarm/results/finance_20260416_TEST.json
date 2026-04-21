@@ -1,0 +1,5 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "<think>\nThe user wants me to analyze the news data and create a structured JSON report about the 10 most significant financial and market developments. However, I notice that the \"NEWS DATA\" section contains `{news_data}` which appears to be a placeholder - the actual news data hasn't been provided.",
+  "_raw": "<think>\nThe user wants me to analyze the news data and create a structured JSON report about the 10 most significant financial and market developments. However, I notice that the \"NEWS DATA\" section c"
+}

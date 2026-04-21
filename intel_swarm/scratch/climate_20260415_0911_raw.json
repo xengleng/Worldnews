@@ -1,0 +1,484 @@
+{
+  "domain": "climate",
+  "timestamp": "20260415_0911",
+  "sgt_time": "2026-04-15 05:11 PM SGT",
+  "utc_time": "2026-04-15 09:11 UTC",
+  "total_items": 50,
+  "items": [
+    {
+      "title": "U of A research finds improved weather forecasts could reduce heat deaths as climate warms - University of Arizona News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1JlX1o2TFhodk9XbUItYnBvS0JIRGM5Y2ZYVUgzeVdlUnBDQzg1ZlpPRnJTQl9hNmpzVjRPZy11OEgxYl9ha1h3YWh2QjNhWGtUWGFDcjF3QVdLWXo3ajY3YzFDdFd3T1EtWFpkWGs5MjRZd0p6R3ZjM3ZfQmw0clpFM1VHelhjX1N5WUtmSlRscnpPVDR5ODVNWkZaS05TQ3hMeXdrbUstUjFMdmhmcjZR?oc=5",
+      "published": "2026-04-13 19:10",
+      "summary": "U of A research finds improved weather forecasts could reduce heat deaths as climate warms&nbsp;&nbsp;University of Arizona News",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Majorities in India think global warming is affecting extreme weather - Yale Program on Climate Change Communication",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbk4xVGxLc2hWZVhnUEVNMC1YWlNLUEFFVExySzBUMHhnNnFWRnV5X1JyM1lsUDFoN19TbjdUYVAtU2Vxa3BaWXBZS1NMUUFub2FlcDlsYUszN095bHlJblRvYjJQdFYzN3ItRTIxZWRMY2s4MklrcUZrQmEzdFY0a3NITlJwVGUwSVQ1RVpnVi1HMnB1ZjlnT1AyYkdTbkMtXzNzQTFhY0ZEQVdPUHpvTFhaNExyUXBvQmkyYnd3?oc=5",
+      "published": "2025-11-18 08:00",
+      "summary": "Majorities in India think global warming is affecting extreme weather&nbsp;&nbsp;Yale Program on Climate Change Communication",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "CRITICAL"
+    },
+    {
+      "title": "Extreme weather: floods, droughts and heatwaves - European Environment Agency (EEA)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTBqZTlsSnUwVkVSSm0zTEgwcUx0NG11dEs4UzJQV1lXeUlSUzJHUVJ4bE1UTkhYN21va0VseEVJSTNxckxCMGp6TzBLTm1xUUpnZmFCbElxYmdvNjIwSERRUi1qLUJKSWdydWJlRjJHQ1VPMWdwX3RfRXZmLUNta003OEUzbXhVRUI1QnJ4cHdpbjhl?oc=5",
+      "published": "2025-07-15 07:00",
+      "summary": "Extreme weather: floods, droughts and heatwaves&nbsp;&nbsp;European Environment Agency (EEA)",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Colorado will not receive FEMA aid for last year\u2019s fires and flooding - Colorado Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OeUlZS0RHYjZCQmd0NmVfV1ZaTDdReHFHbzc4dTFrcXp3M0NJRzNWM3QtcDVEOV91Yl8ydlBZTjNSYkhmbksxVTliMHZBZmZCbDF5MEZSdHFYc3RucjFZaEcxQWhUOTg?oc=5",
+      "published": "2026-04-14 18:31",
+      "summary": "Colorado will not receive FEMA aid for last year\u2019s fires and flooding&nbsp;&nbsp;Colorado Public Radio",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Gov. Whitmer puts Michigan under energy emergency amid flooding - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ01HZGQtUWp3SXNGYXFJZVJjNGYwcFhqSWlXNGJQdmZPRkpoUm9BT0kwdzhvUHFnekUweFUtTFpxSEpXcnB0dDBRQXlfaHNOdGtwUG9Nc2JCWkwwMGs0a2xRQmNJc3REWjF0UWJlb2NVbVBXSmdreGZBelByUWpmZElSSjJFMGhkTndVNG0zdmxUZ0d1UURyVXZBdXI1UVIxV2Myc09xcXNwUndOaTRPalNSTGo1R05acTVOOUdPVHlwWkVVaDdobGdB?oc=5",
+      "published": "2026-04-15 03:41",
+      "summary": "Gov. Whitmer puts Michigan under energy emergency amid flooding&nbsp;&nbsp;The Detroit News",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Michigan flood watch: Officials hope to avoid severe Cheboygan flood; 6 other dams at risk - Bridge Michigan",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEx1cGZzbG02VXJuX1Z3emRVS0tOZWxCT2xmejhBWlRnbTkxNjVLY05FX1A3c3FHMWYtNmtuRGVvcmlxTHlOZ0xQUFhuTkxjWmhJdk93UW01LWgyNDI1VU13YkRoNFFTVm9DYy0wenhKdDVCRnVFNGtlNG1hY2NmeHplLXNRT1lFUmI4b19NM21BV1BsLXhaUjYwc0oya2pVTW5oTDVDS01NWWlu?oc=5",
+      "published": "2026-04-15 00:58",
+      "summary": "Michigan flood watch: Officials hope to avoid severe Cheboygan flood; 6 other dams at risk&nbsp;&nbsp;Bridge Michigan",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Rising Pigeon River leads to flooding in Clintonville, Marion - WLUK",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYXhxcGpMZm1zOTREMzBXUnluaDJBdGVQdHBudUQyNzlTTzJOMVducVcxa1h0Z3ZjN1RvamdfQUlGY3hCaHZ1NDdTSVU3WjhtTlpVUXYxbFRUSFBoQUNVTElvQ2FnLVJBQmlyd3ZHaG5SYnk4U2lSeEptRFBua2hQYnRmQmxaWkZmRzI4eGtUR2x2TG1wbDkwTmd1MGhvQ1loZGQzeDZtLWJMd3hDcW9FZnd6X1ViYk1fOXlRd1o4U005REJrVkZEeTZoUnpvUzVDaHY5RTVoNXlHamgzdDhQeQ?oc=5",
+      "published": "2026-04-15 01:23",
+      "summary": "Rising Pigeon River leads to flooding in Clintonville, Marion&nbsp;&nbsp;WLUK",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "See photos from flooding in Green Bay area after heavy storms - Green Bay Press-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQck1jRVBoejZHdWJ2OXh4VkRBUVR4cTFRdXI1enZfNElWNl9PMFhVdEk5NG1NQkozYzRYTzd5OHMzZUM1V0Q1al9jYTRDUm9IOGFXaTl5T29LZWptX1VZbUdZTVN1eVEtcEszZmlsTkI3b1FfbFliRVMyOVBXX0VaRi1acHp1S0ZwYUVMOTdkUVZ5aU1Fdzhfb2lPdGdfOW5iNTlIYUN5VVE1OUplNWhGbFd5alJQNVBvbW5RU1ZOT0VuTTRRWWdCekNhdThLVEdkLTl2WTBzbnZUSUVRQ3VNYUdnTQ?oc=5",
+      "published": "2026-04-14 21:57",
+      "summary": "See photos from flooding in Green Bay area after heavy storms&nbsp;&nbsp;Green Bay Press-Gazette",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Flood Watch issued as strong storms, heavy rain threaten SE Michigan through Thursday - ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDd0VEk3dmY2RDNUcWEwSFhiQnpRR3VtSWxxQml4VzVqSnFFUDZiYk5Cb29sb0N6NnJ3NFBMNjZPMmQ1d3Z1YVQ3ZVJ5OF84eFRXVEZtSlpYNFRmUS1BTE1KVzlVQlFWRjRvalBWZDN6VlZLNUd6TndjczFjZC1BUWVZeUFQSUlJUjllUDNUMFZFLWswTVVJbHREcHdBcTlwcEJhNnU1NTJabi1ueFk4VGxtbEhURkYyekhEZGYtM095Q05laU9Ha3ZZS2xQbDA3?oc=5",
+      "published": "2026-04-15 00:21",
+      "summary": "Flood Watch issued as strong storms, heavy rain threaten SE Michigan through Thursday&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "National Weather Service issues flood alerts following severe weather Tuesday evening, overnight Wednesday - WZZM13.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMWNXVW13NU9Gc1p6TEZWQ1NxUnM1MHFkMUhickxQN3dXbVYwc0pFQ0NVOW9ia2VkeE9obVdYSHhvNGNyU0JhVkJhRGtaX1FOdF9SMG5oMUlONFgzT0JJclVzVExkX2ZMbENwVWYySllNR1pVRFFlSmZrS3NLRWtBTnpXOGcwVVR2akl6SVc4aXNvcWxKTTVJczF4UUVWTmRQc0E0QWxJMDNqS1ltX0lrVDZoU3A1eFA4R2xGUEpBakUtWERKSUlLMFdMNDhXbXRnQUxZdy1xMHZfM1p0UGRGd3BXOUpNY2dzdDIzaDJuV3N5SkQ2aktsdHhKUTR0Vm1BTVZzMmtvcmxCbEpucGk4T1pYQQ?oc=5",
+      "published": "2026-04-15 01:45",
+      "summary": "National Weather Service issues flood alerts following severe weather Tuesday evening, overnight Wednesday&nbsp;&nbsp;WZZM13.com",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Record-setting flooding expected along Muskegon River - FOX 17 West Michigan News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2pwWFF0VmF5dDZfelBPeHQzLXhWUnRLRkNuZmxGdWVMcHBlTENJclBXYldKMHB6RGFQWFlHd3RMZDdudGNqak9Ld1RodGhUbEZwVVRkVXZJTGc5bENyZWRUeEZPRGx2UFJiX2JnSW9DeWVzWnQ2NVU4TUw4UDhpdnNyNEdKZTd2b2dzLWdTWjQ1M2F0WW16dDcxeG15bWpLM2syRENwNVluMC0yclhuZXpKNWQ?oc=5",
+      "published": "2026-04-15 07:47",
+      "summary": "Record-setting flooding expected along Muskegon River&nbsp;&nbsp;FOX 17 West Michigan News",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "HIGH"
+    },
+    {
+      "title": "Is a super El Ni\u00f1o imminent, and what could the impacts be? - New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlpSOXpDS2Y0VHJEMjBtbEFKSTZKN2FiR1ZFOFA1dXU1S2FjUjZvTl9fTTRCQzhhVzhSMWdpUGxVUXY4NnhiLTc5QTEtbGdnYTJ5RG90MWptRU9VWmw2QTBPMGY4NWFlMXJ5Q3ZjYVppV3BnaE1WOE1KTlFUWmlDLUhPb3JkVHZFYkhKVHJESFQ5Q1lBVU5SS1hRTTRtUFdTb2lLNEZB?oc=5",
+      "published": "2026-04-14 19:00",
+      "summary": "Is a super El Ni\u00f1o imminent, and what could the impacts be?&nbsp;&nbsp;New Scientist",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "How Climate Change Is Fueling Extreme Weather - Earthjustice",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUNDRENDdmNKaVV0RVUwVndfUlhSRTZaU0VlTGJuNGlqMzMxNFhiTktXX0N3WW5qSGE3QmZnY3psYTRwekktWTVtSmZtNVBFaHdhd2NpQzNWTzdqbEZ0NTZkVzJqdWItQkUwLUJTeGVzaE80T1BMQUh2OTZIS2p1aTJBMjI?oc=5",
+      "published": "2025-07-28 07:00",
+      "summary": "How Climate Change Is Fueling Extreme Weather&nbsp;&nbsp;Earthjustice",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Smarter forecasts may save thousands of lives as extreme heat rises - Earth.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1k5bkFOUkEtMlpvdzNtay1ySEdtOFB5TFFaMm1MMml2VEYyTTNha1NMbS1QUXZRX1BrN1VNT29tX0VjMy0tRHJZQ1hXMWc4UDloLVltMWZlRm9NSDVWZi11eXFXci1YcVNVbTZNNmpKa3VoeDU3bjJOWGRRR0JOU0NxNVIwMjA5aEU3bUo2ZnpOVUVIX2ZDTmNEaw?oc=5",
+      "published": "2026-04-14 13:40",
+      "summary": "Smarter forecasts may save thousands of lives as extreme heat rises&nbsp;&nbsp;Earth.com",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Are we heading for \u2018super El Ni\u00f1o\u2019 \u2013 and what could we expect? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10STVjWEdqREVEeUNmT3Q3U2I5azhab29hbHRuRmNpWVRVc2hiOFFqVDJtVENvZmZiMklpakZqZUtFZVFOMXhxbEZTV19rcTgyd1d0R2xfWTlRVkhjalBkMkJBTEluQ0FhVTRJUGpmel83TmhXYjJ6NQ?oc=5",
+      "published": "2026-04-13 11:00",
+      "summary": "Are we heading for \u2018super El Ni\u00f1o\u2019 \u2013 and what could we expect?&nbsp;&nbsp;The Guardian",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "As Climate Change Exacerbates Extreme Weather, Olive Oil Feels the Squeeze - Columbia University",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWt3N3ZCY1V3cUtwY1VyT2d6UUI5eGRZQV9FTXRWem9HZzFaRTRrY182bWxpVmktdVhmdlV5NVlwcUNYUXVLUlVFSXp4MHVQUXNxTVVpS2RSanA5bTZMNU1aUkthckI2VHUzOHhZeXR0ODBST2d1aDJKOEM2ZHE1WEdKZjQ3QzdDRUQxX2RLWmdNS3lJSVNhbEVzLUFzMHhRd3VReDdDRTN3NlVjbWxfOGtQRk1JVElmeFBZ?oc=5",
+      "published": "2026-03-24 07:00",
+      "summary": "As Climate Change Exacerbates Extreme Weather, Olive Oil Feels the Squeeze&nbsp;&nbsp;Columbia University",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "The West\u2019s heatwave \u2018virtually impossible without climate change\u2019 - High Country News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHlsdksyS25CZDlWU0k4Vk9iNVU5U0RKNzh5OXVDZ2tDSXBvSWxaV0YycFhkWkdmTTFFUXZCOXZHQ1NjQWRfNkpPcXhWenVCaXNjdHhzQ3lEaUUwcmZnbFRWSmd5WVRzLVlBdmRkbzFoMEY0dW96UXA4cHNPUW1jcVRESFJIR2hrQ01XTFRyUzB4SnphUTNB?oc=5",
+      "published": "2026-03-27 07:00",
+      "summary": "The West\u2019s heatwave \u2018virtually impossible without climate change\u2019&nbsp;&nbsp;High Country News",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Climate Change Is Fueling Extremes, Both Hot and Cold - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamd2d2NSdGtYSGhqNVdPS1hFMVd2X2JiNmFHZmhXNEdXYVhVem9pWVNoRWxBbmhUc0ZQbGZBbWliLUx3X09JeUVIbXRVbk1uRDZvdVR5bXlrQWNhU3ZzbmlKVndPMWtPVURzTXJVQjFIaDlxSUs3NWRnc3pIZnBZYVJqcWs?oc=5",
+      "published": "2026-01-29 08:00",
+      "summary": "Climate Change Is Fueling Extremes, Both Hot and Cold&nbsp;&nbsp;The New York Times",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Q&A: Friederike Otto assesses the role of climate change in extreme weather events - Physics Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0V1TUgyZHNpeUpsQXdKbExmT0lyemt1eU1RSkRBZlo1TmxLUV9xUHBBbW4yUmpSLWUwV29yUEpwQllrR0tKb2YxeE8xN2hLNXpCSS1SSHpjRFJwaVFzRE9KdE5mUmQ5Y2V6dGdMOG9iTkdkWEZmYWxyQS0taXB0aXBCdU5HbUNfVElSWHBZWXB1YnBlTnlDcXVrZzI4eXQwRE9PeGc1YVhQLW9wVnc1VlFGVlBIZw?oc=5",
+      "published": "2026-03-24 07:00",
+      "summary": "Q&amp;A: Friederike Otto assesses the role of climate change in extreme weather events&nbsp;&nbsp;Physics Today",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "How do we know the role of climate change in weather events? Attribution science. - Climate Central",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80Zk5vdHJiRWt6NXhKNE5QaVh0T2VPZUhDTnR5eExJdnhBTm9fZGRCc3pSUW9OcGhXYVpNaS1sb3JjOHM3Q25USmZrRjVLTDN2UTIxQTFSM1FOTWtmamRSYkRtSlFPdWplNk02MjNlX2gwdFNNSlkwRUZn?oc=5",
+      "published": "2025-12-03 08:00",
+      "summary": "How do we know the role of climate change in weather events? Attribution science.&nbsp;&nbsp;Climate Central",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "How climate change has powered the heat wave blanketing much of the U.S. - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGdwaWl0UmVSeWNUWVJhQkxNMXZ1Ny1DTF82djZqeHdJcUlybWpaREh1U1hIaThmLVh1SVBQR2hicFpBRjhyXzhPNWVIeEhkM3diOUpWb0I0cWZMaktIaWpiZl9OZWpCSG1VX3Aybm54eVgzVEptMHAxTjV3aFcwX3JDSkloeTBBWXpnSEJ1Zmg5YnN2Z1NIZ1hITFI2a1E3bU81V1JRM0o?oc=5",
+      "published": "2026-03-26 07:00",
+      "summary": "How climate change has powered the heat wave blanketing much of the U.S.&nbsp;&nbsp;PBS",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "2025 Third-Highest Year for Billion-Dollar Weather and Climate Disasters in US - Earth.Org",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGFqeXA1aUFmck9md1UzOXNUSjEyZjFQcHA1aGRmSmVURjVpQzBvM3JudlZ2aEhVZkNvWDlUZUdHdE9ZbXZoNmZ5TFluWG1jN0ZNOUx4RHNYaUpVY0hQU0RUay1BWGxxbWF0WjhHME1yQ2JpRVliRkhtT1lrUThQZW15b0l2SDhDRDVkWV9aNTRwUmNBb3hoOXJYYW9WUQ?oc=5",
+      "published": "2026-01-09 08:00",
+      "summary": "2025 Third-Highest Year for Billion-Dollar Weather and Climate Disasters in US&nbsp;&nbsp;Earth.Org",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Adapting for extreme weather in an environmentally responsible way - Environment America",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1Fmem9YR0FNSklSbHBYVkxpOHg4N3FXQ2FMeHd3alBFMG94T1BoRG1ONXZZUjhxcHhxdmFBWkFMV1c4V2xjQ2FJY2RaVDBmV3Y1aHhQZGpHY3F0VHVhN2dMMUJCY2dWV0NoNnZwTUJ3dlFwUGJUMXZ6aWxYQlc5ekVBRUN6RUZzNlNkSXI0dXhqd0p3amliUG5ialYtd0NZUkxkRzVibWNRa21mc0NNTFBGRTM?oc=5",
+      "published": "2026-02-06 08:00",
+      "summary": "Adapting for extreme weather in an environmentally responsible way&nbsp;&nbsp;Environment America",
+      "source": "\"climate change extreme weather\" - Google News",
+      "category": "climate",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Mmag - place",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/place",
+      "published": "time",
+      "summary": "Location: place, Depth: depthkm",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M5.68 - \"20 km ESE of Silver Springs",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"20 km ESE of Silver Springs",
+      "published": "2026-04-14T01:29:12.123Z",
+      "summary": "Location: \"20 km ESE of Silver Springs, Depth: 5km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M4.59 - \"1 km SE of Boulder Creek",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"1 km SE of Boulder Creek",
+      "published": "2026-04-02T08:41:25.520Z",
+      "summary": "Location: \"1 km SE of Boulder Creek, Depth: 10.43km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M7.4 - \"126 km WNW of Ternate",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"126 km WNW of Ternate",
+      "published": "2026-04-01T22:48:13.172Z",
+      "summary": "Location: \"126 km WNW of Ternate, Depth: 35km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "M7.3 - \"48 km ENE of Luganville",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/\"48 km ENE of Luganville",
+      "published": "2026-03-30T08:44:13.823Z",
+      "summary": "Location: \"48 km ENE of Luganville, Depth: 121.28km",
+      "source": "USGS",
+      "category": "disasters"
+    },
+    {
+      "title": "Firefighters gaining control over Picayune Strand State Forest fire - Naples Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXRzVTk3RmxyUzJFT1R2VEtJMjBZd2t6TjA1VktGQXR0ZG5JUGNQYkhWSkRKcm1hMXVlSHhQTWVGQVVIT181OVBlREFlUC1CVWJhUlNIRnV3elRBX0RrSmd4a3M2b291OTBSZW5fWVQ0UkFyaFZ1VzV5c3BtQ0Fza2xaNXRhekVlVFNuTmQ3d1gyLXBLQS1PZnpzdkRGRWYyb053Y0l2YnZGT19kUkF4WmdkY0pVdG53a2JXN3pZbGJiaE5MZzhfTXFxekU2R1RGbVdjRjJiS3RCcUFFUXdQNVJaWG4zVHU2eXVrZXlYSGp5Zw?oc=5",
+      "published": "2026-04-15 00:45",
+      "summary": "Firefighters gaining control over Picayune Strand State Forest fire&nbsp;&nbsp;Naples Daily News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "1,733-acre brush fire reported in Picayune Strand State Forest, 60% containment - WINK News",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbmIzNnFiM1NOMWtFU0dCQkE2N1p2Nll2a0lkdE5qeGt2R21DYVBDd3p5Njg4STJmT3FkdDBIcVYyRUtTa2ZRc0RLTzlMYkx2WU1qaHJlb0QxRnBzSHd6U3JkWVJJZTQxUGtidzBMMDhUZVhGRXVjTFQ5S2N6N0s2dUpnSGhnV1J5VWhrZ1Y0NmRNdHY3WTk4UnJ1LXE1Z2QzQVpHYmdiMmdidmZzVkNvWW4tTEhiMTQxeklrZV9BdFQxMXFJc0lfRjZGOGNLWENieFNlaXBkN3ZUbXkwZXphVzBSZkZsZmV1MTZjQzFZNnZka1BlMWFNYQ?oc=5",
+      "published": "2026-04-15 03:43",
+      "summary": "1,733-acre brush fire reported in Picayune Strand State Forest, 60% containment&nbsp;&nbsp;WINK News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Erratic winds, steep terrain pose challenge for fire crews fighting wildfire near Trinidad - The Colorado Sun",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX01WZjRLLWdPamVMQ01DMDJMbDNPYjhydzJ1M2xnbVNKdXg2WkNOUG9KLXB4Z0V3VXhrdE1LaTdpUEJlSHBxR285MnFjSVY5QjVqVG95VDhGM0diOGVWSGdUVG5ZdVNsQkllTUFWV3ZrWW1BSGktMV8yMDNXajRoaS1WTk51QVJCRm1RNDhUTHY?oc=5",
+      "published": "2026-04-14 16:46",
+      "summary": "Erratic winds, steep terrain pose challenge for fire crews fighting wildfire near Trinidad&nbsp;&nbsp;The Colorado Sun",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Firefighters tackling forest fire blazing hundreds of acres - WKYT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTTEtVFd3ajJ2RlhzV2RqZzFXdVU4eVNDUTd0Yk9oT2xJQ0ExTEJkdXl0UHliaFdYU0VTNzRZMmRrNGdya3FtU043VS1PV0lvVmlRc0JkU0o2OTdYaTBKZHhkbWpxbzVZcVFSbEh0U0Jhc29EeEdxRWJabXdmVE5fdXIxelowZDcwVWlpbDJTVHlFX2PSAacBQVVfeXFMTnRFTS1HN3NXSUlLODJyc05TeVFYS0ZYc3BVSkVLMlIyWlFoelZoR1JRd3dnVzkxRUxnSG5wZEFaT3BXOW9zMnAwZDREdTFGT2xhZDBVZVVUQ3hFTWw3dTJpdXFpTFpOdVFaUGh4VXBJblctM3RMbkd4NjVOeUVqemJVVkJJQUMtckRvQWFEb29RMy1VRFd4aXNkaWl3T0Nrb2Vib1FzMWs?oc=5",
+      "published": "2026-04-14 16:17",
+      "summary": "Firefighters tackling forest fire blazing hundreds of acres&nbsp;&nbsp;WKYT",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Putting fire on the ground - US Forest Service (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xM09PckhzOVdpWlU5Mm1mTWFubTY4anU0aUlQVUVMV3FBQlhBQ0ctUjN0bkJRa09Nc1A2dURJenlJRkJ6Y1pCc2xUbjZwR0N1NERVMTZvX1J5VnQ3V3I5cWdSMHdSY1VPT2N4cHJETURTSmc?oc=5",
+      "published": "2026-04-14 20:06",
+      "summary": "Putting fire on the ground&nbsp;&nbsp;US Forest Service (.gov)",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Maryland Forest Service Offers Safety Rules and Tips for Spring Wildfire Season - Maryland.gov",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm9XdTdWc2pfRGV1a1ctZjhvTnFISy0tdHVXYzR6cWNtOHZDbjh0UF94YTQ4eTMzbzZjQVpSVHN1ckNWTFRvbUtaSDRYRDJLVlBHaVZacVlzNlpkbWdoSnBPdDB6aE1hOFR2QnVjZVhnUUwyTDFaZkpNUkM3SlR0Y216U201T0xUMzAyQnVialJpNno0QjFzXzh1bjhYaVJWbnRLRi1yYkhPZ21XNGZMLV8xZmxMT0lWZDB3Skd3?oc=5",
+      "published": "2026-04-14 18:55",
+      "summary": "Maryland Forest Service Offers Safety Rules and Tips for Spring Wildfire Season&nbsp;&nbsp;Maryland.gov",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Crews working overnight to contain House Mountain fire - Knoxville News Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVk3MF81MnkxX0NfSWQzZE1KWXZfX3BGbkRUbzZVTC1qRkZDRHdpRU5wQWt5alFQUDJvX09pVEozUUJxUms3b19zU041c0wxNG9YTUlZeDNuOFVla20xZWZDcVFfSGpCaEZqREdIZWYxTmM2LXJScGcwWDZiVG9jTk5vNUxtR3doTG9ZZVMzNlJsNDlCLTNCZ0RKdS0wNmQ5SG8zUENJWHFlbWdza1NVZWFkbTdIUTBaamo0dlBhSUVHdw?oc=5",
+      "published": "2026-04-15 01:55",
+      "summary": "Crews working overnight to contain House Mountain fire&nbsp;&nbsp;Knoxville News Sentinel",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Seeing and smelling smoke in the Wilmington area? Here's why. - Wilmington Star-News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0p5TThHQzdzamNCUUlhNzJrbjN3STgzSkh0OGZoX1JOeFVqcVRRNzRfdW0tVlVfSWdLTmFnSDNvZ0RiamNQNGxqYktuY0M0VW16VWRFV09UTFZjQWYxdlZlemZJNTNrd2VsZUVEY0FhSmFOQ0hDZjlYZzNnUk9PMTdLNko1eWtxdk81RTVTSzM4N0U2SjJEanRhUkdLTkNDMFZYQk91Z1k4aVNDbWNNWm5hQzFDeUpTN0JvTkhRTllHbEdXZENHQjV6MA?oc=5",
+      "published": "2026-04-14 17:53",
+      "summary": "Seeing and smelling smoke in the Wilmington area? Here's why.&nbsp;&nbsp;Wilmington Star-News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "See the smoke? It could be a prescribed forest fire - The Daniel Island News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3VLaDZ1enk2RHNLMVl2MzgwYk5BeWRnSlFIRjdNMF9SZlZMNWJGNU1rUXF0ZTkxNlYxOFV1NUN6RUFwYTVKZmtqQ2hHNExXVWw3MXJuT1BmU2l5elNKdU5aUk1tNDVLV192T2dZWGc2Q0RxcUFON2RaM0pTVnVCYTJSTlB4b3o4?oc=5",
+      "published": "2026-04-15 02:15",
+      "summary": "See the smoke? It could be a prescribed forest fire&nbsp;&nbsp;The Daniel Island News",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "The Fire Forecast: AI Model Accurately Predicts the Spread of Wildfires in Real Time - USC Viterbi School of Engineering",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVNSR3puejg1bUNGd3RubWRuNXhmQ1J1S0w3czJ0b3Uzb2o0Wnk4V2NLM29rczQtN2JWRjRMdTk2ZWZraG5pcmg3eFNMOUpsaWQ2eXpuOVp3cHpiMVpyMjNCRFB6WDY3eUQyWW1RZWZSY1c5SjMzRTdfbE45U044YW4tU054VTdPb2JvUEcySFhSMnEtSkx6MHJjY29JeE5oS3cxYWVZcll5VTRab1pjbjhrWVprUjM5WUtjVkE4WnliOEN3S0E?oc=5",
+      "published": "2026-04-15 01:09",
+      "summary": "The Fire Forecast: AI Model Accurately Predicts the Spread of Wildfires in Real Time&nbsp;&nbsp;USC Viterbi School of Engineering",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Wildfires already active in Florida and US put focus on managed burns - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXg1bG45OUJDZzh1Rk5obGwwZzlvZ3JXVkpBUHZQT2NzbnhXV3FBOEhMLW5ZOG1GbE1mdnpKUVRmY0lmRjNhYXVnU2RVbnZiTGlzZGVtYjN4QjlINjdmand3bHBOV0hWNGNUNnZqU1hISU12S3VZbmFYVTN6SXRYbVEzNnZWUHlhODlhLVJma0owSWJ5Z0RwetIBsgFBVV95cUxPVlgzRGtxM25fOTR3MU9nb0FRLWk4a0dMcDdtZVRwWjVheTlmZ3d6VktQRV9kNW1waDhIbEpqS0NoSFRWUmd1UlY0NVg0aEF6UzFua2hOeHREWHZrV3k5LWNzTGFxNU0tT1JmZWZEdy1aVkx2TEstbWFlM3YyR0hZNEh4bVlDVXVLb2hBcmgxWkJ6NklLem9aYzdQVWI0UElBZklncFVVVm9ONzREWS1Vb0NR?oc=5",
+      "published": "2026-04-15 09:00",
+      "summary": "Wildfires already active in Florida and US put focus on managed burns&nbsp;&nbsp;The Christian Science Monitor",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "People urged to follow burn restrictions with conditions ripe for forest fires - WSAZ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXdPQkM3WHozcHJscTdUcFdZSGIzdkVXWlh2b21qMW5YUTgtMDN3SWlYQl9OUHRxYzVuZXdldkc2cTBLd0JnMldOTlNNQlBuRHJVYTRhMEpmNUVYdFQweGRWZi1HeWNZcUN5bXBTWFh6LXFiTjVkTkF4bDhFTGZTdF96cVhDWTRXMHZUQWJyU1V1ZWhJb01XSHBpZHZBbHNvQlA3d2R2WdIBuwFBVV95cUxON0ZQN0lwaEZ1QTlEU0NSUXJpX3pUekNmZnBmM3d4X2xONk9CbWFwRV9xY0ltMXZuV1F1RjhCZWZpcndUdEZJX3p0ZzMtOXUyelliMnQwaXhTWVpLLVZ1THZ0NVJYdnZ5bmxZUFMyVjV2VzFudUhHY1N5RE5meFdzSnRyZDJrNTdiZUpWSHhveHZkSXVleEpHaGpmQzlvNXFTZFNKRXNYVHgtRUJhV1AtX014MHlJY1RvSUg4?oc=5",
+      "published": "2026-04-14 22:09",
+      "summary": "People urged to follow burn restrictions with conditions ripe for forest fires&nbsp;&nbsp;WSAZ",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Firefighters battle wildfire in northern Alachua County, homes nearby - WCJB",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjlvTXd5Zl9NMzdqUjVxdXVxMU1sLWlVWVNIaURfSDI4N3RmSjBDWlR2M09Dcm1iajFGQXh1U0ljbTR0c3ZkbHRiM19GSkpSZzV3bDhZVkJNVjFxaHl5T0VsZkt0NnV6ZU5OZnZtVjF6ck5MUEVvelNhM3FncDhqQnFzYW01aUdIS0x4cWYwbWo1UVdUVFVhSEZtRzR5Q2s?oc=5",
+      "published": "2026-04-14 18:18",
+      "summary": "Firefighters battle wildfire in northern Alachua County, homes nearby&nbsp;&nbsp;WCJB",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Residents describe frightening 24 hours as Marion County wildfire expands - WMBF",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXFqU0RKZVhmN1B3SUU0RWJfMUNPcTgxbE10MG03NmhVZkRBR3EyMHNfWWhMZjVid0JLbzNqX3N4VkhFTXNsd0JKNlE5MmtrQU85UnhXcXMzQ2ltZDNMNWlOWmZ3bUcyUE85em9tMmkwWnRCUlIzeW5iNVZtd2ZqUEVsWWg?oc=5",
+      "published": "2026-04-14 18:43",
+      "summary": "Residents describe frightening 24 hours as Marion County wildfire expands&nbsp;&nbsp;WMBF",
+      "source": "\"(wildfire OR bushfire OR forest fire)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean - NPR",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2Q29mbkxKMC1yU19jS3BLT0taRTVGYTlnYzQ1VHYzX0lQZWsxYTI5T3ZDODB6N0JMUzMtaGNpWGQtc1pSUGRTMlpIRGc1LWR5REpzNUNnRjcybHVZMERURGJ6VnhkM3dHXzZJUTdRTXhwdw?oc=5",
+      "published": "2026-04-15 07:43",
+      "summary": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean&nbsp;&nbsp;NPR",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku Slams Saipan, Causing Widespread Damage - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnVSd2RLeWJFNFJaNnpKdkhyNGRVa2xMSWJQT2FJa3piRmxvSTZrMTF0M2xldElQWDc2Rk1lemtTcUhWcWZkOTVSaTV0XzhjSFdRSVpvNW9OX3gxYlhqMWJqUTBjYWtZM0JtUEFfT2h3OHAzVmpjeVU0dWdoT2ZKdTNMVmZCVW8?oc=5",
+      "published": "2026-04-15 06:56",
+      "summary": "Super Typhoon Sinlaku Slams Saipan, Causing Widespread Damage&nbsp;&nbsp;The New York Times",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku hit the Mariana Islands in the Pacific Ocean - Copernicus EU",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWNENm9jeEZzX0hONDhtZkVlNUpCS3h2VUE3T2VsNmZLVm5DZ3BFOE55VWVXcnF0NEYwT1NERUhvb3NYTzE1QURUUXpFSUUyd0c0MVpxRV90R2lwS1V0N1llb2J0T0xtb3djWVM0RThxTGFmZGlOMVJyVXA0TjZxYndKWjBZWEdfZld2LWZTaGNtYVZWYm5JT1c0NENzTm9lbzF4ZFpiYkNSWDU4?oc=5",
+      "published": "2026-04-15 07:20",
+      "summary": "Super Typhoon Sinlaku hit the Mariana Islands in the Pacific Ocean&nbsp;&nbsp;Copernicus EU",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean with ferocious winds - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGdaaTVCOTVHUXZDQ3NXaG1JQTlOYjhRVU4xNnhhVDNmTXg0eVFDd1NqNmdGN3BiWEhjd3g5cDNKTGpZT2F1VzJZQkkyTElNTnlMMzV1RzMxbUR1NGFqS1h6SUZtMHdOS041aW9hM2lhQWZEa1NzOU1QdnhZaVZ4WXZuV3V0N2lEZ3Z5SEhyX0xyRWd1SWxrMDBBTkdJakhpc3JqYXlpVzVxbkRicnd0YTNOT0psVExDSUJLZ1ZaUlhpa2s?oc=5",
+      "published": "2026-04-14 20:44",
+      "summary": "Super Typhoon Sinlaku pounds remote U.S. islands in the Pacific Ocean with ferocious winds&nbsp;&nbsp;PBS",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Category 4 Typhoon Sinlaku powers through the U.S. Northern Mariana Islands - Yale Climate Connections",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1J2TWRLQ3YwQ25udUdCVXJiR3NQUFMyb2hPaGwwOXY2MmwzRlRsRDNqWEprWVVWUWxBMUhMaUZDdDNfMWV3cTBuU2RNUHMxV1pWRUptT3M2WFRxTGw0cXljY08zczloQ3dPTHZJN3NrYWQ3S2JKQXVSM2lENWtnVlJBakcxVVlZYnc5SGlhNHEwOVdibXNwYXBNSmJ1ejJ0MEpjbTJJZnlkT1M5cUphUjU3RVgzSXd3b2c?oc=5",
+      "published": "2026-04-14 16:55",
+      "summary": "Category 4 Typhoon Sinlaku powers through the U.S. Northern Mariana Islands&nbsp;&nbsp;Yale Climate Connections",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku Hammers US Northern Marianas, Guam - The Weather Channel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHVmZ3YxbTdxeTNVcFV4UWZ2Z3lqYVhJMGFHVk5iby1pcU5KYWRDWWJzc0NCdDhYYzI3UHdsa1dNSmROUzY2N0psUUhOVWhkczlDeklTN255NGtmYTJMOVYwNGZaU3B5dkUwaVdIVUs5ZkdNODRRWjZYZndxbjZFY05WZXpwWlRPQUdxay1WSFllMFlpNDA2STc2Nms4Q0FlRGpHbXc2TnZXcmtGMkY0?oc=5",
+      "published": "2026-04-14 21:01",
+      "summary": "Super Typhoon Sinlaku Hammers US Northern Marianas, Guam&nbsp;&nbsp;The Weather Channel",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Why a storm nearing landfall in the Western Pacific may be a sign of what\u2019s to come - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZU5LQ3hMaVpPcFF6ZzZqeXkwSXBNOWVoYkl5Ri1KMEplVFVhMzBTNktxZ2lSVlFhZjVubjJtVzRYOW9KMUF0T2hBTm1JbFUyR1l5S2ZSeTFhRXJPLWQyUWk1eXYxWFBEaEw5ZkZFeVRSSWp0MmVyTFdmOU11MVNQbHM4Qk5MYmh0bjBINVk5ckI?oc=5",
+      "published": "2026-04-14 18:50",
+      "summary": "Why a storm nearing landfall in the Western Pacific may be a sign of what\u2019s to come&nbsp;&nbsp;The Washington Post",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    },
+    {
+      "title": "Super Typhoon Sinlaku, strongest this year, wallops Northern Mariana Islands - AccuWeather",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdzBzbThKYWFsdTBHdjFDUms0SzdBQkJoZ0xGVkpwTVZpZVpBX3k4QmstOWQ0TkFwUG9JSThCZ3BBN0VFV050VmhFQi1EQXJpZkxNMVZ0OWtCV3VicEgzcWQwUGxsSjA2YUd5YzdOSVAweUlqcmhZeWQ0WGFXZnhncTJ2ZFVFZXd1VVgtTG1wblNSVDkzT3ZGUk1OTndGTGdzUXZxTU9tTmtNQ0lGOVhNdThaenl1djNzQTVQRXlVNmk?oc=5",
+      "published": "2026-04-14 12:26",
+      "summary": "Super Typhoon Sinlaku, strongest this year, wallops Northern Mariana Islands&nbsp;&nbsp;AccuWeather",
+      "source": "\"(flood OR flooding OR hurricane OR typhoon)\" - Google News",
+      "category": "disasters",
+      "alert_level": "LOW"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Climate News",
+      "count": 15
+    },
+    {
+      "name": "ReliefWeb",
+      "count": 0
+    },
+    {
+      "name": "USGS Earthquakes",
+      "count": 9
+    },
+    {
+      "name": "WHO",
+      "count": 0
+    },
+    {
+      "name": "Wildfire News",
+      "count": 15
+    },
+    {
+      "name": "Flood News",
+      "count": 15
+    },
+    {
+      "name": "Drought News",
+      "count": 15
+    }
+  ]
+}

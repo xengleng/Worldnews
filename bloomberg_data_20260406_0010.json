@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-06T00:10:51.320583",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "PSV take title in Netherlands as Feyenoord fail to win",
+      "link": "https://www.channelnewsasia.com/sport/psv-take-title-in-netherlands-feyenoord-fail-win-6037676",
+      "published": "Sun, 05 Apr 2026 22:45:58 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "b0fd6d958b377dc8259009067a82a6be",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel renews strikes on Lebanon, forces Syria border crossing to close",
+      "link": "https://www.channelnewsasia.com/world/israel-strike-lebanon-syria-border-crossing-close-6037636",
+      "published": "Sun, 05 Apr 2026 21:40:00 +0800",
+      "summary": "Israel has launched attacks against Lebanon since Mar 2 when armed group Hezbollah entered the Middle East war on the side of its backer Iran.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "db02597375c69b3ea39956321234752a",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Schouten to miss World Cup after surgery on cruciate ligament injury",
+      "link": "https://www.channelnewsasia.com/sport/schouten-miss-world-cup-after-surgery-cruciate-ligament-injury-6037631",
+      "published": "Sun, 05 Apr 2026 21:18:05 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ca160ecefea4484e9df7ea898454a129",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Bangladesh says suspected measles outbreak kills about 100 children",
+      "link": "https://www.channelnewsasia.com/asia/bangladesh-measles-outbreak-suspected-deaths-6037621",
+      "published": "Sun, 05 Apr 2026 21:05:00 +0800",
+      "summary": "Measles is one of the world's most contagious diseases and is transmitted when a person coughs or sneezes.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "71e64cb79179b29fb5f516ace2103cac",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "TechCrunch Mobility: \u2018A stunning lack of transparency\u2019",
+      "link": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "published": "Sun, 05 Apr 2026 16:05:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation. T",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "51fd34f1264b2252d862ae0751497423",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Zohran Mamdani and the business exodus? New York's office real estate market is up under new mayor",
+      "link": "https://www.cnbc.com/2026/04/05/mayor-zohran-mamdani-new-york-office-real-estate-market.html",
+      "published": "Sun, 05 Apr 2026 15:53:59 GMT",
+      "summary": "Reports Apollo Global Management is planning a second HQ in the US South renewed debate over a business exodus under NYC Mayor Mamdani. Data doesn't support it.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "098db2efcb205dee9dd618b6ba95f7b1",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Earth in rear-view of Artemis II astronauts",
+      "link": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:46:10 +0000",
+      "summary": "Crew nears moon on historic flyby and sends back striking images of Earth.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "d3e4d2d8eed06e5440d6c7b0b0619776",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Microsoft terms say Copilot is for entertainment purposes only, not serious use",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice",
+      "published": "Sun, 05 Apr 2026 15:45:27 +0000",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-...",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "460837b204929184c8fe8f119c20282b",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "How downed F-15 US airman was rescued inside Iran",
+      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 15:45:20 GMT",
+      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "508c989f075b8b7af26559969b426496",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "Israel\u2019s Ben-Gvir details plans for Palestinian \u2018death row\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:41:18 +0000",
+      "summary": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a \u201cdeath row\u201d for Palestinians.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "d27c42d2d3497eddf65eb45e3018480a",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "published": "Sun, 05 Apr 2026 15:40:58 +0000",
+      "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "27fa292437a9cb85efb4c668ac3d33f8",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Trump threatens \u2018hell\u2019 for Iran over Hormuz Strait as deadline approaches",
+      "link": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:32:02 +0000",
+      "summary": "US president threatens to strike power plants and bridges on Tuesday in an expletive-laden social media post.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "5e06ea3a40a9bc744c2ff8d606d2ffbd",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "StackOverflow: Retiring the Beta Site",
+      "link": "https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site",
+      "published": "Sun, 05 Apr 2026 15:27:17 +0000",
+      "summary": "Article URL: https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site\nComments URL: https://news.ycombinator.com/item?id=47650401\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "58d765febab667e3ef3548eb59d006f6",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:21:39 +0000",
+      "summary": "US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is \u2018highly aggressive\u2019.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "f4860042074eccfa13d1fb3a717c14d2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "DR Congo to receive \u2018third-country\u2019 deportees from the US under new deal",
+      "link": "https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:20:03 +0000",
+      "summary": "DRC gov&#039;t says deportees will begin to arrive this month, under a &#039;temporary&#039; arrangment paid for by the US.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "0d2801cf62389749d39fd6625087b9a6",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 3,
+    "medium": 1,
+    "low": 9
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 6,
+    "POLITICS": 8,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

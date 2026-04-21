@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-07T14:00:41.587093",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Malaysia border laws to apply in designated areas of Singapore\u2019s RTS Link station under proposed law",
+      "link": "https://www.channelnewsasia.com/singapore/malaysia-rts-link-johor-bahru-border-law-mha-6038771",
+      "published": "Tue, 07 Apr 2026 13:34:49 +0800",
+      "summary": "Malaysian preclearance officers will have certain protections and immunities when performing official duties in Singapore, under a proposed law facilitating operations on the new Johor Bahru-Singapore...",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "2f8388500cc6ca4cc94bf930f1b35d7e",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "LEGISLATION",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "FAQ: What can I do with my Singtel special discounted shares?",
+      "link": "https://www.channelnewsasia.com/singapore/singtel-sds-withdraw-cpf-cdp-account-6039466",
+      "published": "Tue, 07 Apr 2026 13:33:15 +0800",
+      "summary": "Here\u2019s what you need to know about the transfer of Singtel special discounted shares to the holders' own CDP accounts.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "e97a23d206f83877dcc191aa414e1a7f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Singtel special discounted shares to be transferred to holders' CDP accounts; CPF withdrawal conditions to be waived",
+      "link": "https://www.channelnewsasia.com/singapore/withdraw-cpf-singtel-special-discounted-shares-cdp-account-6039446",
+      "published": "Tue, 07 Apr 2026 13:32:58 +0800",
+      "summary": "The special discounted shares were issued in 1993 when Singtel was first listed on the Singapore mainboard in a scheme to encourage share ownership among Singaporeans.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "78d156eeff2f884c75b12e523388cb50",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "BOJ to raise rates by July on mounting price pressure, ex-board member says",
+      "link": "https://www.channelnewsasia.com/business/boj-raise-rates-july-mounting-price-pressure-ex-board-member-says-6040481",
+      "published": "Tue, 07 Apr 2026 13:29:53 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "ac1e664c6c4fa0f5666bbe4eb0fb2e9f",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Singapore to prepare 10,000 students for future shaped by autonomous \u2018physical AI\u2019",
+      "link": "https://www.channelnewsasia.com/singapore/10000-students-training-autonomous-physical-artificial-intelligence-6040186",
+      "published": "Tue, 07 Apr 2026 13:16:06 +0800",
+      "summary": "As robots move beyond pre-set rules towards \u201ccommon sense\u201d, a new industry-led initiative aims to equip students with the skills needed to manage autonomous machines in the real world.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "20d1264024270e863cff2dcb0a4eaeca",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges",
+      "link": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+      "published": "Tue, 07 Apr 2026 05:44:48 GMT",
+      "summary": "Crude prices extended gains after Trump repeated the Tuesday deadline for escalating attacks on Iran's power plants and bridges.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "a0df9a37827d2e72ef8f37e3e2a8de41",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "published": "Tue, 07 Apr 2026 05:30:00 +0000",
+      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "c1f743a397627e22905d185f2d68aa2e",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "China is winning one AI race, the US another - but either might pull ahead",
+      "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:13:12 GMT",
+      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "adb72688f11de5148f944834919c6e74",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "People Love to Work Hard",
+      "link": "https://www.anildash.com/2026/04/06/people-love-to-work-hard/",
+      "published": "Tue, 07 Apr 2026 04:58:29 +0000",
+      "summary": "Article URL: https://www.anildash.com/2026/04/06/people-love-to-work-hard/\nComments URL: https://news.ycombinator.com/item?id=47670929\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "279c592b5586f40f9d0ee2942a7e0575",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump\u2019s threat to strike Iran\u2019s power plants looms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 04:33:45 +0000",
+      "summary": "US President Donald Trump said \u2018Tuesday will be power plant day\u2019 in a vulgar post on social media.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "6e0c992b1134b524976038f42654775b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 3,
+      "alert_info": {
+        "name": "HIGH",
+        "color": "\ud83d\udfe0",
+        "description": "Significant event, consider action"
+      }
+    },
+    {
+      "title": "\u2018Why would Iran agree to a ceasefire given US and Israeli track record?\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 04:11:17 +0000",
+      "summary": "Political analyst Trita Parsi says no one should be surprised that Iran has rejected the idea of a US ceasefire deal.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "602f1b0c94996f4978fa2bd8eeb2a688",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "AI design platform Picsart launches a creator monetization program",
+      "link": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+      "published": "Tue, 07 Apr 2026 04:01:00 +0000",
+      "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "cabccc694013cd805c54d2fde854c96d",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
+      "link": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
+      "published": "Tue, 07 Apr 2026 03:58:28 GMT",
+      "summary": "Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "d9d0e7184f8a400d1be5006032938771",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Artemis II astronauts break record for farthest human travel from Earth",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 02:29:09 +0000",
+      "summary": "Four astronauts from NASA\u2019s Artemis II mission have broken the record for the farthest human travel from Earth.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "e1ab36885823036407e5c08ec1c5f334",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "\u2018They want to create a rift\u2019: Israeli attacks deepen Lebanon fissures",
+      "link": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
+      "published": "Tue, 07 Apr 2026 02:03:34 +0000",
+      "summary": "Lebanon grows increasingly divided as escalating Israeli bombardment and ground invasion worsen displacement crisis.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "1d239b5c4ca8e8759c15157c53689b7c",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 1,
+    "medium": 0,
+    "low": 11
+  },
+  "category_summary": {
+    "MARKETS": 0,
+    "ECONOMY": 0,
+    "TECH": 8,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

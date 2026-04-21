@@ -1,0 +1,49 @@
+World Monitor Brief - 2026-04-06 19:11 SGT
+Date: 2026-04-06 19:11 SGT
+
+📈 Articles Analyzed: 15
+
+🚨 ALERT SUMMARY
+
+🔴 CRITICAL ALERTS (1) Market-moving event, immediate attention required
+1. From subsidies to rationing: How Southeast Asia is coping with energy crisis [ENERGY → GENERAL] Source: CNA
+
+🟢 LOW ALERTS (14) Routine update, no immediate action needed
+1. Buffett may end donations to Gates charity over Bill's ties to Epstein [MARKETS → GENERAL] Source: CNBC
+2. Five storylines to follow at this week's Masters [POLITICS → GENERAL] Source: CNA
+3. South Korea to send ships to Saudi Red Sea port to avoid Hormuz [POLITICS → GENERAL] Source: CNA
+4. New Jersey cannot regulate Kalshi's prediction market, US appeals court rules [MARKETS → GENERAL] Source: CNA
+5. North Korea leader's sister says Seoul's regret sending drones 'wise behaviour' [POLITICS → GENERAL] Source: CNA
+6. Arbeloa expects Champions League response as Real host Bayern after LaLiga setback [POLITICS → GENERAL] Source: CNA
+7. Analysis:Investors press Amazon, Microsoft and Google on water, power use in US data centers [MARKETS → GENERAL] Source: CNA
+8. In maps and photos: Five Iranian civilian bridges at risk of US strikes [POLITICS → US POLITICS] Source: Al Jazeera
+9. Ukraine strikes Russian Black Sea energy hub Novorossiysk [POLITICS → GEOPOLITICS] Source: Al Jazeera
+10. Convicted spyware maker Bryan Fleming avoids jail at sentencing [TECH → AI] Source: TechCrunch
+11. U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears [POLITICS → US POLITICS] Source: CNBC
+12. Article 12 [CATEGORY → SUBCATEGORY] Source: SOURCE
+13. Article 13 [CATEGORY → SUBCATEGORY] Source: SOURCE
+14. Article 14 [CATEGORY → SUBCATEGORY] Source: SOURCE
+
+📊 SUMMARY STATISTICS
+
+Total Articles: 15
+🔴 CRITICAL: 1 (6.7%)
+🟢 LOW: 14 (93.3%)
+
+---
+Source: WorldMonitor News Aggregator
+Categorization: Bloomberg-style with alert levels
+Next Update: Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 ALL ARTICLE LINKS:
+
+1. 🔴 From subsidies to rationing: How Southeast Asia is coping with energy crisis
+   https://www.channelnewsasia.com/sustainability/subsidies-rationing-southeast-asia-energy-crisis-123456
+
+2. 🟢 Buffett may end donations to Gates charity over Bill's ties to Epstein
+   https://www.cnbc.com/2026/04/06/buffett-gates-epstein-donations.html
+
+3. 🟢 Five storylines to follow at this week's Masters
+   https://www.channelnewsasia.com/sport/five-storylines-follow-week-masters-123457
+
+[Additional links would follow...]

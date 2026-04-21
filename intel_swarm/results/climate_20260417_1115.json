@@ -1,0 +1,24 @@
+{
+  "report_type": "CLIMATE_INTEL",
+  "domain": "climate",
+  "report_ts": "20260417_1115",
+  "executive_summary": "A 400-acre wildfire near Gainesville Airport in Alachua County, Florida has prompted road closures, with firefighters actively battling the blaze. This represents the most significant climate-related disaster event in today's news cycle.",
+  "key_insights": [
+    {
+      "insight": "400-acre wildfire burns near Gainesville airport; SR 26 closed",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "LOW",
+      "source": "Gainesville Sun",
+      "url": "N/A"
+    },
+    {
+      "insight": "Firefighters battle wildfire off State Road 26 in Alachua County",
+      "location": "Alachua County, Florida, USA",
+      "alert_level": "LOW",
+      "source": "Mainstreet Daily News Gainesville",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "No active tropical storms, hurricanes, floods, or significant climate policy announcements detected in current news cycle. Wildfire activity in Florida is underreported given the property and infrastructure risks.",
+  "url": "N/A"
+}

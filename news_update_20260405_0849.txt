@@ -1,0 +1,38 @@
+📰 **WORLDMONITOR NEWS UPDATE**
+Time: 2026-04-05 08:49 SGT
+Articles: 6 new items
+
+**TECH**
+1. AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy
+   Source: Hacker News
+   <p>Article URL: <a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop">https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</a></p>
+<p>Comments URL: <a href="https://news.ycombin...
+   Link: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+
+2. Sens Ask Gabbard to Tell Americans That VPN Use Subjects Them to Surveillance
+   Source: Hacker News
+   <p>Article URL: <a href="https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/">https://www.techdirt.com/2026/04/03...
+   Link: https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/
+
+3. Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown
+   Source: Hacker News
+   <p>The latest 3Blue1Brown video [1] about the M. C. Escher print gallery effect inspired me to re-implement the effect as WebGL fragment shader on my own.<p>[1]: <a href="https://www.youtube.com/watch...
+   Link: https://static.laszlokorte.de/escher/
+
+**FINANCE**
+1. The 13% Yield Trap? Why MORT’s Dividend Hike Is Masking a NAV Slide
+   Source: Yahoo Finance
+   Link: https://finance.yahoo.com/markets/stocks/articles/13-yield-trap-why-mort-182244187.html
+
+2. Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports
+   Source: Yahoo Finance
+   Link: https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543454.html
+
+**ASIA**
+1. Toyota's Made in Japan plan might need foreign laborers to make 1 of 4 cars
+   Source: Nikkei Asia
+   Link: https://asia.nikkei.com/business/automobiles/toyota-s-made-in-japan-plan-might-need-foreign-laborers-to-make-1-of-4-cars
+
+---
+Updates every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+Based on WorldMonitor feed selection

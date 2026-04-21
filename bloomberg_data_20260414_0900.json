@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-14T09:00:44.206432",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "Britney Spears enters rehab weeks after her arrest on suspicion of DUI",
+      "link": "https://www.channelnewsasia.com/entertainment/britney-spears-rehab-dui-arrest-6052936",
+      "published": "Tue, 14 Apr 2026 08:17:00 +0800",
+      "summary": "The pop star faced DUI suspicion after erratic driving reports. She entered rehab shortly after her release from jail.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "45331a924930943867f38726d2ab6fe3",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "MAS tightens monetary policy, raises inflation forecast for 2026",
+      "link": "https://www.channelnewsasia.com/singapore/mas-monetary-policy-exchange-rate-inflation-forecast-6053166",
+      "published": "Tue, 14 Apr 2026 08:11:22 +0800",
+      "summary": "The forecast for core and headline inflation was raised to 1.5 to 2.5 per cent, from 1 to 2 per cent previously.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "52792fdab1529f617bb253a8271ef49e",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Singapore's economy grew 4.6% in Q1, down from 5.7% in previous quarter: Advance estimates",
+      "link": "https://www.channelnewsasia.com/singapore/gdp-growth-q1-2026-advance-estimates-mti-6054626",
+      "published": "Tue, 14 Apr 2026 08:00:00 +0800",
+      "summary": "The Middle East conflict may weigh on economic activity in the coming quarters, says the Ministry of Trade and Industry.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "df5ffd244ec870a57eb910356ad7ce49",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "The rise of skin-first beauty: Why skincare-infused foundations are taking over",
+      "link": "https://www.channelnewsasia.com/style-beauty/skincare-infused-foundation-6040426",
+      "published": "Tue, 14 Apr 2026 07:25:00 +0800",
+      "summary": "Better skin can now come from your foundation.&nbsp;",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "5dc1e225974722716bb6ae45d276b18d",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Not snoring but you could still be at risk: What to know about \u2018silent sleep apnoea'",
+      "link": "https://www.channelnewsasia.com/wellness/silent-sleep-apnoea-no-snoring-health-issues-6043261",
+      "published": "Tue, 14 Apr 2026 07:21:00 +0800",
+      "summary": "Doctors say that the quiet version is worse. Find out why and just how accurate is your Apple or Samsung watch at monitoring sleep apnoea.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "8bb6b89ef71b5ca0adb28ad96660eafc",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "An Amazon warehouse worker died on the job at Oregon facility",
+      "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+      "published": "Tue, 14 Apr 2026 00:26:18 +0000",
+      "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "8112524c4f6aeb0b7613abaeb50d3b80",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Lean proved this program correct; then I found a bug",
+      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "published": "Tue, 14 Apr 2026 00:25:08 +0000",
+      "summary": "Article URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html\nComments URL: https://news.ycombinator.com/item?id=47759709\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "27fec302aa50272d626f81b1398794df",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "source": "TechCrunch",
+      "original_category": "tech",
+      "id": "08eb92720b17895a2a7619ed41ba639c",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Trump deletes Truth Social image depicting him as Jesus: 'It was me as a doctor'",
+      "link": "https://www.cnbc.com/2026/04/13/trump-jesus-truth-social-pope-leo.html",
+      "published": "Tue, 14 Apr 2026 00:21:50 GMT",
+      "summary": "President Donald Trump in May 2025 posted an apparent AI image depicting himself as a Catholic pope after the death of Pope Francis.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "4203c41b8a68b8f3646275457a721bfd",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Asia markets open higher amid hopes of a U.S.-Iran deal; China trade data in focus",
+      "link": "https://www.cnbc.com/2026/04/14/asia-markets-today-us-iran-china-trade-data-nikkei225-hang-seng-oil.html",
+      "published": "Tue, 14 Apr 2026 00:09:52 GMT",
+      "summary": "Asia-Pacific markets open higher Tuesday, amid positive investor sentiment that a deal between the U.S. and Iran is still possible",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "64d6e703bb10b18b25b2ac858f00aa45",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 2,
+      "alert_info": {
+        "name": "MEDIUM",
+        "color": "\ud83d\udfe1",
+        "description": "Notable development, monitor closely"
+      }
+    },
+    {
+      "title": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
+      "published": "Tue, 14 Apr 2026 00:00:00 +0000",
+      "summary": "Iran accuses US of committing piracy as thousands rally in Tehran against the blockade in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "e6d1034e0b02010bdf8870ea286ef51f",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "Vance says 'the ball is in Iran's court' to move peace talks further, as U.S. blockade takes effect",
+      "link": "https://www.cnbc.com/2026/04/13/trump-vance-iran-hormuz-strait-blockade.html",
+      "published": "Mon, 13 Apr 2026 23:46:34 GMT",
+      "summary": "The U.S. team of Vance and special envoys Steve Witkoff and Jared Kushner made progress with Iran during the Islamabad talks, the vice president said.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "8210a508076b7f494cca0c2d019999da",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Why it's impossible to measure England's coastline",
+      "link": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+      "published": "Mon, 13 Apr 2026 23:44:10 +0000",
+      "summary": "Article URL: https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline\nComments URL: https://news.ycombinator.com/item?id=47759416\nPoints: 8\n# Comments: 6",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "160a485f5947743566cbcb7d8507d222",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "link": "https://snapstate.dev",
+      "published": "Mon, 13 Apr 2026 23:42:32 +0000",
+      "summary": "Article URL: https://snapstate.dev\nComments URL: https://news.ycombinator.com/item?id=47759400\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "e3cac8334364c430d2955f8b534e9973",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
+      "link": "https://github.com/fabienmillet/WiiFin",
+      "published": "Mon, 13 Apr 2026 23:33:18 +0000",
+      "summary": "Article URL: https://github.com/fabienmillet/WiiFin\nComments URL: https://news.ycombinator.com/item?id=47759341\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "original_category": "tech",
+      "id": "491afc8d76c70ddea8e5bf7d8c26ede8",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 2,
+    "high": 0,
+    "medium": 2,
+    "low": 11
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 7,
+    "POLITICS": 7,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

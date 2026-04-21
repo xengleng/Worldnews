@@ -1,0 +1,120 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260417_2205",
+  "executive_summary": "Trump signals Iran war 'close to over' while global markets hit record highs, though policymakers warn investors underestimate war's economic toll. China's EV maker BYD faces scrutiny over a Shenzhen garage fire, while hybrid threats intensify with pro-Russian groups targeting Swedish critical infrastructure.",
+  "key_insights": [
+    {
+      "insight": "Trump claims Iran war 'close to over' as S&P 500 reaches record high and oil markets remain volatile",
+      "location": "United States/Iran",
+      "actors": [
+        "Trump administration",
+        "Iran"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are underestimating the economic costs of ongoing conflicts globally",
+      "location": "Global",
+      "actors": [
+        "Central banks",
+        "Finance ministries"
+      ],
+      "alert_level": "HIGH",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "BYD reports fire incident at Shenzhen garage for test and scrapped vehicles, raising safety questions",
+      "location": "China",
+      "actors": [
+        "BYD",
+        "Chinese regulators"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pro-Russian group targets Swedish power plant in 2025 cyberattack, highlighting critical infrastructure vulnerabilities",
+      "location": "Sweden",
+      "actors": [
+        "Pro-Russian hackers",
+        "Swedish government"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters",
+      "url": "N/A"
+    },
+    {
+      "insight": "US investigating suspicious oil trades made before Trump's policy pivots, suggesting potential market manipulation",
+      "location": "United States",
+      "actors": [
+        "US regulators",
+        "Oil traders"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI as major firms Anthropic and OpenAI prepare IPOs amid heavy tech spending",
+      "location": "United States/Global",
+      "actors": [
+        "Anthropic",
+        "OpenAI",
+        "Tech investors"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "El Salvador enacts law allowing life sentences for minors as young as 12, drawing human rights criticism",
+      "location": "El Salvador",
+      "actors": [
+        "Bukele government"
+      ],
+      "alert_level": "LOW",
+      "source": "Al Jazeera",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market faces sixth consecutive annual deficit, indicating ongoing supply constraints",
+      "location": "Global",
+      "actors": [
+        "Silver miners",
+        "Commodity markets"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    },
+    {
+      "insight": "Ye postpones Marseille concert after French authorities announce plans to seek performance ban",
+      "location": "France",
+      "actors": [
+        "Ye",
+        "French authorities"
+      ],
+      "alert_level": "LOW",
+      "source": "CNA",
+      "url": "N/A"
+    },
+    {
+      "insight": "Record momentum trading by BofA stock traders reflects heightened market activity amid geopolitical uncertainty",
+      "location": "United States",
+      "actors": [
+        "Bank of America",
+        "Wall Street traders"
+      ],
+      "alert_level": "LOW",
+      "source": "Bloomberg",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "Rising cyberattacks on critical energy infrastructure across Europe by state-linked groups go largely unreported despite posing significant risks to energy security and NATO cohesion",
+  "url": "N/A"
+}

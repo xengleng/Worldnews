@@ -1,0 +1,136 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-21 07:30 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🟢 **LOW ALERTS** (15)
+   Routine update, no immediate action needed
+   • Minutes of the Federal Open Market Committee, March 17–18, 2026
+     [ECONOMY → CENTRAL BANKS]
+     Source: Federal Reserve
+     🔗 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm
+   • Nasdaq sets record highs as investors return to tech stocks - Reuters
+     [MARKETS → EQUITIES]
+     Source: Reuters Markets
+     🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhobjRXRXdLOThQRU9OODRlaWY1THVFbmNRemdtd01aazd5M2RLN3BzWE5zLW1rbzlpZzdnUmdrb3FuSjltZ3NxTjJQMXZMX3RwNDBKb25fcEVNa0RVaDR1b3NGVld2QUFUcUl0V3V3NFhWLXZPdmNaYkNtQzlBU0FTUFd0eFhfcEZYUzRlbWJpeEhoQnhHbVgtVm1ndm8?oc=5
+   • SEC Approves Exemptive Order and Proposed Rule Change to Permit Customer Cross-Margining in the U.S. Treasury Market
+     [MARKETS → GENERAL]
+     Source: SEC
+     🔗 https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market
+
+📊 **CATEGORIZED NEWS**
+
+**ECONOMY** (3)
+   Macroeconomic data, central banks, policy, indicators
+   └─ CENTRAL BANKS (3)
+      • 🟢 Minutes of the Federal Open Market Committee, March 17–18, 2026
+        Source: Federal Reserve
+        🔗 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm
+        Minutes of the Federal Open Market Committee, March 17–18, 2026...
+      • 🟢 Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.
+        Source: Federal Reserve
+        🔗 https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm
+        Federal Reserve Board announces termination of enforcement actions with Cr&eacute;dit Agricole S.A. ...
+
+**MARKETS** (3)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ EQUITIES (1)
+      • 🟢 Nasdaq sets record highs as investors return to tech stocks - Reuters
+        Source: Reuters Markets
+        🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhobjRXRXdLOThQRU9OODRlaWY1THVFbmNRemdtd01aazd5M2RLN3BzWE5zLW1rbzlpZzdnUmdrb3FuSjltZ3NxTjJQMXZMX3RwNDBKb25fcEVNa0RVaDR1b3NGVld2QUFUcUl0V3V3NFhWLXZPdmNaYkNtQzlBU0FTUFd0eFhfcEZYUzRlbWJpeEhoQnhHbVgtVm1ndm8?oc=5
+        Nasdaq sets record highs as investors return to tech stocks&nbsp;&nbsp;Reuters...
+   └─ GENERAL (2)
+      • 🟢 SEC Approves Exemptive Order and Proposed Rule Change to Permit Customer Cross-Margining in the U.S. Treasury Market
+        Source: SEC
+        🔗 https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market
+        The Securities and Exchange Commission today issued a conditional exemptive order that permits custo...
+      • 🟢 Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026
+        Source: Federal Reserve
+        🔗 https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm
+        Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026...
+
+**POLITICS** (7)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (6)
+      • 🟢 A beginner’s guide to buying pre-owned luxury watches: Risks and tips
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/style-beauty/buying-preowned-luxury-watches-6040716
+        Thinking of purchasing your first pre-owned timepiece? The secondary market has plenty of interestin...
+      • 🟢 Bloating, fatigue, constipation: The colorectal cancer symptoms women often dismiss
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/women/colon-cancer-women-symptoms-missed-6042991
+        Colorectal cancer is the second most common cancer among women in Singapore – but its warning signs ...
+   └─ US POLITICS (1)
+      • 🟢 US crude futures fall as investors reassess US-Iran risks ahead of ceasefire deadline
+        Source: CNA
+        🔗 https://www.channelnewsasia.com/business/us-crude-futures-fall-investors-reassess-us-iran-risks-ahead-ceasefire-deadline-6069311
+
+**TECH** (2)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (2)
+      • 🟢 RUSI Reflects: The Reality of an Extended Closure of the Strait of Hormuz - Royal United Services Institute (RUSI)
+        Source: RUSI
+        🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFkTy12WExNT1JUbmpMRzg3SThxcks2eXVaMUdiS01KWUtRZzU4XzAzeXNFdXhWUlFtZlRRUUw1NHVGbzhRcnpjcDNoejZTXzdJRnN5dm9BVTFIMnNyMlNpMFVkRGlRRDVBRG9NTXRvUjdpSXo0UDIxTW5pemhKdWxpdnJiZkVvWDBPcU9JczVlaHhYeUhLUU84Z01Hc2ZSTFJUNEJXdklVQQ?oc=5
+        RUSI Reflects: The Reality of an Extended Closure of the Strait of Hormuz&nbsp;&nbsp;Royal United Se...
+      • 🟢 The Strait of Hormuz Problem: What ‘Securing’ the Waterway Actually Requires - Royal United Services Institute (RUSI)
+        Source: RUSI
+        🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFg0OFVPZHg2UWV5emw5bl9aSHFzZ3JNWHQ1eWJaZkkwMFVpVXYtSE5tZjNUY3ljLUZHeFotZlZVejNYNmZRTVBqZGplay1nTmRvUk9ZMHBiQlk1V1JDLXZNZnZVcWc2TmdMcllqSVlDNGlyMVNZMkZONWJadHpFenYzYU9DRVlxNVRONGVKNzVueHFBNXNrWC01UFBsNzRyMm1tMTdPUWN6M2c?oc=5
+        The Strait of Hormuz Problem: What ‘Securing’ the Waterway Actually Requires&nbsp;&nbsp;Royal United...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🟢 LOW: 15 (100.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 Minutes of the Federal Open Market Committee, March 17–18, 2026
+   https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm
+
+2. 🟢 Nasdaq sets record highs as investors return to tech stocks - Reuters
+   https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkhobjRXRXdLOThQRU9OODRlaWY1THVFbmNRemdtd01aazd5M2RLN3BzWE5zLW1rbzlpZzdnUmdrb3FuSjltZ3NxTjJQMXZMX3RwNDBKb25fcEVNa0RVaDR1b3NGVld2QUFUcUl0V3V3NFhWLXZPdmNaYkNtQzlBU0FTUFd0eFhfcEZYUzRlbWJpeEhoQnhHbVgtVm1ndm8?oc=5
+
+3. 🟢 SEC Approves Exemptive Order and Proposed Rule Change to Permit Customer Cross-Margining in the U.S. Treasury Market
+   https://www.sec.gov/newsroom/press-releases/2026-36-sec-approves-exemptive-order-proposed-rule-change-permit-customer-cross-margining-us-treasury-market
+
+4. 🟢 RUSI Reflects: The Reality of an Extended Closure of the Strait of Hormuz - Royal United Services Institute (RUSI)
+   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFkTy12WExNT1JUbmpMRzg3SThxcks2eXVaMUdiS01KWUtRZzU4XzAzeXNFdXhWUlFtZlRRUUw1NHVGbzhRcnpjcDNoejZTXzdJRnN5dm9BVTFIMnNyMlNpMFVkRGlRRDVBRG9NTXRvUjdpSXo0UDIxTW5pemhKdWxpdnJiZkVvWDBPcU9JczVlaHhYeUhLUU84Z01Hc2ZSTFJUNEJXdklVQQ?oc=5
+
+5. 🟢 The Strait of Hormuz Problem: What ‘Securing’ the Waterway Actually Requires - Royal United Services Institute (RUSI)
+   https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFg0OFVPZHg2UWV5emw5bl9aSHFzZ3JNWHQ1eWJaZkkwMFVpVXYtSE5tZjNUY3ljLUZHeFotZlZVejNYNmZRTVBqZGplay1nTmRvUk9ZMHBiQlk1V1JDLXZNZnZVcWc2TmdMcllqSVlDNGlyMVNZMkZONWJadHpFenYzYU9DRVlxNVRONGVKNzVueHFBNXNrWC01UFBsNzRyMm1tMTdPUWN6M2c?oc=5
+
+6. 🟢 A beginner’s guide to buying pre-owned luxury watches: Risks and tips
+   https://www.channelnewsasia.com/style-beauty/buying-preowned-luxury-watches-6040716
+
+7. 🟢 Bloating, fatigue, constipation: The colorectal cancer symptoms women often dismiss
+   https://www.channelnewsasia.com/women/colon-cancer-women-symptoms-missed-6042991
+
+8. 🟢 Snap names Doug Hott as new CFO
+   https://www.channelnewsasia.com/business/snap-names-doug-hott-new-cfo-6069336
+
+9. 🟢 US crude futures fall as investors reassess US-Iran risks ahead of ceasefire deadline
+   https://www.channelnewsasia.com/business/us-crude-futures-fall-investors-reassess-us-iran-risks-ahead-ceasefire-deadline-6069311
+
+10. 🟢 Luxury brands are under pressure as the post-pandemic boom fades
+   https://www.channelnewsasia.com/obsessions/luxury-brands-under-pressure-6067061
+
+11. 🟢 Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026
+   https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm
+
+12. 🟢 Sri Lanka’s Bumpy Road to a Political Reset
+   https://www.crisisgroup.org/rpt/asia-pacific/sri-lanka/356-sri-lankas-bumpy-road-political-reset
+
+13. 🟢 Prioritising Peace: What the UN Should Ask of Its Next Secretary-General
+   https://www.crisisgroup.org/cmt/global/prioritising-peace-what-un-should-ask-its-next-secretary-general
+
+14. 🟢 Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.
+   https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm
+
+15. 🟢 Federal Reserve Board issues enforcement action with Community Bankshares, Inc.
+   https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm

@@ -1,0 +1,122 @@
+{
+  "report_type": "GEOPOLITICAL_INTEL",
+  "domain": "geopolitics",
+  "report_ts": "20260419_2139",
+  "executive_summary": "US financial markets experience significant calming following the end of recent conflict, with stocks rebounding and the dollar stabilizing. Meanwhile, diplomatic efforts around Iran intensify as Pakistan seeks to facilitate renewed US-Iran negotiations with security guarantees for Tehran, while the Strait of Hormuz remains a critical geopolitical flashpoint.",
+  "key_insights": [
+    {
+      "insight": "Pakistan is actively pushing for a second round of US-Iran talks and seeking 'guarantees' to protect Tehran's interests in potential negotiations",
+      "location": "Pakistan/Iran/US",
+      "actors": [
+        "Pakistan",
+        "United States",
+        "Iran"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Wall Street experiences significant relief as the 'war' ends, with stocks, dollar, and fear index all unwinding from crisis premiums",
+      "location": "United States/Global Markets",
+      "actors": [
+        "US Financial Markets",
+        "Global Investors"
+      ],
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Analysis reveals the complexities and requirements of truly 'securing' the Strait of Hormuz, a critical global oil shipping chokepoint",
+      "location": "Persian Gulf/Hormuz Strait",
+      "actors": [
+        "Iran",
+        "US Navy",
+        "Regional Powers"
+      ],
+      "alert_level": "MEDIUM",
+      "source": "Royal United Services Institute (RUSI)",
+      "url": "N/A"
+    },
+    {
+      "insight": "Federal Reserve March FOMC minutes provide insight into US monetary policy stance amid global uncertainty",
+      "location": "United States",
+      "actors": [
+        "Federal Reserve",
+        "FOMC"
+      ],
+      "alert_level": "LOW",
+      "source": "Federal Reserve",
+      "url": "N/A"
+    },
+    {
+      "insight": "Pope's Visit to Cameroon raises hopes for peace in the region amid ongoing conflicts and instability",
+      "location": "Cameroon",
+      "actors": [
+        "Vatican",
+        "Cameroon Government"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Sri Lanka continues political reset process amid economic and governance challenges",
+      "location": "Sri Lanka",
+      "actors": [
+        "Sri Lankan Government",
+        "Opposition"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    },
+    {
+      "insight": "Nasdaq sets record highs as investors return to technology stocks signaling renewed market confidence",
+      "location": "United States/Global Markets",
+      "actors": [
+        "Tech Investors",
+        "Nasdaq"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Higher oil prices and yields persist with no anticipated rate cuts, yet US stocks remain resilient",
+      "location": "United States",
+      "actors": [
+        "Federal Reserve",
+        "US Stock Markets"
+      ],
+      "alert_level": "LOW",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "SEC appoints David Woodcock as new Director of Division of Enforcement, signaling potential regulatory priorities",
+      "location": "United States",
+      "actors": [
+        "SEC",
+        "David Woodcock"
+      ],
+      "alert_level": "LOW",
+      "source": "SEC",
+      "url": "N/A"
+    },
+    {
+      "insight": "UN Secretary-General selection process should prioritize peace-building mandates according to Crisis Group analysis",
+      "location": "United Nations",
+      "actors": [
+        "United Nations",
+        "Security Council"
+      ],
+      "alert_level": "LOW",
+      "source": "Crisis Group",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The enforcement actions termination against major international banks (Cr\u00e9dit Agricole, Mega International Commercial Bank, Goldman Sachs) by the Federal Reserve may indicate underlying geopolitical tensions in international banking relationships that are underreported.",
+  "url": "N/A"
+}

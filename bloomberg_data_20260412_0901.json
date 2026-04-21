@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-04-12T09:01:47.892276",
+  "articles_analyzed": 15,
+  "categorized_articles": [
+    {
+      "title": "McIlroy's Masters cruise hits the skids at Amen Corner",
+      "link": "https://www.channelnewsasia.com/sport/mcilroys-masters-cruise-hits-skids-amen-corner-6051306",
+      "published": "Sun, 12 Apr 2026 08:38:17 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "96e08d0722fe16da239500dfc1d79b8b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Union Berlin name Eta as interim manager following Baumgart exit",
+      "link": "https://www.channelnewsasia.com/sport/union-berlin-name-eta-interim-manager-following-baumgart-exit-6051311",
+      "published": "Sun, 12 Apr 2026 08:35:07 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "567013452be9afc62407e72c52b9d8cd",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Young one round from biggest win of his life at the Masters",
+      "link": "https://www.channelnewsasia.com/sport/young-one-round-biggest-win-his-life-masters-6051301",
+      "published": "Sun, 12 Apr 2026 08:29:35 +0800",
+      "summary": "",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "02e3011dfeea112404b25da5994e8de2",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel PM Netanyahu says war succeeded in 'crushing' Iran nuclear, missile programmes",
+      "link": "https://www.channelnewsasia.com/world/israel-pm-netanyahu-says-war-succeeded-in-crushing-iran-nuclear-missile-programmes-6051291",
+      "published": "Sun, 12 Apr 2026 08:28:36 +0800",
+      "summary": "Netanyahu says Lebanon had approached Israel regarding a potential peace deal and he had given his approval on two conditions.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "af05a1a43fbdd395808ef9f14f2228d8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "What 'trauma bonding' really means \u2013 and why it\u2019s often misunderstood",
+      "link": "https://www.channelnewsasia.com/wellness/trauma-bond-6012151",
+      "published": "Sun, 12 Apr 2026 07:41:40 +0800",
+      "summary": "The phrase has been used online to describe connections built through shared suffering, but experts say that\u2019s all wrong.",
+      "source": "CNA",
+      "original_category": "asia",
+      "id": "87e5f54bdae69ec327e142fd1cda2469",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 00:30:44 GMT",
+      "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "9ed5365a2c7c738f64cbe7be1e1eeaf1",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 00:08:28 +0000",
+      "summary": "Israel says it has reprimanded Spain\u2019s top diplomat in Tel Aviv over the blowing up of an effigy of its Prime Minister.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "2c4e39e53b21fa82e96a928fdf0ccc73",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Iran war live: Historic face-to-face talks with US continue in Islamabad",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
+      "published": "Sun, 12 Apr 2026 00:00:00 +0000",
+      "summary": "Iran and US continue direct talks in Islamabad, with the Strait of Hormuz believed to be a key sticking point.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "33d5b1f49b02ecb5b34c17e837adb180",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday",
+      "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
+      "published": "Sat, 11 Apr 2026 23:47:01 GMT",
+      "summary": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "e612d3b818fa27cd7266d7e5ed8063f5",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GEOPOLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
+      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 23:25:42 GMT",
+      "summary": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, but PM Viktor Orb\u00e1n has been in a defiant mood.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "29c88b30be9d5da3d5018c5d187982d9",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 22:57:28 GMT",
+      "summary": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "743ab83653c327ba6ab4955cc23a77cc",
+      "bloomberg_category": "TECH",
+      "bloomberg_subcategory": "AI",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua",
+      "link": "https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 22:28:58 +0000",
+      "summary": "Tyson Fury beats Arslanbek Makhmudov in a unanimous points decision as he makes his heavyweight comeback.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "bf0c2cf4379dfd16aa60dd5162b159e8",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "US President Trump says US \u2018wins\u2019 regardless of how Iran talks go",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+      "published": "Sat, 11 Apr 2026 22:09:46 +0000",
+      "summary": "US President Donald Trump says \u2018we win regardless of what happens\u2019 in Iran talks.",
+      "source": "Al Jazeera",
+      "original_category": "geopolitics",
+      "id": "be92a5ebc0a484ec672013d4d8689d7b",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "US POLITICS",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    },
+    {
+      "title": "How bond market's private credit crisis fears are playing out in fixed-income ETFs",
+      "link": "https://www.cnbc.com/2026/04/11/bond-market-private-credit-crisis-fixed-income-etfs.html",
+      "published": "Sat, 11 Apr 2026 21:37:12 GMT",
+      "summary": "Fears of a private credit crisis arrived just as the growing and less transparent bond market was being included in more fixed-income ETFs.",
+      "source": "CNBC",
+      "original_category": "finance",
+      "id": "b80a2c189d6791eb4db2e850844a606a",
+      "bloomberg_category": "MARKETS",
+      "bloomberg_subcategory": "FIXED INCOME",
+      "alert_level": 4,
+      "alert_info": {
+        "name": "CRITICAL",
+        "color": "\ud83d\udd34",
+        "description": "Market-moving event, immediate attention required"
+      }
+    },
+    {
+      "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+      "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 21:23:07 GMT",
+      "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+      "source": "BBC World",
+      "original_category": "geopolitics",
+      "id": "7e5b5bf17df2cae35300457afd7cd1b3",
+      "bloomberg_category": "POLITICS",
+      "bloomberg_subcategory": "GENERAL",
+      "alert_level": 1,
+      "alert_info": {
+        "name": "LOW",
+        "color": "\ud83d\udfe2",
+        "description": "Routine update, no immediate action needed"
+      }
+    }
+  ],
+  "alert_summary": {
+    "critical": 3,
+    "high": 0,
+    "medium": 0,
+    "low": 12
+  },
+  "category_summary": {
+    "MARKETS": 1,
+    "ECONOMY": 0,
+    "TECH": 1,
+    "POLITICS": 13,
+    "CORPORATE": 0,
+    "ENERGY": 0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "report_type": "FINANCIAL_INTEL",
+  "domain": "finance",
+  "report_ts": "20260417_1115",
+  "executive_summary": "Global equity markets reach new highs with S&P 500 setting a record as geopolitical tensions ease following Trump's Iran war comments, though policymakers warn markets are underpricing war-related economic risks. The tech sector faces sentiment headwinds as AI enthusiasm wanes ahead of potential IPOs from Anthropic and OpenAI.",
+  "key_insights": [
+    {
+      "insight": "S&P 500 hits record high while oil markets remain volatile amid Trump's statement that Iran war is 'close to over'",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Reuters Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Policymakers warn markets are too complacent about the economic costs of ongoing geopolitical conflicts",
+      "asset_class": "equities",
+      "alert_level": "HIGH",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Public sentiment souring on AI and data centers as Anthropic and OpenAI prepare for potential IPOs",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "CNBC",
+      "url": "N/A"
+    },
+    {
+      "insight": "US regulatory investigation into suspicious oil trades made before Trump's policy pivots",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Silver market facing sixth consecutive annual deficit, supporting precious metals outlook",
+      "asset_class": "commodities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Bank of America stock traders achieve record performance driven by market momentum",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "China's BYD reports fire incident at Shenzhen facility for test and scrapped vehicles",
+      "asset_class": "equities",
+      "alert_level": "MEDIUM",
+      "source": "Nikkei Asia",
+      "url": "N/A"
+    },
+    {
+      "insight": "Mark Mobius, legendary emerging markets investor, passes away at age 89",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "Bloomberg Markets",
+      "url": "N/A"
+    },
+    {
+      "insight": "Swedish power grid infrastructure targeted by pro-Russian cyber group in 2025",
+      "asset_class": "energy",
+      "alert_level": "MEDIUM",
+      "source": "Reuters World",
+      "url": "N/A"
+    },
+    {
+      "insight": "Futu Securities expands into lifestyle services with coffee shops in branch locations",
+      "asset_class": "equities",
+      "alert_level": "LOW",
+      "source": "SCMP",
+      "url": "N/A"
+    }
+  ],
+  "blind_spot": "The increasing vulnerability of critical energy infrastructure to cyberattacks and geopolitical sabotage is being underreported relative to its potential market impact on European energy prices and grid stability.",
+  "url": "N/A"
+}

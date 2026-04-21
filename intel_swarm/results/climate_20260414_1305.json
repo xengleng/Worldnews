@@ -1,0 +1,159 @@
+{
+  "agent": "climate",
+  "timestamp": "20260414_1305",
+  "run_ts_utc": "2026-04-14T13:06:21.975374Z",
+  "insights": [
+    {
+      "headline": "Super Typhoon Sinlaku Hammers Northern Mariana Islands and Guam with 42-Foot Waves",
+      "summary": "Super Typhoon Sinlaku — described by NYT as 'extremely dangerous' — made direct landfall over the Northern Mariana Islands on April 14, generating 42-foot waves and battering Guam. Multiple agencies including NASA, CNN, AP, The Guardian, and The Weather Channel covered the storm, which some experts link to a potentially historic El Niño pattern developing in the Pacific.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["The New York Times", "CNN", "AP News", "The Guardian", "The Weather Channel", "NASA Science", "Al Jazeera", "The Washington Post", "SURFER Magazine"],
+      "source_urls": [
+        "https://www.nytimes.com",
+        "https://www.cnn.com",
+        "https://apnews.com",
+        "https://www.theguardian.com",
+        "https://weather.com",
+        "https://science.nasa.gov",
+        "https://www.aljazeera.com",
+        "https://www.washingtonpost.com"
+      ],
+      "published": "2026-04-14"
+    },
+    {
+      "headline": "Strongest Storm on Earth Linked to Potentially Historic El Niño — Climate Scientists Warn of Super El Niño This Summer",
+      "summary": "San Francisco Chronicle reports that the intensity of Super Typhoon Sinlaku — potentially the strongest storm on Earth — is being cited by climate scientists as a warning sign for a Super El Niño event expected to hit this summer. Experts are increasingly concerned about the cascading extreme weather impacts a strong El Niño would bring to Australia, the U.S., South America, and Africa.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["San Francisco Chronicle", "HuffPost UK"],
+      "source_urls": [
+        "https://www.sfchronicle.com",
+        "https://www.huffpost.com"
+      ],
+      "published": "2026-04-13/14"
+    },
+    {
+      "headline": "Flash Flood Warning for Multiple Wisconsin Counties; Clintonville Heavy Rain Prompts Evacuations",
+      "summary": "Flash flood warnings were issued for Brown, Door, Kewaunee, Oconto, and Outagamie counties in Wisconsin on April 14 morning. Heavy rain subsequently caused street flooding and evacuations in Clintonville, Wisconsin, with rescue operations and road closures reported by WSAW and WBAY.",
+      "category": "disasters",
+      "alert_level": "CRITICAL",
+      "source_names": ["Green Bay Press-Gazette", "WSAW", "WBAY"],
+      "source_urls": [
+        "https://www.greenbaypressgazette.com",
+        "https://www.wsaw.com",
+        "https://www.wbay.com"
+      ],
+      "published": "2026-04-14"
+    },
+    {
+      "headline": "2026 Atlantic Hurricane Season Predictions Signal Elevated Activity; First Outlooks Released",
+      "summary": "The first official 2026 Atlantic hurricane season predictions are in, with forecasts pointing to elevated tropical cyclone activity this season. Given the Super El Niño concerns, above-normal activity is anticipated for the Atlantic basin.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["WGME"],
+      "source_urls": ["https://www.wgme.com"],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Picayune Strand Wildfire in South Florida Burns 1,500 Acres; Evacuations Ordered Near Alligator Alley",
+      "summary": "A brush fire at Picayune Strand State Forest in Collier County, Florida has grown to 1,500 acres with only 15% containment as of April 14 noon. Evacuations have been ordered near Alligator Alley (I-75), with multiple agencies and crews battling the fire across Florida. Additional wildfires are active in Daniel Boone National Forest (Kentucky), South Carolina, New Jersey, and Colorado.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["WINK News", "NBC 6 South Florida", "FOX 13 Tampa Bay", "Gulf Coast News and Weather", "WVLT", "WECT", "WGCU"],
+      "source_urls": [
+        "https://www.winknews.com",
+        "https://www.nbcmiami.com",
+        "https://www.fox13news.com",
+        "https://gulfcoastnewsnow.com",
+        "https://www.wvlt.com",
+        "https://www.wect.com",
+        "https://www.wgcu.org"
+      ],
+      "published": "2026-04-14"
+    },
+    {
+      "headline": "Colorado Governor Declares Emergency for Wildfire Near Trinidad",
+      "summary": "Colorado's governor has declared a state of emergency for a wildfire burning near Trinidad, as fire conditions worsen amid dry air masses affecting large parts of the U.S. South and Southeast.",
+      "category": "disasters",
+      "alert_level": "HIGH",
+      "source_names": ["The Colorado Sun"],
+      "source_urls": ["https://www.coloradosun.com"],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Tropics to Be Hit Hardest as Warming Oceans Fuel Humid Heatwaves — New Study",
+      "summary": "A new study published in Eco-Business finds that tropical regions will bear the brunt of climate-driven humid heatwaves as ocean temperatures rise, amplifying the heat index beyond human tolerance levels. The research underscores compounding risks for equatorial populations already vulnerable to extreme heat.",
+      "category": "climate",
+      "alert_level": "MEDIUM",
+      "source_names": ["Eco-Business"],
+      "source_urls": ["https://www.eco-business.com"],
+      "published": "2026-04-14"
+    },
+    {
+      "headline": "Improved Weather Forecasts Could Reduce Heat Deaths as Climate Warms — University of Arizona Research",
+      "summary": "University of Arizona researchers found that better extreme weather forecasting — specifically improved heatwave predictions — could meaningfully reduce heat-related mortality as global temperatures rise. The research highlights the life-saving potential of forecast improvements in a warming world.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["University of Arizona News"],
+      "source_urls": ["https://news.arizona.edu"],
+      "published": "2026-04-13"
+    },
+    {
+      "headline": "Coffee Supply Under Strain as Climate Change Disrupts Global Production",
+      "summary": "Climate change is increasingly disrupting global coffee production, with supply chains under pressure from extreme weather events in key growing regions. Retail Asia reports worsening conditions for coffee farmers in tropical zones, compounding food security concerns alongside the direct climate impacts on agriculture.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Retail Asia"],
+      "source_urls": ["https://www.retaileast.com"],
+      "published": "2026-04-14"
+    },
+    {
+      "headline": "Austin, Texas Urges Residents to Prepare for Severe Weather Amid Active Spring Pattern",
+      "summary": "The City of Austin has urged residents to prepare for severe weather as an active spring weather pattern brings repeated rounds of thunderstorms to central Texas. The advisory comes as climate change is increasingly linked to more intense and erratic storm systems across the U.S.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["National Today"],
+      "source_urls": ["https://www.nationaltoday.com"],
+      "published": "2026-04-14"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Better extreme weather forecasting (including heatwave predictions) could reduce climate-related mortality by enabling earlier public warnings and adaptive measures",
+      "Improved climate modeling and attribution science is giving communities better tools to understand and prepare for extreme events"
+    ],
+    "negative": [
+      "A Super El Niño developing this summer could trigger historic global climate chaos, amplifying extreme weather across multiple continents simultaneously",
+      "Tropical regions face existential-level humid heat risks as ocean warming outpaces previous projections, with heat stress beyond human tolerance",
+      "Multiple concurrent wildfire disasters across the U.S. (Florida, Colorado, Kentucky, South Carolina, New Jersey) signal an exceptionally active fire season ahead",
+      "Coffee and agricultural supply chains are increasingly fragile under compounding climate shocks",
+      "The US Forest Service reorganization is being criticized by experts as potentially harmful to wildland fire response capacity at a critical time"
+    ],
+    "sources": [
+      "University of Arizona (forecasting/heat mortality study)",
+      "Eco-Business (tropics heatwave study)",
+      "San Francisco Chronicle / climate scientists (Super El Niño)",
+      "World Weather Attribution (2025 extreme weather report)",
+      "wildfiretoday.com / fire management experts (USFS reorganization debate)"
+    ]
+  },
+  "patterns": [
+    "Super Typhoon Sinlaku is the single most-covered story across all sources — appearing in 10+ outlets including major international media — reflecting both its severity and the strategic significance of U.S. territories in the Pacific",
+    "A clear Super El Niño signal is emerging across multiple stories: the typhoon's extreme intensity, global climate chaos predictions, and expected summer weather extremes are being framed as interconnected",
+    "Active wildfire events are occurring simultaneously across geographically diverse U.S. locations (Florida, Colorado, Kentucky, South Carolina, New Jersey, North Carolina), pointing to broad fire-weather conditions across North America",
+    "Wisconsin is experiencing both flooding (flash flood warnings, Clintonville evacuations) and active wildfires in separate regions, illustrating the dual disaster phenomenon in a single U.S. state",
+    "Extreme weather attribution science (World Weather Attribution) is increasingly cited in reporting, reflecting the mainstreaming of climate attribution research",
+    "The 2026 Atlantic hurricane season outlook has been released, with forecasts pointing to elevated activity — likely influenced by Super El Niño dynamics",
+    "No relief organizations (ReliefWeb, WHO) appear in the active data, suggesting international humanitarian response is not yet activated for any current events"
+  ],
+  "blind_spots": [
+    "USGS earthquake data (9 events) appears in the raw feed but none are highlighted in news coverage — potential blind spot if seismic events are occurring in populated regions without sufficient media attention",
+    "The USGS event URLs are malformed (e.g., links contain quote characters), making it difficult to verify or access actual earthquake data",
+    "Southern Hemisphere and Southeast Asian extreme weather events (aside from the typhoon) are underreported — regions like Southeast Asia and South Asia that face severe heat and monsoon risks are absent from this feed",
+    "No coverage of drought conditions despite the 'Drought News' source being listed — potential gap in monitoring agricultural or water security impacts",
+    "The economic cost of concurrent U.S. disasters (wildfires + floods + storm season prep) is not addressed in this feed — a blind spot for policymakers and markets",
+    "Africa and South America coverage is limited to broad El Niño framing, with specific country-level climate impacts underreported",
+    "No mention of climate policy or mitigation developments (carbon pricing, renewable energy, climate finance) — the feed is entirely response/hazard focused"
+  ]
+}

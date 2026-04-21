@@ -1,0 +1,149 @@
+📈 **BLOOMBERG-STYLE NEWS CATEGORIZATION**
+Time: 2026-04-06 00:10 SGT
+Articles Analyzed: 15
+
+🚨 **ALERT SUMMARY**
+
+🔴 **CRITICAL ALERTS** (2)
+   Market-moving event, immediate attention required
+   • Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches
+     [POLITICS → US POLITICS]
+     Source: Al Jazeera
+   • Mearsheimer: No signs of quick end to US-Israel war on Iran
+     [POLITICS → GEOPOLITICS]
+     Source: Al Jazeera
+
+🟠 **HIGH ALERTS** (3)
+   Significant event, consider action
+   • Israel renews strikes on Lebanon, forces Syria border crossing to close
+     [POLITICS → GENERAL]
+     Source: CNA
+   • Schouten to miss World Cup after surgery on cruciate ligament injury
+     [POLITICS → GENERAL]
+     Source: CNA
+   • How downed F-15 US airman was rescued inside Iran
+     [POLITICS → US POLITICS]
+     Source: BBC World
+
+🟡 **MEDIUM ALERTS** (1)
+   Notable development, monitor closely
+   • Can orbital data centers help justify a massive valuation for SpaceX?
+     [TECH → GENERAL]
+     Source: TechCrunch
+
+🟢 **LOW ALERTS** (9)
+   Routine update, no immediate action needed
+   • PSV take title in Netherlands as Feyenoord fail to win
+     [TECH → AI]
+     Source: CNA
+   • Bangladesh says suspected measles outbreak kills about 100 children
+     [POLITICS → GENERAL]
+     Source: CNA
+   • TechCrunch Mobility: ‘A stunning lack of transparency’
+     [TECH → GENERAL]
+     Source: TechCrunch
+
+📊 **CATEGORIZED NEWS**
+
+**MARKETS** (1)
+   Financial markets, stocks, bonds, currencies, commodities
+   └─ GENERAL (1)
+      • 🟢 Zohran Mamdani and the business exodus? New York's office real estate market is up under new mayor
+        Source: CNBC
+        Reports Apollo Global Management is planning a second HQ in the US South renewed debate over a busin...
+
+**POLITICS** (8)
+   Government, elections, legislation, geopolitical events
+   └─ GENERAL (4)
+      • 🟠 Israel renews strikes on Lebanon, forces Syria border crossing to close
+        Source: CNA
+        Israel has launched attacks against Lebanon since Mar 2 when armed group Hezbollah entered the Middl...
+      • 🟠 Schouten to miss World Cup after surgery on cruciate ligament injury
+        Source: CNA
+   └─ GEOPOLITICS (1)
+      • 🔴 Mearsheimer: No signs of quick end to US-Israel war on Iran
+        Source: Al Jazeera
+        US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is ...
+   └─ US POLITICS (3)
+      • 🟠 How downed F-15 US airman was rescued inside Iran
+        Source: BBC World
+        The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over south...
+      • 🔴 Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches
+        Source: Al Jazeera
+        US president threatens to strike power plants and bridges on Tuesday in an expletive-laden social me...
+
+**TECH** (6)
+   Technology, innovation, startups, cybersecurity
+   └─ AI (3)
+      • 🟢 PSV take title in Netherlands as Feyenoord fail to win
+        Source: CNA
+      • 🟢 Microsoft terms say Copilot is for entertainment purposes only, not serious use
+        Source: Hacker News
+        Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copil...
+   └─ GENERAL (3)
+      • 🟢 TechCrunch Mobility: ‘A stunning lack of transparency’
+        Source: TechCrunch
+        Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transp...
+      • 🟡 Can orbital data centers help justify a massive valuation for SpaceX?
+        Source: TechCrunch
+        On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers...
+
+📈 **SUMMARY STATISTICS**
+
+Total Articles: 15
+🔴 CRITICAL: 2 (13.3%)
+🟠 HIGH: 3 (20.0%)
+🟡 MEDIUM: 1 (6.7%)
+🟢 LOW: 9 (60.0%)
+
+---
+📰 **Source:** WorldMonitor News Aggregator
+🎯 **Categorization:** Bloomberg-style with alert levels
+⏰ **Next Update:** Every 6 hours (9 AM, 3 PM, 9 PM, 3 AM SGT)
+
+🔗 **ALL ARTICLE LINKS:**
+
+1. 🟢 PSV take title in Netherlands as Feyenoord fail to win
+   https://www.channelnewsasia.com/sport/psv-take-title-in-netherlands-feyenoord-fail-win-6037676
+
+2. 🟠 Israel renews strikes on Lebanon, forces Syria border crossing to close
+   https://www.channelnewsasia.com/world/israel-strike-lebanon-syria-border-crossing-close-6037636
+
+3. 🟠 Schouten to miss World Cup after surgery on cruciate ligament injury
+   https://www.channelnewsasia.com/sport/schouten-miss-world-cup-after-surgery-cruciate-ligament-injury-6037631
+
+4. 🟢 Bangladesh says suspected measles outbreak kills about 100 children
+   https://www.channelnewsasia.com/asia/bangladesh-measles-outbreak-suspected-deaths-6037621
+
+5. 🟢 TechCrunch Mobility: ‘A stunning lack of transparency’
+   https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/
+
+6. 🟢 Zohran Mamdani and the business exodus? New York's office real estate market is up under new mayor
+   https://www.cnbc.com/2026/04/05/mayor-zohran-mamdani-new-york-office-real-estate-market.html
+
+7. 🟢 Earth in rear-view of Artemis II astronauts
+   https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss
+
+8. 🟢 Microsoft terms say Copilot is for entertainment purposes only, not serious use
+   https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice
+
+9. 🟠 How downed F-15 US airman was rescued inside Iran
+   https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss
+
+10. 🟢 Israel’s Ben-Gvir details plans for Palestinian ‘death row’
+   https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss
+
+11. 🟡 Can orbital data centers help justify a massive valuation for SpaceX?
+   https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/
+
+12. 🔴 Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches
+   https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss
+
+13. 🟢 StackOverflow: Retiring the Beta Site
+   https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site
+
+14. 🔴 Mearsheimer: No signs of quick end to US-Israel war on Iran
+   https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss
+
+15. 🟢 DR Congo to receive ‘third-country’ deportees from the US under new deal
+   https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal?traffic_source=rss
