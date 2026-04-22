@@ -1,0 +1,182 @@
+{
+  "title": "Intelligence Report — 2026-04-22 09:10 AM SGT",
+  "date": "20260422_0110",
+  "type": "intelligence-report",
+  "generated": "2026-04-22T01:10:00Z",
+  "generated_sgt": "2026-04-22 09:10 AM SGT",
+  "sources": {
+    "geopolitics": "intel_swarm/results/geopolitics_20260422_0110.json",
+    "finance": "intel_swarm/results/finance_20260422_0110.json",
+    "climate": "intel_swarm/results/climate_20260422_0110.json",
+    "bloomberg": "bloomberg_data_20260421_0730.json"
+  },
+  "crisis_line": "Oil shocks, US floods, ceasefire fractures — triple crisis peak",
+
+  "executive_summary": "The Iran ceasefire extension provides only temporary relief as the naval blockade persists, oil markets face a billion-barrel demand shock still unfolding with Brent briefly above $100/barrel, and geopolitical fractures deepen with Russia extracting strategic wins while China capitalises on Hormuz disruption. Simultaneously, widespread US flooding and wildfire activity is creating a climate emergency spanning Texas, Wisconsin, Illinois, Michigan, South Carolina and Montana. Kevin Warsh's contested Fed chair nomination hearing and an escalating multi-front trade war (Mexico, EU, Canada) add financial system uncertainty on top of geopolitical and physical crises.",
+
+  "key_themes": [
+    {
+      "emoji": "🔥",
+      "name": "Iran Ceasefire Fragility",
+      "alert_level": "CRITICAL",
+      "confidence": "HIGH",
+      "description": "Trump extended the ceasefire indefinitely but the naval blockade stays and Tehran talks are stalled. Pro-Iran cyberattacks on critical infrastructure are escalating even during the ceasefire. Russia's clear strategic winner: oil revenues up, sanctions eased, US distracted. No permanent halt agreed."
+    },
+    {
+      "emoji": "🛢️",
+      "name": "Oil Market Shock",
+      "alert_level": "CRITICAL",
+      "confidence": "HIGH",
+      "description": "Brent briefly above $100/barrel then retreated on ceasefire extension news. Traders warn the worst demand impact is still ahead — a billion-barrel shock that will outlast initial moves. Airlines cutting flights from jet fuel costs. China's shipyards securing massive oil tanker orders as Hormuz disruption creates shipping bottlenecks."
+    },
+    {
+      "emoji": "🌊",
+      "name": "US Simultaneous Flood-Wildfire Crisis",
+      "alert_level": "CRITICAL",
+      "confidence": "HIGH",
+      "description": "Multiple major flood events hitting Texas, Wisconsin, Illinois, Michigan simultaneously. 100-year flood in Shiocton, Wisconsin. Wildfires in South Carolina (Carolina Forest), Montana (1,600 acres), Georgia and Florida. All within a 24-hour window. Climate scientists warn Super El Niño compounding with climate change could drive record temperatures."
+    },
+    {
+      "emoji": "⚖️",
+      "name": "Fed Leadership Contest",
+      "alert_level": "CRITICAL",
+      "confidence": "HIGH",
+      "description": "Kevin Warsh testified before Senate vowing Fed independence despite Trump's pressure. Faced intense scrutiny over $100M+ financial disclosures. His 'regime-change' Fed overhaul plan survived largely intact. Markets pricing regime-change risk. Bitcoin slid toward $75K on uncertainty."
+    },
+    {
+      "emoji": "🌐",
+      "name": "Multi-Front Trade War",
+      "alert_level": "CRITICAL",
+      "confidence": "HIGH",
+      "description": "Trump confirmed Mexico tariffs are permanent. EU retaliation signalled. Canada banned US alcohol. China linked trade toughening to Iran war and Panama port dispute. World Bank chief unveiled 5-sector playbook for emerging markets. Historic drought compounding tariffs and war creating 'perfect storm' for US farmers."
+    },
+    {
+      "emoji": "🌍",
+      "name": "Global Conflict Spillovers",
+      "alert_level": "HIGH",
+      "confidence": "MEDIUM",
+      "description": "Iraq squeezed despite neutrality. Tigray/Ethiopia peace jeopardised. Nigeria treason charges over coup plot. Sudan entering year 3 of conflict. Multiple simultaneous conflict zones with no clear resolution pathways. Humanitarian dimensions absent from most coverage."
+    }
+  ],
+
+  "alpha_opportunities": [
+    {
+      "emoji": "🛢️",
+      "angle": "Oil Tanker Shortage / China Shipyards",
+      "timeframe": "3-12 months",
+      "risk": "HIGH",
+      "rationale": "Hormuz effective closure driving massive new oil tanker orders for Chinese shipyards. SCMP reports order books filling. Beneficiaries include Chinese shipbuilding sector. Counter-risk: ceasefire escalation could unwind quickly."
+    },
+    {
+      "emoji": "🌿",
+      "angle": "Biofuels Surge",
+      "timeframe": "1-6 months",
+      "risk": "MEDIUM",
+      "rationale": "Oil price surge triggered by Iran conflict has brought biofuels back into vogue. Biofuel producers and feedstocks benefit directly from $100+ oil environment."
+    },
+    {
+      "emoji": "₿",
+      "angle": "Bitcoin Short Squeeze Setup",
+      "timeframe": "1-4 weeks",
+      "risk": "HIGH",
+      "rationale": "BTC funding rates negative at $78K. Short squeeze conditions building. Warsh confirmation outcome could catalyse. Not a recommendation — structurally fragile given broader macro uncertainty."
+    },
+    {
+      "emoji": "🌾",
+      "angle": "Agricultural Supply Chain Realignment",
+      "timeframe": "3-12 months",
+      "risk": "HIGH",
+      "rationale": "Drought + tariffs + Iran war triple threat is disrupting US agricultural exports. Historical precedent for late-cycle agricultural stress creating alternative sourcing opportunities for importers. Latin America and Black Sea corridor beneficiaries."
+    }
+  ],
+
+  "alerts_summary": {
+    "CRITICAL": [
+      "Iran ceasefire extended but blockade holds, Tehran talks stalled — worst of demand shock still ahead",
+      "Brent briefly above $100/barrel; oil traders warn billion-barrel shock still unfolding",
+      "US missile stockpile depleted after Iran ops; readiness gap if another conflict erupts",
+      "Russia strategic winner: oil revenues up, sanctions relief implicit, US distracted",
+      "China shipyards winning oil tanker orders as Hormuz disruption drives shipping bottleneck",
+      "Widespread US flooding: Texas evacuations, Wisconsin 100-year flood, Illinois/Michigan emergencies",
+      "Carolina Forest wildfire SC forces apartment evacuations; Montana East Side Fire 1,600 acres",
+      "Kevin Warsh Fed chair hearing: vows independence but $100M+ disclosure under scrutiny",
+      "Trump makes Mexico tariffs permanent; EU retaliation signalled; Canada bans US alcohol",
+      "Pro-Iran hackers targeting US/allied critical infrastructure cyberattacks escalating during ceasefire",
+      "Japan meteorological agency warns stronger earthquake may hit within next week"
+    ],
+    "HIGH": [
+      "Russia fabricated economic data to mask war damage (Citi)",
+      "Turkey may need extra rate hike ahead of policy decision (Citi)",
+      "Iran sanctions evasion: Iranian citizens extradited to US via China shell companies",
+      "Karex, world's top condom maker, to raise prices sharply — latex supply chain hit by Iran war",
+      "Nigeria charges six with treason over Independence Day coup plot",
+      "Tigray/Ethiopia peace jeopardised as TPLF moves to restore pre-war administration",
+      "Iraq being harmed by Iran war despite neutrality — Crisis Group warning",
+      "Super El Niño + climate change could drive record global temperatures (Union of Concerned Scientists)",
+      "Israel parts could become uninhabitable within decades due to climate change",
+      "Meme stock frenzy resurfaces — late-cycle retail mania signal"
+    ],
+    "MEDIUM": [
+      "Apple promotes silicon head Johny Srouji to hardware chief — in-house chip push accelerates",
+      "Gold dips during oil war — liquidity pressures overriding safe-haven flight",
+      "Tech stocks proving resilient enough to overwhelm Iran geopolitical tension",
+      "Extreme weather increasingly threatening elections and democracy globally",
+      "Nearly 90% of UNESCO World Heritage sites face environmental stress",
+      "Climate inaction could cost Brazil R$145 billion per year",
+      "World Bank chief offers 5-sector playbook for emerging markets to survive trade war"
+    ],
+    "LOW": [
+      "Nasdaq sets record highs as investors rotate back to tech",
+      "SEC approves customer cross-margining in US Treasury market",
+      "Fed terminates enforcement actions with Crédit Agricole, Mega Bank, Goldman Sachs",
+      "Fed issues new enforcement action with Community Bankshares Inc",
+      "Sri Lanka's bumpy political reset — limited international coverage",
+      "UN Secretary-General race underway — institutional rebuilding challenge"
+    ]
+  },
+
+  "telegram_summary": "Oil briefly hit $100+/barrel as traders warn Iran's billion-barrel demand shock is still ahead — even as Trump extends the ceasefire, the blockade holds and Russia quietly profits. At home, simultaneous US floods and wildfires from Texas to Wisconsin to South Carolina are creating a climate emergency window, while Kevin Warsh's contested Fed chair hearing adds financial system uncertainty on top of it all.",
+
+  "reference_index": [
+    {"source": "Al Jazeera", "category": "GEOPOLITICS / Middle East", "items": ["Iran ceasefire extension", "Trump ceasefire analysis"]},
+    {"source": "Foreign Policy", "category": "GEOPOLITICS / Euro-Eurasia", "items": ["Russia oil profits from Iran war", "Global south energy/food costs"]},
+    {"source": "International Crisis Group", "category": "GEOPOLITICS / Middle East", "items": ["Iraq neutrality squeeze"]},
+    {"source": "CNN / KIRO 7", "category": "GEOPOLITICS / Defense", "items": ["US missile stockpile depletion"]},
+    {"source": "BBC News", "category": "GEOPOLITICS / Asia / Africa", "items": ["Japan earthquake warning", "Nigeria treason charges"]},
+    {"source": "Defense One", "category": "CYBER", "items": ["Pro-Iran critical infrastructure cyberattacks"]},
+    {"source": "Bloomberg / CNBC / Reuters", "category": "FINANCE / Commodities", "items": ["Oil $100+ brief", "Billion-barrel demand shock"]},
+    {"source": "CoinDesk / Cointelegraph", "category": "FINANCE / Crypto", "items": ["Bitcoin $75K slide", "Warsh Senate hearing", "Crypto exploit"]},
+    {"source": "Politico / Yahoo Finance", "category": "FINANCE / Central Banks", "items": ["Kevin Warsh Fed testimony", "Regime-change plan"]},
+    {"source": "MarketWatch / Benzinga / FT", "category": "FINANCE / Trade", "items": ["Mexico tariffs permanent", "EU retaliation", "Canada alcohol ban"]},
+    {"source": "Euronews / Turkish Minute", "category": "FINANCE / Economics", "items": ["Russia fake economic data", "Turkey rate hike risk"]},
+    {"source": "FOX Weather / Milwaukee Journal Sentinel", "category": "CLIMATE / Disasters", "items": ["Texas/Wisconsin/Illinois/Michigan floods", "100-year flood Shiocton"]},
+    {"source": "WPDE / Daily Montanan", "category": "CLIMATE / Disasters", "items": ["Carolina Forest wildfire", "Montana East Side Fire 1,600 acres"]},
+    {"source": "Union of Concerned Scientists / Hindustan Times", "category": "CLIMATE / Science", "items": ["Super El Niño warning", "Israel uninhabitability risk"]},
+    {"source": "Federal Reserve / SEC", "category": "GOVERNANCE / Finance", "items": ["FOMC March minutes", "Cross-margining rule", "Enforcement actions"]},
+    {"source": "RUSI / Crisis Group", "category": "RESEARCH / Geopolitics", "items": ["Hormuz closure analysis", "UN SecGen race", "Sri Lanka reset"]}
+  ],
+
+  "patterns": [
+    "Iran ceasefire is extended but structurally fragile — blockade holds, talks stalled, cyber dimension escalating",
+    "Russia is the geopolitical winner: oil revenues up, sanctions eased, US attention and resources consumed",
+    "China is the economic winner: shipyards filling order books as Hormuz disruption drives tanker demand",
+    "Oil market structurally elevated — worst demand impact still ahead per top traders",
+    "Trade war escalating on three fronts simultaneously: China, Mexico, EU/Canada",
+    "US simultaneous climate crisis: floods across 4+ states and wildfires across 5+ states in 24 hours",
+    "Fed leadership uncertainty adding policy tail risk on top of geopolitical uncertainty",
+    "Multiple African / Middle Eastern conflict zones simmering without resolution"
+  ],
+
+  "blind_spots": [
+    "Iran nuclear facility status — critical gap given war's stated objective",
+    "Israel's posture and intentions during ceasefire — absent from data",
+    "Hezbollah's actions and plans — not covered despite Lebanon casualty figures",
+    "Iranian domestic political dynamics — no reporting on internal regime debate",
+    "Ceasefire ground verification — no independent reporting on blockade compliance",
+    "Ukraine context: Russia's Iran war gains' implications for Ukraine conflict not covered",
+    "India's exposure to Hormuz disruption — major oil importer not covered",
+    "Humanitarian impact inside Iran — almost entirely absent",
+    "Africa drought/famine coverage — minimal despite global drought conditions",
+    "Ocean heat/marine ecosystems — no bleaching or acidification coverage"
+  ]
+}
