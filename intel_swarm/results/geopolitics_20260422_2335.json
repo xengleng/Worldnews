@@ -1,0 +1,124 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260422_2335",
+  "run_ts_utc": "2026-04-22T23:36:26.152906Z",
+  "insights": [
+    {
+      "headline": "Trump extends Iran ceasefire, buying diplomatic time but war remains unresolved",
+      "summary": "President Trump extended the ceasefire for the US-Israel war with Iran for a second time in as many weeks, backing away from escalation threats. Iran nuclear talks remain deadlocked with no breakthrough in sight, and the planned Trump visit to Beijing is now in doubt as the war elevates diplomatic stakes.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News", "SCMP", "Crisis Group"],
+      "source_urls": ["https://www.bbc.com/news/articles/cvg4yr90jr2o"],
+      "published": "2026-04-22 00:32"
+    },
+    {
+      "headline": "Russia exploiting US Iran war to profit handsomely — oil revenues and sanctions relief",
+      "summary": "Foreign Policy analysis details how Russia is benefiting from elevated oil prices and reduced Western sanctions pressure as US attention and resources are consumed by the Iran conflict. Moscow smiles as the war draws Washington into a costly Middle Eastern quagmire.",
+      "category": "europe",
+      "alert_level": "CRITICAL",
+      "source_names": ["Foreign Policy"],
+      "source_urls": ["https://foreignpolicy.com/2026/04/21/russia-oil-prices-putin-trump-iran-war/"],
+      "published": "2026-04-21 16:31"
+    },
+    {
+      "headline": "US Navy Secretary Phelan exits immediately amid ongoing Iran war — second senior officer departure this month",
+      "summary": "Secretary of the Navy John Phelan left office 'immediately' without explanation, following the removal of top US Army officer General Randy George and two other senior officers earlier in April. The wave of senior military departures during active conflict raises questions about command stability.",
+      "category": "us",
+      "alert_level": "CRITICAL",
+      "source_names": ["SCMP"],
+      "source_urls": ["https://www.scmp.com/news/world/united-states-canada/article/3351061/trumps-top-navy-official-out-us-still-locked-war-iran"],
+      "published": "2026-04-22 22:21"
+    },
+    {
+      "headline": "Pro-Iran hackers escalate cyberattacks on US critical infrastructure — LA Metro claimed",
+      "summary": "Pro-Iranian hacker groups appear to be increasing cyberattacks on US critical infrastructure. One group claimed responsibility for hacking the Los Angeles Metro as the federal government publicly warns of systemic vulnerabilities. The attacks coincide with intensified kinetic operations in the Iran war.",
+      "category": "cyber",
+      "alert_level": "CRITICAL",
+      "source_names": ["Defense One"],
+      "source_urls": ["https://www.defenseone.com/threats/2026/04/iran-hackers-infrastructure-cyberattacks/412941/"],
+      "published": "2026-04-17 17:00"
+    },
+    {
+      "headline": "Nigeria suspected coup plotters deny treason charges as political instability deepens",
+      "summary": "Allegations of a coup plot in Nigeria first surfaced last year when an Independence Day parade was cancelled. The denial of treason charges comes amid heightened regional instability. The geopolitical ramifications of a potential Nigerian political crisis would be severe given its status as Africa's largest economy and oil producer.",
+      "category": "africa",
+      "alert_level": "CRITICAL",
+      "source_names": ["BBC News"],
+      "source_urls": ["https://www.bbc.com/news/articles/c0krlxg384eo"],
+      "published": "2026-04-22 17:33"
+    },
+    {
+      "headline": "Peru F-16 deal stalls — foreign and defence ministers resign in protest",
+      "summary": "Peru's foreign and defence ministers resigned in protest over the government's decision to stall a US$3.5 billion deal for 24 F-16 fighter jets. The Trump administration warned the move reflects 'bad faith' negotiations. The resignation compounds uncertainty in Latin American defence procurement and US regional alliances.",
+      "category": "americas",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera", "SCMP"],
+      "source_urls": ["https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal"],
+      "published": "2026-04-22 22:44"
+    },
+    {
+      "headline": "ICC Appeals Chamber greenlights crimes against humanity case against Rodrigo Duterte",
+      "summary": "The ICC Appeals Chamber refused to throw out the crimes against humanity case against former Philippine president Rodrigo Duterte over his 'war on drugs' killings. Families of victims hailed it as a vindication. The ruling has implications for international justice and Philippine-China/US relations.",
+      "category": "asia",
+      "alert_level": "HIGH",
+      "source_names": ["SCMP"],
+      "source_urls": ["https://www.scmp.com/week-asia/politics/article/3351050/icc-chamber-rules-against-rodrigo-dutertes-war-drugs-killings-proceed"],
+      "published": "2026-04-22 14:37"
+    },
+    {
+      "headline": "China bought zero H200 AI chips — US Commerce Secretary Lutnick cites 'delicate balance' with Xi",
+      "summary": "US Commerce Secretary Howard Lutnick told Congress that China has purchased zero H200 AI chips 'as of today,' asserting that controls on advanced semiconductors remain intact. His testimony before the Senate Appropriations Committee sought to address skepticism about the administration's technology transfer policies.",
+      "category": "tech",
+      "alert_level": "HIGH",
+      "source_names": ["SCMP"],
+      "source_urls": ["https://www.scmp.com/news/us/science-technology/article/3351059/china-bought-zero-h200-chips-today-says-lutnick-he-cites-delicate-balance-xi"],
+      "published": "2026-04-22 21:46"
+    },
+    {
+      "headline": "Iran Crisis Monitor: ceasefire fraying as talks go nowhere",
+      "summary": "Crisis Group's weekly Iran Crisis Monitor finds the ceasefire increasingly fraying with peace talks making no progress. The two-week ceasefire extension deadline approaches with little diplomatic progress. Meanwhile Iraq, despite declaring neutrality, is unable to keep itself out of the conflict.",
+      "category": "middleeast",
+      "alert_level": "CRITICAL",
+      "source_names": ["Crisis Group"],
+      "source_urls": ["https://www.crisisgroup.org/bnt/middle-east-north-africa/iran-israelpalestine-united-states/iran-crisis-monitor-2"],
+      "published": "2026-04-21 17:25"
+    },
+    {
+      "headline": "US military spending massive premium — $1M missiles vs $20K Iranian drones",
+      "summary": "A former US Air Force officer argues the US military has a bureaucracy problem, not a technology problem: the cost asymmetry of using million-dollar missiles against Iran's cheap Shahed drones is economically unsustainable. Over 11,000 munitions have been fired in just 16 days of the Iran war, with reload capacity becoming the key constraint.",
+      "category": "defense",
+      "alert_level": "HIGH",
+      "source_names": ["CNA"],
+      "source_urls": ["https://www.channelnewsasia.com/commentary/us-iran-war-shahed-drone-missile-ukraine-war-6073421"],
+      "published": "2026-04-22 21:59"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "Trump's ceasefire extensions indicate continued preference for diplomatic off-ramp over full escalation",
+      "China's restraint on H200 chip acquisitions suggests current export controls are working",
+      "Crisis Group sees continued international pressure creating some diplomatic space"
+    ],
+    "negative": [
+      "US military leadership churn undermines command continuity during active conflict",
+      "Russia is the clear geopolitical winner — using US distraction to rebuild position",
+      "Iran ceasefire extension without deal signals prolonged low-intensity war, not resolution",
+      "Pro-Iranian cyber capabilities appear to be expanding under wartime conditions"
+    ],
+    "sources": ["Foreign Policy", "Defense One", "Crisis Group", "RUSI", "SCMP", "BBC News"]
+  },
+  "patterns": [
+    "The Iran war is the dominant geopolitical variable — affecting energy prices, military posture, cyber threat levels, and diplomatic bandwidth simultaneously",
+    "US military leadership instability is accelerating — multiple senior officer departures in weeks, during active combat",
+    "Russia exploiting US strategic attention gap in Iran to advance its interests in Ukraine and globally",
+    "Lufthansa and commodity supply chain disruptions confirm Iran war economic shock is global and widening",
+    "ICC and international justice mechanisms remain active even amid great power conflict"
+  ],
+  "blind_spots": [
+    "Limited visibility on actual Iran ceasefire enforcement mechanisms and violations tracking",
+    "The UAE's role in Sudan paramilitary operations via Colombian mercenaries is underreported and suggests broader Gulf proxy warfare escalation",
+    "The H200 chip zero figure from Lutnick lacks independent verification and may reflect political theatre rather than enforcement reality",
+    "US-Pakistan relations and Pakistan's potential role in Iran war escalation is not covered in current feeds"
+  ]
+}

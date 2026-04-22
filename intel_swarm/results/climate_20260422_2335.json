@@ -1,0 +1,125 @@
+{
+  "agent": "climate",
+  "timestamp": "20260422_2335",
+  "run_ts_utc": "2026-04-22T23:36:26.152983Z",
+  "insights": [
+    {
+      "headline": "World food systems 'pushed to the brink' by extreme heat — UN agencies warn",
+      "summary": "UN agencies have issued a stark warning that extreme heat is pushing global food systems to the brink. The warning comes as Earth Day 2026 reflections emphasize that extreme weather events feel closer than ever. The intersection of climate-driven agricultural stress and Iran war-related supply chain disruptions compounds food security risks.",
+      "category": "foodsecurity",
+      "alert_level": "CRITICAL",
+      "source_names": ["The Guardian", "The Straits Times"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVlvU1g4N1M2V3Nrb1pmcERxVzNsbm9KaXZCREh6bkM4VnFjdF9KMk1BdnVCM18wRUxIS0VfS3VyN0lIRlFDQjg4QlVWVGFCNWRxMmZGNVRqazdETWpPdHZ2Rk5ONXdpMnVOMDVxWWt0azk4UjE5NnZzUXpYZ1dkZ05mUUJDUThzVno5Vml6VW1uSlRXeTJXS1E5TQ"],
+      "published": "2026-04-22 20:34"
+    },
+    {
+      "headline": "Flooding turns deadly in Texas — multiple US regions under active flood warnings simultaneously",
+      "summary": "Deadly flooding is ongoing in Texas as multiple regions reel from significant rainfall. Flood warnings are active through Monday in multiple states. Meanwhile, Waikiki faces escalating sewage-contaminated flooding threats and New York City is experiencing worsening storm flooding requiring infrastructure solutions.",
+      "category": "flooding",
+      "alert_level": "CRITICAL",
+      "source_names": ["FOX Weather", "ABC13 Houston", "WLUK", "Lake County (.gov)"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkVzVXVhYk5UZmN2TW1ELVJxLXRTcEtYTUZsWHlmRWZGSk9sTVozMTNkTGJBZElRMFdKQmRZR3NVSTlBWmtNMDZOa0V0RWZ3T19mWHp5UUZIUmpEaGEyZS1xbFpfd3l0Q2s5by1DcWQ3SE45a3Jpa3hxMDhVbmhQWlRhM3d4a1VHaWJQVUFkc0t4d9IBlwFBVV95cUxOSkdCVndpeGFxYU15M05Jd2dWc1dLbEhZdi1VRVJMQnJZQXdwWkJFb3owRlNhRDlpUThhTlluY012TG9zNFpUTk1zeUk1MnlLMHg5WHg3OTd1S0x5TU1UbHNvb1Yya2daRG1VblExRHVmZ0dBNzctMWg5d21DRkhWZHNRVUctRzQtd09OdVJWZHkxdlNWYnpz"],
+      "published": "2026-04-22 20:31"
+    },
+    {
+      "headline": "South Georgia wildfires destroy 80+ structures — State of Emergency declared",
+      "summary": "A State of Emergency has been issued as catastrophic wildfires ravage South Georgia, destroying more than 80 structures and forcing mandatory evacuations. One fire has exploded to over 16,000 acres. Nebraska is also battling its largest wildfire. Firefighters across multiple states are struggling to gain control amid difficult conditions.",
+      "category": "wildfire",
+      "alert_level": "HIGH",
+      "source_names": ["FOX 5 Atlanta", "WALB", "WJCL", "WSB-TV", "PBS", "Nebraska Public Media"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3BQemZjMWJFeE84dXFmYW9LOEN4SGRlbVhKX293dWt2TmlvUS03YmdNQk5LeG1TcjVaZzF2eWxCZWZmNzFLbDA2ay1xMEJjLVNfUFNJTXFrbE5Ib3U1Rk9zMUYxRXFJWmdlb29HcHdmd0I3WlBFZWdHN0k3THByOFNaLUR1Z9IBiwFBVV95cUxPSmZFaGRHZUxiTlZmZ2ZwNWhZUmZZa1dPdHhXR1ZPOHlJaDNNTTRJR2s2SHJYTGtvYVFqREdGUU5haktxMmVVMHJEY2VrelV3MU1JTHFoMnktaTFqc3BwSnBfaUtyazlhTUs5c1QyZ2dZRWxPX2xNaG1STWxTMVdiUHBtSVNqVzdsNUhJ"],
+      "published": "2026-04-22 15:06"
+    },
+    {
+      "headline": "Super El Niño possible by June — could amplify extreme weather globally",
+      "summary": "A Super El Niño may arrive by June according to current forecasts, raising the risk of extreme weather in Southern Quebec and globally. The combination of a Super El Niño with existing climate change baseline warming could drive record-breaking global temperatures and amplify extreme weather events across multiple regions simultaneously.",
+      "category": "climate",
+      "alert_level": "HIGH",
+      "source_names": ["CityNews Montreal", "Union of Concerned Scientists", "National Geographic"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMilAFBVV95cUxQblg0My1kWHhpSFFNa3Jla3IxVmhCR3JOU0gwbXRQd0JfNV9Pc1JrS0JzZ25RNEVHVkNxckgyMW93U3Bkb3RWeGZnNHZaWDl3MnlVVFFlMkpFR0lWTjJRYlp2WWNqVnFLQmVsb2dGNWlvcC1yc25tMUtiVkM1Y3BHSzRiZ0lqemhhYXlORm50ck9maW5P"],
+      "published": "2026-04-22 16:15"
+    },
+    {
+      "headline": "Heatwaves, floods and wildfires pose rising threat to democracy — report",
+      "summary": "A new report finds that heatwaves, floods, and wildfires are increasingly threatening democratic institutions. The research documents how climate-driven extreme weather events stress governance capacity, displace populations, and create political instability. This represents a structural threat to political systems, not just economic disruption.",
+      "category": "climate",
+      "alert_level": "HIGH",
+      "source_names": ["The Guardian"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJwcXlGX0RzbTVlZnh4cmFxeHYxQmY3cXhGNmpvYmQzS1M2aGFLSGwxS1lBSlVZWm1wV29jb2tFaHktdVJYSTRneTh4akxjbnNQaXVWMkR6OV9LV090VmdWYnlMalFOTnVWOGdneWt1ZW1Xejd5U1RHTXdhQ1gyUHVYc0toNGNEelJyQ0YtcUw3T2FzWmFVdWZZU2pTcXBERXRoLU5YN0NPLWY3ZUtFYVpValhzMlBYaXgtdHBRWWtqTXBvUWJNYXBZN2g0UUFVcGpuNTlZTUhFRmM"],
+      "published": "2026-04-22 05:02"
+    },
+    {
+      "headline": "NC State forecasts 12-15 named storms in 2026 Atlantic hurricane season",
+      "summary": "NC State's 2026 Atlantic hurricane season forecast predicts an average season with 12 to 15 named storms. While characterized as 'average,' the baseline for average has shifted upward with warming oceans. The potential compound interaction with a Super El Niño event could push this season toward the more active end of the forecast range.",
+      "category": "hurricane",
+      "alert_level": "HIGH",
+      "source_names": ["WRAL"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEx4Ulc1Smg2SEdfQ3diTkF3QXFrMkYtUDF0bkliSVlqcnBodnlxT2loWUF6dVlBTS0yLXdFV1hyci1wWlh3em83cmhEcm1IaXlBT0NtZko3WWlUeFhXQ1NXNkZRRnRWNWlHUmZQWE50dW55OXplcUZpRTR2a051V3pkMzNUQ3RORUpWbHVJV1p3QXNTWnFrQ0Z5SjUzYzM1d2NXb3dBUTY4RjJk"],
+      "published": "2026-04-22 22:18"
+    },
+    {
+      "headline": "Extreme heat threatening human health — heart disease risk and travel behavior shifts documented",
+      "summary": "Research continues to quantify climate change health impacts: a new study reveals extreme climate events increase heart disease risk. Separately, Booking Holdings data shows extreme heat is changing when and where people travel, with implications for tourism economies and labor patterns. The systemic nature of heat impacts on human behavior and health is becoming measurable.",
+      "category": "health",
+      "alert_level": "MEDIUM",
+      "source_names": ["EurekAlert!", "Skift", "KCUR"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiXEFVX3lxTE95QWhMU0Zld3JxSGxwQ2JlazFPWTV4R1lWd3NwR0N4ZGZBazktcTI1U29wRG5sSnAwWVoyVm0xQ2pnNWw4UTBybm1NREJGR1NGb2JrWjlDNVlCbjk0"],
+      "published": "2026-04-21 04:22"
+    },
+    {
+      "headline": "Parts of Israel could become uninhabitable in decades due to climate change",
+      "summary": "Climate experts warn that parts of Israel could become uninhabitable within decades due to extreme heat driven by climate change. The warning comes as the region is also enduring the Iran war's direct human and economic costs — a compounding crisis叠加effect with severe long-term strategic implications.",
+      "category": "climate",
+      "alert_level": "HIGH",
+      "source_names": ["ynetnews"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SNEM5NXA3S210SnNOZUo0N21kUDJTWTNLUkRMSnAzV19PQk84d0ptUVRoRXBzR1BZWEIwa3lWT09BWGY1dG1rQlhqX012b3ZZZDlNVDA0Y1E4d1duYXMybVlOZ3ZGZw"],
+      "published": "2026-04-20 11:38"
+    },
+    {
+      "headline": "Wildfire-driven deforestation rates in California among highest in world — UC Davis",
+      "summary": "UC Davis research documents that wildfire-driven deforestation rates in California are among the highest in the world. This represents a concerning feedback loop where climate-driven wildfires destroy carbon sinks, which in turn accelerates warming and future wildfire risk.",
+      "category": "wildfire",
+      "alert_level": "MEDIUM",
+      "source_names": ["UC Davis"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUtrZk4tMjBHcV8ydGVnZmVGSU1aRHEwRXFLaGJZZXREdnA3Rm1ET3E0aVJJUGIzRF9jTjI3YkFkV05fVGw3MXVXanBoRHdqekw1bGdVYWRfSDFDTmRqZ1J6cW1wblJJdXZuVW1LMEJkYlhNSE44MF9KUjI2RDVvTElfSTgwN0h2V1gxUnFOS0NjMzJFVkVxVHAwTnM2cV9VMHZVRndn"],
+      "published": "2026-04-22 16:00"
+    },
+    {
+      "headline": "Earth Day 2026 reflections highlight acceleration of extreme weather felt globally",
+      "summary": "Earth Day 2026 coverage reflects on the accelerating pace of extreme weather events and their global visibility. Public awareness of climate change is high (58% acknowledge human causation) but policy action continues to lag the pace of physical changes observed.",
+      "category": "climate",
+      "alert_level": "LOW",
+      "source_names": ["Earth.com", "Napolitan News Service"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMijgFBVV95cUxQelpxT3E4TUVHUEZjZExOcm9ZWTM1U2tnNUszN080dGFYWkxvVkpia3pHRnpQNlBCeExFa1d3UVhIcEQtOHVfWWpWcFIzX2JJbVBmdTBrWk5XbEljRFRkTVJNVVZGZElzQU1HeDBGQ2pMLTZEejhqTEtSSXB3S3dsblctcW9UYS1hbVp3czd3"],
+      "published": "2026-04-22 16:11"
+    }
+  ],
+  "expert_opinions": {
+    "positive": [
+      "NC State hurricane forecast predicts a near-normal season — baseline weather patterns offer some stability",
+      "Public awareness of climate change remains high at 58%, maintaining political pressure for adaptation investment",
+      "New tools for wildfire tracking in Nebraska demonstrate improving technological capacity for emergency response"
+    ],
+    "negative": [
+      "UN agencies warning food systems pushed to brink — compounding with Iran war supply disruptions",
+      "Super El Niño potential by June could dramatically amplify already stressed climate system",
+      "Parts of Israel may become uninhabitable in decades — permanent strategic damage from climate",
+      "Wildfire deforestation feedback loop in California is self-reinforcing and accelerating",
+      "Heat-driven heart disease and travel pattern shifts show climate health impacts now measurable at scale"
+    ],
+    "sources": ["UN Agencies", "The Guardian", "UC Davis", "Union of Concerned Scientists", "NC State", "Earth.com"]
+  },
+  "patterns": [
+    "Flooding, wildfire, and extreme heat events are occurring simultaneously across multiple US regions — no single event is isolated",
+    "Super El Niño development risk by June would compound all existing extreme weather patterns globally",
+    "Food security is emerging as the most significant climate-related economic risk — combining with Iran war supply disruptions",
+    "Climate events increasingly intersecting with geopolitical crises — Israel uninhabitability + Iran war = compound strategic threat",
+    "Climate migration and democratic governance stress are beginning to interact in ways not previously documented"
+  ],
+  "blind_spots": [
+    "The interaction between Iran war-related environmental damage (oil infrastructure, potential use of climate-relevant weapons) and existing climate baseline is not being tracked",
+    "Climate adaptation infrastructure investment gaps are not being adequately covered in disaster reporting",
+    "The compounding effect of climate disasters on countries already dealing with Iran war economic fallout — particularly in the Middle East and South/Southeast Asia — is underreported",
+    "Earth Day 2026 framing largely disconnected from the Iran war context, missing the compound risk story"
+  ]
+}
