@@ -137,6 +137,13 @@ FEED_MAP = {
             {"name": "Fintech News", "url": "https://news.google.com/rss/search?q=(fintech+OR+neobank+OR+digital+banking)&hl=en-US&gl=US&ceid=US:en"},
             {"name": "Blockchain Finance", "url": "https://news.google.com/rss/search?q=(blockchain+finance+OR+tokenization+OR+CBDC)&hl=en-US&gl=US&ceid=US:en"},
         ],
+        "reddit": [
+            {"name": "r/stocks", "url": "https://www.reddit.com/r/stocks/.rss"},
+            {"name": "r/wallstreetbets", "url": "https://www.reddit.com/r/wallstreetbets/.rss"},
+            {"name": "r/NVDA_Stock", "url": "https://www.reddit.com/r/NVDA_Stock/.rss"},
+            {"name": "r/investing", "url": "https://www.reddit.com/r/investing/.rss"},
+            {"name": "r/Semiconductors", "url": "https://www.reddit.com/r/semiconductors/.rss"},
+        ],
     },
     "climate": {
         "climate": [
@@ -203,6 +210,26 @@ def build_agent_prompt(domain: str, feeds: dict, run_ts: str, scratch_dir: Path)
         for f in items:
             feed_lines.append(f"- [{f['name']}]({f['url']})")
     
+    # Domain-specific instructions
+    extra_context = ""
+    if domain == "finance":
+        extra_context = """
+
+## SPECIAL TASK — Reddit NVDA Supply Chain Alpha
+In addition to the RSS feeds above, you MUST also search Reddit for discussions about:
+1. **NVIDIA (NVDA) supply chain** — suppliers, partners, bottlenecks
+2. **US shares related to NVIDIA's supply chain** — companies in the NVDA ecosystem that might be underappreciated or at a buying opportunity
+3. **Key suppliers to monitor:** TSMC, SK Hynix, Micron, Amkor, Applied Materials, Lam Research, ASML, Synopsys, Cadence, Marvell, Broadcom, Intel Foundry
+4. **Reddit communities:** r/NVDA_Stock, r/stocks, r/wallstreetbets, r/investing
+
+Use web_search with queries like:
+- `site:reddit.com nvidia supply chain buying opportunity 2026`
+- `site:reddit.com NVDA suppliers underperform buying`
+- `reddit nvidia ecosystem stocks underperform buying opportunity`
+
+Extract Reddit alpha — retail sentiment shifts, hidden gems, supply chain concerns not in mainstream media.
+"""
+    
     prompt = f"""You are Agent {AGENT_TAGS[domain]} ({domain.upper()}) in the yoyoclaw Intelligence Swarm.
 
 ## YOUR MISSION
@@ -211,6 +238,7 @@ You are a specialized intelligence analyst covering **{domain}**. Your task:
 2. Extract the most significant items from the last 6-12 hours
 3. Identify patterns, expert opinions, and blind spots
 4. Output a structured JSON report
+{extra_context}
 
 ## RSS FEEDS TO MONITOR
 {"".join(feed_lines)}
