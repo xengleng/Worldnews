@@ -1,0 +1,92 @@
+{
+  "agent": "climate",
+  "timestamp": "20260427_0700",
+  "insights": [
+    {
+      "headline": "Day Zero approaches Iran as severe water crisis escalates",
+      "summary": "Iran is approaching 'Day Zero' — the point at which taps run dry for millions — as a severe and deepening water crisis grips the country. Reports cite years of drought, mismanagement, and rising demand pushing infrastructure to collapse, with no immediate government solution in sight.",
+      "category": "water_crisis",
+      "alert_level": "CRITICAL",
+      "source_names": ["CTech"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jQWNnUE5sczBaT1dOQ1U5OU1yWEJHTW1sdFFCQ3pzdXZYZkZPWVJUQWc0aWVjYzVwUG15anBLWHk5QUlmTTVYNU5OTnVlOVF5eERkc2VIb0VZVHhLUE9obDRCZ3FCZ0U"],
+      "published": "Sun, 26 Apr 2026 09:31:00 GMT"
+    },
+    {
+      "headline": "M7.4 earthquake strikes near Miyako, Japan — significant seismic event in Pacific Ring of Fire",
+      "summary": "A magnitude 7.4 earthquake struck 100 km ENE of Miyako, Japan on April 20, 2026, registering as one of the most significant seismic events globally this month. The quake occurred at a depth of 35 km and was reviewed by USGS, posing a high risk of aftershocks in a densely populated coastal region.",
+      "category": "earthquake",
+      "alert_level": "HIGH",
+      "source_names": ["USGS"],
+      "source_urls": ["https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.csv"],
+      "published": "Mon, 20 Apr 2026 07:53:00 UTC"
+    },
+    {
+      "headline": "Pineland Road Fire explodes to 32,000 acres in Georgia, hundreds of structures threatened",
+      "summary": "The Pineland Road Fire in Georgia has grown to 32,000 acres with hundreds of structures under threat, prompting emergency response efforts. Evacuation orders remain in place as firefighters contend with dry conditions and strong winds fueling rapid spread.",
+      "category": "wildfire",
+      "alert_level": "HIGH",
+      "source_names": ["WALB"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGxibndIMVFIMXRwR3QyQXd6SnJiQXl6RnphbEgzVGo2MGRQLTktUDRLcXlndzMxcXpnSHJQV3RVVlljNGtiSDBsQW9zMklxMFJfT2ZhN2hVaFNvWjd0U1BEdXRwT0RaMU84MTRDRzhPUS1lbnJEQVFOM25URGFReC1qZWtpT1R4U25RUlFSRElJZWE4c1I4anNGVHRrekV1"],
+      "published": "Sun, 26 Apr 2026 18:19:00 GMT"
+    },
+    {
+      "headline": "Fast-growing Georgia wildfire tops 31 square miles with evacuations possible",
+      "summary": "A rapidly expanding wildfire in Georgia has exceeded 31 square miles (approximately 19,840 acres), with authorities warning evacuations may be necessary. The blaze is among several concurrent large wildfires burning across the southern US, driven by abnormally dry conditions and warm temperatures.",
+      "category": "wildfire",
+      "alert_level": "HIGH",
+      "source_names": ["Houston Public Media"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmFTRmN4VHdManExWDcyUTZnZkR6Q3R3RmRiS0llNU14a2pHRzRLNmVXeTV1ZThtRjcxbkZoeGpSX1k3ZFFDRHQ0c2tmSnY1eVItalZCVUZBT0hwQnVmNk9mb213VFJOMm9KdzNEZXFrT3NjUnQ2YnJudWt1MjMwY0w4S3NSSU9TS0l2RUhETGY2dHhsTkhuMU94dHZvdks2MzUzdXBUaWZQekpHenNWQWh5MHVHX3BqSld2T2tOU2paOWJJcDBNM0EtdzdORkl3ZGtsOVdmUklpUWc"],
+      "published": "Sun, 26 Apr 2026 21:06:00 GMT"
+    },
+    {
+      "headline": "Brantley County wildfire burns 20,000 acres as road closures expand across Georgia",
+      "summary": "Firefighters in Brantley County, Georgia are battling a 20,000-acre wildfire that has forced road closures across the region. The fire is one of several large blazes active simultaneously in the southeastern US, straining firefighting resources amid an extended drought.",
+      "category": "wildfire",
+      "alert_level": "HIGH",
+      "source_names": ["News4JAX"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2QySDZINVBpajdXZGU0SGtFNEVxMWZaa1JDR2VXWGdlY2prRm5nMmpBaUlqdkZmNEEtRnphQTBOQ1B5QUpUMEo3enpRLWREeWVwd19rMVpQS1duYXg2aUdNUzJVemd2cHFqYmJ4dDFyZEVvX3NMSld2SmlWLTIzRWdRdUlYMXUxdWNvMm54ek5ySHprVVNxbVlTdHY0NTVkdUktRzh3SDhnSWdqWDg2dEhpU1VVUQ"],
+      "published": "Sun, 26 Apr 2026 13:27:38 GMT"
+    },
+    {
+      "headline": "Record-breaking heat wave in US Southwest signals accelerating climate change impact",
+      "summary": "A record-breaking heat wave has gripped the southwestern United States, with temperatures shattering historical norms for late April. Scientists link the extreme event directly to anthropogenic climate change, warning such events will become more frequent and intense as global temperatures rise.",
+      "category": "extreme_heat",
+      "alert_level": "HIGH",
+      "source_names": ["MSN"],
+      "source_urls": ["https://news.google.com/rss/articles/CBMisgNBVV95cUxOTHg3X3REOUlITGQ0SUw0SUlHZWllZUpzUWpVaE9IeGR1Q29mWUE2a19tTUdHa1JwR1dIeXBjZlRTQ05GSWxkc1QzQjBaeFotUVd0a1dCZHNLbzVNQlBRcGczaTlra0pPNEl0cUpaNzA2N0V1VnNYaFFDcXpBR1d3Zzh6N2xESnJKV0x2aVpWSTVCZnRORVh6UUIwTVJKMEVubDVxY09nbEkydHp3VnI0M1MteDZPN3pZSjVCOVpJeFN6X3RGSldrVndiamRFTzNxTm5wZDE1MTNYYXZEX0laTWFpQWdENldQdmpINGNIaFhZUl9aUm13ZlNkSEVXWUMtemNzODVwT0lZU0t3em42Q0N6MHo1eno3SUxlc2ROT0tQWFdmWnJKU1RVZ1VxczFrSFFLNmd3S1RmQldUMGl4SVZQbW1jbUFlZlZDTEJwRUVlUDJoMkRpdDlVZEYzczNza0U1MFMxdl91SkE0X1Bnamdmb0lpZDQ1Z256Q3E2ekdwSC1VVW9ZTGRMVEN3R3N3XzJEVFF2YTFEM0xFOTZWdmY3dFg3Wm1OOGVXOS1MWHIzQQ"],
+      "published": "Sun, 26 Apr 2026 21:11:15 GMT"
+    },
+    {
+      "headline": "Statesville enforces water fines as extreme drought tightens grip on US Southeast",
+      "summary": "The city of Statesville has begun enforcing fines for water-use violations as an extreme drought continues to grip the southeastern United States. The mandatory restrictions reflect the severity of hydrological stress across the region, with water authorities warning of deepening shortages if conditions persist.",
+      "category": "drought",
+      "alert_level": "HIGH",
+      "source_names": ["WBTV"],
+      "source_urls": ["https://news.google.com/rss/search?q=Statesville+water+violations+drought"],
+      "published": "Sun, 26 Apr 2026 (estimated)"
+    },
+    {
+      "headline": "New Science Panel for Global Energy Transition launches, urges fossil fuel phase-out roadmaps",
+      "summary": "A new high-level panel of leading climate scientists — the Science Panel for the Global Energy Transition (SPGET) — has launched in Santa Marta, Colombia, calling on governments to develop credible, science-based roadmaps for phasing out coal, oil and gas. The panel's debut coincides with a key ministerial conference on transitioning away from fossil fuels.",
+      "category": "climate_policy",
+      "alert_level": "MEDIUM",
+      "source_names": ["Climate Home News"],
+      "source_urls": ["https://www.climatechangenews.com/2026/04/25/new-panel-of-top-climate-scientists-calls-for-fossil-fuel-transition-roadmaps/"],
+      "published": "Sat, 25 Apr 2026 11:09:25 UTC"
+    }
+  ],
+  "patterns": [
+    "Southern US is experiencing a multi-fire outbreak — at least 3 large wildfires burning simultaneously across Georgia, New Mexico, with active evacuations and structures threatened",
+    "Extreme heat is building aggressively in the US Southwest, setting April records weeks ahead of normal peak summer heat season",
+    "Iran's water crisis has escalated to 'Day Zero' risk level — a critical infrastructure failure scenario affecting a large population",
+    "Southeastern US is under compounding drought-to-fire pipeline: drought conditions enabling rapid wildfire spread",
+    "Active earthquake unrest in the Pacific Ring of Fire continues — M7.4 Japan quake is the most significant recent event; M7.3 Vanuatu and M7.4 Indonesia quakes this month indicate elevated seismic activity"
+  ],
+  "blind_spots": [
+    "FIRMS thermal satellite data not directly fetched — fire extent based on news reports rather than real-time hotspot data",
+    "Africa, South America, and Central Asia water/drought coverage is underrepresented in English-language Google News feeds",
+    "The USGS significant_month.csv covers 30 days — not all entries are within 24h, and specific impact details (casualties, damage) are not included in CSV fields",
+    "Iran Day Zero story sourced from a single outlet (CTech) — corroboration and scale of population affected requires further reporting",
+    "Climate Home News feed was truncated — some recent stories may be missing from the climate policy picture"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "agent": "geopolitics",
+  "timestamp": "20260427_0700",
+  "insights": [
+    {
+      "headline": "Suspect arrested after shooting at White House Correspondents' Dinner; Trump and officials were 'likely targets'",
+      "summary": "A 31-year-old California man, Cole Allen, opened fire at a security screening area outside the Washington Hilton during the White House Correspondents' Dinner on Saturday night. Trump and senior administration officials were evacuated; no injuries were reported. Authorities say Allen sent an anti-Christian declaration to family members and intended to target government officials. The shooting is being treated as an assassination attempt.",
+      "category": "US_DOMESTIC_SECURITY",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News", "Al Jazeera", "NPR"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/c2d8dg57rzdo",
+        "https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official",
+        "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump"
+      ],
+      "published": "2026-04-26T22:43:36Z"
+    },
+    {
+      "headline": "US Navy authorized 'shoot and kill' Iranian mine-laying boats as Iran war enters day 55; blockade intensifies",
+      "summary": "Defense Secretary Pete Hegseth ordered the US Navy to destroy any Iranian speedboats attempting to lay mines in the Strait of Hormuz, authorizing lethal force. Three US carrier groups — the Abraham Lincoln, Gerald R. Ford, and George H.W. Bush — are operating in the Middle East simultaneously for the first time in decades. The blockade has turned away 34 ships and interdicted at least three vessels. Hegseth said the US has 'all the time in the world' and is 'not anxious for a deal' as Iran-Russia diplomatic talks continue.",
+      "category": "IRAN_US_CONFLICT",
+      "alert_level": "CRITICAL",
+      "source_names": ["Defense One", "BBC News"],
+      "source_urls": [
+        "https://www.defenseone.com/threats/2026/04/us-navy-ordered-shoot-and-kill-suspected-iranian-mine-laying-boats-amid-ceasefire/413093/",
+        "https://www.bbc.com/news/articles/c4g6nyvl29po"
+      ],
+      "published": "2026-04-26T15:33:00Z"
+    },
+    {
+      "headline": "Iran's foreign minister heads to Moscow after Pakistan stop; Trump cancels US envoys' Pakistan-Iran trip",
+      "summary": "Iranian Foreign Minister Abbas Araghchi visited Pakistan and then departed for Moscow for further talks amid the ongoing US-Iran military standoff. Separately, Trump cancelled a planned US delegation trip to Pakistan — led by Steve Witkoff and Jared Kushner — for indirect Iran negotiations, after Iran denied any plans for direct talks with the US team. The parallel diplomatic tracks suggest a widening gap between US pressure tactics and Iran's willingness to negotiate.",
+      "category": "IRAN_US_CONFLICT",
+      "alert_level": "HIGH",
+      "source_names": ["Al Jazeera", "BBC News"],
+      "source_urls": [
+        "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks",
+        "https://www.bbc.com/news/articles/c4g6nyvl29po"
+      ],
+      "published": "2026-04-26T20:47:44Z"
+    },
+    {
+      "headline": "Netanyahu orders Israeli army to 'vigorously attack' Hezbollah; issues forced evacuation orders for southern Lebanon",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu ordered the military to intensify attacks against Hezbollah in Lebanon, as six people were killed by Israeli strikes despite a ceasefire that had been extended by three weeks. Israel also issued forced evacuation orders for southern Lebanese communities. Hezbollah has rejected Netanyahu's allegations that it is undermining the ceasefire. The breakdown of the ceasefire arrangement signals a potential re-escalation along the Israel-Lebanon border.",
+      "category": "MIDDLE_EAST",
+      "alert_level": "HIGH",
+      "source_names": ["BBC News", "Al Jazeera"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/c5yv1nvd4gjo",
+        "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation"
+      ],
+      "published": "2026-04-26T00:34:21Z"
+    },
+    {
+      "headline": "Mali defence minister killed as coordinated jihadist and separatist attacks sweep across the country",
+      "summary": "Mali's Defence Minister was killed during a wave of coordinated attacks by jihadist militants and Tuareg separatist groups that spread across multiple regions of the country. The assaults targeted both government forces and Russian Wagner-linked personnel operating in the country. Al-Qaeda-linked groups are among the opposition forces joining the coordinated campaign, suggesting a broadening of the militant coalition threatening Mali's military government.",
+      "category": "SAHEL_AFRICA",
+      "alert_level": "MEDIUM",
+      "source_names": ["BBC News", "Al Jazeera"],
+      "source_urls": [
+        "https://www.bbc.com/news/articles/c5yvy7v66ndo",
+        "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali"
+      ],
+      "published": "2026-04-26T20:56:26Z"
+    },
+    {
+      "headline": "US State Department orders global alert on DeepSeek and Chinese AI firms over alleged data theft",
+      "summary": "The US State Department issued a worldwide advisory warning governments and private sector entities about alleged AI theft operations conducted by DeepSeek and other Chinese AI companies. The confidential alert, revealed by Reuters, reflects escalating US concern over Chinese technology companies accessing sensitive data through AI systems. The warning comes amid broader US-China technology decoupling and intensifying competition over AI supremacy.",
+      "category": "US_CHINA_TECH",
+      "alert_level": "MEDIUM",
+      "source_names": ["Reuters"],
+      "source_urls": [
+        "https://www.reuters.com"
+      ],
+      "published": "2026-04-24T22:32:00Z"
+    },
+    {
+      "headline": "Highway bomb attack kills 19 in Colombia's Cauca region ahead of national elections",
+      "summary": "A roadside bomb detonated on a highway in Colombia's violence-plagued Cauca department, killing at least 19 people and injuring dozens more. The attack occurred amid a surge in guerrilla and paramilitary violence ahead of next month's national election. Cauca is one of Colombia's most conflict-ridden regions, home to both FARC dissidents and ELN guerrillas competing for control of drug trafficking routes.",
+      "category": "LATIN_AMERICA",
+      "alert_level": "MEDIUM",
+      "source_names": ["Al Jazeera"],
+      "source_urls": [
+        "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election"
+      ],
+      "published": "2026-04-26T20:15:29Z"
+    },
+    {
+      "headline": "Space Force awards $3.2 billion in contracts to 12 firms — including SpaceX, Anduril, Raytheon — for Golden Dome space interceptors",
+      "summary": "The US Space Force selected 12 companies to develop space-based interceptors for Trump's Golden Dome missile defense shield, awarding up to $3.2 billion in Other Transaction Authority agreements. Contractors include SpaceX, Anduril, Lockheed Martin, Northrop Grumman, Raytheon, and others. Space Force Gen. Michael Guetlein — the program's czar — told Congress that boost-phase interception technology may be unaffordable within the $185 billion budget. The program aims for an initial 2028 demonstration.",
+      "category": "US_DEFENSE_SPACE",
+      "alert_level": "LOW",
+      "source_names": ["Defense One"],
+      "source_urls": [
+        "https://www.defenseone.com/threats/2026/04/space-force-picks-firms-develop-golden-domes-space-based-interceptors/413118/"
+      ],
+      "published": "2026-04-24T21:15:43Z"
+    }
+  ],
+  "patterns": [
+    "US-Iran conflict is the dominant geopolitical flashpoint: naval blockade ongoing (day 55), shoot-to-kill orders for mine-laying boats, three carrier groups deployed, while parallel diplomatic tracks via Russia-Pakistan continue",
+    "Middle East multi-front tensions are simultaneous: Lebanon ceasefire with Hezbollah is collapsing under Israeli pressure; US-Iran war continues; Syria accountability process begins with Assads-era trial",
+    "Assassination attempt on US president at a high-profile media event marks a sharp escalation in domestic political violence, with transnational security implications",
+    "African Sahel instability is deepening with Russian Wagner forces now caught in crossfire of coordinated jihadist-separatist attacks in Mali",
+    "US-China technology competition is expanding from trade to AI/data security with global State Department advisories now targeting Chinese AI firms"
+  ],
+  "blind_spots": [
+    "Limited visibility into actual state of Iran navy/missile capabilities and whether Tehran will escalate with mines in Strait of Hormuz",
+    "EU and European ally response to the US-Iran blockade is not well covered — Europe's energy dependency on Hormuz transit creates potential transatlantic friction",
+    "Status of ceasefire extension negotiations between Israel and Hezbollah is unclear; ceasefire technically extended but violations escalating",
+    "Pakistan's role in US-Iran backchannel diplomacy is underreported; Araghchi's Pakistan visit suggests Islamabad is an active intermediary",
+    "Venezuela political prisoner situation and whether Maduro regime will release remaining 500+ political detainees under the amnesty law",
+    "Orbán's departure from Hungarian parliament after Fidesz defeat — implications for EU cohesion and Hungary's Russia ties not fully assessed in these feeds"
+  ]
+}

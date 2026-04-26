@@ -1,0 +1,115 @@
+{
+  "agent": "finance",
+  "timestamp": "20260427_0700",
+  "insights": [
+    {
+      "headline": "Brent Crude Surges Past $107/barrel as Iran Peace Talks Falter",
+      "summary": "Brent oil breached $107 per barrel on Sunday after Iran nuclear talks stalled, adding to a week of escalating crude prices driven by a fragile US-Iran ceasefire. Goldman Sachs simultaneously raised its oil price forecasts citing persistent supply tightness, while JPMorgan said prices have further to run. US producers are not ramping output despite price incentives, per Fortune, leaving the market exposed to further spikes.",
+      "category": "Commodities / Energy",
+      "alert_level": "HIGH",
+      "source_names": ["CNBC", "Reuters", "OilPrice.com", "Fortune"],
+      "source_urls": [
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "https://news.google.com/rss/search?q=site:reuters.com+markets+stocks&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=(oil+price+OR+OPEC+OR+crude+oil+OR+WTI+OR+Brent)&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "published": "Sun, 26 Apr 2026 22:17:23 GMT"
+    },
+    {
+      "headline": "Fed Chair Race: Tillis Clears Warsh, Powell's Future Uncertain Post-Probe",
+      "summary": "Senator Thom Tillis dropped his block on Kevin Warsh as Fed chair nominee, clearing Trump's preferred candidate for confirmation. Separately, Fed Chair Powell faces a consequential personal decision now that a criminal probe into his conduct has concluded, per CNBC. Markets are closely watching whether Powell will serve out his term or step down, with implications for the Fed's policy trajectory through a delicate macro period.",
+      "category": "Central Banks / Monetary Policy",
+      "alert_level": "HIGH",
+      "source_names": ["CNBC", "Reuters"],
+      "source_urls": [
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "https://news.google.com/rss/search?q=site:reuters.com+markets+stocks&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "published": "Sun, 26 Apr 2026 15:29:32 GMT"
+    },
+    {
+      "headline": "US Stocks Hit Record Close on Tech Boost, Then Slip on Iran Ceasefire Jitters",
+      "summary": "Tech-driven buying pushed US stocks to record closes mid-week as oil retreated on positive Iran peace signals, per Reuters. But by Thursday-Friday, the market mood flipped — oil climbed back above $100 and stocks fell as the ceasefire showed cracks, with FX also weakening. The mixed picture reflects persistent geopolitical risk premia embedded in energy markets even as equity indices hit all-time highs.",
+      "category": "Equities",
+      "alert_level": "MEDIUM",
+      "source_names": ["Reuters", "CNBC"],
+      "source_urls": [
+        "https://news.google.com/rss/search?q=site:reuters.com+markets+stocks&hl=en-US&gl=US&ceid=US:en",
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+      ],
+      "published": "Fri, 24 Apr 2026 22:44:34 GMT"
+    },
+    {
+      "headline": "Bitcoin Whales Go Aggressively Long Near $80K as Funding Remains Deeply Negative",
+      "summary": "Bitcoin whales on Hyperliquid have been steadily building long positions through February-April, now leaning aggressively long as BTC approaches $80,000 amid resumed US-Iran talks, CoinDesk reports. The positioning is notable because perpetual funding rates remain deeply negative — suggesting contrarian smart money is betting against the crowd. Aave has recovered ~80% of the $200M bad debt from the Kelp DAO exploit, limiting systemic contagion.",
+      "category": "Crypto / DeFi",
+      "alert_level": "MEDIUM",
+      "source_names": ["CoinDesk"],
+      "source_urls": [
+        "https://www.coindesk.com/arc/outboundfeeds/rss/"
+      ],
+      "published": "Sun, 26 Apr 2026 14:13:42 GMT"
+    },
+    {
+      "headline": "NVDA Called 'Generational Buying Opportunity' — SK Hynix Posts Record 5x Profit Surge",
+      "summary": "NVIDIA is being labeled a 'generational buying opportunity' by Fool.com analysts in April 2026, with BofA projecting global chip sales to hit $1 trillion in 2026. Key supplier SK Hynix reported record operating profit up 5x year-over-year on HBM demand. However, a Middle East helium shortage is emerging as a supply chain threat to Samsung, SK Hynix, Micron, and TSMC — potentially the main blind spot for AI chip investors right now.",
+      "category": "Semiconductors / AI Supply Chain",
+      "alert_level": "MEDIUM",
+      "source_names": ["Motley Fool", "CoinDesk", "Reddit/r/TechHardware", "SimplyWall.St"],
+      "source_urls": [
+        "https://www.fool.com/investing/2026/04/26/nvidia-stock-generational-buying-opportunity/",
+        "https://www.reddit.com/r/TechHardware/comments/1stivog/nvidia_supplier_sk_hynix_hails_structural_shift/",
+        "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/helium-shock-tests-nvidia-ai-supply-chain-and-investor-expec"
+      ],
+      "published": "Sun, 26 Apr 2026 18:30:00 GMT"
+    },
+    {
+      "headline": "Busy Week Ahead: Five Central Banks Meet, US PCE, GDP and Manufacturing PMI on Deck",
+      "summary": "The coming week features a packed macro calendar — the Fed, Bank of Japan, Bank of England, ECB, and Bank of Canada all hold meetings, alongside key US data: PCE inflation, advance GDP, and ISM manufacturing PMI. Markets will be scanning all central bank communications for signals on rate path and geopolitical risk response. Medical inflation data already showed ongoing cost pressures in April, while new graduates are finding jobs faster despite a competitive market.",
+      "category": "Macro / Economic Calendar",
+      "alert_level": "MEDIUM",
+      "source_names": ["investingLive", "CNBC", "NCCI"],
+      "source_urls": [
+        "https://news.google.com/rss/search?q=(CPI+OR+inflation+OR+GDP+OR+jobs+report+OR+PMI)&hl=en-US&gl=US&ceid=US:en",
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+      ],
+      "published": "Sun, 26 Apr 2026 13:45:42 GMT"
+    },
+    {
+      "headline": "Aave Recovers 80% of $200M Kelp DAO Exploit Loss; DeFi Resilience in Focus",
+      "summary": "Aave has raised nearly 80% of the $200 million needed to cover bad debt left by the Kelp DAO exploit, with Mantle and Aave DAO combined contributing $127 million. DeFi protocols continue to demonstrate self-healing mechanisms after major exploits — $13 billion in investor capital exited the sector, but advocates argue the structural case for DeFi remains intact despite the reputational damage.",
+      "category": "DeFi / Crypto Finance",
+      "alert_level": "LOW",
+      "source_names": ["CoinDesk"],
+      "source_urls": [
+        "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit"
+      ],
+      "published": "Sun, 26 Apr 2026 16:21:01 GMT"
+    },
+    {
+      "headline": "Quantum Computing Threat Raises Alarm Over 5.6M Dormant Bitcoin at Risk",
+      "summary": "Bitcoin maximalists are warning that the 5.6 million BTC sitting in dormant addresses could trigger what they describe as the 'worst single-day repricing' event if quantum computing capabilities advance enough to break current encryption. Others counter that quantum threats leave no alternative and that the freeze risk may be overstated. The debate underscores growing awareness of long-term crypto infrastructure vulnerabilities.",
+      "category": "Crypto / Risk",
+      "alert_level": "LOW",
+      "source_names": ["CoinDesk"],
+      "source_urls": [
+        "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing"
+      ],
+      "published": "Sun, 26 Apr 2026 14:00:00 GMT"
+    }
+  ],
+  "patterns": [
+    "Oil and equities decoupling: stocks hit records while crude spikes on geopolitical risk — divergent signals suggest energy-exposed portfolios face volatility even as tech indices climb",
+    "Fed leadership transition risk priced in slowly — Warsh confirmation clears one uncertainty but Powell's exit is a new wildcard for rate expectations",
+    "AI/tech narrative remains bullish but supply-side risks (helium shortage, geopolitical exposure) are becoming more visible in semiconductor supply chain discussions",
+    "Bitcoin whale positioning is aggressively contrarian (longs with deeply negative funding) — suggests smart money expects upside resolution of macro tailwinds",
+    "Ceasefire-dependent markets (oil, stocks) show whipsaw behavior — relief rallies reverse quickly on any talk of diplomatic breakdown"
+  ],
+  "blind_spots": [
+    "Helium shortage affecting semiconductor fabs — largely underreported risk that could constrain advanced node output at TSMC, Samsung, SK Hynix, Micron in Q2-Q3 2026",
+    "China's domestic AI chip makers gaining share inside China due to US export controls — long-term structural competitive threat to NVIDIA not yet priced in",
+    "Fed discount rate meeting minutes from Feb and March 2026 were released mid-April but received limited mainstream coverage — may contain hawkish nuances about QT and balance sheet policy",
+    "EIA data showing Brent spot price above futures is a backwardation signal often preceding supply crunches — this structural indicator is being overlooked in headline-focused reporting",
+    "DeFi TVL exodus of $13B+ is real capital flight, not just narrative — if sustained, could impair liquidity conditions across crypto markets in a risk-off event"
+  ]
+}
